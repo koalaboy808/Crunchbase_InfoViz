@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+	<script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+	<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+	<script src="bower_components/d3/d3.min.js" charset="utf-8"></script>
+	<script src="bower_components/topojson/topojson.js" charset="utf-8"></script>
+
+	<link rel="stylesheet" href="bower_components/simple-map-d3/dist/simple-map-d3.css">
+	<script src="bower_components/simple-map-d3/dist/simple-map-d3.js" charset="utf-8"></script>
+</head>
+
+<style>
+
+
+circle {
+	fill: #FF4040;
+}
+
+.canton-boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  text-anchor: middle;
+}
+
+
+			.area:hover {
+				fill: #15f4ee;
+			}
+
+</style>
+
+
+<body>
+	<div id = "map" style = "float : left; min-width:820px;width :50%;height : 500px">
+		<div id="subtitle"></div>
+	</div>
+
+	<div id="simple-map-d3-example"></div>
+
+	<script>
+	var places = [
+	              {
+	                name: "1 Gorkha Rifles",
+					nam: "https://en.wikipedia.org/wiki/1_Gorkha_Rifles",
+	                location: {
+	                  latitude: 30.975441,
+	                  longitude: 76.990228
+	                }
+	              },
+	              {
+	                name: "3 Gorkha Rifles",
+					nam: "https://en.wikipedia.org/wiki/3_Gorkha_Rifles",
+	                location: {
+	                  latitude: 25.317645,
+	                  longitude:82.973914
+	                }
+	              }
+				  ,
+	              {
+	                name: "5 Gorkha Rifles",
+	                nam: "https://en.wikipedia.org/wiki/5_Gorkha_Rifles",
+					location: {
+	                  latitude: 25.578773,
+	                  longitude:91.893254
+	                }
+	              }
+				  ,
+	              {
+	                name: "11 Gorkha Rifles",
+	                nam: "https://en.wikipedia.org/wiki/11_Gorkha_Rifles",
+					location: {
+	                  latitude: 26.846694,
+	                  longitude: 80.946166
+	                }
+	              }
+				  ,
+	              {
+	                name: "Gharwal Rifles",
+	                nam: "https://en.wikipedia.org/wiki/Gharwal_Rifles",
+					location: {
+	                  latitude: 29.837746,
+	                  longitude: 78.687107
+	                }
+	              }
+				  ,
+	              {
+	                name: "Brigade of the Guards",
+	                nam: "https://en.wikipedia.org/wiki/Brigade_of_the_Guards",
+					location: {
+	                  latitude: 21.227531,
+	                  longitude: 79.190083
+	                }
+	              }
+				  ,
+	              {
+	                name: "Bihar Regiment",
+					nam: "https://en.wikipedia.org/wiki/Bihar_Regiment",
+	                location: {
+	                  latitude: 25.620667,
+	                  longitude: 85.049325
+	                }
+	              }
+				  ,
+	              {
+	                name: "Parachute Regiment",
+	                nam: "https://en.wikipedia.org/wiki/Parachute_Regiment",
+					location: {
+	                  latitude: 12.971599,
+	                  longitude: 77.594563
+	                }
+	              }
+				  ,
+	              {
+	                name: "Ramgarh Cantonment",
+	                nam: "https://en.wikipedia.org/wiki/Ramgarh_Cantonment",
+					location: {
+	                  latitude:23.633224,
+	                  longitude: 85.514874
+	                }
+	              }
+				  ,
+	              {
+	                name: "Madras Regiment",
+	                nam: "https://en.wikipedia.org/wiki/Madras_Regiment",
+					location: {
+	                  latitude: 11.363560,
+	                  longitude: 76.788471
+	                }
+	              }
+				  ,
+	              {
+	                name: "Grenadiers Regiment",
+	                nam: "https://en.wikipedia.org/wiki/Grenadiers_Regiment",
+					location: {
+	                  latitude: 23.181467,
+	                  longitude: 79.986407
+	                }
+	              }
+				  ,
+	              {
+	                name: "Maratha Light Infantry",
+	                nam: "https://en.wikipedia.org/wiki/Maratha_Light_Infantry",
+					location: {
+	                  latitude: 15.849695,
+	                  longitude: 74.497674
+	                }
+	              },
+	              {
+	                name: "Rajputana Rifles",
+	                nam: "https://en.wikipedia.org/wiki/Rajputana_Rifles",
+					location: {
+	                  latitude: 28.596128,
+	                  longitude: 77.158738
+	                }
+	              },
+	              {
+	                name: "Kumaon Regiment",
+	                nam: "https://en.wikipedia.org/wiki/Kumaon_Regiment",
+					location: {
+	                  latitude: 29.643362,
+	                  longitude: 79.432182
+	                }
+	              }
+				  ,
+	              {
+	                name: "Sikh Light Infantry",
+	                nam: "https://en.wikipedia.org/wiki/Sikh_Light_Infantry",
+					location: {
+	                  latitude: 27.367290,
+	                  longitude: 79.622137
+	                }
+	              }
+	            ]
+	var width = 960,
+	    height = 600;
+
+	var color= d3.scale.ordinal()
+				.domain([1,2,3,4,5,6,7,8,9])
+				.range(colorbrewer.Oranges[9]);
+
+	var projection = d3.geo.mercator().scale(1000).translate([-1000,800]);
+	var path = d3.geo.path()
+	    .projection(projection);
+
+	var svg = d3.select("#map").append("svg")
+	    .attr("viewBox", "0 0 900 800")
+		 .attr("preserveAspectRatio", "xMidYMid meet");
+
+	var data;
+	d3.json("test.json", function(error, swiss) {
+	  if (error) throw error;
+
+	  var cantons = topojson.feature(swiss, swiss.objects.india);
+	  			//svg.call(tip);
+				var group=svg.selectAll("g")
+					.data(cantons.features)
+					.enter()
+					.append("g");
+					//.on('mouseover', tip.show)
+	      			//.on('mouseout', tip.hide)
+
+				var areas= group.append("path")
+					.attr("d", path)
+					.attr("class", "area")
+				 .attr("fill","#1554f4");
+
+				svg.selectAll("circle")
+				  .data(places)
+				  .enter().append("circle")
+				  .attr("r", 5)
+				  .attr("transform", function(d) {
+					return "translate(" + projection([
+					  d.location.longitude,
+					  d.location.latitude
+					]) + ")";
+				  })
+					.each(pulse);
+
+				 	function pulse() {
+				 		var circle = svg.selectAll("circle");
+				 		(function repeat() {
+				 			circle = circle.transition()
+				 				.duration(700)
+				 				.attr("r", 5)
+				 				.transition()
+				 				.duration(1500)
+								.delay(function(d, i) {
+														return i * 500;  // Dynamic delay (i.e. each item delays a little longer)
+												})
+				 				.attr("r", 150)
+				 				.style('fill-opacity',0)
+				 				.ease('sine')
+				 				.remove();
+				 		})();
+				 	}
+
+	});
+
+	</script>
+
+</body>
