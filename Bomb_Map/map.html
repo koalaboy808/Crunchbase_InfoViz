@@ -18,7 +18,7 @@
 
 
 circle {
-	fill: #FF4040;
+	fill: #006600;
 }
 
 .canton-boundary {
@@ -35,7 +35,7 @@ text {
 
 
 			.area:hover {
-				fill: #15f4ee;
+				fill: #808080;
 			}
 
 </style>
@@ -213,12 +213,12 @@ text {
 				var areas= group.append("path")
 					.attr("d", path)
 					.attr("class", "area")
-				 .attr("fill","#1554f4");
+				 .attr("fill","#000");
 
 				svg.selectAll("circle")
 				  .data(places)
 				  .enter().append("circle")
-				  .attr("r", 5)
+				  .attr("r", 0) //initial size zero so its not seen
 				  .attr("transform", function(d) {
 					return "translate(" + projection([
 					  d.location.longitude,
@@ -232,13 +232,15 @@ text {
 				 		(function repeat() {
 				 			circle = circle.transition()
 				 				.duration(700)
-				 				.attr("r", 5)
 				 				.transition()
 				 				.duration(1500)
+				 				.style('fill',"#99ff99") //transition to lighter shade
 								.delay(function(d, i) {
 														return i * 500;  // Dynamic delay (i.e. each item delays a little longer)
 												})
-				 				.attr("r", 150)
+				 				.attr("r", function(d) {
+				 					return Math.random()*100; //randomly generate sizes of circles
+				 				})
 				 				.style('fill-opacity',0)
 				 				.ease('sine')
 				 				.remove();
