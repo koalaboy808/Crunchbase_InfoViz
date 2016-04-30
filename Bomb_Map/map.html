@@ -42,7 +42,7 @@ text {
 
 
 <body>
-	<div id = "map" style = "float : left; min-width:820px;width :50%;height : 500px">
+	<div id = "map" style = "float : center; min-width:820px;width :50%;height : 500px">
 		<div id="subtitle"></div>
 	</div>
 
@@ -213,7 +213,8 @@ text {
 				var areas= group.append("path")
 					.attr("d", path)
 					.attr("class", "area")
-				 .attr("fill","#000");
+				 .attr("stroke","#000")
+				 .attr("fill","#fff");
 
 				svg.selectAll("circle")
 				  .data(places)
