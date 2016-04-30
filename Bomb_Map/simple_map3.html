@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+  background: #fcfcfa;
+}
+.stroke {
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+.fill {
+  fill: #fff;
+}
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+.land {
+  fill: #222;
+}
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+div.tooltip {
+ position: absolute;
+ text-align: left;
+ width: 120px;
+ height: 65px;
+ padding: 5px;
+ font-size: 10px;
+ font-family: 'Open Sans', sans-serif;
+ background: #8b8687 ;
+ border: 1px;
+ border-radius: 8px;
+ pointer-events: none;
+}
+
+circle {
+	fill: #006600;
+}
+
+.canton-boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  text-anchor: middle;
+}
+
+.area:hover {
+	fill: #808080;
+}
+
+.subunit-label {
+  fill: #777;
+  fill-opacity: .5;
+  font-size: 20px;
+  font-weight: 300;
+  text-anchor: middle;
+}
+
+</style>
+<body>
+  <script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
+  <script src="//d3js.org/d3.v3.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v2.min.js"></script>
+  <script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
+  <script src="//d3js.org/topojson.v1.min.js"></script>
+
+  <div id = "map" style = "float : left; min-width:820px;width :50%;height : 500px">
+    <div id="subtitle"></div>
+  </div>
+
+  <div id="simple-map-d3-example"></div>
+
+
+<script>
+
+var places = [
+        {
+          name: "Canada",
+          nam: "https://en.wikipedia.org/wiki/Canada",
+      location: {
+            latitude: 45.416666666666664,
+            longitude: -75.700000
+          }
+        }
+      ,
+        {
+          name: "Brazil",
+          nam: "https://en.wikipedia.org/wiki/Brazil",
+      location: {
+            latitude: -15.783333333333333,
+            longitude: -47.916667
+          }
+        }
+      ,
+        {
+          name: "China",
+          nam: "https://en.wikipedia.org/wiki/China",
+      location: {
+            latitude: 39.916666666666664,
+            longitude: -75.700000
+          }
+        }
+        ,
+              {
+                name: "Bihar Regiment",
+        nam: "https://en.wikipedia.org/wiki/Bihar_Regiment",
+                location: {
+                  latitude: 25.620667,
+                  longitude: 85.049325
+                }
+              }
+        ,
+              {
+                name: "Parachute Regiment",
+                nam: "https://en.wikipedia.org/wiki/Parachute_Regiment",
+        location: {
+                  latitude: 12.971599,
+                  longitude: 77.594563
+                }
+              }
+        ,
+              {
+                name: "Ramgarh Cantonment",
+                nam: "https://en.wikipedia.org/wiki/Ramgarh_Cantonment",
+        location: {
+                  latitude:23.633224,
+                  longitude: 85.514874
+                }
+              }
+        ,
+              {
+                name: "Madras Regiment",
+                nam: "https://en.wikipedia.org/wiki/Madras_Regiment",
+        location: {
+                  latitude: 11.363560,
+                  longitude: 76.788471
+                }
+              }
+        ,
+              {
+                name: "Grenadiers Regiment",
+                nam: "https://en.wikipedia.org/wiki/Grenadiers_Regiment",
+        location: {
+                  latitude: 23.181467,
+                  longitude: 79.986407
+                }
+              }
+        ,
+              {
+                name: "Maratha Light Infantry",
+                nam: "https://en.wikipedia.org/wiki/Maratha_Light_Infantry",
+        location: {
+                  latitude: 15.849695,
+                  longitude: 74.497674
+                }
+              },
+              {
+                name: "Rajputana Rifles",
+                nam: "https://en.wikipedia.org/wiki/Rajputana_Rifles",
+        location: {
+                  latitude: 28.596128,
+                  longitude: 77.158738
+                }
+              },
+              {
+                name: "Kumaon Regiment",
+                nam: "https://en.wikipedia.org/wiki/Kumaon_Regiment",
+        location: {
+                  latitude: 29.643362,
+                  longitude: 79.432182
+                }
+              }
+        ,
+              {
+                name: "Sikh Light Infantry",
+                nam: "https://en.wikipedia.org/wiki/Sikh_Light_Infantry",
+        location: {
+                  latitude: 27.367290,
+                  longitude: 79.622137
+                }
+              }
+        ,
+              {
+                name: "Taiwan",
+                nam: "https://en.wikipedia.org/wiki/Taiwan",
+        location: {
+                  latitude: 25.033333333333335,
+                  longitude: 121.516667
+                }
+              }
+        ,
+              {
+                name: "Canada",
+                nam: "https://en.wikipedia.org/wiki/Canada",
+        location: {
+                  latitude: 45.416666666666664,
+                  longitude: -75.700000
+                }
+              }
+        ,
+              {
+                name: "Brazil",
+                nam: "https://en.wikipedia.org/wiki/Brazil",
+        location: {
+                  latitude: -15.783333333333333,
+                  longitude: -47.916667
+                }
+              }
+        ,
+              {
+                name: "China",
+                nam: "https://en.wikipedia.org/wiki/China",
+        location: {
+                  latitude: 39.916666666666664,
+                  longitude: -75.700000
+                }
+              }
+            ]
+  var width = 960,
+      height = 580;
+
+  var color= d3.scale.ordinal()
+        .domain([1,2,3,4,5,6,7,8,9])
+        .range(colorbrewer.Oranges[9]);
+
+  var projection = d3.geo.mercator()
+      .scale(170)
+      .translate([width / 2, height / 2])
+      .precision(.1);
+
+  var path = d3.geo.path()
+      .projection(projection);
+
+  var tooltip = d3.select("#map").append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+
+  var graticule = d3.geo.graticule();
+
+  var svg = d3.select("#map").append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+  d3_queue.queue()
+    .defer(d3.json, "world-110m.json")
+    .defer(d3.tsv, "world-country-names.tsv")
+    .await(ready);
+
+  function ready(error, world, names) {
+    //
+    // d3.json("world-110m.json", function(error, world){
+    //   if (error) throw error;
+      var countries = topojson.feature(world, world.objects.countries).features,
+          neighbors = topojson.neighbors(world.objects.countries.geometries);
+
+      countries.forEach(function(d) {
+        d.name = names.filter(function(n) { return d.id == n.id});
+      });
+
+      svg.selectAll(".country")
+          .data(countries)
+          .enter().insert("path", ".graticule")
+          .attr("class", "country")
+          .attr("title", function(d) {
+            try {
+              return d.name[0].name
+            } catch(err) {
+              return ""
+            }})
+          .attr("d", path)
+          .on("mouseover", function(d) {
+            tooltip.transition()
+            .style("opacity", .9);
+            tooltip.html("helllllooooo")
+            .style("left", (d3.event.pageX) + "px")
+             .style("top", (d3.event.pageY) + "px");
+          })
+
+        .on("mouseout",  function(d) {
+          tooltip.transition()
+                  .style("opacity", 0);
+        });
+          // .style("fill", function(d, i) { return color(d.color = d3.max(neighbors[i], function(n) { return countries[n].color; }) + 1 | 0); });
+
+      svg.insert("path", ".graticule")
+          .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
+          .attr("class", "boundary")
+          .attr("d", path);
+
+      // svg.selectAll(".country")
+      //   .data(countries)
+      //   .on("mousemove", function(d,i) {
+      //     var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d) } );
+      //
+      //     tooltip
+      //       .classed("hidden", false)
+      //       .attr("style", "left:"+(mouse[0]+25)+"px;top:"+mouse[1]+"px")
+      //       .html("fadsf")
+
+        // })
+        // svg.selectAll(".country")
+        //   .data(countries)
+        //   .on("mouseover", function(d) {
+        //     tooltip.transition()
+        //     .style("opacity", .9);
+        //     tooltip.html("helllllooooo")
+        //     .attr("style", "left:"+(mouse[0]+25)+"px;top:"+mouse[1]+"px");
+        //   })
+        //
+        // .on("mouseout",  function(d) {
+        //   tooltip.transition()
+        //           .style("opacity", 0);
+        // });
+
+      var cantons = topojson.feature(world, world.objects.countries);
+          var group=svg.selectAll("g")
+            .data(cantons.features)
+            .enter()
+            .append("g");
+
+      var areas= group.append("path")
+  			.attr("d", path)
+  			.attr("class", "area")
+        .attr("fill","#000");
+
+      // svg.selectAll(".subunit-label")
+      //     .data(topojson.feature(world, world.objects.countries).features)
+      //   .enter().append("text")
+      //     .attr("class", function(d) { return "subunit-label " + d.id; })
+      //     .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
+      //     .attr("dy", ".35em")
+      //     .text(function(d) {return names.filter(function(n) { return d.id == n.id})[0].name;});
+
+      svg.selectAll("circle")
+        .data(places)
+        .enter().append("circle")
+        .attr("r", 0) //initial size zero so its not seen
+        .attr("transform", function(d) {
+        return "translate(" + projection([
+          d.location.longitude,
+          d.location.latitude
+        ]) + ")";
+        })
+        .each(pulse);
+
+        function pulse() {
+          var circle = svg.selectAll("circle");
+          (function repeat() {
+            circle = circle.transition()
+              .duration(700)
+              .transition()
+              .duration(1500)
+              .style('fill',"#99ff99") //transition to lighter shade
+              .delay(function(d, i) {
+                          return i * 500;  // Dynamic delay (i.e. each item delays a little longer)
+                      })
+              .attr("r", function(d) {
+                return Math.random()*100; //randomly generate sizes of circles
+              })
+              .style('fill-opacity',0)
+              .ease('sine')
+              .remove();
+          })();
+        }};
+
+</script>
+
+</body>
