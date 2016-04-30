@@ -1,0 +1,82 @@
+,investor_name,investor_market,investor_country_code,raised_amount_usd
+7,3D Systems,Software,USA,600000.0
+21,AT&T,Mobile,USA,400000.0
+23,AVG Technologies,Software,USA,300000.0
+31,Accion Labs,Software,USA,2600000.0
+41,Agilent Technologies,Biotechnology,USA,21000000.0
+45,Alkermes,Biotechnology,USA,38000000.0
+47,Allos Ventures,Software,USA,24800000.0
+57,Amgen,Biotechnology,USA,81132700.0
+60,Amí©rica Mí_vil,Mobile,MEX,100000000.0
+71,Archimedes Labs,Mobile,USA,620000.0
+83,Autobytel.com,Software,USA,2500000.0
+84,Autodesk,Software,USA,13937704.0
+93,BSkyB,Software,GBR,60350000.0
+109,Bill & Melinda Gates Foundation,Biotechnology,USA,35320000.0
+110,Biotechnology and Biological Sciences Research Council (BBSRC),Biotechnology,GBR,5303380.0
+121,Blume Ventures,Mobile,IND,5430405.0
+150,Cambia Health Solutions,Biotechnology,USA,30098491.0
+152,CapDecisif Management,Software,FRA,13000000.0
+162,Celgene,Biotechnology,USA,198100000.0
+167,Cisco,Software,USA,147500000.0
+168,Citrix Systems,Software,USA,25000000.0
+179,Concur Technologies,Software,USA,32300000.0
+188,Creaturk,Software,TUR,50000000.0
+203,DST Global,Software,GBR,57000000.0
+204,DaVita,Biotechnology,USA,12000000.0
+205,Dainippon Sumitomo,Biotechnology,JPN,29167989.0
+233,Edwards Lifesciences,Biotechnology,USA,3000000.0
+239,Eli Lilly,Biotechnology,USA,26000000.0
+241,Enbridge,Clean Technology,CAN,43000000.0
+266,Firsthand Technology Value Fund,Clean Technology,USA,11500000.0
+272,Forest Laboratories,Biotechnology,USA,60000000.0
+279,Foundry Group,Software,USA,208110000.0
+303,Google,Software,USA,200000000.0
+313,H-FARM Ventures,Mobile,GBR,1352872.0
+318,Hadasit Bio Holdings,Biotechnology,ISR,2350000.0
+328,Heliae,Biotechnology,USA,5000000.0
+365,Ipreo,Software,USA,6000000.0
+380,KDDI,Mobile,JPN,15000000.0
+390,Kingsoft,Software,HKG,20000000.0
+396,LUBio Science,Biotechnology,GBR,1000000.0
+406,Lee Enterprises,Biotechnology,USA,9000000.0
+415,Lonza Group,Biotechnology,CHE,2800000.0
+418,MEDL Mobile,Mobile,USA,2000000.0
+421,MTC Software,Software,USA,600000.0
+426,Madrona Venture Group,Mobile,USA,205350000.0
+433,Massachusetts Clean Energy Center,Clean Technology,USA,150000.0
+434,Massachusetts Life Sciences Center,Biotechnology,USA,1000000.0
+437,Mayo Clinic Rochester,Biotechnology,USA,48000000.0
+449,Milestone Venture Partners,Software,USA,39500000.0
+461,Mylan,Biotechnology,USA,12000000.0
+465,NRG Energy,Clean Technology,USA,64250000.0
+467,NTT Data,Software,JPN,2125775.0
+483,Nokia Growth Partners,Mobile,USA,103500000.0
+486,North Shore InnoVentures,Biotechnology,USA,300000.0
+491,Novartis,Biotechnology,CHE,62500000.0
+505,PDL Biopharma,Biotechnology,USA,130000000.0
+556,Red Hat,Software,DEU,172100000.0
+567,Rocket Internet AG,Software,DEU,321500000.0
+582,Sage Group,Software,GBR,1200000.0
+583,Salesforce,Software,USA,418960000.0
+599,Sembcorp Industries,Clean Technology,SGP,6513865.0
+602,Shanghai Fosun Pharmaceutical,Biotechnology,CHN,22400000.0
+610,Signavio,Software,DEU,1560995.0
+618,Smartlogic Semaphore,Software,GBR,1000000.0
+630,Sprint Nextel,Mobile,USA,80540000.0
+638,StartFast Venture Accelerator,Software,USA,18000.0
+651,"SunPower, Inc.",Clean Technology,USA,54660614.0
+653,Synclogue,Software,JPN,46263.0
+661,Tandem Capital,Mobile,USA,5453000.0
+674,Tethys BioScience,Biotechnology,USA,18913020.0
+694,Transgene,Biotechnology,FRA,2702490.0
+696,TriZetto,Software,USA,18700000.0
+723,VMware,Software,USA,114500000.0
+724,Valensas,Mobile,TUR,350000.0
+728,Venista Ventures,Mobile,DEU,115000.0
+732,Verizon Communications,Mobile,USA,25000000.0
+743,WRF Capital,Mobile,USA,3800000.0
+768,Xiaomi,Mobile,CHN,11000000.0
+779,Z80 Labs Technology Incubator,Mobile,USA,1000000.0
+781,ZetrOZ,Biotechnology,USA,2000000.0
+798,mParticle,Software,USA,3000000.0
