@@ -1,0 +1,2696 @@
+index,company_name,company_market,company_country_code,raised_amount_usd
+4010,SkillSonics India,Education,IND,4000000.0
+2855,MyPermissions,Security,ISR,4000000.0
+138,Adly,Social Media,USA,4000000.0
+2865,NASOFORM,Biotechnology,USA,4000000.0
+5079,Zemanta,Blogging Platforms,USA,4000000.0
+1340,Dynamic Yield,Personalization,ISR,4000000.0
+1853,GreenWizard,Software,USA,4000000.0
+3480,Puralytics,Clean Technology,USA,4000000.0
+5358,ticketea,Ticketing,ESP,4000000.0
+2220,Just Sing It,Games,USA,4000000.0
+2674,Meldium,Consumer Internet,USA,4000000.0
+663,BrightBytes,Big Data,USA,4000000.0
+2135,Intelligent Mechatronic Systems,Automotive,CAN,4000000.0
+3280,Phone.com,Messaging,USA,4000000.0
+5370,uParts,E-Commerce,USA,4000000.0
+1633,Flexis,Software,RUS,4000000.0
+1708,Fusebill,Billing,CAN,4000000.0
+2185,Jebbit,Finance,USA,4000000.0
+4374,Tabtor,Education,USA,4000000.0
+3468,Proximal Data,Software,USA,4000000.0
+3469,Proxio,Networking,USA,4000000.0
+6,15Five,Software,USA,4000000.0
+5382,weipass,Security,CHN,4000000.0
+711,CG Scholar,Education,USA,4000000.0
+4264,Sunlight Foundation,Politics,USA,4000000.0
+1735,Games2Win,Games,IND,4000000.0
+2020,IDINCU,Customer Service,KOR,4000000.0
+2588,Maker's Row,Software,USA,4000000.0
+1935,Heart Metabolics,Biotechnology,USA,4000000.0
+3793,Saluspot,Physicians,ESP,4044000.0
+525,Binpress,Open Source,USA,4050000.0
+2627,Massdrop,Social Commerce,USA,4050000.0
+1780,GlamBox,Fashion,ARE,4080000.0
+2795,Money Dashboard,Curated Web,GBR,4091178.0
+1040,Contego Fraud Solutions,Software,GBR,4091178.0
+3530,Quikly,E-Commerce,USA,4091280.0
+225,Altierre,Wireless,USA,4100000.0
+22,360pi,Artificial Intelligence,CAN,4100000.0
+492,Bellabox,E-Commerce,SGP,4110000.0
+2872,NVISION MEDICAL,Biotechnology,USA,4145000.0
+2766,Mobisante,Health Care,USA,4200000.0
+3526,Quest Inspar,Clean Technology,USA,4200000.0
+3575,Ranku,Education,USA,4200000.0
+4208,StayNTouch,Hotels,USA,4200000.0
+1246,Dering Hall,Design,USA,4200000.0
+619,BotanoCap,Biotechnology,ISR,4200000.0
+3092,Opal Labs,Software,USA,4200000.0
+1259,Diagnoplex,Biotechnology,CHE,4200000.0
+4045,SmartNews,Software,JPN,4200000.0
+4227,Stormpulse,Enterprise Software,USA,4200000.0
+2609,MarkITx,E-Commerce,USA,4200000.0
+1999,Hubba,Software,CAN,4200000.0
+5087,Zentila,Enterprises,USA,4200000.0
+3325,Plated,Hospitality,USA,4200000.0
+4157,SplitSecnd,Hardware + Software,USA,4200000.0
+823,Cernostics,Biotechnology,USA,4200000.0
+1065,Corsa Technology,Hardware + Software,CAN,4200000.0
+3062,Omegawave,Mobile,FIN,4241030.0
+332,Arran Aromatics,Curated Web,GBR,4242704.0
+651,Breaktime Studios,Mobile Games,USA,4250000.0
+4823,Viralheat,Social Media Monitoring,USA,4250000.0
+4757,Veduca,Colleges,BRA,4250000.0
+3901,Servio,Translation,USA,4256180.0
+1713,GAIN Fitness,Health and Wellness,USA,4280000.0
+96,Acetec Semiconductor,Semiconductors,CHN,4294788.0
+3327,Play Megaphone,Broadcasting,USA,4300000.0
+277,App.io,Advertising,USA,4300000.0
+790,Cartiva,Biotechnology,USA,4300000.0
+922,Clinical Ink,Health and Wellness,USA,4300000.0
+1227,Deepclass,Fashion,USA,4350000.0
+2747,MixGenius,Marketplaces,CAN,4354836.0
+2946,NewsWhip,Social Media Monitoring,IRL,4400000.0
+2542,Lytics,Predictive Analytics,USA,4400000.0
+1840,Graphite Software,Software,CAN,4400000.0
+3582,Rayneer,Television,CHE,4400000.0
+635,Boxed,Mobile Commerce,USA,4400000.0
+4596,Treventis,Biotechnology,USA,4400000.0
+4193,Sqwiggle,Software,USA,4400000.0
+4006,Skift,Media,USA,4400000.0
+1616,FitBionic,Biotechnology,USA,4400000.0
+136,Addvocate,Enterprise Software,USA,4450000.0
+3035,OTI Greentech,Clean Technology,CHE,4483240.0
+192,Akermin,Biotechnology,USA,4500000.0
+3168,Pacejet Logistics,Public Transportation,USA,4500000.0
+4621,Trufa,Analytics,DEU,4500000.0
+4347,TB Biosciences,Biotechnology,USA,4500000.0
+4831,Vistar Media,Advertising,USA,4500000.0
+4603,Trigemina,Biotechnology,USA,4500000.0
+4743,Vantrix,Mobile,CAN,4500000.0
+1420,Elephanti,Media,SGP,4500000.0
+1411,Ektron,Enterprise Software,USA,4500000.0
+3445,Prompt.ly,Small and Medium Businesses,USA,4500000.0
+4386,Takipi,Analytics,ISR,4500000.0
+2190,JethroData,Analytics,ISR,4500000.0
+3220,PayClip,Mobile,USA,4500000.0
+1774,Giraffic,Consumer Electronics,ISR,4500000.0
+2320,Knozen,Social Search,USA,4500000.0
+3680,Rev,None,USA,4500000.0
+2187,Jemstep,Consumer Internet,USA,4500000.0
+4468,The Gilman Brothers Company,None,USA,4500000.0
+4967,WizeHive,Enterprise Software,USA,4500000.0
+2027,Iconixx Software,Software,USA,4500000.0
+4086,Socratic,Curated Web,USA,4500000.0
+2207,JoyTunes,Games,ISR,4500000.0
+2430,Levels Beyond,Software,USA,4500000.0
+4488,The Zebra,Search,USA,4500000.0
+3245,People Pattern,Analytics,USA,4500000.0
+3864,Seismic Software,Presentations,USA,4500000.0
+1164,DB Networks,Information Security,USA,4500000.0
+1081,Cover,E-Commerce,USA,4500000.0
+3312,Pixlee,None,USA,4500000.0
+4062,Snipi,Social Buying,USA,4500000.0
+2850,MyBuys,Social Media,USA,4500000.0
+3006,Novogen,Biotechnology,AUS,4530000.0
+156,Adzuna,Classifieds,GBR,4542927.0
+825,Cerus Endovascular,Biotechnology,GBR,4545754.0
+3816,Schoo,Education,JPN,4560000.0
+4700,UpCounsel,Legal,USA,4600000.0
+294,Apperian,Android,USA,4600000.0
+4537,Tissue Regeneration Systems,Biotechnology,USA,4600000.0
+695,Buyapowa,E-Commerce,GBR,4600000.0
+2761,MobileSpan,Enterprise Software,USA,4600000.0
+694,BuyBox,Social Commerce,FRA,4600000.0
+1555,Fancred,Social Media,USA,4618000.0
+4239,Stuffle,Local,DEU,4618130.0
+1694,Friday,Social Media,CHN,4633097.0
+4717,User Replay,Software,GBR,4636602.0
+2386,Language Cloud,Enterprise Software,JPN,4640000.0
+4923,WhatsNexx,Software,CAN,4660000.0
+1378,EchoPixel,Biotechnology,USA,4700000.0
+3082,OneShift,Curated Web,AUS,4700000.0
+5211,eGifter,E-Commerce,USA,4700000.0
+2064,Inceptus Medical,Health Care,USA,4700000.0
+3899,Seriously,Mobile,USA,4700000.0
+87,Acarix,Health Care,DNK,4710960.0
+652,Breathometer,Health Care,USA,4740000.0
+4752,Vaxess Technologies,Life Sciences,USA,4750000.0
+4857,Voxel,Mobile,USA,4800000.0
+1691,Freight Farms,Agriculture,USA,4800000.0
+2154,Inverted Edge,Fashion,SGP,4800000.0
+2055,InVenture,None,USA,4800000.0
+5022,Yard Club,Collaborative Consumption,USA,4800000.0
+3461,ProtoGeo,Mobile,FIN,4800000.0
+2947,Newsela,Education,USA,4800000.0
+3361,Polar,Mobile,USA,4800000.0
+4231,StreetHub,Curated Web,GBR,4800000.0
+4147,"Spikes Security, Inc.",Security,USA,4800000.0
+4742,Vamo,Travel,USA,4800000.0
+2403,Leap.it,Search,USA,4800000.0
+4039,Smart Lunches,E-Commerce,USA,4800000.0
+4179,Sprig,Hospitality,USA,4800000.0
+1580,Feedzai,Software,USA,4800000.0
+123,AdInnovation,Mobile,JPN,4800000.0
+1822,Gousto,E-Commerce,GBR,4808356.0
+150,Advanced Battery Concepts,Clean Technology,USA,4840000.0
+799,Cass Art,E-Commerce,GBR,4848804.0
+1283,Dissolve,Advertising,CAN,4869058.0
+3698,Ribbon,Social Commerce,USA,4890000.0
+4878,Wanderu,Travel,USA,4900000.0
+834,ChargePoint Technology,Biotechnology,GBR,4924566.0
+4146,Sphere Fluidics,Biotechnology,GBR,4953814.0
+4557,Touchbase,None,USA,4999672.0
+782,Caro Nut,Hospitality,USA,5000000.0
+3951,SideTour,Collaborative Consumption,USA,5000000.0
+390,Avalanche Technology,Semiconductors,USA,5000000.0
+5385,y prime,Health and Wellness,USA,5000000.0
+457,Balihoo,Advertising,USA,5000000.0
+3802,Sansan,Small and Medium Businesses,JPN,5000000.0
+2780,Moe Delo,Consulting,RUS,5000000.0
+4272,SupplyHog,Shopping,USA,5000000.0
+5039,Yodle,Reviews and Recommendations,USA,5000000.0
+2371,LSN Mobile,Mobile,USA,5000000.0
+2248,Kanvas Labs,Photography,USA,5000000.0
+1438,Encore Vision Inc.,Biotechnology,USA,5000000.0
+2428,Level,Software,USA,5000000.0
+546,Bit Stew Systems,Enterprise Software,CAN,5000000.0
+1442,EndoEvolution,Health Care,USA,5000000.0
+2253,Karma Gaming,Games,GBR,5000000.0
+517,Bidgely,Analytics,USA,5000000.0
+4949,Windward,Security,CHE,5000000.0
+4440,Telepathy,Hardware + Software,USA,5000000.0
+3818,School Innovations & Achievement,Education,USA,5000000.0
+4162,SpoonRocket,Hospitality,USA,5000000.0
+3647,RemitDATA,Analytics,USA,5000000.0
+1944,Hemenkiralik.com,E-Commerce,TUR,5000000.0
+3449,Propeller Health,Health Care,USA,5000000.0
+4577,Travel.ru,Travel,RUS,5000000.0
+931,Cloud Technology Partners,IaaS,USA,5000000.0
+3835,ScreachTV,Games,GBR,5000000.0
+275,Apos Therapy,Health Care,USA,5000000.0
+4425,TeamBuy,E-Commerce,CAN,5000000.0
+2529,Lulu,Mobile,GBR,5000000.0
+2464,LitRes,Curated Web,RUS,5000000.0
+1258,DiViNetworks,Public Relations,USA,5000000.0
+4415,TastyKhana,E-Commerce,IND,5000000.0
+4583,Traycer Diagnostic Systems,Biotechnology,USA,5000000.0
+2505,Logical Choice Technologies,Education,USA,5000000.0
+2484,Local Corporation,Advertising,USA,5000000.0
+5061,Z-good,Finance,HKG,5000000.0
+2767,Mobius Therapeutics,Biotechnology,USA,5000000.0
+4584,Treasure Data,Analytics,USA,5000000.0
+3277,Philadelphia School Partnership,Nonprofits,USA,5000000.0
+3208,Pasteurization Technology Group (PTG),Clean Energy,USA,5000000.0
+4076,SocialChorus,Software,USA,5000000.0
+2798,MoneyDesktop,Finance,USA,5000000.0
+2796,Money Forward,Software,JPN,5000000.0
+3366,Pong Research Corporation,Mobile,USA,5000000.0
+4150,Spinnakr,Internet Marketing,USA,5000000.0
+259,Annidis Health Systems,Hardware + Software,CAN,5000000.0
+5197,doggyloot,Discounts,USA,5000000.0
+986,Coiney,Mobile,JPN,5000000.0
+1053,Convo,Productivity Software,USA,5000000.0
+4612,Triton Algae Innovations,Biotechnology,USA,5000000.0
+4625,TrustRadius,Crowdsourcing,USA,5000000.0
+1106,CrossChx,Software,USA,5000000.0
+2600,MapMyFitness,Android,USA,5000000.0
+2068,Independa,Curated Web,USA,5000000.0
+1966,HiringBoss,Enterprise Software,SGP,5000000.0
+139,Adlyfe,Biotechnology,USA,5000000.0
+1731,GameAnalytics,Games,DNK,5000000.0
+2282,KidoZen,Enterprise Software,USA,5000000.0
+4624,TrustEgg,Social Media,USA,5000000.0
+345,Ascent Solar Technologies,Clean Technology,USA,5000000.0
+386,Autopilot (formerly Bislr),Marketing Automation,USA,5000000.0
+1428,Embarke,Developer APIs,USA,5000000.0
+4551,Topmall,E-Commerce,UKR,5000000.0
+4745,Vardhman Textiles,Fashion,IND,5000000.0
+3433,ProcessUnity,Software,USA,5000000.0
+1660,Food Runner,Hospitality,USA,5000000.0
+811,Cell Therapeutics,Therapeutics,USA,5000000.0
+821,Centre for Sight,Biotechnology,IND,5000000.0
+3539,Quotient Biodiagnostics,Biotechnology,USA,5000000.0
+3151,PAYMILL,Games,DEU,5000000.0
+2825,Mover,Curated Web,CAN,5000000.0
+434,BEAT BioTherapeutics,Biotechnology,USA,5000000.0
+2411,LeddarTech,Hardware + Software,CAN,5000000.0
+2990,Nomis Solutions,Finance,USA,5000000.0
+5026,Yeexoo,Health Care,CHN,5000000.0
+1249,Desalitech,Clean Technology,ISR,5000000.0
+327,Arkadium,Games,USA,5000000.0
+1750,Genera Energy,Clean Technology,USA,5000000.0
+1536,FIELDS CHINA,Hospitality,CHN,5000000.0
+4414,TastemakerX,Content Discovery,USA,5000000.0
+3774,SSN Logistics,Hospitality,IND,5000000.0
+2890,Narr8,Games,RUS,5000000.0
+5169,basno,Curated Web,USA,5000000.0
+2021,IFMR Rural Channels and Services,Finance,IND,5000000.0
+153,AdviceIQ,Finance,USA,5000000.0
+2721,"Mind Pirate, Inc.",User Experience Design,USA,5000000.0
+4960,WiserTogether,Health and Wellness,USA,5000000.0
+2235,KabeExploration,Consulting,USA,5000000.0
+3356,Podimetrics,Biotechnology,USA,5000000.0
+596,Boatbound,E-Commerce,USA,5000000.0
+2809,Moontoast,E-Commerce,USA,5000000.0
+2427,Lettuce,Sales and Marketing,USA,5000000.0
+4114,Sorbent Therapeutics,Biotechnology,USA,5066000.0
+4154,Spire,Robotics,USA,5100000.0
+952,Cloudian,Cloud Infrastructure,USA,5100000.0
+3310,Pixelligent,Nanotechnology,USA,5100000.0
+1579,FeedVisor,E-Commerce,ISR,5100000.0
+1370,EasyPost,Shipping,USA,5100000.0
+2348,Kupu Hawaii,Nonprofits,USA,5100000.0
+1544,FTRANS,Software,USA,5120000.0
+5335,nubelo,Enterprise Software,ESP,5146400.0
+5031,YesGraph,Enterprise Software,USA,5200000.0
+5356,tadoÁ,Mobile,DEU,5200000.0
+1453,Engagor,Reputation,USA,5200000.0
+3701,Rightware Oy,Mobile,FIN,5200000.0
+3228,Payveris,Finance,USA,5200000.0
+4201,StartX,E-Commerce,USA,5200000.0
+5365,trueAnthem,Social Media Platforms,USA,5210208.0
+1452,Enevo,Clean Technology,FIN,5221182.0
+2113,Insignia Technologies,Hospitality,GBR,5242768.0
+1282,Disruption Corp,Venture Capital,USA,5250000.0
+1344,E-Buy,Enterprise Software,CHN,5285481.0
+3139,Overwolf,Social Media,ISR,5300000.0
+4858,Voxox Inc.,Curated Web,USA,5300000.0
+4894,WeMonitor,Hardware + Software,USA,5300000.0
+3643,Relayware,Software,USA,5303380.0
+230,Amadix,Medical,ESP,5349600.0
+1715,GI-View,Health and Wellness,ISR,5354348.0
+306,Appoxee,Weddings,ISR,5400000.0
+5186,collegefeed,Career Management,USA,5400000.0
+1967,HitFix,Entertainment,USA,5400000.0
+673,BucketFeet,Internet,USA,5400000.0
+2214,JumpCam,Photography,USA,5400000.0
+1856,Greenhouse Software,Recruiting,USA,5400000.0
+1684,FreakOut,Advertising,JPN,5400000.0
+1924,Health Revenue Assurance Holdings,Analytics,USA,5400000.0
+5295,iyzico,E-Commerce,TUR,5403720.0
+1426,ElsaLys Biotech,Biotechnology,FRA,5404980.0
+1532,Ezakus,Big Data,USA,5406939.0
+4675,Unbound,E-Commerce,GBR,5454903.0
+2740,Mirriad,Advertising,GBR,5457478.0
+3463,Proven,Local,USA,5500000.0
+4013,Skillz,Games,USA,5500000.0
+3142,OwnerListens,Mobile,USA,5500000.0
+1291,Divshot,Application Platforms,USA,5500000.0
+683,BuildersCloud,Software,USA,5500000.0
+5119,Zola Books,E-Commerce,USA,5500000.0
+341,Artisan Mobile,Software,USA,5500000.0
+3419,PrimeSource Healthcare Systems,Biotechnology,USA,5500000.0
+4506,ThousandEyes,Networking,USA,5500000.0
+1151,CyVek,Biotechnology,USA,5500000.0
+2790,Moleculera Labs,Biotechnology,USA,5520000.0
+1032,Conscious Box,Natural Resources,USA,5536000.0
+4684,Union Bay Networks,Software,USA,5550000.0
+1247,DermTech International,Biotechnology,USA,5600000.0
+1357,EV Connect,Clean Technology,USA,5600000.0
+3866,Selligy,Productivity Software,USA,5600000.0
+3028,OKpanda,Education,USA,5600000.0
+2516,Loom,Storage,USA,5600000.0
+2974,Ninja Metrics,Analytics,USA,5600000.0
+4501,Think Through Learning,Education,USA,5600000.0
+1630,FlexMinder,Heathcare,USA,5600000.0
+3937,Shopmium,E-Commerce,FRA,5600000.0
+4493,TherOx,Health Care,USA,5600000.0
+2999,Nosto,Marketing Automation,FIN,5600000.0
+2017,ID Quantique,Security,CHE,5600000.0
+2592,Mambu,Software,DEU,5634078.0
+1943,Helveta,Software,GBR,5636733.0
+4883,Warwick Audio Technologies,Manufacturing,GBR,5682192.0
+4119,Soundhawk Corporation,Hardware + Software,USA,5700000.0
+3976,Simple.TV,Hardware + Software,USA,5700000.0
+2821,Movable,Hardware + Software,USA,5700000.0
+684,Building Robotics,Enterprise Software,USA,5700000.0
+4355,TORCH.sh,Enterprise Software,DEU,5700000.0
+359,Atrenta,Software,USA,5704000.0
+2234,Kabbee,Mobile,GBR,5757955.0
+2381,Lambert Contracts,None,GBR,5757955.0
+5302,lancers Inc,Crowdsourcing,JPN,5800000.0
+2260,Keaton Row,Fashion,USA,5800000.0
+1085,Cozi,Shopping,USA,5800000.0
+2993,Nonstop Games,Consumers,SGP,5800000.0
+2209,Judicata,Law Enforcement,USA,5800000.0
+3968,Siluria Technologies,Nanotechnology,USA,5801164.0
+2882,Nanigans,Advertising Platforms,USA,5850000.0
+1848,Green Mountain Digital,Green,USA,5850000.0
+658,BridgeWave Communications,Wireless,USA,5864398.0
+2053,InRiver,Fashion,SWE,5918360.0
+1092,CreditCardsOnline,Curated Web,ROM,6000000.0
+2501,Lodo Software,Software,USA,6000000.0
+3616,Red Hot Labs,Software,USA,6000000.0
+1207,Datorama,Software,USA,6000000.0
+292,Appcore,Enterprise Software,USA,6000000.0
+4699,UpCity,Network Security,USA,6000000.0
+2486,Local Motion,Transportation,USA,6000000.0
+955,Clozette.co,Social Media,SGP,6000000.0
+1269,Digabit,Software,USA,6000000.0
+1206,Datical,Software,USA,6000000.0
+4605,Triggit,Advertising,USA,6000000.0
+3979,Simpler,Software,USA,6000000.0
+4163,Sport Ngin,Software,USA,6000000.0
+329,Armor5,Enterprise Software,USA,6000000.0
+4600,Trice Orthopedics,Biotechnology,USA,6000000.0
+2681,Mercatus,Hardware + Software,USA,6000000.0
+3097,OpenExchange,Enterprise Software,USA,6000000.0
+2663,Meditrina Hospital,Hospitality,IND,6000000.0
+3965,Silicor Materials,Manufacturing,USA,6000000.0
+3964,Silicon Valley Data Science,Big Data Analytics,USA,6000000.0
+4216,Sticky,Optimization,SWE,6000000.0
+765,CardCash.com,Gift Card,USA,6000000.0
+1682,Frankly Chat,Messaging,USA,6000000.0
+3155,PHD Virtual Technologies,Enterprise Software,USA,6000000.0
+3229,Peak¬,Enterprise Software,USA,6000000.0
+4652,Tylr Mobile,Mobile,USA,6000000.0
+5243,goCatch,Software,AUS,6000000.0
+3207,PasswordBox,Internet,USA,6000000.0
+4442,TellWise,Enterprise Software,USA,6000000.0
+1576,Federal Finance,Finance,RUS,6000000.0
+4222,StoreDot,Biotechnology,ISR,6000000.0
+2494,LockerDome,Social Media,USA,6000000.0
+4127,Soylent Corporation,Specialty Foods,USA,6000000.0
+3186,Pangea Universal Holdings,Software,USA,6000000.0
+943,CloudLink Tech,Enterprise Software,CAN,6000000.0
+3715,Rivet & Sway,E-Commerce,USA,6000000.0
+4366,TaKaDu,Clean Technology,ISR,6000000.0
+4134,Spanning Cloud Apps,Enterprise Software,USA,6000000.0
+1675,Foundation Radiology Group,Biotechnology,USA,6000000.0
+3727,Rocketick,Hardware + Software,ISR,6000000.0
+3728,Rocketmiles,Travel,USA,6000000.0
+806,Caviar,Hospitality,USA,6000000.0
+2236,Kahuna,Analytics,USA,6000000.0
+3157,PISTIS Consult,Software,GHA,6000000.0
+609,BookShout!,Software,USA,6000000.0
+3561,RackWare,Enterprise Software,USA,6000000.0
+4035,SmallRivers,Twitter Applications,CHE,6000000.0
+4707,Upstream Commerce,Analytics,USA,6000000.0
+623,Boundless Geo,Collaboration,USA,6000000.0
+2981,Nival,Games,RUS,6000000.0
+5378,vidIQ,Brand Marketing,USA,6000000.0
+4530,Timehop,Photography,USA,6000000.0
+4556,TouchOfModern,Design,USA,6000000.0
+1435,Emu Messenger,Android,USA,6000000.0
+2547,MAG Interactive,Games,SWE,6000000.0
+3893,Sepaton,Hardware + Software,USA,6000000.0
+2435,Lidyana.com,Fashion,TUR,6000000.0
+2934,Neurotrack,Biotechnology,USA,6000000.0
+4534,Tinypass,E-Commerce,USA,6000000.0
+4321,Synack,Security,USA,6000000.0
+3012,Nuday Games,Games,SWE,6000000.0
+1178,Dailybreak Media,Advertising,USA,6000000.0
+2980,Nitrous.IO,Software,USA,6000000.0
+200,AlephD,Advertising,FRA,6000000.0
+1177,DailyWorth,Women,USA,6000000.0
+1374,EatStreet,Restaurants,USA,6000000.0
+3543,Qwaya,Facebook Applications,SWE,6012148.0
+3975,Simple Energy,Green,USA,6049500.0
+3330,PlayFirst,Games,USA,6060000.0
+3351,PneumaCare,Biotechnology,GBR,6061004.0
+4733,VTL Group,Automotive,GBR,6061005.0
+3180,Palmer Hargreaves,Curated Web,DEU,6061005.0
+4340,Syrinix,Clean Technology,GBR,6064470.0
+595,Bluetrain.io,Web CMS,USA,6120000.0
+4702,UpTo,Events,USA,6149997.0
+857,ChipCare,Software,CAN,6150000.0
+3153,PEVESA,Biotechnology,ESP,6152640.0
+5146,aCommerce,E-Commerce,THA,6200000.0
+1422,Ellevation,Software,USA,6200000.0
+2500,Locondo.jp,E-Commerce,JPN,6200000.0
+4470,The Hunt,E-Commerce,USA,6200000.0
+454,Bacterioscan,Biotechnology,USA,6225000.0
+847,Chekkt.com,E-Commerce,ISR,6250000.0
+692,Buttercoin,Software,USA,6250000.0
+3145,Oxford Photovoltaics,Clean Technology,GBR,6275804.0
+2605,Marfeel,Mobile,ESP,6295200.0
+2009,Hydrelis,Clean Technology,FRA,6340000.0
+2948,Newsle,Social Network Media,USA,6349991.0
+3140,Ovuline,Mobile,USA,6400000.0
+4542,Tonbo Imaging,Design,IND,6400000.0
+1697,Front Desk HQ,Payments,USA,6400000.0
+3678,Retty,Hospitality,JPN,6400000.0
+3187,Panjo,E-Commerce,USA,6400000.0
+678,Bugcrowd,Security,USA,6400000.0
+155,AdzCentral,Media,SGP,6400000.0
+3938,Shopular,Shopping,USA,6400000.0
+4598,TrialReach,Pharmaceuticals,GBR,6400000.0
+3700,RidePal,Transportation,USA,6400000.0
+1051,Conversocial,Customer Support Tools,USA,6400000.0
+5014,Xtreme Power,Clean Technology,USA,6400000.0
+2799,Moneytree,Big Data,JPN,6400000.0
+3600,Realeyes,Analytics,GBR,6420000.0
+1171,DNS:Net,Mobile,DEU,6433000.0
+755,Capitaine Train,Training,FRA,6433000.0
+1355,ERPLY,Point of Sale,EST,6450000.0
+5294,iwoca,Finance,GBR,6464138.0
+202,Algolia,Search,USA,6488268.0
+4799,Viableware,Hardware + Software,USA,6500000.0
+4795,Vets First Choice,E-Commerce,USA,6500000.0
+418,Axiomatics,Enterprise Software,SWE,6500000.0
+4005,Sketchfab,Finance,USA,6500000.0
+2314,Kloudless,Developer APIs,USA,6500000.0
+480,Beautylish,E-Commerce,USA,6500000.0
+659,BriefCam,Security,ISR,6500000.0
+1038,Contatta,Software,USA,6500000.0
+3339,Plenummedia,Internet,ESP,6500000.0
+2924,Netchemia,Enterprise Software,USA,6500000.0
+2678,Meniga,Software,ISL,6500000.0
+2413,Lehigh Technologies,Specialty Chemicals,USA,6500000.0
+1465,Entourage Medical Technologies,Biotechnology,USA,6502000.0
+3799,Sandwell Community Caring Trust (SCCT),Nonprofits,GBR,6515581.0
+272,Apiary,Software,USA,6520000.0
+124,AdMoment,Real Time,RUS,6550000.0
+4655,Tyres on the Drive,Automotive,GBR,6560796.0
+5180,clickworker GmbH,E-Commerce,DEU,6576320.0
+902,Clarity Health Services,E-Commerce,USA,6600000.0
+4384,Take the Interview,Human Resources,USA,6600000.0
+1365,Easy Metrics,Software,USA,6600000.0
+4851,VoloMetrix,Social Media,USA,6600000.0
+1798,GoCardless,E-Commerce,GBR,6600000.0
+3385,Prairie Cloudware,Software,USA,6600000.0
+1791,GlobalServe,Finance,USA,6600000.0
+2867,NGDATA,Analytics,BEL,6600000.0
+5093,ZeroFOX,Security,USA,6600000.0
+4027,Skyword,Semantic Search,USA,6700000.0
+1954,Highland Therapeutics,Biotechnology,CAN,6700000.0
+5231,eyeSight Mobile Technologies,Software,ISR,6700000.0
+224,Altia Systems,Mobile,USA,6700000.0
+1215,DecImmune Therapeutics,Biotechnology,USA,6750000.0
+5161,arviem AG,Analytics,CHE,6762579.0
+4472,The Idealists,Advertising,USA,6800000.0
+4120,Soundrop,Apps,NOR,6800000.0
+4943,Wildflower Health,Mobile,USA,6823160.0
+4820,Vinted,Mobile,LTU,6860880.0
+2404,Learn with Homer,Apps,USA,6880000.0
+4205,Startups,Consulting,USA,6900000.0
+5322,mojio,Development Platforms,CAN,6900000.0
+953,Cloudnexa,Software,USA,6900000.0
+3882,SensioLabs,Software,FRA,6900000.0
+1528,EyeVerify,Security,USA,6900000.0
+74,ATG Media (The Saleroom),Design,GBR,6963750.0
+1693,Freshdesk,Customer Support Tools,USA,6999930.0
+4633,Tuition.io,Finance,USA,7000000.0
+3226,Payoff,Financial Services,USA,7000000.0
+5257,iMER,Heathcare,ISR,7000000.0
+2738,Mirabilis Medica,Health Care,USA,7000000.0
+1741,Gazillion Entertainment,Games,USA,7000000.0
+3646,Remind,All Students,USA,7000000.0
+2978,Nitride Solutions,Semiconductors,USA,7000000.0
+1277,Disconnect,Privacy,USA,7000000.0
+2705,Micro Interventional Devices,Health Care,USA,7000000.0
+3011,NuMedii,Biotechnology,USA,7000000.0
+4875,Wandera,Mobile,USA,7000000.0
+3286,Pict,E-Commerce,USA,7000000.0
+702,Bypass Mobile,Mobile,USA,7000000.0
+5247,hike,Mobile,IND,7000000.0
+4219,Stitch Labs,Retail Technology,USA,7000000.0
+1124,Crowdly,Finance,USA,7000000.0
+4296,Swarm Mobile,Location Based Services,USA,7000000.0
+4494,TheraCoat,Pharmaceuticals,ISR,7000000.0
+1445,Endurance Wind Power,Hardware + Software,CAN,7000000.0
+2887,Nanotronics Imaging,Software,USA,7000000.0
+3515,Qriously,Advertising,GBR,7000000.0
+4259,SunSelect Produce,Hospitality,CAN,7000000.0
+262,Anterra Energy,Clean Technology,CAN,7000000.0
+3782,SafetyPay,E-Commerce,USA,7000000.0
+4750,Vastrm,Fashion,USA,7000000.0
+2440,LightSail Education,Education,USA,7000000.0
+2966,Nexvet,Biotechnology,AUS,7000000.0
+4819,Vino Volo,Hospitality,USA,7000000.0
+2955,Nexgate,Enterprise Software,USA,7000000.0
+2807,Moogsoft,Analytics,GBR,7000000.0
+5361,tracx,Social Media Monitoring,USA,7000000.0
+3928,Shop Hers,Fashion,USA,7000000.0
+1547,Fabrika Online,Games,RUS,7000000.0
+945,CloudPassage,Security,USA,7000000.0
+1937,Heckyl,Finance,IND,7000000.0
+178,Ahalogy,Social Bookmarking,USA,7000000.0
+629,Bovie Medical,Health Care,USA,7000000.0
+818,Center for Open Science,Open Source,USA,7031480.0
+4100,Soligenix,Biotechnology,USA,7100000.0
+1008,Comparameglio.it,Automotive,ITA,7118500.0
+28,3VR,Security,USA,7134388.0
+3516,Qstream,Enterprise Software,USA,7150000.0
+1763,Getable,Curated Web,USA,7200000.0
+3299,Pipedrive,Sales Automation,USA,7200000.0
+405,Aviate,Android,USA,7200000.0
+1285,Distil Networks,Advertising,USA,7200000.0
+4256,Sumerian,Hardware + Software,GBR,7273206.0
+63,AKAMON ENTERTAINMENT,Games,ESP,7273294.0
+2286,Kii,Mobile,USA,7300000.0
+2967,Nexxo Financial,Finance,USA,7320000.0
+1520,Experiment,None,USA,7380000.0
+3649,RenRen Headhunting,Curated Web,CHN,7400000.0
+1142,Curoverse,Software,USA,7500000.0
+2490,LocalResponse,Brand Marketing,USA,7500000.0
+1141,Curious.com,Education,USA,7500000.0
+1271,Digit Game Studios,Games,IRL,7500000.0
+4497,Therma Flite,Nanotechnology,USA,7500000.0
+2688,Meta Pharmaceutical Services,Enterprise Software,USA,7500000.0
+880,CircleCI,PaaS,USA,7500000.0
+3292,PingMD,Health and Wellness,USA,7500000.0
+2920,Nestio,Technology,USA,7500000.0
+4196,StarMobile,Mobility,USA,7500000.0
+4481,The One-Page Company,Career Management,USA,7500000.0
+1174,Dachis Group,Advertising,USA,7500000.0
+3454,ProsperWorks,Software,USA,7500000.0
+5111,Zipmark,Billing,USA,7500000.0
+843,Cheers,Mobile,USA,7500000.0
+2241,Kaleo Software,Enterprise Software,USA,7500000.0
+4616,Trover,Photography,USA,7500000.0
+199,AlephCloud Systems,Enterprise Software,USA,7500000.0
+2422,Leo,Messaging,USA,7500000.0
+4918,WemoLab,Games,USA,7500000.0
+102,Acorns,Apps,USA,7500000.0
+1868,GroundMetrics,Hardware + Software,USA,7500000.0
+3890,SentinelOne,Security,USA,7520000.0
+907,Clean Air Power,Clean Technology,USA,7576257.0
+753,CapLinked,Enterprise Software,USA,7597600.0
+3716,Roadtrippers,Travel,USA,7600000.0
+5123,Zonoff,Home Automation,USA,7600000.0
+1854,Greencloud Technologies,Enterprise Software,USA,7625000.0
+462,Bancore A/S,Mobile Payments,DNK,7704358.0
+3260,Personal Factory,Manufacturing,ITA,7719600.0
+1589,Fidelis,SaaS,USA,7750000.0
+5009,Xercise4less,Health and Wellness,GBR,7781818.0
+4783,Versa,Digital Media,USA,7800000.0
+5097,ZetrOZ,Biotechnology,USA,7800000.0
+3689,Revolution Analytics,Big Data,USA,7800000.0
+112,Active Mind Technology,Software,USA,7823112.0
+2561,Maana,Enterprise Software,USA,7830000.0
+536,Biofortuna,Biotechnology,GBR,7879304.0
+2531,Lumense,Biotechnology,USA,7950000.0
+2258,Kazaana,Web Development,USA,7950000.0
+4217,StickyADS.tv,Technology,FRA,7976920.0
+1801,GoEuro,Travel,DEU,8000000.0
+620,Boticca,Fashion,GBR,8000000.0
+3524,Quartzy,Life Sciences,USA,8000000.0
+1661,Food52,Publishing,USA,8000000.0
+5342,popexpert,Education,USA,8000000.0
+2351,Kwarter,Advertising,USA,8000000.0
+1196,DataTorrent,Big Data,USA,8000000.0
+53,ABSMaterials,Clean Technology,USA,8000000.0
+2378,Lacoon Mobile Security,Software,USA,8000000.0
+4862,Vserv.mobi,Emerging Markets,IND,8000000.0
+4713,UrbanIndo,E-Commerce,IDN,8000000.0
+5367,uBank,Mobile,ROM,8000000.0
+2022,IID,Security,USA,8000000.0
+1659,Food Genius,Startups,USA,8000000.0
+2568,"Madison Reed, Inc.",Beauty,USA,8000000.0
+322,Aria Networks,Software,GBR,8000000.0
+1138,CureTech,Biotechnology,ISR,8000000.0
+2115,InstaEDU,Tutoring,USA,8000000.0
+654,Breezeworks,Mobile,USA,8000000.0
+1567,Fashion GPS,Software,GBR,8000000.0
+3197,ParStream,Databases,DEU,8000000.0
+1023,Concurrent Inc,Software,USA,8000000.0
+4113,Soraa,Lighting,USA,8000000.0
+570,Bloc,Education,USA,8000000.0
+81,Ablative Solutions,Biotechnology,USA,8000000.0
+766,CardFlight,Payments,USA,8000000.0
+3209,Pathbrite,Education,USA,8000000.0
+4569,Traitify,Personalization,USA,8000000.0
+459,Baltic Ticket Holdings AS,Ticketing,EST,8000000.0
+3194,PaperKarma,None,USA,8000000.0
+1538,FOBO,Hardware + Software,USA,8000000.0
+1537,FIGS,Health Care,USA,8000000.0
+4966,WizIQ,Education,USA,8000000.0
+239,Amiato,Analytics,USA,8000000.0
+4195,StarMaker Interactive,Mobile,USA,8000000.0
+819,Centice,Biotechnology,USA,8000000.0
+1512,Exchange Lab,Advertising,GBR,8000000.0
+3751,Runnable Inc.,Software,USA,8000000.0
+528,BioDigital,Biotechnology,USA,8000000.0
+959,Cluster,Photography,USA,8000000.0
+3807,Savelli,Mobile,CHE,8000000.0
+1836,Graphdive,Analytics,USA,8000000.0
+2725,Minetta Brook,Analytics,USA,8000000.0
+3248,Pepperfry.com,E-Commerce,IND,8000000.0
+1470,Epoxy,Games,USA,8000000.0
+3018,Numerify,Analytics,USA,8000000.0
+751,Canvas,Android,USA,8000000.0
+5270,iScreen Vision,Health Care,USA,8000000.0
+4141,Spartz,Curated Web,USA,8000000.0
+5272,iStreamPlanet,Games,USA,8000000.0
+1424,Elliptic Technologies,Security,CAN,8000000.0
+494,Bench,Finance,USA,8000000.0
+2327,Kontera,Advertising,USA,8000000.0
+1423,Ellie,E-Commerce,USA,8000000.0
+3619,RedCap,Transportation,USA,8100000.0
+2818,Motwin,Internet,FRA,8100000.0
+3942,Shots,Android,USA,8100000.0
+5240,freee,Accounting,JPN,8100000.0
+4094,Solar Junction,Manufacturing,USA,8116000.0
+1752,Genesys Systems,Clean Technology,USA,8128400.0
+1552,Famo.us,Mobile,USA,8220000.0
+4510,"Thru, Inc.",PaaS,USA,8225000.0
+577,BloomNation,E-Commerce,USA,8250000.0
+4610,Triogen Group,Clean Technology,NLD,8362900.0
+3742,RoundPegg,Software,USA,8400000.0
+125,AdStage,Software,USA,8400000.0
+3946,Shyp,Logistics,USA,8400000.0
+4376,Tackk,Curated Web,USA,8400000.0
+29,3scale,Developer APIs,ESP,8400000.0
+4396,Tangentix,Games,GBR,8400000.0
+3757,SENSIMED,Health Care,CHE,8400000.0
+3050,Odyssey Thera,Biotechnology,USA,8400000.0
+4787,Versus,Price Comparison,DEU,8400000.0
+5085,Zenefits,Human Resources,USA,8400000.0
+3301,Piqora,Photography,USA,8400000.0
+2621,Masabi,Public Transportation,GBR,8400000.0
+2089,Ingo Money,Finance,USA,8400000.0
+4724,VCNC,SNS,KOR,8456580.0
+1173,DUNCAN & Todd,Local Businesses,GBR,8485408.0
+4477,The Matlet Group,Software,USA,8500000.0
+3960,SignalFuse,Software,USA,8500000.0
+2193,Jifiti.com,Gift Card,USA,8500000.0
+1191,DataPad,Analytics,USA,8500000.0
+4968,Wizeline,Business Intelligence,USA,8500000.0
+4541,Tomfoolery,Mobile,USA,8500000.0
+2117,Instacart,Groceries,USA,8500000.0
+343,Artspace,E-Commerce,USA,8500000.0
+3317,Placemeter,Finance,USA,8518000.0
+2373,LUXA,E-Commerce,JPN,8600000.0
+4243,StyleSaint,Lifestyle,USA,8600000.0
+360,Atria Brindavan Power,Clean Technology,IND,8600000.0
+1323,DropShip,Supply Chain Management,USA,8600000.0
+3510,Qliance Medical Management,Hospitals,USA,8652781.0
+4617,TruTouch Technologies,Test and Measurement,USA,8700000.0
+458,Balluun,Cloud Infrastructure,USA,8700000.0
+1815,Good.Co,Human Resources,USA,8700000.0
+833,ChannelBreeze,E-Commerce,KOR,8746760.0
+3448,Propeller,Application Platforms,USA,8750000.0
+585,Blue Focus PR Consulting,Public Relations,CHN,8794788.0
+3027,NxtGen Data Center & Cloud Services,Software,IND,8800000.0
+4213,StepLeader,Mobile,USA,8800000.0
+2687,MetGen,Biotechnology,FIN,8838060.0
+3591,Reactor Inc.,Analytics,USA,8850000.0
+4788,Vertical Knowledge,Analytics,USA,8875000.0
+3838,Scripted,Freelancers,USA,9000000.0
+872,Cinarra Systems,Mobile,USA,9000000.0
+3079,OneHealth Solutions,Game Mechanics,USA,9000000.0
+1759,GetNinjas,Advertising,BRA,9000000.0
+2168,Itandi,Software,JPN,9000000.0
+5134,Zooz Mobile Ltd.,Developer APIs,ISR,9000000.0
+4808,Videolicious,Software,USA,9000000.0
+640,Brainbow,Games,GBR,9000000.0
+941,CloudHealth Technologies,Software,USA,9000000.0
+1898,Haiku Deck,iPad,USA,9000000.0
+4618,True Office,Pharmaceuticals,USA,9000000.0
+1526,Extreme Startups,Automotive,CAN,9000000.0
+2462,Listia,Craigslist Killers,USA,9000000.0
+1570,Fastacash,Curated Web,SGP,9000000.0
+109,ActionX,Mobile,USA,9000000.0
+4060,Snaps,Augmented Reality,USA,9000000.0
+4959,Wisegate,Social Network Media,USA,9000000.0
+286,AppMesh,Enterprise Software,USA,9000000.0
+2042,ImmunGene,Biotechnology,USA,9000000.0
+4237,StudyBlue,File Sharing,USA,9000000.0
+2031,Idomoo,Enterprise Software,ISR,9000000.0
+2452,Linkfluence,Brand Marketing,FRA,9000000.0
+2151,Inventables,E-Commerce,USA,9000000.0
+1137,Curalate,Analytics,USA,9000000.0
+1629,Fleksy,Mobile,USA,9000000.0
+5297,kiwi666,Photography,CHN,9000000.0
+1145,Curriculet,Education,USA,9000000.0
+3389,Precipio Diagnostics,Biotechnology,USA,9000000.0
+2891,Narrative,Photography,SWE,9000000.0
+1834,Granify,E-Commerce,CAN,9000000.0
+3394,Predilytics,Health and Wellness,USA,9000018.0
+624,BountyJobs,Human Resources,USA,9010474.0
+2597,Mantex,Clean Technology,SWE,9018224.0
+3118,Orchestrate,Enterprise Software,USA,9020000.0
+2367,LOC&ALL,Software,KOR,9025940.0
+2635,Mavenlink,Project Management,USA,9029415.0
+5135,Zosano Pharma,Biotechnology,USA,9090000.0
+581,Blu Wireless Technology,Hardware + Software,GBR,9091506.0
+4905,Wedo Shopping,E-Commerce,GBR,9091508.0
+2660,Medicina,Biotechnology,GBR,9091508.0
+1243,Dennoo,Auctions,USA,9100000.0
+1114,CrowdMed,Health and Wellness,USA,9100000.0
+1833,Grand St.,Hardware + Software,USA,9100000.0
+2976,NinthDecimal,Location Based Services,USA,9165053.0
+4079,SocialProof,Business Services,USA,9200000.0
+3706,Rise,Marketplaces,USA,9200000.0
+967,Coda Payments,Mobile,SGP,9200000.0
+2013,H_REL,Biotechnology,USA,9200000.0
+805,Catchpoint Systems,Analytics,USA,9200001.0
+3096,OpenDNS,Security,USA,9260000.0
+50,9Lenses,SaaS,USA,9300000.0
+1666,ForSight Labs,Biotechnology,USA,9300000.0
+1846,Green Highland Renewables,Clean Technology,GBR,9300000.0
+2879,Namo Media,Mobile,USA,9375000.0
+3870,Semetric,Analytics,GBR,9400000.0
+4319,Symphony Commerce,E-Commerce,USA,9400000.0
+340,Artificial Solutions,Mobile,ESP,9400000.0
+3387,PrePlay,Games,USA,9400000.0
+2930,Networked Insights,Social Media,USA,9400000.0
+2060,Inari Medical,Health and Wellness,USA,9420000.0
+4691,"University of California, San Francisco",Education,USA,9450000.0
+4363,TVA Medical,Health Care Information Technology,USA,9500000.0
+1228,Defense.Net,Security,USA,9500000.0
+791,Casa Grande,Real Estate,IND,9500000.0
+2869,NGRAIN,Software,CAN,9500000.0
+537,Biogenic Reagents,Enterprise Software,USA,9500000.0
+2100,Innovative Trauma Care,Health Care,CAN,9506945.0
+2842,Musicmetric,Music,GBR,9513500.0
+2476,Lively Inc.,Internet of Things,USA,9600000.0
+4729,VHX,Video Streaming,USA,9600000.0
+305,Apportable,Mobile,USA,9600000.0
+2535,Luxodo,Fashion,DEU,9600000.0
+3507,Qazzow,Software,USA,9600000.0
+3246,PeopleLinx,Software,USA,9600000.0
+3562,Racktivity,Software,BEL,9603750.0
+1275,DigitalOcean,Cloud Computing,USA,9617400.0
+2156,Invia.cz,E-Commerce,CZE,9649500.0
+4739,Valkee,Hardware + Software,FIN,9700000.0
+4395,TandemLaunch,Finance,CAN,9738116.0
+4460,The 19th Floor,Social Media,CHN,9741840.0
+524,Bina Technologies,Analytics,USA,9750000.0
+5291,itBit,Finance,USA,9750000.0
+682,BuildZoom,Construction,USA,9765000.0
+3064,Omni Hospitals,Biotechnology,IND,9800000.0
+856,Chip Path Design Systems,Semiconductors,USA,9805636.0
+3709,Riskified,E-Commerce,ISR,9900000.0
+1721,GNS Healthcare,Analytics,USA,9939920.0
+2495,Locket,Android,USA,9958238.0
+5080,Zen Planner,Billing,USA,10000000.0
+2602,Mapbox,Open Source,USA,10000000.0
+502,Berrybenka,E-Commerce,IDN,10000000.0
+641,Brainspace Corporation,Software,USA,10000000.0
+3347,Plures Technologies,Consulting,USA,10000000.0
+3548,R2 Semiconductor,Semiconductors,USA,10000000.0
+2063,Inception Sciences,Biotechnology,USA,10000000.0
+4543,Tongbanjie,Finance,CHN,10000000.0
+3546,Qyer.com,Travel,CHN,10000000.0
+2982,NoRedInk,Education,USA,10000000.0
+3897,Serena & Lily,E-Commerce,USA,10000000.0
+2128,Intec Pharma,Biotechnology,ISR,10000000.0
+2995,Norse,IT and Cybersecurity,USA,10000000.0
+469,BarkBox,Pets,USA,10000000.0
+915,Cleave Biosciences,Biotechnology,USA,10000000.0
+1663,Fooda,Enterprise Software,USA,10000000.0
+2189,JetPay,Finance,USA,10000000.0
+2996,Nortal AS,Software,EST,10000000.0
+2668,Medrobotics,Hardware,USA,10000000.0
+3833,ScoreBig,E-Commerce,USA,10000000.0
+2398,LeadPages,Software,USA,10000000.0
+3273,PharmAkea Therapeutics,Biotechnology,USA,10000000.0
+2325,Kona Medical,Therapeutics,USA,10000000.0
+3225,Payfone,Mobile,USA,10000000.0
+1949,Heyday,Local Businesses,USA,10000000.0
+3285,Pickwick & Weller,E-Commerce,USA,10000000.0
+3708,RiskIQ,Reputation,USA,10000000.0
+3710,Riskonnect,Enterprise Software,USA,10000000.0
+2334,Kovio,Semiconductors,USA,10000000.0
+1321,Droid system master,Mobile,CHN,10000000.0
+988,ColdLight Solutions,Predictive Analytics,USA,10000000.0
+616,BoosterMedia,Games,NLD,10000000.0
+4972,Womai,E-Commerce,CHN,10000000.0
+440,BTC China,Finance,CHN,10000000.0
+4979,WorkFusion (previously CrowdComputing Systems),Software,USA,10000000.0
+4992,Wrike,Enterprise Software,USA,10000000.0
+4711,Urban Ladder,Home Decor,IND,10000000.0
+4712,UrbanBound,Software,USA,10000000.0
+4996,Wymsee,Advertising,USA,10000000.0
+4999,XConnect Global Networks,VoIP,GBR,10000000.0
+3756,SAVO,Software,USA,10000000.0
+226,Altitude Digital,Advertising,USA,10000000.0
+3122,Origami Inc.,E-Commerce,JPN,10000000.0
+3772,SPR Therapeutics,Hardware,USA,10000000.0
+2298,Kitara Media,Curated Web,CAN,10000000.0
+3794,Samanage,Corporate IT,USA,10000000.0
+3804,Sauce Labs,Enterprise Software,USA,10000000.0
+1052,Convertro,Optimization,USA,10000000.0
+456,Balanced,E-Commerce,USA,10000000.0
+4578,Travelata,Travel,RUS,10000000.0
+455,Baifendian,Enterprises,CHN,10000000.0
+1226,"Deep Information Sciences, Inc.",Software,USA,10000000.0
+858,Chirpify,Marketing Automation,USA,10000000.0
+2114,InspireMD,Health Care,ISR,10000000.0
+4064,Snowball Finance,Finance,CHN,10000000.0
+2784,Mojave Networks,Mobile,USA,10000000.0
+2777,Modria,Legal,USA,10000000.0
+5221,eZono,Health Care,DEU,10000000.0
+175,Agilyx,Clean Technology,USA,10000000.0
+5225,eleni,Consulting,KEN,10000000.0
+4089,Sofie Biosciences,Biotechnology,USA,10000000.0
+5250,iBoxPay,Finance,CHN,10000000.0
+1572,Fastly,Web Hosting,USA,10000000.0
+67,ANF Technology,Nanotechnology,EST,10000000.0
+4110,Sonitus Medical,Health Care,USA,10000000.0
+639,BrainScope Company,Biotechnology,USA,10000000.0
+1156,CymaBay Therapeutics,Biotechnology,USA,10000000.0
+4061,Snapsheet,Mobile,USA,10000000.0
+2518,LoopPay,Mobile,USA,10000000.0
+756,Capricorn Food Products India,Hospitality,IND,10000000.0
+1581,Feidee,Finance,CHN,10000000.0
+5271,iSpot.tv,Television,USA,10000000.0
+4140,Sparql City,Analytics,USA,10000000.0
+576,BloomBoard,Education,USA,10000000.0
+5275,iVantage Health Analytics,Analytics,USA,10000000.0
+4402,TapInfluence,Advertising,USA,10000000.0
+2360,LBE Security Master,Security,CHN,10000000.0
+1876,Guide,Guides,USA,10000000.0
+727,CSDN,Social Media,CHN,10000000.0
+1176,DailyLook,Shopping,USA,10000000.0
+4393,Talking Data,Mobile,CHN,10000000.0
+724,CROSSROADS SYSTEMS,Communications Infrastructure,USA,10000000.0
+1877,GuideSpark,Enterprise Software,USA,10000000.0
+2353,Kyma Medical Technologies,Health Care,ISR,10000000.0
+789,CartiHeal,Health Care,ISR,10000000.0
+4693,University of Pittsburgh,Education,USA,10000000.0
+2797,Money On Mobile,Mobile,IND,10000000.0
+4518,Ticketland,Consulting,RUS,10000000.0
+165,Afferent Pharmaceuticals,Biotechnology,USA,10000000.0
+3362,Polaris Wireless,Mobile,USA,10000000.0
+1480,Etaoshi,Hospitality,CHN,10000000.0
+2877,Naked Wines,Curated Web,GBR,10000000.0
+2639,Maxta,Software,USA,10000000.0
+2449,"LinkSmart, Inc.",Publishing,USA,10000000.0
+4022,Skylight Healthcare Systems,Health and Wellness,USA,10000000.0
+1525,Extreme Reality,3D,ISR,10000000.0
+2830,Mtime,Fashion,CHN,10000000.0
+1511,Excellence4u,Consulting,IND,10000000.0
+3383,PowerbyProxi,Mobile,NZL,10000000.0
+803,Catavolt,Enterprise Software,USA,10000000.0
+119,Ad Hoc Labs,Mobile,USA,10000000.0
+804,Catbird,Security,USA,10000000.0
+2878,Namely,Advertising,USA,10050000.0
+567,Blazent,Enterprise Software,USA,10083854.0
+3682,Revel Systems,Mobile Payments,USA,10100000.0
+5196,dloHaiti,Clean Technology,USA,10109700.0
+2936,Neverware,Startups,USA,10156914.0
+2707,MicroTransponder,Health Care,USA,10200000.0
+2264,Keepsafe,Security,USA,10200000.0
+2838,Muse & Co,E-Commerce,JPN,10200000.0
+4586,Tred,Social Commerce,USA,10200000.0
+3730,Rodos BioTarget,Biotechnology,DEU,10240620.0
+2219,Jusp,Mobile,ITA,10244000.0
+3925,Shippable,Software,USA,10250000.0
+1582,Fenergo,Banking,IRL,10292800.0
+4828,Visedo,Public Transportation,FIN,10292800.0
+2833,MultiLing Corporation,None,USA,10300000.0
+3828,Scoop.it,Curated Web,USA,10400000.0
+2330,Kopo Kopo,E-Commerce,KEN,10400000.0
+4065,Snowman,None,IND,10400000.0
+188,Aisle50,Coupons,USA,10400000.0
+4421,Teads,Advertising,FRA,10400000.0
+4190,Sqrrl,Analytics,USA,10400000.0
+1079,Cove Financial Group,Finance,USA,10400000.0
+1776,GiveGab,Social Media,USA,10400000.0
+2644,MedDay,Biotechnology,FRA,10468800.0
+3335,PlayerLync,Information Security,USA,10500000.0
+1064,Correlsense,Software,USA,10500000.0
+3214,Patreon,Music,USA,10500000.0
+994,Collective Bias,Shopping,USA,10500000.0
+4916,Well.ca,E-Commerce,CAN,10500000.0
+4463,The Business of Fashion,Fashion,GBR,10500000.0
+1463,Entelo,Human Resources,USA,10500000.0
+2586,MakeSpace,Commercial Real Estate,USA,10500000.0
+763,CarbonCure Technologies,Construction,CAN,10500000.0
+266,Any.DO,iPhone,ISR,10500000.0
+2303,Kitsy Lane,E-Commerce,USA,10500000.0
+5090,Zep Solar,Clean Technology,USA,10571182.0
+4867,WHILL,Electric Vehicles,USA,10600000.0
+4338,Synthetic Biologics,Biotechnology,USA,10606760.0
+532,Bioaxial,Biotechnology,FRA,10800000.0
+4412,Targovax,Biotechnology,NOR,10800000.0
+421,Ayla Networks,Hardware + Software,USA,10800000.0
+2704,Micro Housing Finance Corporation Limited,Finance,IND,10800000.0
+1189,DataFox,Venture Capital,USA,10800000.0
+3446,Pronutria,Biotechnology,USA,10800000.0
+4723,Utkarsh Micro Finance,Finance,IND,10800000.0
+2322,Koality,Enterprise Software,USA,10800000.0
+5207,eCommHub,E-Commerce,USA,10800000.0
+1343,E-Blink,Mobile,FRA,10807440.0
+4334,Synoste Oy,Biotechnology,FIN,10807440.0
+814,CelluComp,Manufacturing,GBR,10909809.0
+1702,Fundation,Finance Technology,USA,10915868.0
+2169,Itineris,Software,BEL,10936100.0
+5002,XO1,Biotechnology,GBR,11000000.0
+4067,SoMoLend,Finance,USA,11000000.0
+1376,Ebuzzing and Teads,Online Video Advertising,GBR,11000000.0
+1070,Cotap,Collaboration,USA,11000000.0
+3243,Pentalum Technologies,Clean Technology,ISR,11000000.0
+2441,LightSail Energy,Clean Technology,USA,11000000.0
+1368,Easy Solutions,Security,USA,11000000.0
+4758,Vee24,E-Commerce,USA,11000000.0
+1865,Grokker,Curated Web,USA,11000000.0
+1161,Cyvera,Security,ISR,11000000.0
+3004,Novian Health,Health and Wellness,USA,11000000.0
+4697,Unmetric,Analytics,USA,11000000.0
+1419,Electronic Payment and Services (EPS),Hardware + Software,IND,11000000.0
+4427,TeamSnap,Mobile,USA,11000000.0
+2692,Metaps,Mobile,SGP,11000000.0
+4901,WebAction,Application Platforms,USA,11000000.0
+3819,SciAps,Hardware + Software,USA,11100000.0
+3803,Santhera Pharmaceuticals Holding,Biotechnology,CHE,11141000.0
+1951,High Fidelity,Hardware + Software,USA,11150000.0
+2481,LoanLogics,Finance,USA,11200000.0
+1607,Firebase,Enterprise Software,USA,11200000.0
+4223,Storefront,Marketplaces,USA,11200000.0
+1941,Helium Systems,Internet of Things,USA,11200000.0
+1375,Ebury,Finance,GBR,11207052.0
+3840,Seamless Toy Company,Entertainment,USA,11230000.0
+5112,Zipments,Postal and Courier Services,USA,11250000.0
+5288,invi,Android,USA,11250000.0
+4722,Utility Funding,Clean Technology,GBR,11280346.0
+2328,Kony,Field Support Services,USA,11300000.0
+1592,FieldAware,Software,IRL,11322080.0
+1517,Exosect,Biotechnology,GBR,11364384.0
+2433,Librato,SaaS,USA,11400000.0
+243,Amplience,E-Commerce,USA,11400000.0
+3848,Secret,Apps,USA,11400000.0
+2983,Nobel Hygiene,E-Commerce,IND,11500000.0
+3497,Pyramid Analytics,Analytics,NLD,11500000.0
+1046,Continuum Healthcare,Biotechnology,USA,11500000.0
+2923,Netatmo,Hardware,FRA,11579400.0
+1543,FTBpro,Media,GBR,11600000.0
+584,Blue Box,Enterprise Software,USA,11600000.0
+599,Bolt.io,Finance,USA,11700000.0
+1414,Elastic Path Software,Developer APIs,CAN,11738383.0
+2608,Mark43,Software,USA,11775000.0
+1707,Fuse Powered Inc.,Mobile,CAN,11800000.0
+5036,Yieldr,Advertising,NLD,11836720.0
+2071,Indix,Visualization,USA,11989460.0
+433,BCR Environmental,Clean Technology,USA,12000000.0
+4323,SynapSense,Wireless,USA,12000000.0
+3352,Pneuron,Enterprise Software,USA,12000000.0
+2598,Manthan Systems,Analytics,IND,12000000.0
+4042,Smart Pipe,Clean Technology,USA,12000000.0
+3834,Scotrenewables Tidal Power,Manufacturing,GBR,12000000.0
+817,Celtra Inc.,Mobile,USA,12000000.0
+4780,Verivo Software,Enterprise Software,USA,12000000.0
+126,AdTheorent,Advertising,USA,12000000.0
+2213,Jump Ramp Games,Mobile,USA,12000000.0
+4235,Strikingly,Mobile,USA,12000000.0
+4696,Unleashed Software,Software,NZL,12000000.0
+4418,TaxiForSure.com,Automotive,IND,12000000.0
+703,ByteLight,Mobile,USA,12000000.0
+4864,Vurb,Search,USA,12000000.0
+401,Avenida,Online Shopping,ARG,12000000.0
+895,Civicon,Consulting,KEN,12000000.0
+163,AetherPal,Mobile,USA,12000000.0
+1180,DanceOn,Music,USA,12000000.0
+831,Channel IQ,Software,USA,12000000.0
+2306,"Kiwi, Inc.",Android,USA,12000000.0
+4244,StyleSeat,Beauty,USA,12000000.0
+5329,nChannel,Data Integration,USA,12000000.0
+1690,Freeosk Inc,Advertising,USA,12000000.0
+93,Accurate Group,Real Estate,USA,12000000.0
+781,Carnival,Internet,USA,12000000.0
+5277,iZotope,Games,USA,12000000.0
+1606,FireHost,IaaS,USA,12000000.0
+4508,Three Squirrels E-commerce,E-Commerce,CHN,12000000.0
+510,Between,Photo Sharing,KOR,12000000.0
+27,3Pillar Global,Software,USA,12000000.0
+2762,Mobilewalla,Mobile,USA,12000000.0
+706,CARD.com,P2P Money Transfer,USA,12000000.0
+1031,Connected Data,Analytics,USA,12000000.0
+936,CloudByte,Storage,USA,12000000.0
+2019,ID90T,Travel,USA,12000000.0
+2750,Mnemosyne Pharmaceuticals,Biotechnology,USA,12000000.0
+1739,Gasngo,Hardware + Software,ISR,12000000.0
+3843,Seclore,Software,IND,12000000.0
+2140,Intercom,Software,USA,12000000.0
+3206,PassportParking,Enterprise Software,USA,12000000.0
+130,Adapx,Collaboration,USA,12000000.0
+1889,HDmessaging,Mobile,USA,12000000.0
+3821,Science Exchange,Marketplaces,USA,12000000.0
+1303,DoorDash,Small and Medium Businesses,USA,12000000.0
+149,Advanced Animal Diagnostics,Biotechnology,USA,12000000.0
+3686,Revision Military,Hardware + Software,USA,12000000.0
+5147,aPriori Technologies,Software,USA,12000000.0
+1129,Crushpath,Sales and Marketing,USA,12000000.0
+2359,LATTO,Personalization,ISR,12000000.0
+1794,Glow,Health and Wellness,JPN,12000000.0
+2723,MindMixer,Government Innovation,USA,12000000.0
+3326,Plaxica,Clean Technology,GBR,12122011.0
+2245,Kanjoya,Analytics,USA,12138006.0
+3188,Panna,Hospitality,USA,12150000.0
+2483,Locaid,Enterprise Software,USA,12150000.0
+54,ACCO Semiconductor,Semiconductors,USA,12191919.0
+1627,Flayr,Curated Web,FRA,12200000.0
+5303,lark,Hardware + Software,USA,12400000.0
+3907,ShapeUp,Health and Wellness,USA,12500000.0
+5260,iMoney Group,Finance,MYS,12500000.0
+2444,Lincor Solutions,Health Care,IRL,12500000.0
+558,Bizo,Advertising,USA,12500000.0
+3555,RJMetrics,Business Intelligence,USA,12500000.0
+5126,Zoom,Collaboration,USA,12500000.0
+4228,Storybird,Media,USA,12500000.0
+4242,StyleHaul,Fashion,USA,12500000.0
+4515,Tianma Medical Group,Biotechnology,CHN,12533912.0
+1998,HowAboutWe,Curated Web,USA,12600000.0
+797,Casetext,Legal,USA,12600000.0
+2038,Imagistx,Health and Wellness,CAN,12600000.0
+1957,Hightower,Mobile Enterprise,USA,12720000.0
+4582,Traxo,Tracking,USA,12720000.0
+1276,DirectPhotonics Industries,Manufacturing,DEU,12737340.0
+2629,MasteryConnect,Education,USA,12750000.0
+574,Bloodhound,Mobile,USA,12750000.0
+44,7signal Solutions,Web Hosting,USA,12750000.0
+1911,Happy Cloud,Games,USA,12750000.0
+1068,Cortica,Computer Vision,USA,12800000.0
+2933,NeuroPhage Pharmaceuticals,Biotechnology,USA,12800000.0
+4447,TempoDB,Services,USA,12800000.0
+5348,saperatec,Clean Technology,DEU,12851190.0
+472,BathEmpire,E-Commerce,GBR,12879637.0
+1888,HCS Control Systems,None,GBR,12879637.0
+997,Combatant Gentlemen,E-Commerce,USA,12880000.0
+5155,adjust,Mobile,USA,12900000.0
+4608,Trinity Place Holdings,Real Estate,USA,13000000.0
+4782,Veros Systems,Enterprise Software,USA,13000000.0
+3851,Securus Medical Group,Biotechnology,USA,13000000.0
+4765,Vend,SaaS,NZL,13000000.0
+3499,Q Factor Communications,Television,USA,13000000.0
+2458,LiquidPiston,Clean Technology,USA,13000000.0
+5292,itembase,E-Commerce,USA,13000000.0
+4871,Wacai,Software,CHN,13000000.0
+4872,Waicai,Finance,CHN,13000000.0
+1199,Dataguise,Enterprise Software,USA,13000000.0
+1905,Hampton Creek,Technology,USA,13000000.0
+3623,Redbooth,Mobile,USA,13000000.0
+681,BuildDirect,E-Commerce,CAN,13000000.0
+710,CENTRI Technology,Mobile,USA,13000000.0
+4198,Starmount,Shopping,USA,13000000.0
+2880,Namshi,E-Commerce,ARE,13000000.0
+2429,LevelEleven,Gamification,USA,13000000.0
+5068,Zadara Storage,Cloud Data Services,USA,13000000.0
+1758,Geo Semiconductor,Semiconductors,USA,13000000.0
+725,CS Networks,SMS,GBR,13129000.0
+3166,PTS Consulting,Consulting,GBR,13182687.0
+3578,Rapt Media,Video,USA,13195128.0
+2844,Muzy,Curated Web,USA,13200000.0
+4781,Vermillion,Health Care,USA,13242500.0
+5229,enGene,Biotechnology,CAN,13250000.0
+293,Appear Here,Marketplaces,GBR,13300000.0
+2093,Inktank,Enterprise Software,USA,13400000.0
+2418,Lendio,Finance,USA,13500000.0
+2843,Mustbin,Software,USA,13500000.0
+2299,Kitchensurfing,Hospitality,USA,13500000.0
+4137,Sparkcentral,Twitter Applications,USA,13500000.0
+282,AppGratis,App Stores,FRA,13500000.0
+4932,WhoKnows,Software,USA,13500000.0
+1569,Fast Drinks,Hospitality,ESP,13509300.0
+1651,Flurry,Mobile,USA,13520000.0
+1415,ElasticBox,PaaS,USA,13600000.0
+3017,Numecent,Enterprise Software,USA,13600000.0
+58,ADOMIC (formerly YieldMetrics),Advertising,USA,13600000.0
+4143,Specialized Tech,Clean Technology,CAN,13633363.0
+2272,Key Travel,Travel,GBR,13637262.0
+3722,Rockabox,Content,GBR,13637262.0
+3914,Shareable Ink,Enterprise Software,USA,13700000.0
+4513,TiGenix,Biotechnology,BEL,13700000.0
+3829,Scoopshot,Crowdsourcing,FIN,13737300.0
+767,Cardinal Blue Software,Curated Web,USA,13800000.0
+5330,nGage Labs,Mobile Coupons,USA,13800000.0
+5216,eSentire,Web Hosting,CAN,14000000.0
+1502,EveryMove,Corporate Wellness,USA,14000000.0
+3525,Qubole,Enterprise Software,USA,14000000.0
+2228,KISSmetrics,Sales and Marketing,USA,14000000.0
+3934,Shopgate,Apps,USA,14000000.0
+910,ClearFit,Curated Web,USA,14000000.0
+1198,Databricks,Analytics,USA,14000000.0
+4276,Surf Air,Transportation,USA,14000000.0
+2776,Modernizing Medicine,Software,USA,14000000.0
+1857,Greenlight Biosciences,Biotechnology,USA,14000000.0
+656,Brickell Biotech,Biotechnology,USA,14000000.0
+4255,SumAll,Analytics,USA,14000000.0
+5058,Yuantiku,Education,CHN,14000000.0
+1933,Heap,Analytics,USA,14000000.0
+3596,RealMatch,Career Management,USA,14000000.0
+4587,Treehouse,Education,USA,14000000.0
+1803,Goal Zero,Solar,USA,14000000.0
+4813,View the Space,Real Estate,USA,14000000.0
+2032,If You Can,Education,USA,14000000.0
+1041,Content Raven,Enterprise Software,USA,14000000.0
+1849,GreenBytes,Enterprise Software,USA,14000000.0
+1404,Education Development Center (EDC),Nonprofits,USA,14000000.0
+2835,Munchery,Hospitality,USA,14100000.0
+813,Cellrox,Mobile,ISR,14100000.0
+1358,EZBOB,Finance Technology,GBR,14147640.0
+1388,EdeniQ,None,USA,14150000.0
+802,Catalyze,Cloud Infrastructure,USA,14195000.0
+3044,Ocapo,E-Commerce,GBR,14394888.0
+3491,Pursway,Analytics,ISR,14400000.0
+5217,eShares,Internet,USA,14400000.0
+2431,Lex Machina,Legal,USA,14400000.0
+911,Clearbridge Biomedics,Biotechnology,SGP,14400000.0
+2002,Hullabalu,Education,USA,14400000.0
+553,Bitium,SaaS,USA,14400000.0
+2565,MacuLogix,Health Care,USA,14400000.0
+3274,Pharmalink,Biotechnology,SWE,14429158.0
+297,Appia,Advertising,USA,14500000.0
+2837,MusclePharm,Health and Wellness,USA,14500000.0
+3919,Shenzhouying Software Technology,Software,CHN,14563104.0
+4004,Skanray Technologies,Manufacturing,IND,14750000.0
+2329,KoolSpan,Security,USA,14800000.0
+1055,CoolaData,Analytics,ISR,14800000.0
+1656,Flywheel Software,Real Time,USA,14800000.0
+3211,PathoQuest,Biotechnology,FRA,14880000.0
+1468,Eos Energy Storage,Clean Technology,USA,15000000.0
+3337,Playnomics,Big Data,USA,15000000.0
+881,CircleUp,Venture Capital,USA,15000000.0
+3007,Novomer,Clean Technology,USA,15000000.0
+4379,TagMan,Advertising,USA,15000000.0
+3609,Recommind,Enterprise Software,USA,15000000.0
+750,Canva,Design,AUS,15000000.0
+5312,mParticle,Software,USA,15000000.0
+70,ARKeX,Consulting,GBR,15000000.0
+4225,Storenvy,Web Development,USA,15000000.0
+690,Business Insider,News,USA,15000000.0
+4118,Sound Pharmaceuticals,Healthcare Services,USA,15000000.0
+5107,Zimride,Public Transportation,USA,15000000.0
+2110,Insightera,None,USA,15000000.0
+5373,ubitus,Software,TWN,15000000.0
+870,Cieslok Media,Advertising,CAN,15000000.0
+3889,Sentient Energy,Clean Technology,USA,15000000.0
+2925,Netlist,Semiconductors,USA,15000000.0
+2163,Iris Mobile,Mobile,USA,15000000.0
+80,Abiquo,Virtualization,GBR,15000000.0
+1220,Declara,Education,USA,15000000.0
+4335,Syntertainment,Games,USA,15000000.0
+1163,DAQRI,Internet of Things,USA,15000000.0
+2675,MemSQL,Analytics,USA,15000000.0
+650,Breakthrough Behavioral,Therapeutics,USA,15000000.0
+1331,DueDil,Transaction Processing,GBR,15000000.0
+34,500Friends,E-Commerce,USA,15000000.0
+2457,LiquidM,Advertising,USA,15000000.0
+2179,Jana Mobile,Mobile,USA,15000000.0
+3182,Panasas,Storage,USA,15000000.0
+4962,Wishabi,Printing,CAN,15000000.0
+3424,Prism Pharmaceuticals,Medical,USA,15000000.0
+1320,Drivewyze,Public Transportation,CAN,15000000.0
+3702,Rimini Street,Enterprise Software,USA,15000000.0
+3240,Peerless Network,Web Hosting,USA,15000000.0
+551,Bitbar,Mobile,FIN,15000000.0
+4058,Snapguide,Curated Web,USA,15000000.0
+1293,Doctor on Demand,Health Care,USA,15000000.0
+5289,invino,Flash Sales,USA,15000000.0
+1002,CommonFloor,Real Estate,IND,15000000.0
+3683,Revenew,Advertising,USA,15000000.0
+1698,Frontback,Curated Web,USA,15000000.0
+3676,Retrofit,Personal Health,USA,15000000.0
+269,Apartment List,Online Rental,USA,15000000.0
+270,Apcera,Cloud Computing,USA,15000000.0
+5242,girnarsoft,Software,IND,15000000.0
+1298,Domino,Design,USA,15000000.0
+1267,Didi-Dache,Transportation,CHN,15000000.0
+2081,InfoScout,Brand Marketing,USA,15000000.0
+3476,PulsePoint,Internet Technology,USA,15000000.0
+4830,VisionCare Ophthalmic Technologies,Health Care,USA,15000000.0
+3232,Pebble,Hardware + Software,USA,15000000.0
+3375,Postmates,E-Commerce,USA,15000000.0
+2387,Lanx,Biotechnology,USA,15000000.0
+3060,Olo,Technology,USA,15000000.0
+5042,Yoka,Fashion,CHN,15000000.0
+1503,Evim.net,E-Commerce,TUR,15000000.0
+3083,OneSource Virtual,Enterprise Software,USA,15000000.0
+219,Alta Rail Technology,Hardware + Software,BRA,15000000.0
+3258,Persado,Advertising,USA,15000000.0
+770,CardioInsight Technologies,Health Care,USA,15000000.0
+1900,Halt Medical,Health Care,USA,15000000.0
+2162,Ioxus,Clean Technology,USA,15000000.0
+5028,YellowPepper,Finance,USA,15000000.0
+4320,SynCardia Systems,Health Care,USA,15000000.0
+3106,OpinionLab,Analytics,USA,15000000.0
+223,AltheRx Pharmaceuticals,Biotechnology,USA,15000000.0
+3502,QBotix,Hardware,USA,15000000.0
+4607,Trinity Pharma Solutions,Biotechnology,USA,15000000.0
+718,CMGE,Games,HKG,15010000.0
+1069,Coskata,Clean Technology,USA,15100000.0
+2372,LUX Assure,Clean Technology,GBR,15104070.0
+2712,Midatech,Manufacturing,GBR,15152514.0
+3494,Pwnie Express,Software,USA,15300000.0
+21,360incentives.com,Software,CAN,15300000.0
+2943,Newforma,Engineering Firms,USA,15300000.0
+4265,Sunrise,Design,USA,15400000.0
+5269,iSTAR Medical,Health Care,BEL,15439200.0
+1550,Falcon Social,Enterprises,DNK,15439200.0
+2722,Mind-NRG,Biotechnology,CHE,15439200.0
+1386,Econic Technologies,Manufacturing,GBR,15455564.0
+4628,Trustev,E-Commerce,USA,15500000.0
+2808,Moonfrye,Curated Web,USA,15500000.0
+4252,SugarSync,Curated Web,USA,15500000.0
+227,Altobridge,Mobile,FRA,15600000.0
+4184,Sproutling,Internet of Things,USA,15600000.0
+2138,Interact Public Safety,Software,USA,15622479.0
+2546,M-Files,Document Management,FIN,15686400.0
+1493,EverTrue,SaaS,USA,15750000.0
+4770,Vensun Pharmaceuticals,Biotechnology,USA,15800000.0
+1479,Estimote,Sensors,USA,15800000.0
+4445,Telormedix,Biotechnology,CHE,15850912.0
+3040,Objective Logistics,Big Data,USA,15900000.0
+3071,Once Innovations,None,USA,15900000.0
+3485,Pure360,Advertising,GBR,15910140.0
+55,ACM Capital Partners,Consulting,USA,16000000.0
+3360,PokitDok,Heathcare,USA,16000000.0
+1736,Gamma Medica,Biotechnology,USA,16000000.0
+4019,Skycatch,Aerospace,USA,16000000.0
+842,Checkmarx,Security,USA,16000000.0
+1201,Datahug,Analytics,IRL,16000000.0
+3504,QPID Health,Healthcare Services,USA,16000000.0
+2259,Keas,Human Resources,USA,16000000.0
+5386,yetu,Curated Web,DEU,16000000.0
+3986,Simply Measured,Analytics,USA,16000000.0
+1472,Equitas Holdings,Finance,IND,16000000.0
+3456,Protea Medical,Health Care,USA,16000000.0
+376,Aurora Biofuels,Clean Technology,USA,16000000.0
+666,Brightpearl,Business Services,USA,16000000.0
+1952,High Street Partners,Software,USA,16000000.0
+4180,Springbot,Big Data,USA,16000000.0
+1618,FitStar,Health and Wellness,USA,16000000.0
+3559,RSI (Reel Solar Inc),Clean Technology,USA,16000000.0
+3792,Salsify,Software,USA,16000000.0
+2977,Nipendo,Enterprise Software,USA,16000000.0
+3673,RethinkDB,Databases,USA,16000000.0
+3762,SIPX,Education,USA,16000000.0
+2109,InsightSquared,Analytics,USA,16000000.0
+3842,Seattle Biomedical Research Institute,Biotechnology,USA,16000000.0
+2290,Kinetic Social,Social Media Marketing,USA,16000000.0
+4659,UIEvolution,Mobile Software Tools,USA,16000000.0
+4385,TakeLessons,Software,USA,16000000.0
+1883,GutCheck,Customer Service,USA,16000000.0
+2412,Legend3D,Advertising,USA,16000000.0
+2512,LookSharp (powering InternMatch),Colleges,USA,16000000.0
+76,AVA.ai,Consulting,USA,16000000.0
+73,AT Internet,Software,FRA,16082500.0
+4766,VendAsta,Software,CAN,16147792.0
+863,ChowNow,Hospitality,USA,16194901.0
+1965,Hired,Marketplaces,USA,16200000.0
+3549,REACH Health,Health Care,USA,16200000.0
+371,Aujas Networks,Security,IND,16200000.0
+5060,Yunzhisheng,Mobile,CHN,16236400.0
+4136,SparkBase,Software,USA,16305120.0
+1903,Hammer & Chisel,Mobile,USA,16400000.0
+5129,Zoomdata,Analytics,USA,16400000.0
+3235,Peek.com,Tourism,USA,16500000.0
+321,Argyle Data,Software,USA,16500000.0
+2266,Kekanto,Reviews and Recommendations,BRA,16500000.0
+1870,Grovo,Video,USA,16500000.0
+231,Amagi Media Labs,Advertising,IND,16500000.0
+4451,TerraGo Technologies,Collaboration,USA,16500000.0
+1018,Comprehend Systems,Enterprise Software,USA,16800000.0
+3781,SaferTaxi,Mobile,ARG,16800000.0
+1533,Ezoic,Monetization,USA,16800000.0
+4977,Wool and the Gang,E-Commerce,GBR,16800000.0
+3318,Plaid,Software,USA,16800000.0
+4389,TalentBin,Recruiting,USA,16800000.0
+2249,Kapost,Content,USA,16800000.0
+991,Colingo,Language Learning,USA,16800000.0
+210,Allergen Research Corporation,Hospitality,USA,17000000.0
+1360,EagerPanda,Curated Web,USA,17000000.0
+3747,Ruby Ribbon,Fashion,USA,17000000.0
+5145,[x+1],Enterprise Software,USA,17000000.0
+2242,Kamcord,Games,USA,17000000.0
+3045,Oceans Healthcare,Health and Wellness,USA,17000000.0
+4236,StrongLoop,Distribution,USA,17000000.0
+2901,NatureBox,Retail,USA,17000000.0
+2336,Kreditech,Big Data,DEU,17000000.0
+3620,RedHill Biopharma,Biotechnology,ISR,17000000.0
+3271,Phagenesis,Biotechnology,GBR,17000000.0
+3483,Pure Energies Group,Clean Technology,CAN,17000000.0
+2385,Landpoint,Geospatial,USA,17000000.0
+3776,STI Technologies,Software,USA,17000000.0
+408,Avraham Pharmaceuticals,Biotechnology,ISR,17100000.0
+2146,Intigua,Enterprise Software,USA,17200000.0
+5049,YouBeauty,Health and Wellness,USA,17200000.0
+2760,MobileSpaces,Mobile,USA,17200000.0
+2349,Kurtosys,Software,GBR,17250000.0
+2024,IQcard,Nonprofits,RUS,17400000.0
+3430,Prizeo,Charity,USA,17500000.0
+2361,LE TOTE,E-Commerce,USA,17500000.0
+3522,Quantopian,Curated Web,USA,17600000.0
+2176,Jackrabbit,Clean Technology,USA,17700000.0
+2900,Nativo,Advertising,USA,17800000.0
+764,Carbylan BioSurgery,Health Care,USA,17999997.0
+879,Circle Internet Financial,Software,USA,18000000.0
+971,Codenvy,Enterprise Software,USA,18000000.0
+1947,Heverest.ru,E-Commerce,RUS,18000000.0
+279,AppDirect,PaaS,USA,18000000.0
+2649,MediWound,Biotechnology,ISR,18000000.0
+578,Bloomfire,Web Tools,USA,18000000.0
+3625,Redis Labs,IaaS,USA,18000000.0
+4886,WaterSmart Software,Software,USA,18000000.0
+5116,Zivame.com,Internet,IND,18000000.0
+3690,Revolv,Finance,USA,18000000.0
+4956,Wireless Glue Networks,Wireless,USA,18000000.0
+354,Atlantium,Clean Technology,ISR,18000000.0
+3718,Robinhood,Stock Exchanges,USA,18000000.0
+4763,VeliQ,Mobile,NLD,18000000.0
+1726,Gainsight,Surveys,USA,18000000.0
+1807,Goldbely,E-Commerce,USA,18000000.0
+2369,LOYAL3,Finance,USA,18000000.0
+2416,Lenddo,Finance,HKG,18000000.0
+4810,Vidyard,E-Commerce,USA,18000000.0
+387,Auvik Networks,Networking,CAN,18000000.0
+3761,SHIFT,Consumer Goods,USA,18000000.0
+3231,Peatix,E-Commerce,SGP,18000000.0
+3574,Ranker,Curated Web,USA,18000000.0
+1527,EyeEm,Apps,DEU,18000000.0
+3859,Seeq,None,USA,18000000.0
+1395,Edimer Pharmaceuticals,Biotechnology,USA,18000000.0
+1930,Healthrageous,Hardware + Software,USA,18000000.0
+3381,Power2SME,Enterprise Software,IND,18000000.0
+1405,EducationSuperHighway,Nonprofits,USA,18000000.0
+426,BA Insight,Software,USA,18000000.0
+1390,Edge Therapeutics,Biotechnology,USA,18000000.0
+593,Bluenose Analytics,Enterprise Software,USA,18000000.0
+2074,Indow Windows,Clean Technology,USA,18200000.0
+4305,SwiftStack,Storage,USA,18300000.0
+1010,Compario,Search,FRA,18460400.0
+4623,Trusper,Curated Web,USA,18510000.0
+957,Club W,Hospitality,USA,18600000.0
+1688,FreedomPop,Reviews and Recommendations,USA,18600000.0
+1234,Deliv,E-Commerce,USA,18700000.0
+1232,DeliRadio,Analytics,USA,18700000.0
+4636,Tune,App Marketing,USA,18800000.0
+3199,Parkmobile,Mobile,USA,18900000.0
+4351,THERAVECTYS,Biotechnology,FRA,18913020.0
+762,Carambola Media,Video,ISR,19000000.0
+2571,Magine,Games,SWE,19000000.0
+3289,PillPack,Health Care,USA,19150000.0
+3009,NowThis News,Mobile,USA,19200000.0
+4156,Splice,Music,USA,19250000.0
+4102,Sols,Curated Web,USA,19285409.0
+2262,Keen IO,Plumbers,USA,19396920.0
+2517,Loop Commerce,E-Commerce,USA,19400000.0
+3434,ProfitBricks,Enterprise Software,DEU,19500000.0
+4749,Vasopharm,Biotechnology,DEU,19500000.0
+3798,Sample6,Biotechnology,USA,19500000.0
+1316,Drill Map,Software,USA,19500000.0
+5015,YCharts,Investment Management,USA,19500000.0
+4407,Tapad,Software,USA,19500000.0
+540,Biowater Technology,Biotechnology,USA,19541595.0
+49,91JinRong,Finance,CHN,19580000.0
+2703,Mic Network,Opinions,USA,19600000.0
+4130,SpaceCurve,Big Data,USA,20000000.0
+4133,Spanfeller Media Group,Advertising,USA,20000000.0
+5263,iPinYou,Advertising,CHN,20000000.0
+1597,FilmTrack,Content Delivery,USA,20000000.0
+4194,Stackdriver,Enterprise Software,USA,20000000.0
+3610,Recondo,Enterprise Software,USA,20000000.0
+2779,Modus eDiscovery,Legal,USA,20000000.0
+37,51Talk,Education,CHN,20000000.0
+39,591wed,Curated Web,CHN,20000000.0
+1832,Grand Rounds,Healthcare Services,USA,20000000.0
+1672,Fortumo,Mobile Payments,EST,20000000.0
+2300,Kite Pharma,Biotechnology,USA,20000000.0
+1955,Highlight,Social + Mobile + Local,USA,20000000.0
+3783,SageCloud,Enterprise Software,USA,20000000.0
+2390,Lastline,Security,USA,20000000.0
+3095,Open-Xchange,Virtual Workforces,DEU,20000000.0
+3068,OnApp,Content Delivery,GBR,20000000.0
+4581,Trax Technologies,Consulting,USA,20000000.0
+3058,Olapic,Content,USA,20000000.0
+466,Bangcle Security,Security,CHN,20000000.0
+3849,Seculert,Enterprises,ISR,20000000.0
+4736,Vacation Listing Service,Curated Web,USA,20000000.0
+3042,ObserveIT,Cloud Security,USA,20000000.0
+946,CloudPhysics,Virtualization,USA,20000000.0
+1409,Egalet,Health Care,DNK,20000000.0
+1683,FraudMetrix,Security,CHN,20000000.0
+4619,True&Co,Online Shopping,USA,20000000.0
+1048,Convene,None,USA,20000000.0
+285,AppLift,Advertising,DEU,20000000.0
+2326,Konga Online Shopping Limited,E-Commerce,NGA,20000000.0
+2400,Leaf,Offline Businesses,USA,20000000.0
+1765,Gewara,Games,CHN,20000000.0
+2096,InnoPharma,Biotechnology,USA,20000000.0
+3236,Peel,Games,USA,20000000.0
+2577,Magzter,Mobile,USA,20000000.0
+4658,UGE,Clean Technology,USA,20000000.0
+3664,Restalo,Hotels,ESP,20000000.0
+3687,Revizer,Curated Web,ISR,20000000.0
+3688,Revolucionadolabs,Software,USA,20000000.0
+995,Colorescience,E-Commerce,USA,20000000.0
+1989,Hotel Urbano,Hotels,BRA,20000000.0
+4885,Watchwith,Advertising,USA,20000000.0
+3729,Rockwell Medical,Biotechnology,USA,20000000.0
+4657,UCloud Information Technology,Enterprise Software,CHN,20000000.0
+4741,Valyoo Technologies,Fashion,IND,20000000.0
+5074,Zazma,Payments,USA,20000000.0
+3900,Servergy,Design,USA,20000000.0
+3985,Simplilearn,Certification Test,USA,20000000.0
+4229,Stratoscale,Software,ISR,20000000.0
+2851,MyDentist,Health Care,IND,20000000.0
+1210,Dauria Aerospace,Robotics,DEU,20000000.0
+2023,IPG,Health Care,USA,20000000.0
+4762,Veggie Grill,Hospitality,USA,20000000.0
+4504,Thinking Phone Networks,Enterprise Software,USA,20000000.0
+3498,Pyreos,Hardware + Software,GBR,20000000.0
+115,Acumatica,Development Platforms,USA,20000000.0
+3486,PureCars,Automotive,USA,20000000.0
+693,Butterfly Health,Health and Wellness,USA,20000000.0
+4764,VelociData,Analytics,USA,20000000.0
+3478,Punchh,Big Data,USA,20000000.0
+552,Bitglass,Cloud Security,USA,20000000.0
+2812,Morphlabs,Cloud Management,USA,20000000.0
+3954,Sift Science,Security,USA,20000000.0
+1885,Gyft,Social Network Media,USA,20000000.0
+3929,ShopAdvisor,Mobile Shopping,USA,20000000.0
+3930,ShopClues.com,E-Commerce,IND,20000000.0
+5194,deviantART,Curated Web,USA,20075408.0
+2465,Lithera,Biotechnology,USA,20100000.0
+4349,THE Football App,Mobile,DEU,20100265.0
+4115,Sosh,Social Media,USA,20200000.0
+5278,icix,Enterprise Software,USA,20260717.0
+15,2U,Software,USA,20400000.0
+481,Bebestore,E-Commerce,BRA,20400000.0
+3679,Return Path,Sales and Marketing,USA,20400000.0
+4567,TradeHero,Finance,SGP,20464859.0
+1590,Fidelis SeniorCare,Health and Wellness,USA,20500000.0
+2929,Nettwerk Music Group,Music,CAN,20500000.0
+3604,RebelMouse,Publishing,USA,20500000.0
+2459,LiquidSpace,Real Estate,USA,20600000.0
+508,BetterDoctor,Heathcare,USA,20800000.0
+2491,Locality,Offline Businesses,USA,20900000.0
+3200,Parsely,Analytics,USA,20931012.0
+961,Clutch,Analytics,USA,20979994.0
+909,ClearDATA,Cloud Infrastructure,USA,21000000.0
+318,ArborMetrix,SaaS,USA,21000000.0
+1747,Gen9,Biotechnology,USA,21000000.0
+869,Chute,iOS,USA,21000000.0
+195,Albumatic,Photo Sharing,USA,21000000.0
+719,COMS Interactive,Biotechnology,USA,21000000.0
+1043,Context Relevant,Predictive Analytics,USA,21000000.0
+1150,CyPhy Works,Manufacturing,USA,21000000.0
+2683,Merchantry,E-Commerce,GBR,21000000.0
+5376,vArmour,Software,USA,21000000.0
+1393,Edgecase (formerly Compare Metrics),Enterprise Software,USA,21000000.0
+1931,Healthsense,Biotechnology,USA,21000000.0
+1761,GetTaxi,Transportation,ISR,21000000.0
+1212,Dayima,Social Media,CHN,21000000.0
+4302,Swift Biosciences,Biotechnology,USA,21000000.0
+2940,NewLeaf Symbiotics,Biotechnology,USA,21000000.0
+4116,Souche,E-Commerce,CHN,21000000.0
+167,Affinity Solutions,Finance,USA,21000000.0
+4466,The Fabric,Web Hosting,USA,21000000.0
+3898,Seres Health,Biotechnology,USA,21000000.0
+4307,Swiftype,Real Time,USA,21100000.0
+4798,ViaCyte,Biotechnology,USA,21200000.0
+3084,OneSpot,Content,USA,21200000.0
+2382,Lamellar Biomedical,Biotechnology,GBR,21204236.0
+1787,Glide Pharma,Biotechnology,GBR,21220762.0
+1462,Entangled Media,Synchronization,USA,21240000.0
+1588,Fiberstar,Biotechnology,USA,21280000.0
+2927,Netskope,Software,USA,21400000.0
+235,Amedica,Health Care,USA,21500000.0
+4997,WyzAnt.com,Education,USA,21500000.0
+4634,Tulip Retail,E-Commerce,CAN,21600000.0
+5325,myDocket,Productivity Software,USA,21600000.0
+2332,Koru,Education,USA,21750000.0
+101,Acompli,Android,USA,21900000.0
+1961,HipLogiq,Social Media Marketing,USA,22000000.0
+5005,Xangati,Security,USA,22000000.0
+2059,Inadco,Advertising,USA,22000000.0
+3922,Shijiebang,Education,CHN,22000000.0
+1899,Hall,Collaboration,USA,22000000.0
+1392,EdgeSpring,Analytics,USA,22000000.0
+1817,GoodData,Collaboration,USA,22000000.0
+347,Assured Labor,Curated Web,USA,22000000.0
+2453,Linkwell Health,Health and Wellness,USA,22000000.0
+3528,QuickPay,Mobile,USA,22000000.0
+649,Breadtrip,Travel,CHN,22000000.0
+3458,Protein Bar,Hospitality,USA,22000000.0
+769,CardioFocus,Biotechnology,USA,22000000.0
+2497,LocoMobi,Mobile,USA,22000000.0
+4300,Sweetgreen,Hospitality,USA,22000000.0
+5218,eSolar,Clean Technology,USA,22000000.0
+2834,Multiplicom,Biotechnology,BEL,22095150.0
+389,Auxogyn,Health Care,USA,22101360.0
+2380,Lagoa,Games,CAN,22300000.0
+3787,Saladax Biomedical,Biotechnology,USA,22400000.0
+441,BTI Payments,Curated Web,IND,22400000.0
+3801,Sano,Health and Wellness,USA,22500000.0
+1942,HelloFresh,Hospitality,USA,22500000.0
+2274,Keychain Logistics,Marketplaces,USA,22680000.0
+5149,about.me,Identity Management,USA,22700000.0
+4653,Tynker,Education,USA,22750000.0
+4718,Usermind,Software,USA,22800000.0
+3333,Playdek,iPhone,USA,22800000.0
+1139,Cureatr,Health Care,USA,22800000.0
+2743,Mission Critical Electronics,Manufacturing,USA,22800000.0
+4453,Tesora,Cloud Infrastructure,USA,22800000.0
+4290,Sutures India,Manufacturing,IND,22900000.0
+4789,Vertos Medical,Biotechnology,USA,23000000.0
+1979,Honest Buildings,Commercial Real Estate,USA,23000000.0
+1568,Fashion Project,Fashion,USA,23000000.0
+3844,Second Genome,Biotechnology,USA,23000000.0
+4452,Terrajoule,Hardware + Software,USA,23000000.0
+4144,Speek,Software,USA,23100000.0
+4609,Trino Therapeutics,Biotechnology,IRL,23158800.0
+4478,The Mobile Majority,Mobile Video,USA,23200000.0
+3173,PaeDae,Advertising,USA,23200000.0
+1669,FormaFina,Lifestyle,ARG,23200000.0
+2057,InVision,Interface Design,USA,23200000.0
+4371,TabbedOut,Mobile Payments,USA,23250000.0
+1727,Gainspeed,Web Hosting,USA,23272000.0
+4706,Upstart,Finance,USA,23600000.0
+3861,Sefaira,Software,USA,23600000.0
+1294,DocuTAP,Health Care,USA,23800000.0
+351,AtheroMed,Health Care,USA,23832496.0
+1263,Dianrong.com,Finance,CHN,24000000.0
+4892,We Heart It,Photo Sharing,USA,24000000.0
+3158,PLASTIQ,E-Commerce,USA,24000000.0
+3170,Paddle8,E-Commerce,USA,24000000.0
+4928,Whistle,Technology,USA,24000000.0
+3713,RiverMeadow Software,Software,USA,24000000.0
+3218,Paxata,Analytics,USA,24000000.0
+4748,Vasona Networks,Mobile,USA,24000000.0
+4640,Turbine Air Systems,Manufacturing,USA,24000000.0
+4098,Solicore,None,USA,24000000.0
+4052,SnagFilms,Video,USA,24000000.0
+3894,Sequent,Software,USA,24000000.0
+4498,Thin Film Electronics ASA,None,NOR,24000000.0
+5098,Zetta.net,Enterprise Software,USA,24000000.0
+1216,Decide.com,Consumer Electronics,USA,24000000.0
+884,Cirro,Software,USA,24000000.0
+3872,SendHub,SMS,USA,24000000.0
+4419,Taykey,Advertising,USA,24000000.0
+5264,iROKO Partners,Games,GBR,24000000.0
+5067,ZYOMYX,Biotechnology,USA,24000000.0
+5065,ZIMPERIUM,Mobile Devices,ISR,24000000.0
+388,Auxmoney,Finance,DEU,24000000.0
+4310,Swirl,Retail,USA,24000000.0
+4806,Videdressing,Marketplaces,FRA,24000000.0
+3091,OpTier,Analytics,USA,24000000.0
+1938,Hector Beverages,Hospitality,IND,24000000.0
+3098,OpenGov,Analytics,USA,24000000.0
+4602,Trifacta,Software,USA,24000000.0
+4709,Upworthy,Social Media,USA,24000000.0
+222,"Alteryx, Inc.",Data Integration,USA,24000000.0
+3124,OrthoSensor,Health Care,USA,24000000.0
+1236,Delivery Club,E-Commerce,RUS,24000000.0
+1074,CounterTack,Cloud Security,USA,24000000.0
+4108,Sonian,E-Commerce,USA,24000000.0
+460,Bamatea,E-Commerce,CHN,24012806.0
+4756,Vectra Networks,Security,USA,24080000.0
+4360,TROD Medical,Health Care,FRA,24445400.0
+4613,Trivitron Healthcare,Biotechnology,IND,24500000.0
+4226,Stormpath,Software,USA,24600000.0
+3641,Relay Foods,E-Commerce,USA,24750000.0
+4397,Tango Card,Enterprise Software,USA,24750000.0
+1436,EnTouch Controls,Clean Technology,USA,24750000.0
+4337,Synthego,None,USA,24882678.0
+339,Art.com,Design,USA,24960000.0
+4833,Visualant,Semiconductors,USA,25000000.0
+1209,Datto,Storage,USA,25000000.0
+5281,imgix,Internet Infrastructure,USA,25000000.0
+4550,Topera,Health Care,USA,25000000.0
+78,Abe's Market,E-Commerce,USA,25000000.0
+1014,Complex Media,Games,USA,25000000.0
+526,BioAmber,Biotechnology,USA,25000000.0
+2902,Navigat Group,Manufacturing,IDN,25000000.0
+2086,InfraReDx,Health Care,USA,25000000.0
+1679,Fractal Analytics,Big Data,USA,25000000.0
+5035,Yieldbot,Analytics,USA,25000000.0
+883,Ciris Energy,Clean Technology,USA,25000000.0
+2914,Nektar Therapeutics,Biotechnology,USA,25000000.0
+1730,Game Insight,Facebook Applications,LTU,25000000.0
+4548,TopLine Game Labs,Games,USA,25000000.0
+1455,Engrade,High Schools,USA,25000000.0
+1317,Drillinginfo,Oil and Gas,USA,25125006.0
+669,Brit + Co.,E-Commerce,USA,25200000.0
+3671,Retailigence,Developer APIs,USA,25200000.0
+2321,Koa.la,Photography,USA,25200000.0
+145,Adore Me,Fashion,USA,25500000.0
+2727,Minimally invasive devices,Enterprise Software,USA,25500000.0
+4627,Trusted Insight,Finance,USA,25600000.0
+1230,Dekko,Computer Vision,USA,25600000.0
+403,Aventura,Software,USA,25800000.0
+3695,Rheonix,Biotechnology,USA,26000000.0
+3344,Plumbee,Games,GBR,26000000.0
+3657,RepairPal,Curated Web,USA,26000000.0
+3080,"OneLogin, Inc.",Enterprise Software,USA,26000000.0
+1635,Flint,Mobile,USA,26000000.0
+1410,Ejoy Technology,Games,CHN,26220000.0
+4218,Stitch Fix,Fashion,USA,26250000.0
+3185,PandoDaily,Blogging Platforms,USA,26500000.0
+5228,emids,Software,USA,26600000.0
+1005,CompStak,Big Data,USA,26700000.0
+1056,Cooltech Applications,Clean Technology,FRA,26727300.0
+5375,urturn,Internet,CHE,26800000.0
+3107,Opsmatic,Enterprise Software,USA,27000000.0
+685,BuildingIQ,Software,USA,27000000.0
+583,Blue Apron,Hospitality,USA,27000000.0
+313,Appurify,Testing,USA,27000000.0
+3626,Reduxio,Web Hosting,ISR,27000000.0
+2525,LoyalBlocks,Mobile,USA,27000000.0
+3316,PlaceIQ,Advertising,USA,27000000.0
+1022,Concept.io,Personalization,USA,27000000.0
+2470,Live Gamer,Monetization,USA,27200000.0
+741,Cambridge Communication Systems,Hardware + Software,GBR,27329268.0
+1159,Cytomedix,Biotechnology,USA,27500000.0
+1812,Good Eggs,Hospitality,USA,27500000.0
+3346,Pluralsight,Education,USA,27500000.0
+2788,Molecular Templates,Health Care,USA,27600000.0
+2166,Isabella Products,Hardware + Software,USA,27600000.0
+3306,Pixalate,Analytics,USA,27750000.0
+3608,Recommerce Solutions,Public Relations,FRA,27896610.0
+2069,Index,Enterprise Software,USA,28000000.0
+417,Axiom,Legal,USA,28000000.0
+614,Boost Media,Optimization,USA,28000000.0
+1981,HookLogic,E-Commerce,USA,28000000.0
+3811,Scan,Software,USA,28000000.0
+1813,Good Start Genetics,Biotechnology,USA,28000000.0
+3743,Rover.com,Peer-to-Peer,USA,28000000.0
+104,Acousticeye,Clean Technology,USA,28000000.0
+48,908 Devices,Manufacturing,USA,28000000.0
+3001,NovaDigm Therapeutics,Biotechnology,USA,28000000.0
+662,Bright.com,Curated Web,USA,28000000.0
+3254,Perfint Healthcare,Biotechnology,IND,28000000.0
+2446,Lineagen,Biotechnology,USA,28000000.0
+2573,Magma Global,Manufacturing,GBR,28064672.0
+4107,Songza,Music,USA,28200000.0
+2160,Ionic Security,Security,USA,28200000.0
+826,Cervel Neurotech,Health Care,USA,28200000.0
+1953,Highfive,Enterprise Software,USA,28200000.0
+1940,Heliae,Biotechnology,USA,28400000.0
+4951,Winters Bros. Waste Systems,Local Businesses,USA,28500000.0
+865,Chromatik,Education,USA,28500000.0
+2886,Nanostim,Health Care,USA,28502724.0
+2785,Moki - formerly MokiMobility,Mobile,USA,28533950.0
+3364,PolyActiva,Biotechnology,AUS,28590000.0
+2921,NetBase Solutions,Analytics,USA,28800000.0
+3363,PolicyBazaar,Finance,IND,28800000.0
+1620,Fits.me,SaaS,GBR,28800000.0
+300,Applauze,Mobile,USA,28800000.0
+4538,TitanX Engine Cooling,Manufacturing,SWE,28957627.0
+3775,STAT-Diagnostica,Biotechnology,ESP,28966470.0
+1313,DreamBox Learning,Tutoring,USA,29000000.0
+832,Channel Medsystems,Biotechnology,USA,29361000.0
+3806,Savara Pharmaceuticals,Nanotechnology,USA,29600000.0
+4104,Soma,Hardware + Software,USA,29600000.0
+1859,GridGain Systems,Analytics,USA,30000000.0
+2231,Kaazing,Enterprise Software,GBR,30000000.0
+3120,OrderWithMe,Software,CHN,30000000.0
+2828,Moxtra,Mobile,USA,30000000.0
+531,BioNano Genomics,Maps,USA,30000000.0
+2690,Metacloud,Cloud Management,USA,30000000.0
+2696,MetroMile,Technology,USA,30000000.0
+2137,InteraXon,Hardware + Software,CAN,30000000.0
+442,BTI Systems,Software,USA,30000000.0
+3212,Pathogenetix,Biotechnology,USA,30000000.0
+2733,Mintigo,Business Intelligence,USA,30000000.0
+3632,Refresh.io,Software,USA,30000000.0
+1314,DreamHost,Web Hosting,USA,30000000.0
+1349,E96,Online Shopping,RUS,30000000.0
+1927,HealthLoop,Health and Wellness,USA,30000000.0
+4046,SmartRecruiters,Software,USA,30000000.0
+3978,Simplee,Health Care Information Technology,USA,30000000.0
+1272,Digital Lumens,Clean Technology,USA,30000000.0
+2987,Nok Nok Labs,Security,USA,30000000.0
+1372,Eat Club,E-Commerce,USA,30000000.0
+4399,TaoTaoSou,Curated Web,CHN,30000000.0
+5136,Zubie,Hardware + Software,USA,30000000.0
+5133,Zoove,Mobile,USA,30000000.0
+1779,Gizmox,Software,USA,30000000.0
+4269,Superfish,Search,USA,30000000.0
+2569,Mafengwo,Public Transportation,CHN,30000000.0
+4573,TransferWise,Virtualization,GBR,30000000.0
+197,Alcresta,Biotechnology,USA,30000000.0
+3479,Puppet Labs,Services,USA,30000000.0
+5078,Zebit,Finance,GBR,30000000.0
+2112,Insightly,Software,USA,30000000.0
+3853,SeeChange Health,Health and Wellness,USA,30000000.0
+1155,Cylance,Security,USA,30000000.0
+2957,NextCode Health,Biotechnology,USA,30000000.0
+4829,Visier,Analytics,CAN,30000000.0
+2370,LP Amina,Clean Technology,USA,30000000.0
+5371,uSamp,Mobile,USA,30000000.0
+2527,Lucidworks,Enterprise Search,USA,30000000.0
+491,Beleza na Web,Women,BRA,30000000.0
+1446,Energy Excelerator,Startups,USA,30000000.0
+1790,Global Analytics,Analytics,USA,30000000.0
+3846,Secoo,E-Commerce,CHN,30000000.0
+1907,Handybook,None,USA,30000000.0
+4362,TRUECar,Public Transportation,USA,30000000.0
+3961,Signpost,CRM,USA,30000000.0
+954,Cloudscaling,SaaS,USA,30000000.0
+2338,Kroll Bond Rating Agency,Finance,USA,30000000.0
+3947,SiSense,Big Data,ISR,30000000.0
+849,ChemistDirect,E-Commerce,GBR,30000000.0
+4870,WSO2,Software,USA,30000000.0
+1668,ForgeRock,Enterprise Software,USA,30000000.0
+240,Amicus Therapeutics,Health Care,USA,30000000.0
+3820,Science,Finance,USA,30000000.0
+4254,Sulia,Social Media,USA,30000000.0
+2689,MetaPack,E-Commerce,GBR,30305028.0
+4484,The Training Room (TTR),Health and Wellness,GBR,30305028.0
+801,Catalyst Biosciences,Biotechnology,USA,30432000.0
+3541,Quri,Software,USA,30600000.0
+5212,eNovance,Open Source,FRA,30797264.0
+4845,Vivino,Mobile,DNK,30900000.0
+4142,Speakaboos,Language Learning,USA,31000000.0
+514,Biba,Mobile,USA,31030000.0
+602,Bone Therapeutics,Biotechnology,BEL,31055640.0
+2653,MediaSpike,Social Games,USA,31200000.0
+1926,HealthEngine,Doctors,AUS,31200000.0
+2566,Madefire,Mobile,USA,31372672.0
+5158,aisle411,Android,USA,31700000.0
+3472,PubNub,Apps,USA,31800000.0
+3111,"Optimal, Inc.",SaaS,USA,32000000.0
+3836,ScribbleLive,Advertising,CAN,32000000.0
+2811,Moovweb,Apps,USA,32000000.0
+3824,Scioderm,Biotechnology,USA,32000000.0
+3980,Simpli.fi,Search,USA,32000000.0
+425,B5M.COM,E-Commerce,CHN,32000000.0
+2896,NationBuilder,Politics,USA,32000000.0
+3190,Panoramic Power,Clean Technology,ISR,32000000.0
+1772,Gild,Recruiting,USA,32000000.0
+2134,Intellicyt,Biotechnology,USA,32000000.0
+3521,QuantiaMD,Social Media,USA,32000000.0
+5341,peerTransfer,Payments,USA,32000000.0
+3189,Panorama Education,Education,USA,32000000.0
+1122,CrowdWorks,Curated Web,JPN,32100000.0
+1165,DC Devices,Health Care,USA,32210508.0
+1531,Eyeview,Online Video Advertising,USA,32400000.0
+621,Bottlenose,Ediscovery,USA,32400000.0
+3426,Privalia,E-Commerce,ESP,32442500.0
+3020,Nurotron Biotechnology,Biotechnology,CHN,32472800.0
+691,Bustle,Curated Web,USA,32500000.0
+2397,LeTV,Photography,CHN,32500000.0
+1082,CoverHound,Cars,USA,32725952.0
+5099,Zettics,Software,USA,32799996.0
+3061,Omada Health,Education,USA,32900000.0
+1640,Flite,Mobile Advertising,USA,33000000.0
+1830,Grand Cru,Games,FIN,33000000.0
+1006,ComparaOnline,Personal Finance,CHL,33000000.0
+1603,FindTheBest,Search,USA,33000000.0
+1743,Gecko Biomedical,Biotechnology,FRA,33000000.0
+1514,Exeter Property Group,Real Estate,USA,33000000.0
+85,Academia.edu,Social Media,USA,33300000.0
+2130,Integrate,Software,USA,33500000.0
+964,CoachUp,Training,USA,33500000.0
+3714,Riverchase Dermatology and Cosmetic Surgery,Health Care,USA,33620000.0
+4850,VoloAgri Group,Finance,USA,33680000.0
+5008,Xenex Disinfection Services,Biotechnology,USA,33900000.0
+904,ClassDojo,Kids,USA,34000000.0
+1609,FirstFuel Software,Analytics,USA,34000000.0
+1676,FoundationDB,Analytics,USA,34000000.0
+4661,URX,Mobile,USA,34100000.0
+3263,Personetics Technologies,Finance,USA,34500000.0
+1049,Conventus Orthopaedics,Biotechnology,USA,34500999.0
+5332,nWay,Games,USA,35000000.0
+450,BackOps,Human Resources,USA,35000000.0
+2439,Liftopia,Twin-Tip Skis,USA,35000000.0
+3518,Quandoo,Online Reservations,DEU,35000000.0
+2102,Inotek Pharmaceuticals,Biotechnology,USA,35000000.0
+2407,LearnZillion,Technology,USA,35000000.0
+1909,Hangtime,Curated Web,USA,35000000.0
+3159,PPDai,Finance,CHN,35000000.0
+4986,WorldOne,Analytics,USA,35000000.0
+110,Active International,Advertising,USA,35000000.0
+3156,PICS Auditing,Enterprise Software,USA,35000000.0
+1507,Evolv Technologies,None,USA,35457321.0
+3705,Ripple Labs,Finance Technology,USA,35500000.0
+333,Arrayent,Software,USA,35700000.0
+168,Affinium Pharmaceuticals,Health Care,USA,35700000.0
+2655,Mediaspectrum,Software,USA,35800000.0
+1118,CrowdStar,Games,USA,36000000.0
+315,Apsalar,Data Integration,USA,36000000.0
+2852,MyFitnessPal,Personal Health,USA,36000000.0
+618,Boreal Genomics,Analytics,USA,36000000.0
+1102,Crittercism,Mobile,USA,36000000.0
+2513,Looker,Analytics,USA,36000000.0
+704,C9 Inc.,News,USA,36000000.0
+413,Axeda,Enterprise Software,USA,36000000.0
+582,Blue Ant Media,None,CAN,36000000.0
+733,Calastone,Finance,GBR,36000000.0
+3264,PerspecSys,CRM,CAN,36000000.0
+2765,Mobiquity,Mobile,USA,36000000.0
+4936,WibiData,Enterprise Software,USA,36000000.0
+1473,Eruditor Group,Curated Web,RUS,36000000.0
+2854,MyOptique Group,E-Commerce,GBR,36366033.0
+2356,Kyriba Corporation,Payments,USA,36400000.0
+2792,MomentFeed,Social Media Marketing,USA,36500000.0
+3115,Optimum Energy,M2M,USA,36600000.0
+1960,Hinge,Mobile,USA,36899991.0
+3808,ScaleArc,Software,USA,36900000.0
+908,Clean Power Finance,Clean Technology,USA,37000000.0
+2377,Labcyte,Biotechnology,USA,37100000.0
+1284,Distech Controls,Clean Technology,CAN,37134206.0
+2805,Monteris Medical,Health Care,USA,37200000.0
+4957,Wireless Seismic,Hardware + Software,USA,37500000.0
+4047,SmartThings,Home Automation,USA,37500000.0
+1712,"G1 Therapeutics, Inc.",Biotechnology,USA,37500000.0
+4370,TabTale,Games,MKD,37500000.0
+254,AngioSlide,Health Care,USA,37800000.0
+3278,Philo,Television,USA,37800000.0
+5287,infirst Healthcare,Health and Wellness,GBR,37972639.0
+647,Branding Brand,Mobile Commerce,USA,38000000.0
+1852,GreenWave Reality,Software,USA,38000000.0
+860,Choose Energy,Clean Technology,USA,38000000.0
+4961,Wish,Curated Web,USA,38000000.0
+2051,InContext Solutions,Software,USA,38111580.0
+4080,SocialRadar,Location Based Services,USA,38250000.0
+319,Arctic Sand Technologies,Hardware + Software,USA,38400000.0
+5333,navabi,Retail,DEU,38598000.0
+4390,TalentSoft,Software,FRA,38598000.0
+2603,Marco Vasco,Travel,FRA,38598000.0
+3581,Raydiance,Manufacturing,USA,38800000.0
+2178,Jama Software,Software,USA,39000000.0
+3129,Ostara,Clean Technology,CAN,39000000.0
+948,CloudVelocity,Enterprise Software,USA,39000000.0
+3571,Rainbow Hospitals,Biotechnology,IND,39000000.0
+2072,Indochino,E-Commerce,CAN,39000000.0
+4505,ThirdLove,Mobile Shopping,USA,39200000.0
+2633,Matterport,Cloud Computing,USA,39200000.0
+4792,Vestagen Technical Textiles,Health and Wellness,USA,39350000.0
+1959,Hillerich & Bradsby,Curated Web,USA,40000000.0
+2442,Lighting Science Group,Clean Technology,USA,40000000.0
+3057,Olacabs,E-Commerce,IND,40000000.0
+1093,Credorax,E-Commerce,USA,40000000.0
+2794,Monetate,Testing,USA,40000000.0
+2099,Innovative Pulmonary Solutions,Health and Wellness,USA,40000000.0
+3257,PernixData,Enterprise Software,USA,40000000.0
+72,ASI System Integration,Consulting,USA,40000000.0
+5166,babbel,Language Learning,DEU,40000000.0
+3249,Peraso Technologies,Semiconductors,CAN,40000000.0
+521,Bigcommerce,Web Development,USA,40000000.0
+1231,Delenex Therapeutics,Biotechnology,CHE,40000000.0
+1383,EcoFactor,Enterprise Software,USA,40000000.0
+4443,Telly,Mobile,USA,40000000.0
+88,Accela,Software,USA,40000000.0
+94,AcelRx Pharmaceuticals,Health Care,USA,40000000.0
+3755,SAGE Therapeutics,Biotechnology,GBR,40000000.0
+3658,Replicon,Enterprise Software,CAN,40000000.0
+1508,Evotec,Biotechnology,DEU,40000000.0
+234,Ambiq Micro,Semiconductors,USA,40000000.0
+5222,ecoATM,Clean Technology,USA,40000000.0
+4021,Skyhigh Networks,Data Security,USA,40000000.0
+4630,TubeMogul,Analytics,USA,40000000.0
+2701,Miaozhen Systems,Advertising,CHN,40000000.0
+3823,Scifiniti,Clean Technology,USA,40000000.0
+4482,The Receivables Exchange,Finance,USA,40000000.0
+3825,Sckipio Technologies,Semiconductors,ISR,40000000.0
+4251,SugarCRM,CRM,USA,40000000.0
+17,3-V Biosciences,Biotechnology,USA,40000000.0
+1418,Electric Cloud,Software,GBR,40000000.0
+2432,Leyden Energy,Manufacturing,USA,40000000.0
+1147,CustomInk,Fashion,USA,40000000.0
+4824,Virident Systems,Technology,USA,40000000.0
+2968,Nginx,Software,USA,40000000.0
+3916,Shazam Entertainment,iOS,USA,40000000.0
+3500,Q2ebanking,Software,USA,40000000.0
+2503,Loggly,Enterprise Software,USA,40000000.0
+5072,Zamplus Technology,Enterprise Software,CHN,40000000.0
+4262,Sungy Mobile,Mobile Software Tools,CHN,40000000.0
+2502,Logentries,Business Analytics,USA,40000000.0
+4533,TinyCo,Games,USA,40000000.0
+4827,Virtustream,Enterprise Software,USA,40000000.0
+1235,Delivery Agent,E-Commerce,USA,40364800.0
+4832,Visterra,Biotechnology,USA,40500000.0
+1342,E la Carte,Hardware + Software,USA,40500000.0
+2713,Middle Peak Medical,Biotechnology,USA,40500000.0
+2958,NextDocs,Software,USA,40500000.0
+2251,Kareo,Software,USA,41000000.0
+1330,Duda,Curated Web,USA,41200000.0
+400,Aveillant,Consulting,GBR,41336308.0
+2928,Netsocket,Networking,USA,41500000.0
+1762,GetYourGuide,Marketplaces,CHE,42000000.0
+4790,Verve Mobile,Mobile,USA,42000000.0
+827,ChaCha,Search,USA,42000000.0
+5001,XMOS,Semiconductors,GBR,42000000.0
+2161,Iora Health,Health and Wellness,USA,42000000.0
+1312,Drawbridge Inc.,Ad Targeting,USA,42000000.0
+4103,Solve Media,Video,USA,42000000.0
+326,Ariisto,Real Estate,IND,42000000.0
+198,Aldera,Heathcare,USA,42000000.0
+2616,Marqeta,Curated Web,USA,42000000.0
+3536,Quorum,Network Security,USA,42000000.0
+1945,Heptares Therapeutics,Biotechnology,GBR,42000000.0
+1443,EndoStim,Biotechnology,USA,42300000.0
+2536,Luxoft,Technology,RUS,42400000.0
+3174,PagerDuty,IT Management,USA,42800000.0
+3090,Ooyala,Video,USA,43000000.0
+1740,Gati Infrastructure,Clean Technology,IND,43000000.0
+2772,Moda Operandi,Fashion,USA,43215812.0
+4459,Thalmic Labs,Health and Wellness,CAN,43500000.0
+4093,Sol Voltaics,Clean Technology,SWE,43600000.0
+174,Aggregate Knowledge,Advertising,USA,43974495.0
+1863,Gridstore,Web Development,USA,44000000.0
+2101,Innovid,Virtualization,USA,44000000.0
+4291,Svelte Medical Systems,Health Care,USA,44000000.0
+3055,Oktogo,Hospitality,USA,44000000.0
+3094,Open Road Integrated Media,Advertising,USA,44000000.0
+36,500px,Photography,CAN,44000000.0
+2358,Kyruus,Heathcare,USA,44000000.0
+3517,Quad Learning,Education,USA,44000000.0
+3369,Poppin,E-Commerce,USA,44400000.0
+1655,Flywheel,Mobile,USA,44400000.0
+4212,Stem,Enterprise Software,USA,45000000.0
+245,Anacor Pharmaceutical,Health Care,USA,45000000.0
+3955,SigFig,Finance,USA,45000000.0
+2344,Kumu Networks,Mobile,USA,45000000.0
+665,Brighter.com,Curated Web,USA,45000000.0
+2664,Medivo,Enterprise Software,USA,45000000.0
+1578,FeedHenry,PaaS,USA,45000000.0
+529,BioFire Diagnostics,Biotechnology,USA,45000000.0
+91,AccessData,Enterprise Software,USA,45000000.0
+4211,StellaService,E-Commerce,USA,45000000.0
+4149,Spinal Modulation,Medical Devices,USA,45000000.0
+3136,Outbox,Curated Web,USA,45000000.0
+4876,Wanderful Media,Social Buying,USA,45000000.0
+162,Aerpio Therapeutics,Biotechnology,USA,45000000.0
+535,Biodesy,Biotechnology,USA,45000000.0
+3066,OmniGuide,Clean Technology,USA,45000000.0
+1593,FiftyThree,Software,USA,45000000.0
+4984,World Business Lenders,Finance,USA,45000000.0
+1338,DySISmedical,Health Care,GBR,45397772.0
+4863,Vungle,Video,USA,45500000.0
+4987,WorldStores,E-Commerce,GBR,45600000.0
+2240,Kala Pharmaceuticals,Biotechnology,USA,46000000.0
+2641,Maxwell Health,Employer Benefits Programs,USA,46000000.0
+424,B2B-Center,None,RUS,46000000.0
+16,2nd Watch,Corporate IT,USA,46000000.0
+2208,Joyus,E-Commerce,USA,46000000.0
+3455,Protagonist Therapeutics,Biotechnology,AUS,46000000.0
+1306,DoubleDutch,Enterprise Application,USA,46000000.0
+1872,Guardian Analytics,Security,USA,46000000.0
+982,Coherus Biosciences,Biotechnology,USA,46271280.0
+1158,Cyphort,Network Security,USA,46500000.0
+1028,Conisus,Health Care,USA,46500000.0
+2892,Narrative Science,Analytics,USA,46550000.0
+4424,Tealium,Enterprise Software,USA,46800000.0
+90,Access MediQuip,Health Care,USA,46900000.0
+4804,VidSys,Software,USA,46950000.0
+84,Acacia Pharma,Biotechnology,GBR,47000000.0
+3826,Scodix,Hardware + Software,ISR,47000000.0
+2206,Jounce Therapeutics,Biotechnology,USA,47000000.0
+3303,"Piston Cloud Computing, Inc.",Software,USA,48000000.0
+307,Apprenda,PaaS,USA,48000000.0
+30,42Floors,Commercial Real Estate,USA,48000000.0
+5357,theScore,Mobile,CAN,48000000.0
+746,Canatu,Semiconductors,FIN,48000000.0
+3398,PresenceLearning,Education,USA,48000000.0
+4308,Swipely,Payments,USA,48000000.0
+4884,WatchDox,Enterprise Software,USA,48000000.0
+3520,Quantance,Mobile,USA,48000000.0
+4316,Symbiotec Pharmalab,Biotechnology,IND,48000000.0
+3183,Panaya,Software,USA,48000000.0
+2859,MyWebGrocer,Advertising,USA,48000000.0
+5034,YieldMo,Advertising,USA,48000000.0
+5182,clypd,Advertising,USA,48000000.0
+5047,Yottaa,Consulting,USA,48000000.0
+5025,Yebhi,Shoes,IND,48000000.0
+4322,SynapDx,Health Care,USA,48200000.0
+866,Chronos Therapeutics,Biotechnology,GBR,48488044.0
+31,4INFO,Advertising,USA,48576000.0
+5282,immatics biotechnologies,Biotechnology,DEU,48765729.0
+4274,SuppreMol,Biotechnology,DEU,48890800.0
+4234,StrikeAd,Advertising Networks,USA,49000000.0
+46,8Trip,Travel,CHN,49200000.0
+2753,MobiTV,Games,USA,49497000.0
+2212,Julep,Beauty,USA,49921964.0
+1860,Gridco,Clean Technology,USA,49999960.0
+2466,Lithium Technologies,Software,USA,50000000.0
+3972,Silverpop,Lead Management,USA,50000000.0
+2070,India Property Online,E-Commerce,IND,50000000.0
+1273,Digital Signal,Enterprise Software,USA,50000000.0
+871,Cigital,Consulting,USA,50000000.0
+4091,Sojern,Travel,USA,50000000.0
+2075,Infer,Predictive Analytics,USA,50000000.0
+4935,WiTricity,Clean Technology,USA,50000000.0
+1524,Extreme Reach,Advertising,USA,50000000.0
+2414,"LendKey Technologies, Inc.",Finance,USA,50000000.0
+4111,Sonos,Consumer Electronics,USA,50000000.0
+4135,Spark Therapeutics,Biotechnology,USA,50000000.0
+4922,WhatsApp,Messaging,USA,50000000.0
+530,BioMotiv,Biotechnology,USA,50000000.0
+161,Aerohive Networks,Technology,USA,50000000.0
+983,Coho Data,Software,TUR,50000000.0
+2774,Mode Media,Fashion,USA,50000000.0
+1523,Extole,Software,USA,50400000.0
+1083,Covestor,Finance,USA,51000000.0
+3875,Senhwa Biosciences,Biotechnology,USA,51000000.0
+4910,Wego,Travel,SGP,51000000.0
+2296,KitCheck,Enterprise Software,USA,51852000.0
+1587,FibeRio,Nanotechnology,USA,52000000.0
+2572,Magisto,Apps,USA,52000000.0
+5094,Zerto,Enterprise Software,USA,52000000.0
+606,BonitaSoft,Software,FRA,52000000.0
+2095,Innate Pharma,Biotechnology,FRA,52235960.0
+896,Civitas Learning,Colleges,USA,52500000.0
+3222,PayNearMe,E-Commerce,USA,52600000.0
+3773,SR Labs,Finance,USA,53000000.0
+3417,Prime Focus,Games,IND,53000000.0
+1556,Fancy,Online Shopping,USA,53000000.0
+917,Click Security,Networking,USA,53100000.0
+290,Appboy,Analytics,USA,53200000.0
+3631,Refinery29,Fashion,USA,53600000.0
+4346,TARIS Biomedical,Biotechnology,USA,54000000.0
+919,ClickTale,Analytics,ISR,54000000.0
+5040,Yodo1,Advertising,CHN,54000000.0
+3805,Savaari Car Rentals,Public Transportation,IND,54000000.0
+3293,Pinguo,Photography,CHN,54000000.0
+4177,Spredfast,Twitter Applications,USA,54000000.0
+743,Camera360,Photography,CHN,54000000.0
+4275,Surefire Medical,Hardware + Software,USA,54600000.0
+1553,FanDuel,Fantasy Sports,USA,55000000.0
+1686,FreeMonee,Advertising,USA,55000000.0
+3233,Pebbles Interfaces,Hardware + Software,ISR,55000000.0
+2504,LogiAnalytics.com,Business Intelligence,USA,55000000.0
+2534,Luvocracy,E-Commerce,USA,55000000.0
+3290,Pindrop Security,Risk Management,USA,55000000.0
+3576,Ranovus,Enterprise Software,CAN,55000000.0
+916,Cleversafe,Enterprise Software,USA,55000000.0
+507,BetterCloud,Cloud Security,USA,55250000.0
+242,AmpliPhi Biosciences,Biotechnology,USA,55472997.0
+2415,LendUp,Finance,USA,56000000.0
+1369,Easy Taxi,SaaS,BRA,56000000.0
+2617,Martini Media Inc,Advertising,USA,56000000.0
+544,Birks & Mayors,Design,USA,56000000.0
+4480,The New Motion,Clean Technology,NLD,56120180.0
+5232,f-star Biotech,Biotechnology,AUT,56400000.0
+41,6Wunderkinder,Software,DEU,57000000.0
+837,Chartboost,Games,USA,57000000.0
+2180,Janalakshmi,Finance,IND,57000000.0
+4401,TapCommerce,Mobile,USA,57300000.0
+4681,UniQure,Health Care,NLD,58000000.0
+4585,Treato,Natural Language Processing,ISR,58000000.0
+2394,Layer,Infrastructure,USA,58500000.0
+209,Allecra Therapeutics,Biotechnology,FRA,58702500.0
+1914,Harvest Automation,Manufacturing,USA,58750000.0
+4947,Windeln.de,Babies,DEU,58800000.0
+344,Arvinas,Biotechnology,USA,60000000.0
+3224,Paydiant,Mobile Payments,USA,60000000.0
+1290,Divide,Software,USA,60000000.0
+335,Arrowhead Research,Biotechnology,USA,60000000.0
+1297,Dollar Shave Club,E-Commerce,USA,60000000.0
+1506,Evolv,Analytics,USA,60000000.0
+1562,Farfetch,Fashion,USA,60000000.0
+182,AirTight Networks,Security,USA,60000000.0
+3103,Opera Solutions,Predictive Analytics,USA,60000000.0
+3265,Pertino,Mobile Infrastructure,USA,60000000.0
+71,ARMO BioSciences,Biotechnology,USA,60000000.0
+2944,NewsCred,Advertising,BGD,60000000.0
+2402,Leap Motion,Hardware + Software,USA,60000000.0
+1571,Fastback Networks,Mobile,USA,60000000.0
+5066,ZOZI,Travel,USA,60000000.0
+2770,Mocana,Mobile Security,USA,60000000.0
+5321,mobli,Curated Web,ISR,60000000.0
+213,Alloy Digital,Advertising,USA,60000000.0
+2477,Living Proof,Biotechnology,USA,60000000.0
+4854,Vormetric,Enterprise Software,USA,60000000.0
+3915,Sharp Corporation,Hardware + Software,JPN,60000000.0
+4341,Syros Pharmaceuticals,Biotechnology,USA,60000000.0
+3879,Sensible Medical Innovations,Biotechnology,ISR,60000000.0
+2173,JAMF Software,Software,USA,60000000.0
+4129,Space-Time Insight,Software,USA,60000000.0
+2133,IntelePeer,Unifed Communications,USA,60000000.0
+3895,Sequenta,Biotechnology,USA,60000000.0
+1119,CrowdStrike,Security,USA,60000000.0
+395,Avanti Mining,None,CAN,60000000.0
+4373,Taboola,Content Discovery,USA,60000000.0
+3670,RetailNext,Analytics,USA,60000000.0
+830,Change.org,Curated Web,USA,60000000.0
+3438,Project Frog,Clean Technology,USA,60000000.0
+4639,Tuniu,Travel,CHN,60000000.0
+4595,Trevena,Biotechnology,USA,60000000.0
+1172,DTT,Technology,USA,60000000.0
+1934,Hearsay Social,Financial Services,USA,60000000.0
+2237,Kaiam,Semiconductors,USA,60006855.0
+1050,Convercent,Enterprise Software,USA,60400000.0
+3144,Oxford Nanopore Technologies,Nanotechnology,GBR,60610057.0
+2989,Nomi,Retail,USA,61000000.0
+3365,PolyTherics,Biotechnology,GBR,61367682.0
+912,Clearleap,Television,USA,61500000.0
+2526,Lucibel,Security,HKG,61805318.0
+3568,Radius Inc.,Enterprises,USA,62000000.0
+4929,WhiteHat Security,Security,USA,62000000.0
+2744,Mister Spex,Sunglasses,DEU,62289600.0
+3812,Scanadu,Medical,USA,63000000.0
+2510,Lolly Wolly Doodle,E-Commerce,USA,63758958.0
+3123,Origene Technologies,Biotechnology,USA,63900000.0
+2192,Jibe,Employment,USA,64000000.0
+216,Alphabet Energy,Clean Technology,USA,64000000.0
+287,AppNeta,Enterprises,USA,64000000.0
+5003,Xamarin,Testing,USA,64000000.0
+1625,Flatiron Health,Health and Wellness,USA,64000000.0
+3545,Qwilt,Software,USA,64000000.0
+2092,Inkling Systems,Cloud Infrastructure,USA,64000000.0
+218,Alpine Data Labs,Big Data Analytics,USA,64000000.0
+5075,ZeOmega,Biotechnology,USA,64500000.0
+1599,Financeit,Financial Services,CAN,65000000.0
+3202,Parsley Energy,Clean Technology,USA,65000000.0
+4182,Sprinklr,Social CRM,USA,65000000.0
+3041,ObsEva,Biotechnology,CHE,65873920.0
+3262,Personalis,Biotechnology,USA,66000000.0
+1337,Dwolla,Software,USA,66000000.0
+2822,MovableInk,Advertising,USA,66000000.0
+3217,PaxVax,Biotechnology,USA,66000000.0
+2524,Loxo Oncology,Biotechnology,USA,66000000.0
+2406,LearnVest,Finance,USA,66000000.0
+3666,Restorando,Curated Web,ARG,66500000.0
+5089,Zenverge,Semiconductors,USA,66513536.0
+2107,InsideView,SaaS,USA,68000000.0
+5239,foodpanda / hellofood,Hospitality,DEU,68000000.0
+2077,Infinio,Software,USA,68000000.0
+4855,Vox Media,Sports,USA,68000000.0
+643,Brand Networks,Software,USA,68000000.0
+370,August,Security,USA,68000000.0
+2125,Instart Logic,E-Commerce,USA,68000000.0
+4496,Theraclone Sciences,Therapeutics,USA,68000000.0
+775,CareCloud,Electronic Health Records,USA,69000000.0
+2530,Lumena Pharmaceuticals,Biotechnology,USA,69000000.0
+3672,Rethink Robotics,Robotics,USA,69000012.0
+2714,Midokura,Cloud Management,JPN,69200000.0
+1483,Euclid,Analytics,USA,69200000.0
+187,Airware,Aerospace,USA,69800000.0
+1333,Durata Therapeutics,Health Care,USA,70000000.0
+3748,Rumble,Games,USA,70000000.0
+3754,Ryan,Consulting,USA,70000000.0
+228,Alvine Pharmaceuticals,Biotechnology,USA,70000000.0
+2106,InsideSales.com,Lead Management,USA,70000000.0
+4560,TowerJazz,Semiconductors,ISR,70000000.0
+4077,SocialFlow,Publishing,USA,70000000.0
+172,AgBiome,Biotechnology,USA,70000000.0
+1175,Dafiti,Fashion,BRA,70000000.0
+4430,TearScience,Medical Devices,USA,70000000.0
+2739,Mirantis,Infrastructure,USA,70000000.0
+4802,Vice Media,Video Streaming,USA,70000000.0
+4304,SwiftKey,Enterprise Software,GBR,70000000.0
+2280,Kidaptive,Education,USA,70700000.0
+4540,Tokai Pharmaceuticals,Biotechnology,USA,71000000.0
+2438,LifeIMAGE,Health Care,USA,71264180.0
+3602,Realm,Databases,USA,71773400.0
+1631,Flexenclosure,Web Hosting,SWE,72000000.0
+1416,Elasticsearch,Search,USA,72000000.0
+841,Check,Sports,USA,72000000.0
+950,Cloudant,Enterprise Software,USA,72000000.0
+5204,eBaoTech,Software,CHN,72000000.0
+2261,Keek,Android,CAN,72000000.0
+4106,Sonendo,Biotechnology,USA,72000000.0
+1753,Gengo,Crowdsourcing,JPN,72000000.0
+4085,Socrata,Analytics,USA,72000000.0
+4629,Tryton Medical,Health Care,USA,72000000.0
+493,Belly,Loyalty Programs,USA,72600000.0
+5032,Yesware,Enterprise Software,USA,73500000.0
+1749,Genapsys,Biotechnology,USA,74000000.0
+4860,Voxy,Language Learning,USA,74900000.0
+1066,Corsair,Hardware + Software,USA,75000000.0
+3932,ShopRunner,E-Commerce,USA,75000000.0
+1492,EverSpin Technologies,Manufacturing,USA,75000000.0
+276,App Annie,Analytics,USA,75000000.0
+1417,Ele.me,E-Commerce,CHN,75000000.0
+1295,DogVacay,Pets,USA,75000000.0
+2475,Livefyre,Enterprise Software,USA,75000000.0
+3036,OUYA,Games,USA,75000000.0
+2164,Iroko Pharmaceuticals,Biotechnology,USA,75000000.0
+592,BlueTarp Financial,Local Businesses,USA,75000000.0
+1701,Funambol,Cloud Data Services,USA,75000000.0
+3130,Ostrovok,Travel,RUS,75000000.0
+251,AndersonBrecon,Biotechnology,USA,75000000.0
+2711,MicuRx Pharmaceuticals,Biotechnology,USA,75000000.0
+2926,Netronome Systems,Semiconductors,USA,76000000.0
+2613,MarketShare,Analytics,USA,76000000.0
+5245,gumi,Games,SGP,76000000.0
+3072,OncoEthix,Biotechnology,CHE,76000000.0
+1670,Formlabs,Hardware + Software,USA,76000000.0
+3378,Powa Technologies,Point of Sale,GBR,76000000.0
+2436,Life360,Tracking,USA,77000000.0
+2610,MarkLogic,Enterprise Software,USA,77176443.0
+697,BuzzFeed,Entertainment,USA,77200000.0
+5,1366 Technologies,Manufacturing,USA,77500000.0
+4387,Talari Networks,Internet,USA,77500000.0
+2287,Kik,Messaging,CAN,78000000.0
+4350,THE ICONIC,Fashion,AUS,78000000.0
+808,Celator Pharmaceuticals,Biotechnology,USA,78600000.0
+590,BlueData Software,Analytics,USA,79000000.0
+960,Clustrix,Cloud Computing,USA,79500000.0
+1096,Crescendo Biologics,Biotechnology,GBR,79550700.0
+499,Benu Networks,Wireless,USA,79800000.0
+4793,Vestiaire Collective,Marketplaces,GBR,80000000.0
+2991,Nomorerack.com,E-Commerce,USA,80000000.0
+336,Arsanis,Biotechnology,AUT,80000000.0
+914,Clearwire,Internet,USA,80000000.0
+4800,Viamedia,Advertising,USA,80000000.0
+406,Aviir,Biotechnology,USA,80000000.0
+52,A10 Networks,Communications Hardware,USA,80000000.0
+353,Atlantis Computing,Enterprise Software,USA,80000000.0
+56,ADC Therapeutics,Biotechnology,CHE,80000000.0
+232,Amaranth Medical,Biotechnology,USA,80000000.0
+2159,Invincea,Software,USA,80000000.0
+83,Acacia Communications,Web Hosting,USA,80000000.0
+4721,UtiliData,Hardware + Software,USA,80000000.0
+2769,Mobly,E-Commerce,BRA,80000000.0
+4898,Wealthfront,Personal Finance,USA,80000000.0
+2826,Movidius,Semiconductors,USA,80000000.0
+3967,SilkRoad Technology,Human Resources,USA,80000000.0
+131,Adara Global,Advertising,USA,80000000.0
+4388,Talend,Analytics,USA,80000000.0
+5266,iRhythm Technologies,Biotechnology,USA,80000000.0
+2318,Knowledge Adventure,Games,USA,80400000.0
+1160,Cytori Therapeutics,Biotechnology,USA,81000000.0
+2861,Myntra,E-Commerce,IND,82000000.0
+116,Acumen Holdings,E-Commerce,USA,83000000.0
+1984,Horizon Discovery,Biotechnology,GBR,83641872.0
+2606,Marinus Pharmaceuticals,Biotechnology,USA,84000000.0
+3282,Phononic Devices,Hardware + Software,USA,84000000.0
+2810,Moovit,Public Transportation,ISR,84000000.0
+303,Applied Proteomics,Biotechnology,USA,84000000.0
+565,Blacklane,Limousines,DEU,84000000.0
+5017,YPlan,Entertainment,GBR,84000000.0
+1614,Fisoc,Loyalty Programs,USA,84000000.0
+5122,Zomato,Restaurants,IND,84000000.0
+2570,Maginatics,None,USA,85000000.0
+1441,EndoChoice,Biotechnology,USA,86000000.0
+1089,CreativeLive,Education,USA,87500000.0
+3213,PatientSafe Solutions,Mobile,USA,88000000.0
+1973,HomeShop18,E-Commerce,IND,88000000.0
+1154,Cydan,Biotechnology,USA,88000000.0
+4842,Vitals (vitals.com),Health and Wellness,USA,88000000.0
+3425,Prism Skylabs,Technology,USA,90000000.0
+1190,DataGravity,Software,USA,90000000.0
+3163,PSafe,Software,BRA,90000000.0
+2200,JohnäÛªs Incredible Pizza Company,Hospitality,USA,90000000.0
+993,Collective,Advertising,USA,90000000.0
+5262,iPierian,Biotechnology,USA,90000000.0
+1240,Demandbase,Analytics,USA,90000000.0
+5249,hybris,Enterprise Software,CAN,90000000.0
+1700,Fullscreen,News,USA,90000000.0
+2126,Instructure,Enterprise Software,USA,90000000.0
+4991,Wrapp,Social Media,SWE,90000000.0
+3735,Rong360,Finance,CHN,90000000.0
+617,Booyah,Entertainment,USA,90000000.0
+4026,Skytree,Big Data,USA,90000000.0
+3767,SMS Assist,Enterprise Software,USA,90000000.0
+2455,Liquid Robotics,Clean Technology,USA,90000000.0
+2932,NeuroPace,Biotechnology,USA,90000000.0
+317,Aquinox Pharmaceuticals,Health Care,CAN,90000000.0
+2864,N-Trig,Hardware + Software,ISR,90000000.0
+366,Audentes Therapeutics,Biotechnology,USA,90000000.0
+4416,Taulia,Hardware + Software,USA,90000000.0
+412,Axcient,Virtualization,USA,91300000.0
+364,Auction.com,Real Estate,USA,91700000.0
+1583,Fermentalg,Biotechnology,FRA,92635200.0
+3116,Optoro,Enterprise Software,USA,93000000.0
+1988,Host Analytics,SaaS,USA,94000000.0
+3724,Rocket Lawyer,Legal,USA,95000000.0
+2686,MessageMe,Messaging,USA,95200000.0
+550,BitSight Technologies,Security,USA,96000000.0
+3952,Sideris Pharmaceuticals,Biotechnology,USA,96000000.0
+3637,RelateIQ,Enterprise Software,USA,96000000.0
+2142,Interlude,Product Development Services,USA,96000000.0
+1929,HealthTap,Heathcare,USA,96000000.0
+3311,Pixium Vision,Software,FRA,96495000.0
+435,BIBA Apparels,None,IND,97200000.0
+3304,Pivot3,Hardware + Software,USA,98000000.0
+3681,Revance Therapeutics,Health Care,USA,99000000.0
+4825,Virool,Advertising,USA,99300000.0
+5305,littleBits Electronics,Hardware + Software,USA,99900000.0
+3660,Research Triangle Park (RTP),Consulting,USA,100000000.0
+1328,Druva,Storage,USA,100000000.0
+1202,Datalogix,Advertising,USA,100000000.0
+2293,Kior,Oil,USA,100000000.0
+4446,Tempo AI,Apps,USA,100000000.0
+5255,iKang Healthcare Group,Health Care,CHN,100000000.0
+207,AlixaRx,Biotechnology,USA,100000000.0
+732,Caesarea Medical Electronics,Hardware + Software,ISR,100000000.0
+2763,Mobilitie,Mobile,USA,100000000.0
+97,Acetylon Pharmaceuticals,Biotechnology,USA,100000000.0
+3906,Shape Security,Information Security,USA,100000000.0
+3193,Panzura,Software,USA,100000000.0
+1458,Enlighted,Semiconductors,USA,100000000.0
+3241,Pelican Imaging,Video,USA,100000000.0
+271,Apexigen,Biotechnology,USA,100000000.0
+1439,Endeavor Energy,Clean Technology,USA,100000000.0
+4648,Twitch,Video Games,USA,100000000.0
+444,BYTEGRID,Security,USA,100000000.0
+12,21viaNet,Software,CHN,100000000.0
+5106,Zimory,Enterprise Software,DEU,100000000.0
+3699,RichRelevance,Big Data,USA,100000000.0
+5172,betaworks,Coworking,USA,100000000.0
+5096,ZestFinance,Analytics,USA,100000000.0
+2816,Motif Investing,Finance,USA,100000000.0
+407,Avito.ru,Advertising,ROM,100000000.0
+4637,TuneIn,Guides,USA,100000000.0
+4018,SkySQL,Software,FIN,100000000.0
+1621,Five9,Technology,USA,100500000.0
+375,Auris Medical,Health Care,CHE,101200000.0
+1396,Edita Food Industries,Hospitality,EGY,102000000.0
+365,Auctionata,Auctions,DEU,102000000.0
+2174,JOOR,Fashion,USA,102000570.0
+1844,Green Biologics,Biotechnology,GBR,102430994.0
+4811,Vidyo,Messaging,USA,102600000.0
+3474,Pulmocide,Health Care,GBR,103037096.0
+4020,Skyera,Enterprise Software,USA,103200000.0
+1711,Fuze,Software,USA,104000000.0
+2587,Maker Studios,Games,USA,104000000.0
+4520,Tidemark,Analytics,USA,104000000.0
+10,2080 Media,News,USA,104000000.0
+2033,IfOnly,Fashion,USA,105000000.0
+506,Better Finance,E-Commerce,USA,105000000.0
+1806,Goji (formerly Consumer United),Finance,USA,105000000.0
+1080,Covenant Surgical Partners,Biotechnology,USA,105000000.0
+3661,ResearchGate,Social Network Media,DEU,105000000.0
+4001,Sittercity,Curated Web,USA,105000000.0
+3305,Pivotal Software,Software,USA,105000000.0
+2876,Nabsys,Biotechnology,USA,105149925.0
+2256,Karyopharm Therapeutics,Health Care,USA,105200000.0
+60,AG&P,Clean Technology,PHL,106000000.0
+3259,Personal Capital,Finance,USA,106075000.0
+4328,Syndax Pharmaceuticals,Biotechnology,USA,106400000.0
+5101,Zhaogang,E-Commerce,CHN,107601706.0
+5059,Yub,E-Commerce,USA,108000000.0
+3054,Okta,Enterprise Software,USA,108000000.0
+2087,Infusionsoft,Email Marketing,USA,108000000.0
+4662,US HealthVest,Biotechnology,USA,108000000.0
+1197,DataXu,Advertising,USA,108000000.0
+1148,CustomMade,E-Commerce,USA,108000000.0
+1309,DraftKings,Games,USA,110000000.0
+65,ALung Technologies,Biotechnology,USA,110600000.0
+316,Apttus,Software,USA,111000000.0
+4927,Whisper,Social Media,USA,111000000.0
+726,CSA Medical,Health Care,USA,112000000.0
+3558,RRsat,Telecommunications,ISR,112000000.0
+118,Acutus Medical,Biotechnology,USA,112000000.0
+3047,Ocular Therapeutix,Biotechnology,USA,112200000.0
+4917,Welltok,Health and Wellness,USA,112200000.0
+3579,Ravello Systems,Software,USA,112499700.0
+2170,Ivantis,Health and Wellness,USA,113000000.0
+3015,NumberFour,Enterprise Software,DEU,114000000.0
+1203,Datameer,Enterprise Software,USA,114000000.0
+4688,United Capital,Consulting,USA,114000000.0
+159,Aereo,Curated Web,USA,114000000.0
+2657,Medical Depot,Health Care,USA,115000000.0
+1921,Health Catalyst,Analytics,USA,115000000.0
+5203,eASIC,Semiconductors,USA,117500000.0
+1756,Genticel,Biotechnology,FRA,118354600.0
+771,CardioKinetix,Medical Devices,USA,119000000.0
+829,Change Healthcare,Heathcare,USA,120000000.0
+2149,Intra-Cellular Therapies,Biotechnology,USA,120000000.0
+1486,Eventbrite,Events,USA,120000000.0
+1325,Dropcam,Video,USA,120000000.0
+2091,Ingram Medical,Biotechnology,USA,120000000.0
+5055,Youxinpai,E-Commerce,CHN,120000000.0
+1204,Dataminr,Analytics,USA,120000000.0
+3712,Rive Technology,Clean Technology,USA,120000000.0
+4260,SundaySky,Personalization,USA,120000000.0
+2143,Intersect ENT,Health Care,USA,120000000.0
+4964,Withings,Hardware + Software,FRA,120000000.0
+1091,Credit Karma,Finance,USA,120000000.0
+1976,Homejoy,Hospitality,USA,120800000.0
+3908,Shapeways,E-Commerce,USA,121200000.0
+2554,MISSION Therapeutics,Biotechnology,GBR,121220112.0
+3110,OptiScan Biomedical,Biotechnology,USA,122934632.0
+2732,Minted,Home Decor,USA,123000000.0
+1016,Complix,Biotechnology,BEL,123513600.0
+4099,SolidFire,Enterprise Software,USA,124000000.0
+3067,On-Ramp Wireless,Smart Grid,USA,124000000.0
+1073,Couchbase,Enterprise Software,USA,125000000.0
+220,Altair Semiconductor,Semiconductors,ISR,125000000.0
+3459,Proteus Digital Health,Health Care,USA,125000000.0
+1770,Gigya,Identity,USA,125000000.0
+250,Anaqua,Software,USA,125000000.0
+1687,Freedom Financial Network,Local Businesses,USA,125000000.0
+4710,Urban Compass,Local,USA,125000000.0
+4233,Streetline,SaaS,USA,125000000.0
+5012,Xlumena,Health Care,USA,125000000.0
+4469,The Honest Company,E-Commerce,USA,125000000.0
+320,Argos Therapeutics,Health Care,USA,127500000.0
+4841,Vitaldent,Biotechnology,GBR,128660000.0
+2583,Mainstream Renewable Power,Clean Technology,IRL,128660000.0
+1982,Hookipa Biotech,Biotechnology,AUT,128660000.0
+397,Avaxia Biologics,Biotechnology,USA,129372388.0
+2006,HyTrust,Cyber Security,USA,129500000.0
+575,Bloom Energy,Clean Technology,USA,130000000.0
+580,Blu Homes,Real Estate,USA,130000000.0
+924,Clinkle,Payments,USA,130000000.0
+2268,Kenandy,Enterprise Software,USA,132000000.0
+248,Anaplan,Enterprise Software,USA,132000000.0
+4330,Synergis Education,Education,USA,132000000.0
+4353,TOA Technologies,SaaS,USA,132000000.0
+3810,Scality,Storage,USA,132000000.0
+291,Appcelerator,Enterprise Software,USA,132024000.0
+98,Achaogen,Health Care,USA,132339949.0
+1725,GainSpan,Semiconductors,USA,133000000.0
+4694,UniversityNow,Technology,USA,133000000.0
+3587,ReNew Power,Clean Technology,IND,135000000.0
+2539,Lyft,Transportation,USA,135000000.0
+3570,RainDance Technologies,Biotechnology,USA,135000000.0
+217,Alpheus Communications,Web Hosting,USA,135000000.0
+75,AV Homes,None,USA,135000000.0
+2775,Moderna Therapeutics,Biotechnology,USA,135000044.0
+206,AlienVault,Security,USA,136000000.0
+1440,Endgame,Security,USA,136250000.0
+985,Coinbase,E-Commerce,USA,136657540.0
+2741,Misfit Wearables,Health and Wellness,USA,136800000.0
+610,Booker,Internet Marketing,USA,137500000.0
+4029,Slice,Curated Web,USA,138000000.0
+2601,MapR Technologies,Big Data Analytics,USA,139999976.0
+3114,Optimizely,Software,USA,140000000.0
+3109,OptiMedica,Biotechnology,USA,140000000.0
+3995,Singulex,Biotechnology,USA,140000000.0
+4777,Veracyte,Health Care,USA,140000000.0
+5044,YongChe,E-Commerce,CHN,140000000.0
+1248,Dermira,Biotechnology,USA,140000000.0
+1097,Crescendo Bioscience,Biotechnology,USA,140000000.0
+735,Calithera Biosciences,Biotechnology,USA,140000000.0
+4437,Tegile Systems,Flash Storage,USA,140000000.0
+3503,QD Vision,Video,USA,140000000.0
+470,Basic-Fit,Health and Wellness,NLD,141526000.0
+728,CVRx,Biotechnology,USA,142400000.0
+3989,Simulmedia,Media,USA,143000000.0
+5345,redIT,Software,USA,144000000.0
+3651,Rent the Runway,E-Commerce,USA,146400000.0
+1061,Coraid,Storage,USA,146500000.0
+3395,Predixion Software,Software,USA,147000000.0
+1703,Funding Circle,Financial Services,GBR,148000000.0
+1964,HireVue,Human Resources,USA,150000000.0
+257,Anki,Entertainment,USA,150000000.0
+385,Automattic,Web CMS,USA,150000000.0
+3639,Relationship Science,Hospitality,USA,150000000.0
+2292,Kingsoft,Software,HKG,150000000.0
+274,Apollo Endosurgery,Health Care,USA,150000000.0
+1510,Exagen Diagnostics,Biotechnology,USA,150000000.0
+3441,Prolexic Technologies,Enterprise Software,USA,150000000.0
+2233,Kabbage,Finance,USA,150000000.0
+2323,Komli Media,Advertising,IND,150000000.0
+3768,SOASTA,Cloud Computing,USA,150000000.0
+394,Avantha,Hardware + Software,IND,150000000.0
+3074,One Medical Group,Heathcare,USA,150000000.0
+26,3D Robotics,Manufacturing,USA,150000000.0
+3736,Room 77,Travel,USA,151500000.0
+545,Birst,Enterprise Software,USA,152000000.0
+2612,Market Track,Market Research,USA,153000000.0
+4289,Sutro Biopharma,Biotechnology,USA,156000000.0
+2919,Nest Labs,Internet of Things,USA,160000000.0
+2058,InVitae,Biotechnology,USA,160000000.0
+3627,Reebonz,Manufacturing,SGP,160000000.0
+899,Clarabridge,Enterprise Software,USA,160000000.0
+4318,Symphogen,Biotechnology,DNK,161302200.0
+1391,EdgeCast Networks,Content,USA,162000000.0
+3577,Rapid Micro Biosystems,Biotechnology,USA,163000000.0
+429,BAROnova,Health Care,USA,163800000.0
+2056,InVisage Technologies,Semiconductors,USA,165000000.0
+1748,GenSight Biologics,Biotechnology,FRA,166694400.0
+3230,Pearl Therapeutics,Health and Wellness,USA,166907600.0
+1873,Guavus,Analytics,USA,168000000.0
+4049,Smartling,Enterprise Software,USA,168000000.0
+1554,Fanatics,E-Commerce,USA,170000000.0
+3535,Qunar.com,Travel,CHN,171000000.0
+1397,Editas Medicine,Biotechnology,USA,172000000.0
+420,Ayasdi,Data Visualization,USA,173364000.0
+1737,Ganymed Pharmaceuticals,Biotechnology,DEU,173691000.0
+513,Beyond the Rack,Fashion,TUR,175000000.0
+1997,Houzz,Curated Web,USA,175000000.0
+3005,Novira Therapeutics,Biotechnology,USA,175000000.0
+3105,Ophthotech,Health Care,USA,175000000.0
+1920,Healios K.K,Biotechnology,JPN,175007934.0
+3102,OpenX,Monetization,USA,175078400.0
+99,Achates Power,Clean Technology,USA,176000000.0
+393,AvantCredit,Finance,USA,178000000.0
+3319,Plain Vanilla,Mobile,USA,179500000.0
+5070,Zafgen,Biotechnology,USA,180000000.0
+2420,LensAR,Health Care,USA,180000000.0
+246,Anaergia,Clean Technology,CAN,185024220.0
+330,Arno Therapeutics,Biotechnology,USA,186000000.0
+4444,Telogis,Fleet Management,USA,186000000.0
+3437,Progreso Financiero,Finance,USA,186400000.0
+3958,Signal,SaaS,USA,189000000.0
+3453,Prosper,Personal Finance,USA,190000000.0
+844,Chef,Software,USA,192000000.0
+533,Biocartis,Biotechnology,CHE,192990000.0
+2238,Kaiima,Biotechnology,ISR,195000000.0
+3786,Sailthru,E-Commerce,USA,196000000.0
+3179,Palantir Technologies,Analytics,USA,196500000.0
+4525,Tilt,Finance,USA,198000000.0
+800,Catabasis Pharmaceuticals,Biotechnology,USA,198000000.0
+2684,Merus,Biotechnology,NLD,199423000.0
+2543,Lytro,Hardware + Software,USA,200000000.0
+754,Cape Wind,Clean Technology,USA,200000000.0
+1001,CommonBond,Finance,USA,200000000.0
+671,Bromium,Security,USA,200000000.0
+1605,FireEye,Communications Hardware,USA,200000000.0
+586,Blue Jeans Network,Enterprise Software,USA,200000000.0
+1783,Gland Pharma,Biotechnology,IND,200000000.0
+1104,Crocs,Shoes,USA,200000000.0
+2139,Interactions Corporation,Curated Web,USA,200000000.0
+768,Cardinal Midstream,Clean Technology,USA,200000000.0
+1351,EDF Renewable Energy,Clean Technology,USA,200000000.0
+2355,Kymeta,Aerospace,USA,200000000.0
+2868,NGM Biopharmaceuticals,Biotechnology,USA,200000000.0
+5004,Xand,Software,USA,200000000.0
+280,AppDynamics,Software,USA,200000000.0
+107,Actifio,Enterprise Software,USA,200000000.0
+4744,Vapotherm,Biotechnology,USA,203000000.0
+504,Betable,Games,GBR,203500000.0
+3912,ShareThis,Social Media,USA,205000000.0
+5148,aTyr Pharma,Biotechnology,USA,206000000.0
+1786,Glaukos,Health Care,USA,210000000.0
+4646,Twilio,Enterprise Software,USA,210000000.0
+607,Bonobos,Shoes,USA,210000000.0
+1013,Compass-EOS,Networking,ISR,210000000.0
+664,BrightEdge,Search,USA,214000000.0
+3903,SetPoint Medical,Biotechnology,USA,214250057.0
+1619,Fitbit,Hardware,USA,215000000.0
+2221,JustFab,Fashion,USA,215000000.0
+2953,Nexenta Systems,Linux,USA,216000000.0
+4812,View Inc.,Solar,USA,217920000.0
+471,Basis Science,Health and Wellness,USA,218500000.0
+1105,Crocus Technology,Clean Technology,USA,218722000.0
+951,Cloudary,Education,CHN,220000000.0
+2942,NewVoiceMedia,Enterprise Software,GBR,220000000.0
+2698,Mevion Medical Systems,Biotechnology,USA,220000000.0
+2388,LanzaTech New Zealand,Clean Technology,USA,223200000.0
+3046,Ocera Therapeutics,Biotechnology,USA,224000000.0
+183,AirWatch,Mobile,USA,225000000.0
+288,AppNexus,Technology,USA,225000000.0
+4344,T5 Data Centers,Security,USA,226000000.0
+3247,PeopleMatter,Enterprise Software,USA,226000000.0
+897,Civitas Therapeutics,Biotechnology,USA,228000000.0
+1476,Esperion Therapeutics,Pharmaceuticals,USA,231000000.0
+350,Atara Biotherapeutics,Biotechnology,USA,231000000.0
+1956,Hightail,File Sharing,USA,238000000.0
+3126,Oscar,Insurance,USA,240000000.0
+1237,Delivery Hero,Hospitality,DEU,240000000.0
+324,Aria Systems,Enterprise Software,USA,240000000.0
+2758,MobileIron,Mobile Security,USA,240000000.0
+2217,Juno Therapeutics,Health Care,USA,240000000.0
+3731,Roku,Hardware + Software,USA,240000000.0
+1449,Enerkem,Clean Technology,CAN,243452920.0
+4945,Wilocity,Semiconductors,ISR,245000000.0
+4174,Spotify,Entertainment,SWE,250000000.0
+1985,Hortonworks,Search,USA,250000000.0
+940,CloudFlare,Security,USA,250000000.0
+179,Aileron Therapeutics,Biotechnology,USA,252000000.0
+1076,Coursera,Education,USA,255000000.0
+3567,Radius Health,Biotechnology,USA,258000000.0
+2832,MuleSoft,Data Integration,USA,259000000.0
+2181,Janrain,Curated Web,USA,264000000.0
+4784,Versartis,Health Care,USA,269999996.0
+1990,HotelTonight,Hotels,USA,270000000.0
+1195,DataStax,Big Data,USA,270000000.0
+2975,Nintex,Cloud Data Services,USA,270000000.0
+1677,Foursquare,Location Based Services,USA,275000000.0
+273,Apigee,Cloud Data Services,USA,280000000.0
+3137,Outbrain,Reviews and Recommendations,ISR,280000000.0
+4132,Spacecom,Public Relations,ISR,293000000.0
+2043,Immune Design,Therapeutics,USA,294000000.0
+1194,DataSift,Big Data,USA,294000000.0
+3904,"SevOne, Inc.",Software,USA,300000000.0
+5010,Xero,Finance,NZL,300000000.0
+1785,Glassdoor,Career Management,USA,300000000.0
+3391,Precision for Medicine,Health Care,USA,300000000.0
+4809,Videology,Video,USA,300000000.0
+785,Carrier Energy Partners,Clean Technology,USA,300000000.0
+180,Aiming,Games,JPN,300000000.0
+867,Chukong Technologies,Mobile Software Tools,CHN,300000000.0
+1299,Domo,Web Development,USA,300000000.0
+2548,MAYKOR,Software,RUS,300000000.0
+3416,Primary Data,Web Hosting,USA,300000000.0
+742,Cambridge Innovation Capital,Finance,GBR,303050288.0
+5309,lynda.com,Education,USA,309000000.0
+1222,Deem,E-Commerce,USA,310181740.0
+129,Adaptive Planning,Software,USA,315000000.0
+311,Apptio,SaaS,USA,315000000.0
+1407,Effector Therapeutics,Biotechnology,USA,315000000.0
+4267,SuperSonic Imagine,Biotechnology,FRA,323568000.0
+2895,Natera,Biotechnology,USA,327600000.0
+3588,ReVision Optics,Biotechnology,USA,330000000.0
+1027,ConforMIS,Biotechnology,USA,335400000.0
+4097,Solexel,Clean Technology,USA,335463684.0
+398,Avedro,Health Care,USA,344000000.0
+2448,Linio,E-Commerce,MEX,346500000.0
+3981,SimpliVity,Storage,USA,348000000.0
+855,China Everbright International,Clean Technology,HKG,349000000.0
+3533,Quixey,Search,USA,350000000.0
+169,Affirmed Networks,Mobile,USA,357000000.0
+4597,TriVascular,Medical Devices,USA,360000000.0
+4358,TRIA Beauty,E-Commerce,USA,363500000.0
+1897,Haier,Hardware + Software,IND,364000000.0
+3133,Otonomy,Biotechnology,USA,367200000.0
+190,Akebia Therapeutics,Biotechnology,USA,369000000.0
+4057,Snapdeal,E-Commerce,IND,375000000.0
+1078,Covagen,Biotechnology,CHE,377600000.0
+3048,Oculus VR,Video Games,USA,380000000.0
+3108,Opsona,Biotechnology,IRL,380921400.0
+5071,Zalando,E-Commerce,DEU,381597894.0
+2383,Lamoda,E-Commerce,RUS,390000000.0
+4025,Skyonic,Environmental Innovation,USA,394000000.0
+3532,Quirky,E-Commerce,USA,395000000.0
+3291,Ping Identity Corporation,Identity,USA,396000000.0
+4343,T2 Biosystems,Health Care,USA,400000000.0
+1637,Flipboard,News,USA,400000000.0
+2316,Knewton,Education,USA,408000000.0
+2937,Nevro,Biotechnology,USA,432000000.0
+4090,Sogou,Search,CHN,448000000.0
+3624,Redfin,Real Estate,USA,450000000.0
+5141,Zuora,Facebook Applications,USA,450000000.0
+2183,Jawbone,Consumer Electronics,USA,452000000.0
+522,Bill.com,SaaS,USA,456000000.0
+252,AngelList,Recruiting,USA,456100000.0
+3386,PreCision Dermatology,Biotechnology,USA,469000000.0
+3741,Rostelecom,Mobile,RUS,474000000.0
+3165,PTC Therapeutics,Health Care,USA,480000000.0
+2417,Lending Club,Finance Technology,USA,489000000.0
+2514,Lookout,Security,USA,495000000.0
+1983,Hootsuite,Software,CAN,495000000.0
+2188,JenaValve Technology,Hardware + Software,DEU,500000000.0
+478,Beats Electronics,Hardware,USA,500000000.0
+1814,Good Technology,Data Security,USA,519976000.0
+4268,Supercell,Games,FIN,520000000.0
+5215,eRecycling Corps,Clean Technology,USA,525000000.0
+1902,Hamilton Insurance Group,None,BMU,526666000.0
+4056,Snapchat,File Sharing,USA,530000000.0
+2963,Nextdoor,Privacy,USA,532800000.0
+1265,Dicerna Pharmaceuticals,Health Care,USA,540000000.0
+4881,Warby Parker,Retail,USA,567500000.0
+3991,Sina Weibo,Curated Web,CHN,586000000.0
+3069,OnDeck,Finance,USA,592000000.0
+3935,Shopify,Online Shopping,CAN,600000000.0
+261,Answers Corporation,Information Technology,USA,600000000.0
+184,Airbnb,Peer-to-Peer,USA,600000000.0
+1958,Highwinds,Software,USA,615000000.0
+3784,Saguaro Resources,Manufacturing,CAN,630000000.0
+194,Alaris Royalty,Finance,CAN,635400000.0
+2938,New Relic,SaaS,USA,640000000.0
+3321,Planet Labs,Geospatial,USA,663700000.0
+4261,Sungevity,Clean Technology,USA,700000000.0
+3384,Practice Fusion,Health and Wellness,USA,705000000.0
+523,Billabong International,Fashion,AUS,728000000.0
+4692,University of Maryland,Education,USA,750000000.0
+5063,ZALORA,E-Commerce,MYS,762000000.0
+2478,LivingSocial,E-Commerce,USA,770000000.0
+4666,Uber,Transportation,USA,774000000.0
+4258,SunEdison,Clean Technology,USA,811900000.0
+3161,PPTV,Photography,CHN,840000000.0
+631,Box,File Sharing,USA,900000000.0
+564,Blackberry,Wireless,CAN,1000000000.0
+1546,Fab,Design,USA,1215000000.0
+2801,MongoDB,Cloud Computing,USA,1350000000.0
+2395,Lazada Group,E-Commerce,MYS,1520000000.0
+1638,Flipkart,Online Shopping,IND,1600000000.0
+3484,Pure Storage,Storage,USA,1650000000.0
+1522,Extended Stay America,Hotels,USA,1695000000.0
+3298,Pinterest,Curated Web,USA,1925000000.0
+5353,sigmacare,Health and Wellness,USA,2600000000.0
+4283,SurveyMonkey,Software,USA,2600000000.0
+411,Awesome.me,Curated Web,USA,
