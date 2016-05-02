@@ -1,0 +1,21 @@
+body {
+  background-color: #2f3939;
+  color: white;
+}
+
+#headerr {
+  color: #2f3939;
+  font-family:'Buenard', serif;
+}
+
+nav .brand-logo {
+  color: #2f3939;
+}
+
+nav ul a {
+  color: #2f3939;
+}
+
+.box {
+  border: solid #acebae 2px;
+}
