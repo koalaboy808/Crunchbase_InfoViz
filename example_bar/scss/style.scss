@@ -1,0 +1,56 @@
+body {
+  font-family: "Exo 2", sans-serif;
+  background: #DDD;
+  color: #333;
+}
+
+h1 {
+  margin: 0;
+  padding: 0.1rem 0.4rem;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: right;
+}
+
+.widget {
+  display: inline-block;
+  border: 1px solid #AAA;
+  background: white;
+}
+
+#chart {
+  height: 400px;
+  width: 500px;
+}
+
+svg {
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: #A18FDB;
+}
+
+.value {
+  font-size: 16px;
+  font-weight: 300;
+  fill: #333;
+}
+
+.label {
+  font-size: 18px;
+  fill: #333;
+}
+
+.axis {
+  path {
+    fill: none;
+    //stroke: #333;
+  }
+  .tick line {
+    stroke-width: 1;
+    stroke: rgba(0,0,0,0.1);
+  }
+  //fill: #333;
+  font-size: 12px;
+}
