@@ -1,0 +1,1570 @@
+company_name,company_country_code,company_city,company_market,investor_name,investor_country_code,investor_city,funded_at,funded_month,funded_year,raised_amount_usd,company_name_lower,unicorn_flag
+Vice Media,USA,Brooklyn,Video Streaming,21st Century Fox,USA,New York,08/01/2013 00:00,2013-08,2013,70000000,vicemedia,TRUE
+Symphony,USA,Palo Alto,None,500 Startups,USA,Mountain View,01/17/2011 00:00,2011-01,2011,100000,symphony,TRUE
+Twilio,USA,San Francisco,Enterprise Software,500 Startups,USA,Mountain View,11/09/2010 00:00,2010-11,2010,12000000,twilio,TRUE
+Credit Karma,USA,San Francisco,Finance,500 Startups,USA,Mountain View,04/02/2013 00:00,2013-04,2013,30000000,creditkarma,TRUE
+Fab,USA,New York,Design,A-Grade Investments,USA,Los Angeles,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+AirWatch,USA,Atlanta,Mobile,Accel Partners,USA,Palo Alto,05/16/2013 00:00,2013-05,2013,25000000,airwatch,TRUE
+Funding Circle,GBR,London,Financial Services,Accel Partners,USA,Palo Alto,10/23/2013 00:00,2013-10,2013,37000000,fundingcircle,TRUE
+Spotify,SWE,Stockholm,Entertainment,Accel Partners,USA,Palo Alto,06/17/2011 00:00,2011-06,2011,100000000,spotify,TRUE
+Atlassian,AUS,Sydney,Enterprise Software,Accel Partners,USA,Palo Alto,07/14/2010 00:00,2010-07,2010,60000000,atlassian,TRUE
+Slack,USA,San Francisco,Enterprise Software,Accel Partners,USA,Palo Alto,04/01/2010 00:00,2010-04,2010,5000000,slack,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Accel Partners,USA,Palo Alto,12/07/2012 00:00,2012-12,2012,65000000,cloudera,TRUE
+SimpliVity,USA,Westborough,Storage,Accel Partners,USA,Palo Alto,01/01/2012 00:00,2012-01,2012,18000000,simplivity,TRUE
+SimpliVity,USA,Westborough,Storage,Accel Partners,USA,Palo Alto,09/24/2012 00:00,2012-09,2012,25000000,simplivity,TRUE
+Legendary Entertainment,USA,Burbank,Games,Accel Partners,USA,Palo Alto,04/04/2012 00:00,2012-04,2012,275000000,legendaryentertainment,TRUE
+Lookout,USA,San Francisco,Security,Accel Partners,USA,Palo Alto,09/21/2011 00:00,2011-09,2011,40000000,lookout,TRUE
+Vox Media,USA,Washington,Sports,Accel Partners,USA,Palo Alto,01/15/2009 00:00,2009-01,2009,5000000,voxmedia,TRUE
+Slack,USA,San Francisco,Enterprise Software,Accel Partners,USA,Palo Alto,01/01/2009 00:00,2009-01,2009,1500000,slack,TRUE
+Groupon,USA,Chicago,Advertising,Accel Partners,USA,Palo Alto,12/01/2009 00:00,2009-12,2009,30000000,groupon,TRUE
+Dropbox,USA,San Francisco,Storage,Accel Partners,USA,Palo Alto,11/24/2009 00:00,2009-11,2009,6000000,dropbox,TRUE
+SimpliVity,USA,Westborough,Storage,Accel Partners,USA,Palo Alto,11/18/2013 00:00,2013-11,2013,58000000,simplivity,TRUE
+Hootsuite,CAN,Vancouver,Software,Accel Partners,USA,Palo Alto,08/01/2013 00:00,2013-08,2013,165000000,hootsuite,TRUE
+Lookout,USA,San Francisco,Security,Accel Partners,USA,Palo Alto,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Vox Media,USA,Washington,Sports,Accel Partners,USA,Palo Alto,10/15/2013 00:00,2013-10,2013,34000000,voxmedia,TRUE
+Vox Media,USA,Washington,Sports,Accel Partners,USA,Palo Alto,11/08/2010 00:00,2010-11,2010,10500000,voxmedia,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Accel Partners,USA,Palo Alto,10/26/2010 00:00,2010-10,2010,25000000,cloudera,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Accel Partners,USA,Palo Alto,11/07/2011 00:00,2011-11,2011,40000000,cloudera,TRUE
+Sunrun,USA,San Francisco,Solar,Accel Partners,USA,Palo Alto,06/29/2010 00:00,2010-06,2010,55000000,sunrun,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Accel Partners,USA,Palo Alto,08/24/2012 00:00,2012-08,2012,150000000,flipkart,TRUE
+Groupon,USA,Chicago,Advertising,Accel Partners,USA,Palo Alto,04/18/2010 00:00,2010-04,2010,135000000,groupon,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Accel Partners,USA,Palo Alto,06/02/2009 00:00,2009-06,2009,6000000,cloudera,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Accel Partners,USA,Palo Alto,07/10/2013 00:00,2013-07,2013,200000000,flipkart,TRUE
+Sunrun,USA,San Francisco,Solar,Accel Partners,USA,Palo Alto,07/28/2009 00:00,2009-07,2009,18000000,sunrun,TRUE
+Dropbox,USA,San Francisco,Storage,Accel Partners,USA,Palo Alto,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+ForeScout Technologies,USA,Campbell,Security,Accel Partners,USA,Palo Alto,10/20/2005 00:00,2005-10,2005,10000000,forescouttechnologies,TRUE
+ForeScout Technologies,USA,Campbell,Security,Accel Partners,USA,Palo Alto,11/19/2007 00:00,2007-11,2007,4380000,forescouttechnologies,TRUE
+Sunrun,USA,San Francisco,Solar,Accel Partners,USA,Palo Alto,05/23/2012 00:00,2012-05,2012,60000000,sunrun,TRUE
+Slack,USA,San Francisco,Enterprise Software,Accel Partners,USA,Palo Alto,04/01/2011 00:00,2011-04,2011,10700000,slack,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Accel Partners,USA,Palo Alto,03/16/2009 00:00,2009-03,2009,5000000,cloudera,TRUE
+Vox Media,USA,Washington,Sports,Accel Partners,USA,Palo Alto,07/16/2009 00:00,2009-07,2009,8000000,voxmedia,TRUE
+Prosper,USA,San Francisco,Personal Finance,Accel Partners,USA,Palo Alto,02/01/2006 00:00,2006-02,2006,12500000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Accel Partners,USA,Palo Alto,04/01/2005 00:00,2005-04,2005,7500000,prosper,TRUE
+Facebook,USA,Menlo Park,Communities,Accel Partners,USA,Palo Alto,05/01/2005 00:00,2005-05,2005,12700000,facebook,TRUE
+DocuSign,USA,San Francisco,Software,Accel Partners,USA,Palo Alto,07/12/2012 00:00,2012-07,2012,55700000,docusign,TRUE
+lynda.com,USA,Carpinteria,Education,Accel Partners,USA,Palo Alto,01/16/2013 00:00,2013-01,2013,103000000,lynda.com,TRUE
+Prosper,USA,San Francisco,Personal Finance,Accel Partners,USA,Palo Alto,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+Qualtrics,USA,Provo,Software,Accel Partners,USA,Palo Alto,05/15/2012 00:00,2012-05,2012,70000000,qualtrics,TRUE
+Prosper,USA,San Francisco,Personal Finance,Accel Partners,USA,Palo Alto,02/03/2010 00:00,2010-02,2010,2000000,prosper,TRUE
+Lookout,USA,San Francisco,Security,Accel Partners,USA,Palo Alto,12/23/2010 00:00,2010-12,2010,19500000,lookout,TRUE
+Lookout,USA,San Francisco,Security,Accel Partners,USA,Palo Alto,05/18/2010 00:00,2010-05,2010,11000000,lookout,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Accel Partners,USA,Palo Alto,10/01/2009 00:00,2009-10,2009,1000000,flipkart,TRUE
+Avito.ru,ROM,Rus,Advertising,Accel Partners,USA,Palo Alto,05/01/2012 00:00,2012-05,2012,75000000,avito.ru,TRUE
+BlaBlaCar,,,Peer-to-Peer,Accel Partners,USA,Palo Alto,01/16/2012 00:00,2012-01,2012,10000000,blablacar,TRUE
+Tango,USA,Mountain View,Messaging,Access BridgeGap Ventures,,,04/19/2012 00:00,2012-04,2012,38097364,tango,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Access Industries,USA,New York,12/09/2013 00:00,2013-12,2013,250000000,lazadagroup,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Advanced Equities,USA,Chicago,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Advanced Equities,USA,Chicago,03/15/2005 00:00,2005-03,2005,95000000,goodtechnology,TRUE
+Actifio,USA,Waltham,Enterprise Software,Advanced Technology Ventures,USA,Palo Alto,09/22/2010 00:00,2010-09,2010,16000000,actifio,TRUE
+Actifio,USA,Waltham,Enterprise Software,Advanced Technology Ventures,USA,Palo Alto,12/05/2011 00:00,2011-12,2011,33500000,actifio,TRUE
+Farfetch,USA,Cerritos,Fashion,Advent Venture Partners,GBR,London,07/09/2010 00:00,2010-07,2010,4500000,farfetch,TRUE
+Farfetch,USA,Cerritos,Fashion,Advent Venture Partners,GBR,London,01/15/2012 00:00,2012-01,2012,18000000,farfetch,TRUE
+Farfetch,USA,Cerritos,Fashion,Advent Venture Partners,GBR,London,03/03/2013 00:00,2013-03,2013,20000000,farfetch,TRUE
+Lyft,USA,San Francisco,Transportation,AFSquare,USA,Culver City,09/21/2011 00:00,2011-09,2011,6000000,lyft,TRUE
+Spotify,SWE,Stockholm,Entertainment,AFSquare,USA,Culver City,11/15/2012 00:00,2012-11,2012,100000000,spotify,TRUE
+Dropbox,USA,San Francisco,Storage,AFSquare,USA,Culver City,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Wish,USA,San Francisco,Curated Web,AFSquare,USA,Culver City,10/21/2010 00:00,2010-10,2010,1700000,wish,TRUE
+Quixey,USA,Mountain View,Search,Alibaba,CHN,Hangzhou,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+Fanatics,USA,Jacksonville,E-Commerce,Alibaba,CHN,Hangzhou,06/06/2013 00:00,2013-06,2013,170000000,fanatics,TRUE
+Evernote,USA,Redwood City,Software,Allen & Company,USA,New York,05/03/2012 00:00,2012-05,2012,70000000,evernote,TRUE
+Vox Media,USA,Washington,Sports,Allen & Company,USA,New York,01/15/2009 00:00,2009-01,2009,5000000,voxmedia,TRUE
+Nextdoor,USA,San Francisco,Privacy,Allen & Company,USA,New York,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+Vox Media,USA,Washington,Sports,Allen & Company,USA,New York,07/16/2009 00:00,2009-07,2009,8000000,voxmedia,TRUE
+Nextdoor,USA,San Francisco,Privacy,Allen & Company,USA,New York,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+Jasper,USA,Mountain View,Internet of Things,AllianceBernstein,USA,New York,07/01/2008 00:00,2008-07,2008,25000000,jasper,TRUE
+Jasper,USA,Mountain View,Internet of Things,AllianceBernstein,USA,New York,02/01/2012 00:00,2012-02,2012,61200000,jasper,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,Alpha Associates,CHE,Zí_rich,09/08/2011 00:00,2011-09,2011,100000000,ozon.ru,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,Alta Partners,USA,San Francisco,03/20/2007 00:00,2007-03,2007,50000000,intarciatherapeutics,TRUE
+MongoDB,USA,New York,Cloud Computing,Altimeter Capital,USA,Boston,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+ForeScout Technologies,USA,Campbell,Security,Amadeus Capital Partners,GBR,London,10/20/2005 00:00,2005-10,2005,10000000,forescouttechnologies,TRUE
+ForeScout Technologies,USA,Campbell,Security,Amadeus Capital Partners,GBR,London,11/19/2007 00:00,2007-11,2007,4380000,forescouttechnologies,TRUE
+LivingSocial,USA,Washington,E-Commerce,Amazon,USA,Seattle,04/04/2011 00:00,2011-04,2011,400000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Amazon,USA,Seattle,12/02/2010 00:00,2010-12,2010,183000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Amazon,USA,Seattle,11/18/2011 00:00,2011-11,2011,176000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Amazon,USA,Seattle,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+Warby Parker,USA,New York,Retail,American Express,USA,New York,01/01/2013 00:00,2013-01,2013,41500000,warbyparker,TRUE
+Deem,USA,San Francisco,E-Commerce,American Express,USA,New York,09/21/2011 00:00,2011-09,2011,133000000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,American Express,USA,New York,07/01/2006 00:00,2006-07,2006,32500000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,American Express,USA,New York,04/01/2008 00:00,2008-04,2008,100000000,deem,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Amidzad Partners,USA,Palo Alto,05/01/2007 00:00,2007-05,2007,2000000,lendingclub,TRUE
+Dropbox,USA,San Francisco,Storage,Amidzad Partners,USA,Palo Alto,09/04/2008 00:00,2008-09,2008,1200000,dropbox,TRUE
+Illumio,,,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,09/20/2013 00:00,2013-09,2013,34500000,illumio,TRUE
+Lyft,USA,San Francisco,Transportation,Andreessen Horowitz,USA,Menlo Park,05/23/2013 00:00,2013-05,2013,60000000,lyft,TRUE
+Okta,USA,San Francisco,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,09/13/2013 00:00,2013-09,2013,27000000,okta,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Andreessen Horowitz,USA,Menlo Park,09/12/2013 00:00,2013-09,2013,20000000,jawbone,TRUE
+Okta,USA,San Francisco,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,02/12/2010 00:00,2010-02,2010,10000000,okta,TRUE
+GitHub,USA,San Francisco,Software,Andreessen Horowitz,USA,Menlo Park,07/09/2012 00:00,2012-07,2012,100000000,github,TRUE
+Foursquare,USA,New York,Location Based Services,Andreessen Horowitz,USA,Menlo Park,06/24/2011 00:00,2011-06,2011,50000000,foursquare,TRUE
+Slack,USA,San Francisco,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,04/01/2010 00:00,2010-04,2010,5000000,slack,TRUE
+Pinterest,USA,San Francisco,Curated Web,Andreessen Horowitz,USA,Menlo Park,10/07/2011 00:00,2011-10,2011,27000000,pinterest,TRUE
+Okta,USA,San Francisco,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,12/04/2012 00:00,2012-12,2012,25000000,okta,TRUE
+Zynga,USA,San Francisco,Technology,Andreessen Horowitz,USA,Menlo Park,11/04/2009 00:00,2009-11,2009,15187000,zynga,TRUE
+Lookout,USA,San Francisco,Security,Andreessen Horowitz,USA,Menlo Park,09/21/2011 00:00,2011-09,2011,40000000,lookout,TRUE
+Stripe,USA,San Francisco,Credit Cards,Andreessen Horowitz,USA,Menlo Park,09/30/2011 00:00,2011-09,2011,2000000,stripe,TRUE
+Illumio,,,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,01/14/2013 00:00,2013-01,2013,8000000,illumio,TRUE
+Actifio,USA,Waltham,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,03/06/2013 00:00,2013-03,2013,50000000,actifio,TRUE
+Lookout,USA,San Francisco,Security,Andreessen Horowitz,USA,Menlo Park,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Andreessen Horowitz,USA,Menlo Park,07/25/2011 00:00,2011-07,2011,112000000,airbnb,TRUE
+Box,USA,Los Altos,File Sharing,Andreessen Horowitz,USA,Menlo Park,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+Foursquare,USA,New York,Location Based Services,Andreessen Horowitz,USA,Menlo Park,06/29/2010 00:00,2010-06,2010,20000000,foursquare,TRUE
+zulily,USA,Seattle,E-Commerce,Andreessen Horowitz,USA,Menlo Park,11/15/2012 00:00,2012-11,2012,85000000,zulily,TRUE
+Fab,USA,New York,Design,Andreessen Horowitz,USA,Menlo Park,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Domo,USA,American Fork,Web Development,Andreessen Horowitz,USA,Menlo Park,05/19/2011 00:00,2011-05,2011,10000000,domo,TRUE
+Foursquare,USA,New York,Location Based Services,Andreessen Horowitz,USA,Menlo Park,04/11/2013 00:00,2013-04,2013,41000000,foursquare,TRUE
+Box,USA,Los Altos,File Sharing,Andreessen Horowitz,USA,Menlo Park,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Pinterest,USA,San Francisco,Curated Web,Andreessen Horowitz,USA,Menlo Park,02/20/2013 00:00,2013-02,2013,200000000,pinterest,TRUE
+Asana,USA,San Francisco,Collaboration,Andreessen Horowitz,USA,Menlo Park,11/24/2009 00:00,2009-11,2009,9000000,asana,TRUE
+Fab,USA,New York,Design,Andreessen Horowitz,USA,Menlo Park,12/07/2011 00:00,2011-12,2011,40000000,fab,TRUE
+Actifio,USA,Waltham,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,12/05/2011 00:00,2011-12,2011,33500000,actifio,TRUE
+Fanatics,USA,Jacksonville,E-Commerce,Andreessen Horowitz,USA,Menlo Park,06/07/2012 00:00,2012-06,2012,225000000,fanatics,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Andreessen Horowitz,USA,Menlo Park,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Slack,USA,San Francisco,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,04/01/2011 00:00,2011-04,2011,10700000,slack,TRUE
+Okta,USA,San Francisco,Enterprise Software,Andreessen Horowitz,USA,Menlo Park,08/01/2011 00:00,2011-08,2011,16500000,okta,TRUE
+Asana,USA,San Francisco,Collaboration,Andreessen Horowitz,USA,Menlo Park,07/23/2012 00:00,2012-07,2012,28000000,asana,TRUE
+Fab,USA,New York,Design,Andreessen Horowitz,USA,Menlo Park,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Udacity,USA,Mountain View,Education,Andreessen Horowitz,USA,Menlo Park,10/25/2012 00:00,2012-10,2012,15000000,udacity,TRUE
+Pinterest,USA,San Francisco,Curated Web,Andreessen Horowitz,USA,Menlo Park,05/17/2012 00:00,2012-05,2012,100000000,pinterest,TRUE
+Mixpanel,USA,San Francisco,Analytics,Andreessen Horowitz,USA,Menlo Park,05/10/2012 00:00,2012-05,2012,10250000,mixpanel,TRUE
+Groupon,USA,Chicago,Advertising,Andreessen Horowitz,USA,Menlo Park,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Pinterest,USA,San Francisco,Curated Web,Andreessen Horowitz,USA,Menlo Park,10/23/2013 00:00,2013-10,2013,225000000,pinterest,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Andreessen Horowitz,USA,Menlo Park,03/16/2011 00:00,2011-03,2011,49000000,jawbone,TRUE
+Postmates,USA,San Francisco,E-Commerce,AngelPad,USA,San Francisco,05/01/2011 00:00,2011-05,2011,750000,postmates,TRUE
+Postmates,USA,San Francisco,E-Commerce,AngelPad,USA,San Francisco,03/14/2011 00:00,2011-03,2011,60000,postmates,TRUE
+Betterment,USA,New York,Finance,Anthemis Group,LUX,Luxemburg,12/01/2010 00:00,2010-12,2010,3000000,betterment,TRUE
+Betterment,USA,New York,Finance,Anthemis Group,LUX,Luxemburg,10/03/2012 00:00,2012-10,2012,10000000,betterment,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Apex Venture Partners,USA,Chicago,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Apex Venture Partners,USA,Chicago,04/01/2012 00:00,2012-04,2012,100000000,bloomenergy,TRUE
+Quixey,USA,Mountain View,Search,Archimedes Labs,USA,Palo Alto,04/07/2011 00:00,2011-04,2011,400000,quixey,TRUE
+Quixey,USA,Mountain View,Search,Atlantic Bridge,IRL,Dublin,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+Quixey,USA,Mountain View,Search,Atlantic Bridge,IRL,Dublin,06/07/2012 00:00,2012-06,2012,20000000,quixey,TRUE
+DraftKings,USA,Boston,Games,Atlas Venture,USA,Cambridge,11/26/2013 00:00,2013-11,2013,24000000,draftkings,TRUE
+DraftKings,USA,Boston,Games,Atlas Venture,USA,Cambridge,07/19/2012 00:00,2012-07,2012,1400000,draftkings,TRUE
+DraftKings,USA,Boston,Games,Atlas Venture,USA,Cambridge,05/06/2013 00:00,2013-05,2013,7000000,draftkings,TRUE
+Fab,USA,New York,Design,Atomico,GBR,London,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Fab,USA,New York,Design,Atomico,GBR,London,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+zulily,USA,Seattle,E-Commerce,August Capital,USA,Menlo Park,08/04/2010 00:00,2010-08,2010,6000000,zulily,TRUE
+Zynga,USA,San Francisco,Technology,Avalon Ventures,USA,La Jolla,02/12/2008 00:00,2008-02,2008,5026000,zynga,TRUE
+Zynga,USA,San Francisco,Technology,Avalon Ventures,USA,La Jolla,07/18/2008 00:00,2008-07,2008,25000000,zynga,TRUE
+Zynga,USA,San Francisco,Technology,Avalon Ventures,USA,La Jolla,01/01/2008 00:00,2008-01,2008,10000000,zynga,TRUE
+LinkedIn,USA,Mountain View,Software,Bain Capital Ventures,USA,Boston,06/17/2008 00:00,2008-06,2008,53000000,linkedin,TRUE
+VMTurbo,USA,Burlington,Enterprise Software,Bain Capital Ventures,USA,Boston,11/29/2011 00:00,2011-11,2011,10000000,vmturbo,TRUE
+Fanatics,USA,Jacksonville,E-Commerce,Bank of America,USA,Charlotte,06/07/2012 00:00,2012-06,2012,225000000,fanatics,TRUE
+Adknowledge,USA,Kansas City,Mobile Games,Bank of America,USA,Charlotte,01/12/2011 00:00,2011-01,2011,200000000,adknowledge,TRUE
+SurveyMonkey,USA,Palo Alto,Software,Bank of America Merrill Lynch,,,11/03/2010 00:00,2010-11,2010,100000000,surveymonkey,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,Baring Vostok Capital Partners,RUS,Moscow,04/03/2007 00:00,2007-04,2007,18000000,ozon.ru,TRUE
+Avito.ru,ROM,Rus,Advertising,Baring Vostok Capital Partners,RUS,Moscow,05/01/2012 00:00,2012-05,2012,75000000,avito.ru,TRUE
+Fab,USA,New York,Design,Baroda Ventures,USA,Beverly Hills,07/11/2011 00:00,2011-07,2011,1000000,fab,TRUE
+Fab,USA,New York,Design,Baroda Ventures,USA,Beverly Hills,12/13/2010 00:00,2010-12,2010,1750000,fab,TRUE
+Fab,USA,New York,Design,Baroda Ventures,USA,Beverly Hills,06/30/2010 00:00,2010-06,2010,250000,fab,TRUE
+Fab,USA,New York,Design,Baroda Ventures,USA,Beverly Hills,12/07/2011 00:00,2011-12,2011,40000000,fab,TRUE
+Fab,USA,New York,Design,Baroda Ventures,USA,Beverly Hills,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Fab,USA,New York,Design,Baroda Ventures,USA,Beverly Hills,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+SoFi,USA,San Francisco,Social Media,Baseline Ventures,USA,San Francisco,09/12/2012 00:00,2012-09,2012,77199900,sofi,TRUE
+SoFi,USA,San Francisco,Social Media,Baseline Ventures,USA,San Francisco,09/19/2011 00:00,2011-09,2011,4000000,sofi,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Battery Ventures,USA,Menlo Park,09/01/2009 00:00,2009-09,2009,7500000,coupasoftware,TRUE
+Sprinklr,USA,New York,Social CRM,Battery Ventures,USA,Menlo Park,11/04/2013 00:00,2013-11,2013,17500000,sprinklr,TRUE
+Glassdoor,USA,Sausalito,Career Management,Battery Ventures,USA,Menlo Park,12/05/2013 00:00,2013-12,2013,50000000,glassdoor,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Battery Ventures,USA,Menlo Park,02/15/2011 00:00,2011-02,2011,12000000,coupasoftware,TRUE
+Glassdoor,USA,Sausalito,Career Management,Battery Ventures,USA,Menlo Park,02/10/2011 00:00,2011-02,2011,12000000,glassdoor,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Battery Ventures,USA,Menlo Park,08/22/2012 00:00,2012-08,2012,33000000,nutanix,TRUE
+Groupon,USA,Chicago,Advertising,Battery Ventures,USA,Menlo Park,04/18/2010 00:00,2010-04,2010,135000000,groupon,TRUE
+Sprinklr,USA,New York,Social CRM,Battery Ventures,USA,Menlo Park,02/05/2013 00:00,2013-02,2013,15000000,sprinklr,TRUE
+Sprinklr,USA,New York,Social CRM,Battery Ventures,USA,Menlo Park,03/07/2012 00:00,2012-03,2012,5000000,sprinklr,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Battery Ventures,USA,Menlo Park,10/08/2013 00:00,2013-10,2013,12000000,dollarshaveclub,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Battery Ventures,USA,Menlo Park,05/10/2012 00:00,2012-05,2012,22000000,coupasoftware,TRUE
+Glassdoor,USA,Sausalito,Career Management,Battery Ventures,USA,Menlo Park,10/31/2012 00:00,2012-10,2012,20000000,glassdoor,TRUE
+Groupon,USA,Chicago,Advertising,Battery Ventures,USA,Menlo Park,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Battery Ventures,USA,Menlo Park,04/09/2008 00:00,2008-04,2008,6000000,coupasoftware,TRUE
+Delphix,USA,Menlo Park,Software,Battery Ventures,USA,Menlo Park,06/06/2012 00:00,2012-06,2012,25000000,delphix,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Bay Partners,USA,Menlo Park,03/30/2010 00:00,2010-03,2010,12000000,mulesoft,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Bay Partners,USA,Menlo Park,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+Powa Technologies,GBR,London,Point of Sale,Bay Pond Partners,USA,Boston,08/21/2013 00:00,2013-08,2013,76000000,powatechnologies,TRUE
+DraftKings,USA,Boston,Games,BDS Venture Fund,,,11/26/2013 00:00,2013-11,2013,24000000,draftkings,TRUE
+DraftKings,USA,Boston,Games,BDS Venture Fund,,,05/06/2013 00:00,2013-05,2013,7000000,draftkings,TRUE
+Jasper,USA,Mountain View,Internet of Things,Bench,USA,New York,06/01/2007 00:00,2007-06,2007,31600000,jasper,TRUE
+Quora,USA,Mountain View,Semantic Search,Benchmark,USA,Menlo Park,03/28/2010 00:00,2010-03,2010,11000000,quora,TRUE
+Twitter,USA,San Francisco,Software,Benchmark,USA,Menlo Park,02/13/2009 00:00,2009-02,2009,35000000,twitter,TRUE
+Uber,USA,San Francisco,Transportation,Benchmark,USA,Menlo Park,08/23/2013 00:00,2013-08,2013,258000000,uber,TRUE
+Zuora,USA,Foster City,Facebook Applications,Benchmark,USA,Menlo Park,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Zuora,USA,Foster City,Facebook Applications,Benchmark,USA,Menlo Park,11/09/2010 00:00,2010-11,2010,20000000,zuora,TRUE
+Glassdoor,USA,Sausalito,Career Management,Benchmark,USA,Menlo Park,12/05/2013 00:00,2013-12,2013,50000000,glassdoor,TRUE
+Glassdoor,USA,Sausalito,Career Management,Benchmark,USA,Menlo Park,02/10/2011 00:00,2011-02,2011,12000000,glassdoor,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Benchmark,USA,Menlo Park,03/15/2005 00:00,2005-03,2005,95000000,goodtechnology,TRUE
+Dropbox,USA,San Francisco,Storage,Benchmark,USA,Menlo Park,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Nextdoor,USA,San Francisco,Privacy,Benchmark,USA,Menlo Park,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Benchmark,USA,Menlo Park,12/01/2012 00:00,2012-12,2012,12500000,snapchat,TRUE
+Asana,USA,San Francisco,Collaboration,Benchmark,USA,Menlo Park,11/24/2009 00:00,2009-11,2009,9000000,asana,TRUE
+Zuora,USA,Foster City,Facebook Applications,Benchmark,USA,Menlo Park,11/16/2011 00:00,2011-11,2011,36000000,zuora,TRUE
+Nextdoor,USA,San Francisco,Privacy,Benchmark,USA,Menlo Park,10/29/2013 00:00,2013-10,2013,60000000,nextdoor,TRUE
+Glassdoor,USA,Sausalito,Career Management,Benchmark,USA,Menlo Park,10/28/2008 00:00,2008-10,2008,6500000,glassdoor,TRUE
+Zuora,USA,Foster City,Facebook Applications,Benchmark,USA,Menlo Park,10/28/2008 00:00,2008-10,2008,15000000,zuora,TRUE
+Prosper,USA,San Francisco,Personal Finance,Benchmark,USA,Menlo Park,06/01/2007 00:00,2007-06,2007,20000000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Benchmark,USA,Menlo Park,02/01/2006 00:00,2006-02,2006,12500000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Benchmark,USA,Menlo Park,04/01/2005 00:00,2005-04,2005,7500000,prosper,TRUE
+Domo,USA,American Fork,Web Development,Benchmark,USA,Menlo Park,07/13/2011 00:00,2011-07,2011,33000000,domo,TRUE
+Nextdoor,USA,San Francisco,Privacy,Benchmark,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+Asana,USA,San Francisco,Collaboration,Benchmark,USA,Menlo Park,07/23/2012 00:00,2012-07,2012,28000000,asana,TRUE
+Prosper,USA,San Francisco,Personal Finance,Benchmark,USA,Menlo Park,02/03/2010 00:00,2010-02,2010,2000000,prosper,TRUE
+Glassdoor,USA,Sausalito,Career Management,Benchmark,USA,Menlo Park,10/31/2012 00:00,2012-10,2012,20000000,glassdoor,TRUE
+Jasper,USA,Mountain View,Internet of Things,Benchmark,USA,Menlo Park,06/01/2005 00:00,2005-06,2005,7500000,jasper,TRUE
+Twitter,USA,San Francisco,Software,Benchmark,USA,Menlo Park,09/25/2009 00:00,2009-09,2009,100000000,twitter,TRUE
+Glassdoor,USA,Sausalito,Career Management,Benchmark,USA,Menlo Park,03/27/2008 00:00,2008-03,2008,3000000,glassdoor,TRUE
+Zuora,USA,Foster City,Facebook Applications,Benchmark,USA,Menlo Park,03/13/2008 00:00,2008-03,2008,6500000,zuora,TRUE
+Uber,USA,San Francisco,Transportation,Benchmark,USA,Menlo Park,12/07/2011 00:00,2011-12,2011,37000000,uber,TRUE
+Uber,USA,San Francisco,Transportation,Benchmark,USA,Menlo Park,02/14/2011 00:00,2011-02,2011,11000000,uber,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Benchmark,USA,Menlo Park,06/22/2013 00:00,2013-06,2013,80000000,snapchat,TRUE
+Mogujie,CHN,Hangzhou,Social Media,Bertelsmann Asia Investment Fund,CHN,Beijing,02/01/2011 00:00,2011-02,2011,1000000,mogujie,TRUE
+Mogujie,CHN,Hangzhou,Social Media,Bertelsmann Asia Investment Fund,CHN,Beijing,01/01/2012 00:00,2012-01,2012,10000000,mogujie,TRUE
+Mogujie,CHN,Hangzhou,Social Media,Bertelsmann Asia Investment Fund,CHN,Beijing,05/01/2011 00:00,2011-05,2011,1000000,mogujie,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Bessemer Venture Partners,USA,Menlo Park,06/07/2013 00:00,2013-06,2013,70000000,twilio,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Bessemer Venture Partners,USA,Menlo Park,12/11/2013 00:00,2013-12,2013,100000000,shopify,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Bessemer Venture Partners,USA,Menlo Park,12/13/2010 00:00,2010-12,2010,7000000,shopify,TRUE
+Betterment,USA,New York,Finance,Bessemer Venture Partners,USA,Menlo Park,12/01/2010 00:00,2010-12,2010,3000000,betterment,TRUE
+Pinterest,USA,San Francisco,Curated Web,Bessemer Venture Partners,USA,Menlo Park,10/07/2011 00:00,2011-10,2011,27000000,pinterest,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,Bessemer Venture Partners,USA,Menlo Park,09/01/2011 00:00,2011-09,2011,40000000,snapdeal,TRUE
+Pinterest,USA,San Francisco,Curated Web,Bessemer Venture Partners,USA,Menlo Park,05/07/2011 00:00,2011-05,2011,10000000,pinterest,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Bessemer Venture Partners,USA,Menlo Park,11/09/2010 00:00,2010-11,2010,12000000,twilio,TRUE
+Blue Apron,USA,New York,Hospitality,Bessemer Venture Partners,USA,Menlo Park,08/15/2013 00:00,2013-08,2013,5000000,blueapron,TRUE
+Box,USA,Los Altos,File Sharing,Bessemer Venture Partners,USA,Menlo Park,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Blue Apron,USA,New York,Hospitality,Bessemer Venture Partners,USA,Menlo Park,02/19/2013 00:00,2013-02,2013,3000000,blueapron,TRUE
+Pinterest,USA,San Francisco,Curated Web,Bessemer Venture Partners,USA,Menlo Park,02/20/2013 00:00,2013-02,2013,200000000,pinterest,TRUE
+LinkedIn,USA,Mountain View,Software,Bessemer Venture Partners,USA,Menlo Park,06/17/2008 00:00,2008-06,2008,53000000,linkedin,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Bessemer Venture Partners,USA,Menlo Park,12/07/2011 00:00,2011-12,2011,17000000,twilio,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Bessemer Venture Partners,USA,Menlo Park,01/01/2009 00:00,2009-01,2009,1000000,twilio,TRUE
+LinkedIn,USA,Mountain View,Software,Bessemer Venture Partners,USA,Menlo Park,10/22/2008 00:00,2008-10,2008,22700000,linkedin,TRUE
+LinkedIn,USA,Mountain View,Software,Bessemer Venture Partners,USA,Menlo Park,01/29/2007 00:00,2007-01,2007,12800000,linkedin,TRUE
+Jasper,IND,New Delhi,E-Commerce,Bessemer Venture Partners,USA,Menlo Park,07/28/2011 00:00,2011-07,2011,40000000,jasper,TRUE
+Box,USA,Los Altos,File Sharing,Bessemer Venture Partners,USA,Menlo Park,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Bessemer Venture Partners,USA,Menlo Park,10/17/2011 00:00,2011-10,2011,15000000,shopify,TRUE
+Pinterest,USA,San Francisco,Curated Web,Bessemer Venture Partners,USA,Menlo Park,05/17/2012 00:00,2012-05,2012,100000000,pinterest,TRUE
+Betterment,USA,New York,Finance,Bessemer Venture Partners,USA,Menlo Park,10/03/2012 00:00,2012-10,2012,10000000,betterment,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Bessemer Venture Partners,USA,Menlo Park,12/30/2009 00:00,2009-12,2009,3700000,twilio,TRUE
+Pinterest,USA,San Francisco,Curated Web,Bessemer Venture Partners,USA,Menlo Park,10/23/2013 00:00,2013-10,2013,225000000,pinterest,TRUE
+Kabam,USA,San Francisco,Games,Betfair,GBR,London,10/01/2009 00:00,2009-10,2009,5500000,kabam,TRUE
+Domo,USA,American Fork,Web Development,Bezos Expeditions,USA,Mercer Island,03/11/2013 00:00,2013-03,2013,60000000,domo,TRUE
+Nextdoor,USA,San Francisco,Privacy,Bezos Expeditions,USA,Mercer Island,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+Twitter,USA,San Francisco,Software,Bezos Expeditions,USA,Mercer Island,05/01/2008 00:00,2008-05,2008,15000000,twitter,TRUE
+Prosper,USA,San Francisco,Personal Finance,BlackRock,USA,New York,09/24/2013 00:00,2013-09,2013,25000000,prosper,TRUE
+Automattic,USA,San Francisco,Web CMS,Blacksmith Capital,USA,Palo Alto,10/01/2005 00:00,2005-10,2005,1100000,automattic,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Blueprint Ventures,USA,San Francisco,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Kabbage,USA,Atlanta,Finance,BlueRun Ventures,USA,Menlo Park,09/17/2012 00:00,2012-09,2012,30000000,kabbage,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,BlueRun Ventures,USA,Menlo Park,09/01/2009 00:00,2009-09,2009,7500000,coupasoftware,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,BlueRun Ventures,USA,Menlo Park,02/15/2011 00:00,2011-02,2011,12000000,coupasoftware,TRUE
+Kabbage,USA,Atlanta,Finance,BlueRun Ventures,USA,Menlo Park,08/17/2011 00:00,2011-08,2011,17000000,kabbage,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,BlueRun Ventures,USA,Menlo Park,05/10/2012 00:00,2012-05,2012,22000000,coupasoftware,TRUE
+Kabbage,USA,Atlanta,Finance,BlueRun Ventures,USA,Menlo Park,01/12/2011 00:00,2011-01,2011,6650000,kabbage,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,BlueRun Ventures,USA,Menlo Park,03/13/2007 00:00,2007-03,2007,1500000,coupasoftware,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,BlueRun Ventures,USA,Menlo Park,04/09/2008 00:00,2008-04,2008,6000000,coupasoftware,TRUE
+Hootsuite,CAN,Vancouver,Software,Blumberg Capital,USA,San Francisco,09/15/2011 00:00,2011-09,2011,3000000,hootsuite,TRUE
+Hootsuite,CAN,Vancouver,Software,Blumberg Capital,USA,San Francisco,12/01/2009 00:00,2009-12,2009,1900000,hootsuite,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Blumberg Capital,USA,San Francisco,10/25/2011 00:00,2011-10,2011,25000000,nutanix,TRUE
+Oscar,USA,New York,Insurance,BoxGroup,USA,New York,07/19/2013 00:00,2013-07,2013,40000000,oscar,TRUE
+Warby Parker,USA,New York,Retail,BoxGroup,USA,New York,12/20/2013 00:00,2013-12,2013,60000000,warbyparker,TRUE
+Blue Apron,USA,New York,Hospitality,BoxGroup,USA,New York,08/15/2013 00:00,2013-08,2013,5000000,blueapron,TRUE
+Blue Apron,USA,New York,Hospitality,BoxGroup,USA,New York,02/19/2013 00:00,2013-02,2013,3000000,blueapron,TRUE
+Fab,USA,New York,Design,BoxGroup,USA,New York,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Dataminr,USA,New York,Analytics,BoxGroup,USA,New York,07/26/2011 00:00,2011-07,2011,1086000,dataminr,TRUE
+Harry's,USA,New York,Fashion,BoxGroup,USA,New York,08/15/2012 00:00,2012-08,2012,4000000,harry's,TRUE
+Legendary Entertainment,USA,Burbank,Games,Breyer Capital,USA,Old Greenwich,04/04/2012 00:00,2012-04,2012,275000000,legendaryentertainment,TRUE
+FanDuel,USA,New York,Fantasy Sports,Bullpen Capital,USA,Menlo Park,01/30/2013 00:00,2013-01,2013,11000000,fanduel,TRUE
+BlaBlaCar,,,Peer-to-Peer,Cabiedes & Partners,ESP,Madrid,01/16/2012 00:00,2012-01,2012,10000000,blablacar,TRUE
+Kabam,USA,San Francisco,Games,Canaan Partners,USA,Menlo Park,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+Kabam,USA,San Francisco,Games,Canaan Partners,USA,Menlo Park,10/01/2009 00:00,2009-10,2009,5500000,kabam,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Canaan Partners,USA,Menlo Park,03/19/2009 00:00,2009-03,2009,12000000,lendingclub,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Canaan Partners,USA,Menlo Park,08/03/2011 00:00,2011-08,2011,25000000,lendingclub,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Canaan Partners,USA,Menlo Park,08/23/2007 00:00,2007-08,2007,10260000,lendingclub,TRUE
+Instacart,USA,San Francisco,Groceries,Canaan Partners,USA,Menlo Park,10/15/2012 00:00,2012-10,2012,2300000,instacart,TRUE
+Kabam,USA,San Francisco,Games,Canaan Partners,USA,Menlo Park,01/20/2011 00:00,2011-01,2011,30000000,kabam,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Canaan Partners,USA,Menlo Park,04/14/2010 00:00,2010-04,2010,24500000,lendingclub,TRUE
+Kabam,USA,San Francisco,Games,Canaan Partners,USA,Menlo Park,09/01/2007 00:00,2007-09,2007,4000000,kabam,TRUE
+Accolade,USA,Plymouth Meeting,,Carrick Capital Partners,USA,San Francisco,12/22/2013 00:00,2013-12,2013,30000000,accolade,TRUE
+NJOY,USA,Scottsdale,Health and Wellness,Catterton Partners,USA,Greenwich,04/09/2012 00:00,2012-04,2012,20000000,njoy,TRUE
+Evernote,USA,Redwood City,Software,CBC Capital,CHN,Beijing,05/03/2012 00:00,2012-05,2012,70000000,evernote,TRUE
+Tujia,,,Travel,CBC Capital,CHN,Beijing,02/16/2013 00:00,2013-02,2013,40000000,tujia,TRUE
+Tujia,,,Travel,CDH Investments,,,02/16/2013 00:00,2013-02,2013,40000000,tujia,TRUE
+Tujia,,,Travel,CDH Investments,,,05/16/2012 00:00,2012-05,2012,15000000,tujia,TRUE
+VANCL,CHN,Beijing,E-Commerce,Ceyuan Ventures,HKG,Hong Kong,12/01/2010 00:00,2010-12,2010,100000000,vancl,TRUE
+Deem,USA,San Francisco,E-Commerce,Chase Capital Partners,USA,New York,09/09/2009 00:00,2009-09,2009,40000000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,Chase Capital Partners,USA,New York,04/01/2008 00:00,2008-04,2008,100000000,deem,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,Cisco,USA,San Jose,04/03/2007 00:00,2007-04,2007,18000000,ozon.ru,TRUE
+Square,USA,San Francisco,Mobile Payments,Citi Ventures,USA,Palo Alto,09/17/2012 00:00,2012-09,2012,200000000,square,TRUE
+VANCL,CHN,Beijing,E-Commerce,CITIC PE,CHN,Beijing,07/01/2011 00:00,2011-07,2011,230000000,vancl,TRUE
+Zynga,USA,San Francisco,Technology,Clarium Capital,USA,New York,01/01/2008 00:00,2008-01,2008,10000000,zynga,TRUE
+Automattic,USA,San Francisco,Web CMS,CNET Networks,USA,San Francisco,10/01/2005 00:00,2005-10,2005,1100000,automattic,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Coatue Management,USA,New York,12/11/2013 00:00,2013-12,2013,50000000,snapchat,TRUE
+Box,USA,Los Altos,File Sharing,Coatue Management,USA,New York,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Coatue Management,USA,New York,11/13/2013 00:00,2013-11,2013,57000000,lendingclub,TRUE
+Flipboard,USA,Palo Alto,News,Comcast Interactive Capital,,,04/14/2011 00:00,2011-04,2011,50000000,flipboard,TRUE
+Vox Media,USA,Washington,Sports,Comcast Ventures,USA,San Francisco,10/15/2013 00:00,2013-10,2013,34000000,voxmedia,TRUE
+Vox Media,USA,Washington,Sports,Comcast Ventures,USA,San Francisco,11/08/2010 00:00,2010-11,2010,10500000,voxmedia,TRUE
+Nextdoor,USA,San Francisco,Privacy,Comcast Ventures,USA,San Francisco,10/29/2013 00:00,2013-10,2013,60000000,nextdoor,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Comcast Ventures,USA,San Francisco,10/08/2013 00:00,2013-10,2013,12000000,dollarshaveclub,TRUE
+Vox Media,USA,Washington,Sports,Comcast Ventures,USA,San Francisco,07/16/2009 00:00,2009-07,2009,8000000,voxmedia,TRUE
+DocuSign,USA,San Francisco,Software,Comcast Ventures,USA,San Francisco,07/12/2012 00:00,2012-07,2012,55700000,docusign,TRUE
+FanDuel,USA,New York,Fantasy Sports,Comcast Ventures,USA,San Francisco,01/30/2013 00:00,2013-01,2013,11000000,fanduel,TRUE
+Houzz,USA,Palo Alto,Curated Web,Comcast Ventures,USA,San Francisco,01/29/2013 00:00,2013-01,2013,35000000,houzz,TRUE
+Zalando,DEU,Berlin,E-Commerce,Commerzbank,DEU,Frankfurt Am Main,10/02/2012 00:00,2012-10,2012,52625100,zalando,TRUE
+Prosper,USA,San Francisco,Personal Finance,CompuCredit,USA,Atlanta,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+AppNexus,USA,New York,Technology,Coriolis Ventures,USA,New York,12/27/2007 00:00,2007-12,2007,2500000,appnexus,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Cowboy Ventures,USA,Palo Alto,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Spotify,SWE,Stockholm,Entertainment,Creandum,SWE,Stockholm,10/01/2008 00:00,2008-10,2008,21640000,spotify,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Credit Suisse,CHE,Zí_rich,05/10/2013 00:00,2013-05,2013,130000000,bloomenergy,TRUE
+ipsy,USA,San Mateo,Beauty,Crosscut Ventures,USA,Venice,07/13/2012 00:00,2012-07,2012,2755795,ipsy,TRUE
+Prosper,USA,San Francisco,Personal Finance,Crosslink Capital,USA,San Francisco,06/07/2011 00:00,2011-06,2011,17200000,prosper,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Crosslink Capital,USA,San Francisco,03/15/2005 00:00,2005-03,2005,95000000,goodtechnology,TRUE
+Postmates,USA,San Francisco,E-Commerce,Crosslink Capital,USA,San Francisco,03/19/2013 00:00,2013-03,2013,5000000,postmates,TRUE
+Prosper,USA,San Francisco,Personal Finance,Crosslink Capital,USA,San Francisco,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Crosslink Capital,USA,San Francisco,05/10/2012 00:00,2012-05,2012,22000000,coupasoftware,TRUE
+Postmates,USA,San Francisco,E-Commerce,Crosslink Capital,USA,San Francisco,04/15/2012 00:00,2012-04,2012,1200000,postmates,TRUE
+Foursquare,USA,New York,Location Based Services,CrunchFund,USA,San Francisco,06/24/2011 00:00,2011-06,2011,50000000,foursquare,TRUE
+Yext,USA,New York,SaaS,CrunchFund,USA,San Francisco,06/12/2012 00:00,2012-06,2012,27000000,yext,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,CrunchFund,USA,San Francisco,07/25/2011 00:00,2011-07,2011,112000000,airbnb,TRUE
+Square,USA,San Francisco,Mobile Payments,CrunchFund,USA,San Francisco,09/17/2012 00:00,2012-09,2012,200000000,square,TRUE
+Uber,USA,San Francisco,Transportation,CrunchFund,USA,San Francisco,12/07/2011 00:00,2011-12,2011,37000000,uber,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,CrunchFund,USA,San Francisco,10/28/2013 00:00,2013-10,2013,200000000,airbnb,TRUE
+DoorDash,USA,Palo Alto,Small and Medium Businesses,CRV,USA,Cambridge,09/30/2013 00:00,2013-09,2013,2400000,doordash,TRUE
+SimpliVity,USA,Westborough,Storage,CRV,USA,Cambridge,01/01/2012 00:00,2012-01,2012,18000000,simplivity,TRUE
+SimpliVity,USA,Westborough,Storage,CRV,USA,Cambridge,09/24/2012 00:00,2012-09,2012,25000000,simplivity,TRUE
+Udacity,USA,Mountain View,Education,CRV,USA,Cambridge,01/01/2012 00:00,2012-01,2012,5000000,udacity,TRUE
+Twitter,USA,San Francisco,Software,CRV,USA,Cambridge,02/13/2009 00:00,2009-02,2009,35000000,twitter,TRUE
+SimpliVity,USA,Westborough,Storage,CRV,USA,Cambridge,11/18/2013 00:00,2013-11,2013,58000000,simplivity,TRUE
+Twitter,USA,San Francisco,Software,CRV,USA,Cambridge,07/01/2007 00:00,2007-07,2007,5000000,twitter,TRUE
+Udacity,USA,Mountain View,Education,CRV,USA,Cambridge,10/25/2012 00:00,2012-10,2012,15000000,udacity,TRUE
+Wish,USA,San Francisco,Curated Web,CRV,USA,Cambridge,10/21/2010 00:00,2010-10,2010,1700000,wish,TRUE
+Eventbrite,USA,San Francisco,Events,DAG Ventures,USA,Palo Alto,10/06/2010 00:00,2010-10,2010,20000000,eventbrite,TRUE
+Wealthfront,USA,Palo Alto,Personal Finance,DAG Ventures,USA,Palo Alto,12/15/2009 00:00,2009-12,2009,7500000,wealthfront,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,DAG Ventures,USA,Palo Alto,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Glassdoor,USA,Sausalito,Career Management,DAG Ventures,USA,Palo Alto,12/05/2013 00:00,2013-12,2013,50000000,glassdoor,TRUE
+Nextdoor,USA,San Francisco,Privacy,DAG Ventures,USA,Palo Alto,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,DAG Ventures,USA,Palo Alto,06/08/2012 00:00,2012-06,2012,150000000,bloomenergy,TRUE
+Prosper,USA,San Francisco,Personal Finance,DAG Ventures,USA,Palo Alto,06/01/2007 00:00,2007-06,2007,20000000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,DAG Ventures,USA,Palo Alto,02/03/2010 00:00,2010-02,2010,2000000,prosper,TRUE
+Glassdoor,USA,Sausalito,Career Management,DAG Ventures,USA,Palo Alto,10/31/2012 00:00,2012-10,2012,20000000,glassdoor,TRUE
+Wandoujia,CHN,Beijing,Mobile,DCM,USA,Menlo Park,01/01/2011 00:00,2011-01,2011,8000000,wandoujia,TRUE
+SoFi,USA,San Francisco,Social Media,DCM,USA,Menlo Park,09/12/2012 00:00,2012-09,2012,77199900,sofi,TRUE
+Dataminr,USA,New York,Analytics,Deep Fork Capital,USA,Menlo Park,06/12/2013 00:00,2013-06,2013,30000000,dataminr,TRUE
+Mobileye,NLD,,Transportation,Delek Group,ISR,Netanya,05/11/2006 00:00,2006-05,2006,15000000,mobileye,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Deutsche Telekom,DEU,Bonn,12/21/2011 00:00,2011-12,2011,40000000,jawbone,TRUE
+Lookout,USA,San Francisco,Security,Deutsche Telekom,DEU,Bonn,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Good Technology,USA,Sunnyvale,Data Security,DFJ Growth,USA,Menlo Park,10/01/2006 00:00,2006-10,2006,51300000,goodtechnology,TRUE
+SimpliVity,USA,Westborough,Storage,DFJ Growth,USA,Menlo Park,11/18/2013 00:00,2013-11,2013,58000000,simplivity,TRUE
+Box,USA,Los Altos,File Sharing,DFJ Growth,USA,Menlo Park,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+Gilt Groupe,USA,New York,Shopping,DFJ Growth,USA,Menlo Park,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Good Technology,USA,Sunnyvale,Data Security,DFJ Growth,USA,Menlo Park,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,DFJ Growth,USA,Menlo Park,08/11/2009 00:00,2009-08,2009,30435000,spaceexplorationtechnologies,TRUE
+Twitter,USA,San Francisco,Software,DFJ Growth,USA,Menlo Park,08/02/2011 00:00,2011-08,2011,400000000,twitter,TRUE
+Foursquare,USA,New York,Location Based Services,DFJ Growth,USA,Menlo Park,12/19/2013 00:00,2013-12,2013,35000000,foursquare,TRUE
+Box,USA,Los Altos,File Sharing,DFJ Growth,USA,Menlo Park,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Twitter,USA,San Francisco,Software,Digital Garage,JPN,Tokyo,02/13/2009 00:00,2009-02,2009,35000000,twitter,TRUE
+Twitter,USA,San Francisco,Software,Digital Garage,JPN,Tokyo,05/01/2008 00:00,2008-05,2008,15000000,twitter,TRUE
+Wish,USA,San Francisco,Curated Web,Digital Garage,JPN,Tokyo,10/21/2010 00:00,2010-10,2010,1700000,wish,TRUE
+Spotify,SWE,Stockholm,Entertainment,Digital Sky Technologies,RUS,Moscow,06/17/2011 00:00,2011-06,2011,100000000,spotify,TRUE
+Zynga,USA,San Francisco,Technology,Digital Sky Technologies,RUS,Moscow,11/04/2009 00:00,2009-11,2009,15187000,zynga,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Digital Sky Technologies,RUS,Moscow,07/25/2011 00:00,2011-07,2011,112000000,airbnb,TRUE
+Groupon,USA,Chicago,Advertising,Digital Sky Technologies,RUS,Moscow,04/18/2010 00:00,2010-04,2010,135000000,groupon,TRUE
+Facebook,USA,Menlo Park,Communities,Digital Sky Technologies,RUS,Moscow,05/26/2009 00:00,2009-05,2009,200000000,facebook,TRUE
+Klarna,SWE,Stockholm,Freelancers,Digital Sky Technologies,RUS,Moscow,12/09/2011 00:00,2011-12,2011,155000000,klarna,TRUE
+Facebook,USA,Menlo Park,Communities,Digital Sky Technologies,RUS,Moscow,01/21/2011 00:00,2011-01,2011,1500000000,facebook,TRUE
+Groupon,USA,Chicago,Advertising,Digital Sky Technologies,RUS,Moscow,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Twitter,USA,San Francisco,Software,Digital Sky Technologies,RUS,Moscow,08/02/2011 00:00,2011-08,2011,400000000,twitter,TRUE
+ZocDoc,USA,New York,Heathcare,Digital Sky Technologies,RUS,Moscow,09/22/2011 00:00,2011-09,2011,75000000,zocdoc,TRUE
+Fab,USA,New York,Design,DoCoMo Capital,USA,Palo Alto,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Evernote,USA,Redwood City,Software,DoCoMo Capital,USA,Palo Alto,11/15/2009 00:00,2009-11,2009,10000000,evernote,TRUE
+Evernote,USA,Redwood City,Software,DoCoMo Capital,USA,Palo Alto,09/09/2009 00:00,2009-09,2009,6500000,evernote,TRUE
+Fab,USA,New York,Design,DoCoMo Capital,USA,Palo Alto,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+SoundCloud,,,Music,Doughty Hanson Technology Ventures,GBR,London,04/14/2009 00:00,2009-04,2009,3319000,soundcloud,TRUE
+Glassdoor,USA,Sausalito,Career Management,Dragoneer Investment Group,USA,San Francisco,12/05/2013 00:00,2013-12,2013,50000000,glassdoor,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Dragoneer Investment Group,USA,San Francisco,10/08/2013 00:00,2013-10,2013,160000000,flipkart,TRUE
+Thumbtack,,,Curated Web,Draper Associates,USA,Menlo Park,01/09/2012 00:00,2012-01,2012,4500000,thumbtack,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,06/07/2013 00:00,2013-06,2013,70000000,twilio,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,01/29/2013 00:00,2013-01,2013,25000000,box,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,11/08/2010 00:00,2010-11,2010,50000000,spaceexplorationtechnologies,TRUE
+Prosper,USA,San Francisco,Personal Finance,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,06/07/2011 00:00,2011-06,2011,17200000,prosper,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Gilt Groupe,USA,New York,Shopping,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,10/01/2006 00:00,2006-10,2006,1500000,box,TRUE
+Tango,USA,Mountain View,Messaging,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,07/20/2011 00:00,2011-07,2011,42000000,tango,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,12/21/2012 00:00,2012-12,2012,30000000,spaceexplorationtechnologies,TRUE
+Prosper,USA,San Francisco,Personal Finance,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,04/07/2010 00:00,2010-04,2010,15000000,box,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,08/11/2009 00:00,2009-08,2009,30435000,spaceexplorationtechnologies,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,10/15/2009 00:00,2009-10,2009,7100000,box,TRUE
+Box,USA,Los Altos,File Sharing,Draper Fisher Jurvetson (DFJ),USA,Menlo Park,01/23/2008 00:00,2008-01,2008,6000000,box,TRUE
+Twitter,USA,San Francisco,Software,DST Global,GBR,Surbiton,08/02/2011 00:00,2011-08,2011,400000000,twitter,TRUE
+Lending Club,USA,San Francisco,Finance Technology,DST Global,GBR,Surbiton,11/13/2013 00:00,2013-11,2013,57000000,lendingclub,TRUE
+Nextdoor,USA,San Francisco,Privacy,Duff Ackerman & Goodrich,USA,San Francisco,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+Wealthfront,USA,Palo Alto,Personal Finance,"Duff, Ackerman and Goodrich",USA,San Francisco,03/20/2013 00:00,2013-03,2013,20000000,wealthfront,TRUE
+Farfetch,USA,Cerritos,Fashion,e.ventures,USA,San Francisco,01/15/2012 00:00,2012-01,2012,18000000,farfetch,TRUE
+Farfetch,USA,Cerritos,Fashion,e.ventures,USA,San Francisco,03/03/2013 00:00,2013-03,2013,20000000,farfetch,TRUE
+Mercari,JPN,Tokyo,Mobile Commerce,East Ventures,JPN,Tokyo,07/24/2013 00:00,2013-07,2013,500250,mercari,TRUE
+Gilt Groupe,USA,New York,Shopping,Eastward Capital Partners,USA,West Newton,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,eBay,USA,San Jose,04/01/2013 00:00,2013-04,2013,75000000,snapdeal,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,El Dorado Ventures,USA,Menlo Park,09/01/2009 00:00,2009-09,2009,7500000,coupasoftware,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,El Dorado Ventures,USA,Menlo Park,02/15/2011 00:00,2011-02,2011,12000000,coupasoftware,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,El Dorado Ventures,USA,Menlo Park,05/10/2012 00:00,2012-05,2012,22000000,coupasoftware,TRUE
+Facebook,USA,Menlo Park,Communities,Elevation Partners,USA,New York,06/28/2010 00:00,2010-06,2010,210000000,facebook,TRUE
+MongoDB,USA,New York,Cloud Computing,EMC,USA,Hopkinton,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+Box,USA,Los Altos,File Sharing,Emergence Capital Partners,USA,San Mateo,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Emergence Capital Partners,USA,San Mateo,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Deem,USA,San Francisco,E-Commerce,Empire Capital Partners,USA,Westport,01/01/2004 00:00,2004-01,2004,42000000,deem,TRUE
+SoundCloud,,,Music,Eniac Ventures,USA,New York,01/03/2012 00:00,2012-01,2012,50000000,soundcloud,TRUE
+Good Technology,USA,Sunnyvale,Data Security,ePlanet Ventures,USA,San Jose,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+MediaMath,USA,New York,Advertising,European Founders Fund,DEU,Deutsch,03/09/2011 00:00,2011-03,2011,14000000,mediamath,TRUE
+Eventbrite,USA,San Francisco,Events,European Founders Fund,DEU,Deutsch,06/02/2008 00:00,2008-06,2008,1300000,eventbrite,TRUE
+LinkedIn,USA,Mountain View,Software,European Founders Fund,DEU,Deutsch,01/29/2007 00:00,2007-01,2007,12800000,linkedin,TRUE
+Facebook,USA,Menlo Park,Communities,European Founders Fund,DEU,Deutsch,01/15/2008 00:00,2008-01,2008,15000000,facebook,TRUE
+Taboola,USA,New York,Content Discovery,Evergreen Venture Partners,ISR,Tel Aviv,11/01/2007 00:00,2007-11,2007,1500000,taboola,TRUE
+Taboola,USA,New York,Content Discovery,Evergreen Venture Partners,ISR,Tel Aviv,08/25/2011 00:00,2011-08,2011,9000000,taboola,TRUE
+Taboola,USA,New York,Content Discovery,Evergreen Venture Partners,ISR,Tel Aviv,02/19/2013 00:00,2013-02,2013,15000000,taboola,TRUE
+Taboola,USA,New York,Content Discovery,Evergreen Venture Partners,ISR,Tel Aviv,11/18/2008 00:00,2008-11,2008,4500000,taboola,TRUE
+Postmates,USA,San Francisco,E-Commerce,Expansion Venture Capital,USA,New York,03/19/2013 00:00,2013-03,2013,5000000,postmates,TRUE
+Lyft,USA,San Francisco,Transportation,fbFund,USA,Palo Alto,06/01/2009 00:00,2009-06,2009,300000,lyft,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Felicis Ventures,USA,Palo Alto,12/11/2013 00:00,2013-12,2013,100000000,shopify,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Felicis Ventures,USA,Palo Alto,12/13/2010 00:00,2010-12,2010,7000000,shopify,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Felicis Ventures,USA,Palo Alto,11/01/2012 00:00,2012-11,2012,9800000,dollarshaveclub,TRUE
+Credit Karma,USA,San Francisco,Finance,Felicis Ventures,USA,Palo Alto,11/04/2009 00:00,2009-11,2009,2500000,creditkarma,TRUE
+Credit Karma,USA,San Francisco,Finance,Felicis Ventures,USA,Palo Alto,04/02/2013 00:00,2013-04,2013,30000000,creditkarma,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Felicis Ventures,USA,Palo Alto,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Felicis Ventures,USA,Palo Alto,10/17/2011 00:00,2011-10,2011,15000000,shopify,TRUE
+Wish,USA,San Francisco,Curated Web,Felicis Ventures,USA,Palo Alto,10/21/2010 00:00,2010-10,2010,1700000,wish,TRUE
+Credit Karma,USA,San Francisco,Finance,FF Angel LLC,USA,San Francisco,11/04/2009 00:00,2009-11,2009,2500000,creditkarma,TRUE
+Twilio,USA,San Francisco,Enterprise Software,FF Angel LLC,USA,San Francisco,01/01/2009 00:00,2009-01,2009,1000000,twilio,TRUE
+Mobileye,NLD,,Transportation,FIBI Holding,ISR,Tel Aviv,05/11/2006 00:00,2006-05,2006,15000000,mobileye,TRUE
+Alibaba,CHN,Hangzhou,E-Commerce,Fidelity Growth Partners Asia,CHN,Beijing,02/01/2004 00:00,2004-02,2004,82000000,alibaba,TRUE
+MongoDB,USA,New York,Cloud Computing,Fidelity Investments,USA,Boston,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+Zynga,USA,San Francisco,Technology,Fidelity Investments,USA,Boston,02/18/2011 00:00,2011-02,2011,490000000,zynga,TRUE
+Pinterest,USA,San Francisco,Curated Web,Fidelity Investments,USA,Boston,10/23/2013 00:00,2013-10,2013,225000000,pinterest,TRUE
+Pure Storage,USA,Mountain View,Storage,Fidelity Ventures,USA,Boston,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Spotify,SWE,Stockholm,Entertainment,Fidelity Ventures,USA,Boston,11/15/2012 00:00,2012-11,2012,100000000,spotify,TRUE
+Prosper,USA,San Francisco,Personal Finance,Fidelity Ventures,USA,Boston,06/01/2007 00:00,2007-06,2007,20000000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Fidelity Ventures,USA,Boston,02/01/2006 00:00,2006-02,2006,12500000,prosper,TRUE
+Groupon,USA,Chicago,Advertising,Fidelity Ventures,USA,Boston,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Lending Club,USA,San Francisco,Finance Technology,FinSight Ventures,USA,New York,05/01/2013 00:00,2013-05,2013,125000000,lendingclub,TRUE
+Fab,USA,New York,Design,First Round,USA,San Francisco,07/11/2011 00:00,2011-07,2011,1000000,fab,TRUE
+Fab,USA,New York,Design,First Round,USA,San Francisco,12/13/2010 00:00,2010-12,2010,1750000,fab,TRUE
+AppNexus,USA,New York,Technology,First Round,USA,San Francisco,10/05/2010 00:00,2010-10,2010,50000000,appnexus,TRUE
+AppNexus,USA,New York,Technology,First Round,USA,San Francisco,09/16/2008 00:00,2008-09,2008,8000000,appnexus,TRUE
+Warby Parker,USA,New York,Retail,First Round,USA,San Francisco,09/22/2011 00:00,2011-09,2011,12000000,warbyparker,TRUE
+Square,USA,San Francisco,Mobile Payments,First Round,USA,San Francisco,11/01/2009 00:00,2009-11,2009,10000000,square,TRUE
+Warby Parker,USA,New York,Retail,First Round,USA,San Francisco,12/20/2013 00:00,2013-12,2013,60000000,warbyparker,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,First Round,USA,San Francisco,02/11/2011 00:00,2011-02,2011,23000000,onekingslane,TRUE
+AppNexus,USA,New York,Technology,First Round,USA,San Francisco,12/27/2007 00:00,2007-12,2007,2500000,appnexus,TRUE
+Blue Apron,USA,New York,Hospitality,First Round,USA,San Francisco,08/15/2013 00:00,2013-08,2013,5000000,blueapron,TRUE
+AppNexus,USA,New York,Technology,First Round,USA,San Francisco,11/10/2009 00:00,2009-11,2009,5000000,appnexus,TRUE
+Blue Apron,USA,New York,Hospitality,First Round,USA,San Francisco,02/19/2013 00:00,2013-02,2013,3000000,blueapron,TRUE
+Fab,USA,New York,Design,First Round,USA,San Francisco,12/07/2011 00:00,2011-12,2011,40000000,fab,TRUE
+Uber,USA,San Francisco,Transportation,First Round,USA,San Francisco,10/15/2010 00:00,2010-10,2010,1250000,uber,TRUE
+Warby Parker,USA,New York,Retail,First Round,USA,San Francisco,07/06/2011 00:00,2011-07,2011,1500000,warbyparker,TRUE
+Fab,USA,New York,Design,First Round,USA,San Francisco,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Fab,USA,New York,Design,First Round,FIN,Riihimí_ki,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Uber,USA,San Francisco,Transportation,First Round,USA,San Francisco,02/14/2011 00:00,2011-02,2011,11000000,uber,TRUE
+Shopify,CAN,Ottawa,Online Shopping,FirstMark Capital,USA,New York,12/11/2013 00:00,2013-12,2013,100000000,shopify,TRUE
+Shopify,CAN,Ottawa,Online Shopping,FirstMark Capital,USA,New York,12/13/2010 00:00,2010-12,2010,7000000,shopify,TRUE
+Pinterest,USA,San Francisco,Curated Web,FirstMark Capital,USA,New York,10/07/2011 00:00,2011-10,2011,27000000,pinterest,TRUE
+Pinterest,USA,San Francisco,Curated Web,FirstMark Capital,USA,New York,05/07/2011 00:00,2011-05,2011,10000000,pinterest,TRUE
+Pinterest,USA,San Francisco,Curated Web,FirstMark Capital,USA,New York,02/20/2013 00:00,2013-02,2013,200000000,pinterest,TRUE
+Shopify,CAN,Ottawa,Online Shopping,FirstMark Capital,USA,New York,10/17/2011 00:00,2011-10,2011,15000000,shopify,TRUE
+Pinterest,USA,San Francisco,Curated Web,FirstMark Capital,USA,New York,05/17/2012 00:00,2012-05,2012,100000000,pinterest,TRUE
+Pinterest,USA,San Francisco,Curated Web,FirstMark Capital,USA,New York,10/23/2013 00:00,2013-10,2013,225000000,pinterest,TRUE
+Pinterest,USA,San Francisco,Curated Web,FirstMark Capital,USA,New York,01/01/2010 00:00,2010-01,2010,500000,pinterest,TRUE
+Moderna Therapeutics,USA,Cambridge,Biotechnology,Flagship Ventures,USA,Cambridge,12/06/2012 00:00,2012-12,2012,40000000,modernatherapeutics,TRUE
+Moderna Therapeutics,USA,Cambridge,Biotechnology,Flagship Ventures,USA,Cambridge,11/20/2013 00:00,2013-11,2013,135000044,modernatherapeutics,TRUE
+Okta,USA,San Francisco,Enterprise Software,FLOODGATE,USA,Palo Alto,02/12/2010 00:00,2010-02,2010,10000000,okta,TRUE
+Lyft,USA,San Francisco,Transportation,FLOODGATE,USA,Palo Alto,09/21/2011 00:00,2011-09,2011,6000000,lyft,TRUE
+Lyft,USA,San Francisco,Transportation,FLOODGATE,USA,Palo Alto,08/23/2010 00:00,2010-08,2010,1200000,lyft,TRUE
+Okta,USA,San Francisco,Enterprise Software,FLOODGATE,USA,Palo Alto,08/01/2011 00:00,2011-08,2011,16500000,okta,TRUE
+Lyft,USA,San Francisco,Transportation,FLOODGATE,USA,Palo Alto,01/30/2013 00:00,2013-01,2013,15000000,lyft,TRUE
+MongoDB,USA,New York,Cloud Computing,Flybridge Capital Partners,USA,Boston,12/02/2010 00:00,2010-12,2010,6500000,mongodb,TRUE
+MongoDB,USA,New York,Cloud Computing,Flybridge Capital Partners,USA,Boston,09/12/2011 00:00,2011-09,2011,20000000,mongodb,TRUE
+MongoDB,USA,New York,Cloud Computing,Flybridge Capital Partners,USA,Boston,11/04/2009 00:00,2009-11,2009,3400000,mongodb,TRUE
+MongoDB,USA,New York,Cloud Computing,Flybridge Capital Partners,USA,Boston,05/29/2012 00:00,2012-05,2012,42000000,mongodb,TRUE
+Illumio,,,Enterprise Software,Formation 8,USA,San Francisco,09/20/2013 00:00,2013-09,2013,34500000,illumio,TRUE
+Wish,USA,San Francisco,Curated Web,Formation 8,USA,San Francisco,11/21/2013 00:00,2013-11,2013,19000000,wish,TRUE
+Wish,USA,San Francisco,Curated Web,Formation 8,USA,San Francisco,05/21/2012 00:00,2012-05,2012,8000000,wish,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Fortress Investment Group,USA,New York,09/12/2013 00:00,2013-09,2013,93000000,jawbone,TRUE
+Kik,CAN,Waterloo,Messaging,Foundation Capital,USA,Menlo Park,04/21/2013 00:00,2013-04,2013,19500000,kik,TRUE
+Deem,USA,San Francisco,E-Commerce,Foundation Capital,USA,Menlo Park,09/24/2013 00:00,2013-09,2013,69985435,deem,TRUE
+Sunrun,USA,San Francisco,Solar,Foundation Capital,USA,Menlo Park,06/29/2010 00:00,2010-06,2010,55000000,sunrun,TRUE
+Sunrun,USA,San Francisco,Solar,Foundation Capital,USA,Menlo Park,06/20/2008 00:00,2008-06,2008,12000000,sunrun,TRUE
+Sunrun,USA,San Francisco,Solar,Foundation Capital,USA,Menlo Park,07/28/2009 00:00,2009-07,2009,18000000,sunrun,TRUE
+Deem,USA,San Francisco,E-Commerce,Foundation Capital,USA,Menlo Park,09/01/2005 00:00,2005-09,2005,25000000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,Foundation Capital,USA,Menlo Park,01/01/2004 00:00,2004-01,2004,42000000,deem,TRUE
+Sunrun,USA,San Francisco,Solar,Foundation Capital,USA,Menlo Park,05/23/2012 00:00,2012-05,2012,60000000,sunrun,TRUE
+Deem,USA,San Francisco,E-Commerce,Foundation Capital,USA,Menlo Park,07/23/2013 00:00,2013-07,2013,12500000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,Foundation Capital,USA,Menlo Park,09/19/2013 00:00,2013-09,2013,2620000,deem,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Foundation Capital,USA,Menlo Park,04/14/2010 00:00,2010-04,2010,24500000,lendingclub,TRUE
+Deem,USA,San Francisco,E-Commerce,Foundation Capital,USA,Menlo Park,04/01/2008 00:00,2008-04,2008,100000000,deem,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Foundation Capital,USA,Menlo Park,05/01/2013 00:00,2013-05,2013,125000000,lendingclub,TRUE
+Uber,USA,San Francisco,Transportation,Founder Collective,USA,New York,10/15/2010 00:00,2010-10,2010,1250000,uber,TRUE
+BuzzFeed,USA,New York,Entertainment,Founder Collective,USA,New York,05/12/2010 00:00,2010-05,2010,8000000,buzzfeed,TRUE
+Oscar,USA,New York,Insurance,Founders Fund,USA,San Francisco,07/19/2013 00:00,2013-07,2013,40000000,oscar,TRUE
+ZocDoc,USA,New York,Heathcare,Founders Fund,USA,San Francisco,07/14/2010 00:00,2010-07,2010,15000000,zocdoc,TRUE
+Domo,USA,American Fork,Web Development,Founders Fund,USA,San Francisco,03/11/2013 00:00,2013-03,2013,60000000,domo,TRUE
+Palantir Technologies,USA,Palo Alto,Analytics,Founders Fund,USA,San Francisco,09/27/2013 00:00,2013-09,2013,196500000,palantirtechnologies,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Founders Fund,USA,San Francisco,11/08/2010 00:00,2010-11,2010,50000000,spaceexplorationtechnologies,TRUE
+Spotify,SWE,Stockholm,Entertainment,Founders Fund,USA,San Francisco,02/01/2010 00:00,2010-02,2010,16139080,spotify,TRUE
+Palantir Technologies,USA,Palo Alto,Analytics,Founders Fund,USA,San Francisco,06/25/2010 00:00,2010-06,2010,90000000,palantirtechnologies,TRUE
+Credit Karma,USA,San Francisco,Finance,Founders Fund,USA,San Francisco,11/04/2009 00:00,2009-11,2009,2500000,creditkarma,TRUE
+Postmates,USA,San Francisco,E-Commerce,Founders Fund,USA,San Francisco,03/19/2013 00:00,2013-03,2013,5000000,postmates,TRUE
+Facebook,USA,Menlo Park,Communities,Founders Fund,USA,San Francisco,04/01/2006 00:00,2006-04,2006,27500000,facebook,TRUE
+Asana,USA,San Francisco,Collaboration,Founders Fund,USA,San Francisco,07/23/2012 00:00,2012-07,2012,28000000,asana,TRUE
+Palantir Technologies,USA,Palo Alto,Analytics,Founders Fund,USA,San Francisco,05/16/2012 00:00,2012-05,2012,56000000,palantirtechnologies,TRUE
+Lyft,USA,San Francisco,Transportation,Founders Fund,USA,San Francisco,01/30/2013 00:00,2013-01,2013,15000000,lyft,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Founders Fund,USA,San Francisco,08/01/2008 00:00,2008-08,2008,20000000,spaceexplorationtechnologies,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Founders Fund,USA,San Francisco,12/30/2009 00:00,2009-12,2009,3700000,twilio,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Founders Fund,USA,San Francisco,10/28/2013 00:00,2013-10,2013,200000000,airbnb,TRUE
+Zynga,USA,San Francisco,Technology,Foundry Group,USA,Boulder,02/12/2008 00:00,2008-02,2008,5026000,zynga,TRUE
+Zynga,USA,San Francisco,Technology,Foundry Group,USA,Boulder,07/18/2008 00:00,2008-07,2008,25000000,zynga,TRUE
+Zynga,USA,San Francisco,Technology,Foundry Group,USA,Boulder,01/01/2008 00:00,2008-01,2008,10000000,zynga,TRUE
+GoPro,USA,San Mateo,Hardware + Software,Foxconn International Holdings,,,12/20/2012 00:00,2012-12,2012,200000000,gopro,TRUE
+DocuSign,USA,San Francisco,Software,Frazier Technology Ventures,USA,Seattle,12/08/2010 00:00,2010-12,2010,27000000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Frazier Technology Ventures,USA,Seattle,05/08/2009 00:00,2009-05,2009,5000000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Frazier Technology Ventures,USA,Seattle,09/01/2007 00:00,2007-09,2007,12400000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Frazier Technology Ventures,USA,Seattle,04/01/2006 00:00,2006-04,2006,10000000,docusign,TRUE
+Instacart,USA,San Francisco,Groceries,FundersClub,USA,San Francisco,10/15/2012 00:00,2012-10,2012,2300000,instacart,TRUE
+Zeta Interactive,USA,New York,Advertising,GCP Capital Partners,USA,New York,06/27/2012 00:00,2012-06,2012,80000000,zetainteractive,TRUE
+Box,USA,Los Altos,File Sharing,General Atlantic,USA,New York,01/29/2013 00:00,2013-01,2013,25000000,box,TRUE
+Klarna,SWE,Stockholm,Freelancers,General Atlantic,USA,New York,12/09/2011 00:00,2011-12,2011,155000000,klarna,TRUE
+Gilt Groupe,USA,New York,Shopping,General Atlantic,USA,New York,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Box,USA,Los Altos,File Sharing,General Atlantic,USA,New York,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+Gilt Groupe,USA,New York,Shopping,General Atlantic,USA,New York,05/14/2010 00:00,2010-05,2010,35000000,giltgroupe,TRUE
+Gilt Groupe,USA,New York,Shopping,General Atlantic,USA,New York,08/11/2009 00:00,2009-08,2009,43000000,giltgroupe,TRUE
+Oscar,USA,New York,Insurance,General Catalyst Partners,USA,Cambridge,07/19/2013 00:00,2013-07,2013,40000000,oscar,TRUE
+Illumio,,,Enterprise Software,General Catalyst Partners,USA,Cambridge,09/20/2013 00:00,2013-09,2013,34500000,illumio,TRUE
+Stripe,USA,San Francisco,Credit Cards,General Catalyst Partners,USA,Cambridge,07/09/2012 00:00,2012-07,2012,20000000,stripe,TRUE
+Warby Parker,USA,New York,Retail,General Catalyst Partners,USA,Cambridge,01/01/2013 00:00,2013-01,2013,41500000,warbyparker,TRUE
+Warby Parker,USA,New York,Retail,General Catalyst Partners,USA,Cambridge,12/20/2013 00:00,2013-12,2013,60000000,warbyparker,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,General Catalyst Partners,USA,Cambridge,07/25/2011 00:00,2011-07,2011,112000000,airbnb,TRUE
+Datto,USA,Norwalk,Storage,General Catalyst Partners,USA,Cambridge,09/03/2013 00:00,2013-09,2013,25000000,datto,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,General Catalyst Partners,USA,Cambridge,06/22/2013 00:00,2013-06,2013,80000000,snapchat,TRUE
+Better Place,USA,Palo Alto,Clean Technology,General Electric,USA,Fairfield,11/11/2011 00:00,2011-11,2011,200000000,betterplace,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Georgian Partners,CAN,Toronto,12/11/2013 00:00,2013-12,2013,100000000,shopify,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Georgian Partners,CAN,Toronto,10/17/2011 00:00,2011-10,2011,15000000,shopify,TRUE
+Quixey,USA,Mountain View,Search,GGV Capital,USA,Menlo Park,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+DraftKings,USA,Boston,Games,GGV Capital,USA,Menlo Park,11/26/2013 00:00,2013-11,2013,24000000,draftkings,TRUE
+SoundCloud,,,Music,GGV Capital,USA,Menlo Park,01/03/2012 00:00,2012-01,2012,50000000,soundcloud,TRUE
+Domo,USA,American Fork,Web Development,GGV Capital,USA,Menlo Park,03/11/2013 00:00,2013-03,2013,60000000,domo,TRUE
+Alibaba,CHN,Hangzhou,E-Commerce,GGV Capital,USA,Menlo Park,02/01/2004 00:00,2004-02,2004,82000000,alibaba,TRUE
+Tujia,,,Travel,GGV Capital,USA,Menlo Park,02/16/2013 00:00,2013-02,2013,40000000,tujia,TRUE
+Houzz,USA,Palo Alto,Curated Web,GGV Capital,USA,Menlo Park,01/29/2013 00:00,2013-01,2013,35000000,houzz,TRUE
+Wish,USA,San Francisco,Curated Web,GGV Capital,USA,Menlo Park,11/21/2013 00:00,2013-11,2013,19000000,wish,TRUE
+Good Technology,USA,Sunnyvale,Data Security,GKM,USA,Los Angeles,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Mobileye,NLD,,Transportation,GlenRock Israel,ISR,,05/11/2006 00:00,2006-05,2006,15000000,mobileye,TRUE
+Pure Storage,USA,Mountain View,Storage,Glynn Capital Management,USA,Menlo Park,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Palantir Technologies,USA,Palo Alto,Analytics,Glynn Capital Management,USA,Menlo Park,06/25/2010 00:00,2010-06,2010,90000000,palantirtechnologies,TRUE
+Dropbox,USA,San Francisco,Storage,Glynn Capital Management,USA,Menlo Park,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Gold Hill Capital,USA,San Jose,05/18/2009 00:00,2009-05,2009,3970000,lendingclub,TRUE
+Flipboard,USA,Palo Alto,News,Goldman Sachs,USA,New York,12/09/2013 00:00,2013-12,2013,50000000,flipboard,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Goldman Sachs,USA,New York,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Goldman Sachs,USA,New York,08/22/2012 00:00,2012-08,2012,33000000,nutanix,TRUE
+Spotify,SWE,Stockholm,Entertainment,Goldman Sachs,USA,New York,11/15/2012 00:00,2012-11,2012,100000000,spotify,TRUE
+Dropbox,USA,San Francisco,Storage,Goldman Sachs,USA,New York,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Mobileye,NLD,,Transportation,Goldman Sachs,USA,New York,10/12/2007 00:00,2007-10,2007,100000000,mobileye,TRUE
+Gilt Groupe,USA,New York,Shopping,Goldman Sachs,USA,New York,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Flipboard,USA,Palo Alto,News,Goldman Sachs,USA,New York,09/23/2013 00:00,2013-09,2013,50000000,flipboard,TRUE
+LinkedIn,USA,Mountain View,Software,Goldman Sachs,USA,New York,10/22/2008 00:00,2008-10,2008,22700000,linkedin,TRUE
+Facebook,USA,Menlo Park,Communities,Goldman Sachs,USA,New York,01/21/2011 00:00,2011-01,2011,1500000000,facebook,TRUE
+Uber,USA,San Francisco,Transportation,Goldman Sachs,USA,New York,12/07/2011 00:00,2011-12,2011,37000000,uber,TRUE
+ZocDoc,USA,New York,Heathcare,Goldman Sachs,USA,New York,09/22/2011 00:00,2011-09,2011,75000000,zocdoc,TRUE
+Zynga,USA,San Francisco,Technology,Google,USA,Mountain View,06/14/2010 00:00,2010-06,2010,300000000,zynga,TRUE
+Dianping,CHN,Shanghai,E-Commerce,Google,USA,Mountain View,09/01/2007 00:00,2007-09,2007,25000000,dianping,TRUE
+SurveyMonkey,USA,Palo Alto,Software,Google Capital,USA,Lucerne Valley,01/16/2013 00:00,2013-01,2013,450000000,surveymonkey,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Google Capital,USA,Lucerne Valley,05/01/2013 00:00,2013-05,2013,125000000,lendingclub,TRUE
+Uber,USA,San Francisco,Transportation,Google Ventures,USA,Mountain View,08/23/2013 00:00,2013-08,2013,258000000,uber,TRUE
+Kabam,USA,San Francisco,Games,Google Ventures,USA,Mountain View,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+Nextdoor,USA,San Francisco,Privacy,Google Ventures,USA,Mountain View,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+DocuSign,USA,San Francisco,Software,Google Ventures,USA,Mountain View,07/12/2012 00:00,2012-07,2012,55700000,docusign,TRUE
+Anaplan,USA,San Francisco,Enterprise Software,Granite Ventures,USA,San Francisco,03/05/2013 00:00,2013-03,2013,33000000,anaplan,TRUE
+Anaplan,USA,San Francisco,Enterprise Software,Granite Ventures,USA,San Francisco,01/19/2012 00:00,2012-01,2012,11400000,anaplan,TRUE
+Blue Apron,USA,New York,Hospitality,Graph Ventures,,,02/19/2013 00:00,2013-02,2013,3000000,blueapron,TRUE
+CloudFlare,USA,San Francisco,Security,Greenspring Associates,USA,Owings Mills,12/17/2013 00:00,2013-12,2013,50000000,cloudflare,TRUE
+Actifio,USA,Waltham,Enterprise Software,Greylock Partners,USA,Menlo Park,07/21/2010 00:00,2010-07,2010,8000000,actifio,TRUE
+Okta,USA,San Francisco,Enterprise Software,Greylock Partners,USA,Menlo Park,09/13/2013 00:00,2013-09,2013,27000000,okta,TRUE
+Pure Storage,USA,Mountain View,Storage,Greylock Partners,USA,Menlo Park,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Pure Storage,USA,Mountain View,Storage,Greylock Partners,USA,Menlo Park,08/23/2011 00:00,2011-08,2011,30000000,purestorage,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Greylock Partners,USA,Menlo Park,11/10/2010 00:00,2010-11,2010,7200000,airbnb,TRUE
+Delphix,USA,Menlo Park,Software,Greylock Partners,USA,Menlo Park,04/01/2010 00:00,2010-04,2010,11000000,delphix,TRUE
+Actifio,USA,Waltham,Enterprise Software,Greylock Partners,USA,Menlo Park,09/22/2010 00:00,2010-09,2010,16000000,actifio,TRUE
+AppDynamics,USA,San Francisco,Software,Greylock Partners,USA,Menlo Park,05/03/2010 00:00,2010-05,2010,11000000,appdynamics,TRUE
+AppDynamics,USA,San Francisco,Software,Greylock Partners,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,5500000,appdynamics,TRUE
+AppDynamics,USA,San Francisco,Software,Greylock Partners,USA,Menlo Park,01/17/2012 00:00,2012-01,2012,20000000,appdynamics,TRUE
+Wealthfront,USA,Palo Alto,Personal Finance,Greylock Partners,USA,Menlo Park,03/20/2013 00:00,2013-03,2013,20000000,wealthfront,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Greylock Partners,USA,Menlo Park,12/12/2012 00:00,2012-12,2012,50000000,onekingslane,TRUE
+Okta,USA,San Francisco,Enterprise Software,Greylock Partners,USA,Menlo Park,12/04/2012 00:00,2012-12,2012,25000000,okta,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Greylock Partners,USA,Menlo Park,12/07/2012 00:00,2012-12,2012,65000000,cloudera,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Greylock Partners,USA,Menlo Park,09/18/2011 00:00,2011-09,2011,40000000,onekingslane,TRUE
+Delphix,USA,Menlo Park,Software,Greylock Partners,USA,Menlo Park,02/04/2009 00:00,2009-02,2009,8500000,delphix,TRUE
+Domo,USA,American Fork,Web Development,Greylock Partners,USA,Menlo Park,03/11/2013 00:00,2013-03,2013,60000000,domo,TRUE
+Zuora,USA,Foster City,Facebook Applications,Greylock Partners,USA,Menlo Park,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Lookout,USA,San Francisco,Security,Greylock Partners,USA,Menlo Park,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Greylock Partners,USA,Menlo Park,10/26/2010 00:00,2010-10,2010,25000000,cloudera,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Greylock Partners,USA,Menlo Park,02/11/2011 00:00,2011-02,2011,23000000,onekingslane,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Greylock Partners,USA,Menlo Park,11/07/2011 00:00,2011-11,2011,40000000,cloudera,TRUE
+Pure Storage,USA,Mountain View,Storage,Greylock Partners,USA,Menlo Park,08/15/2012 00:00,2012-08,2012,40000000,purestorage,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Greylock Partners,USA,Menlo Park,06/02/2009 00:00,2009-06,2009,6000000,cloudera,TRUE
+Dropbox,USA,San Francisco,Storage,Greylock Partners,USA,Menlo Park,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Nextdoor,USA,San Francisco,Privacy,Greylock Partners,USA,Menlo Park,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+LinkedIn,USA,Mountain View,Software,Greylock Partners,USA,Menlo Park,06/17/2008 00:00,2008-06,2008,53000000,linkedin,TRUE
+Actifio,USA,Waltham,Enterprise Software,Greylock Partners,USA,Menlo Park,12/05/2011 00:00,2011-12,2011,33500000,actifio,TRUE
+Zuora,USA,Foster City,Facebook Applications,Greylock Partners,USA,Menlo Park,11/16/2011 00:00,2011-11,2011,36000000,zuora,TRUE
+Pure Storage,USA,Mountain View,Storage,Greylock Partners,USA,Menlo Park,08/01/2010 00:00,2010-08,2010,20000000,purestorage,TRUE
+Nextdoor,USA,San Francisco,Privacy,Greylock Partners,USA,Menlo Park,10/29/2013 00:00,2013-10,2013,60000000,nextdoor,TRUE
+Facebook,USA,Menlo Park,Communities,Greylock Partners,USA,Menlo Park,04/01/2006 00:00,2006-04,2006,27500000,facebook,TRUE
+Okta,USA,San Francisco,Enterprise Software,Greylock Partners,USA,Menlo Park,08/01/2011 00:00,2011-08,2011,16500000,okta,TRUE
+LinkedIn,USA,Mountain View,Software,Greylock Partners,USA,Menlo Park,10/01/2004 00:00,2004-10,2004,10000000,linkedin,TRUE
+Nextdoor,USA,San Francisco,Privacy,Greylock Partners,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+AppDynamics,USA,San Francisco,Software,Greylock Partners,USA,Menlo Park,01/23/2013 00:00,2013-01,2013,50000000,appdynamics,TRUE
+Groupon,USA,Chicago,Advertising,Greylock Partners,USA,Menlo Park,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Delphix,USA,Menlo Park,Software,Greylock Partners,USA,Menlo Park,06/06/2012 00:00,2012-06,2012,25000000,delphix,TRUE
+Actifio,USA,Waltham,Enterprise Software,Greylock Partners Israel,ISR,Herzliya,03/06/2013 00:00,2013-03,2013,50000000,actifio,TRUE
+LivingSocial,USA,Washington,E-Commerce,Grotech Ventures,USA,Vienna,04/29/2010 00:00,2010-04,2010,14000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Grotech Ventures,USA,Vienna,07/21/2008 00:00,2008-07,2008,5000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Grotech Ventures,USA,Vienna,03/11/2010 00:00,2010-03,2010,25000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Grotech Ventures,USA,Vienna,01/04/2010 00:00,2010-01,2010,5000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Grotech Ventures,USA,Vienna,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,GSR Ventures,CHN,Beijing,12/01/2010 00:00,2010-12,2010,50000000,lashou.com,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,GSR Ventures,CHN,Beijing,03/01/2011 00:00,2011-03,2011,110000000,lashou.com,TRUE
+Ele.me,CHN,Shanghai,E-Commerce,GSR Ventures,CHN,Beijing,11/27/2013 00:00,2013-11,2013,25000000,ele.me,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,GSR Ventures,CHN,Beijing,04/01/2010 00:00,2010-04,2010,5000000,lashou.com,TRUE
+Dataminr,USA,New York,Analytics,GSV Capital,USA,Woodside,06/12/2013 00:00,2013-06,2013,30000000,dataminr,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,GSV Capital,USA,Woodside,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,GSV Capital,USA,Woodside,06/08/2012 00:00,2012-06,2012,150000000,bloomenergy,TRUE
+Tango,USA,Mountain View,Messaging,Hambrecht Ventures,,,06/01/2010 00:00,2010-06,2010,500000,tango,TRUE
+Evernote,USA,Redwood City,Software,Harbor Pacific Capital,USA,Palo Alto,05/03/2012 00:00,2012-05,2012,70000000,evernote,TRUE
+Harry's,USA,New York,Fashion,Harrison Metal,USA,Palo Alto,08/15/2012 00:00,2012-08,2012,4000000,harry's,TRUE
+DoorDash,USA,Palo Alto,Small and Medium Businesses,Haystack,USA,Palo Alto,09/30/2013 00:00,2013-09,2013,2400000,doordash,TRUE
+Hootsuite,CAN,Vancouver,Software,Hearst Ventures,USA,New York,09/15/2011 00:00,2011-09,2011,3000000,hootsuite,TRUE
+BuzzFeed,USA,New York,Entertainment,Hearst Ventures,USA,New York,01/09/2012 00:00,2012-01,2012,15500000,buzzfeed,TRUE
+BuzzFeed,USA,New York,Entertainment,Hearst Ventures,USA,New York,07/09/2008 00:00,2008-07,2008,3500000,buzzfeed,TRUE
+Hootsuite,CAN,Vancouver,Software,Hearst Ventures,USA,New York,12/01/2009 00:00,2009-12,2009,1900000,hootsuite,TRUE
+BuzzFeed,USA,New York,Entertainment,Hearst Ventures,USA,New York,05/12/2010 00:00,2010-05,2010,8000000,buzzfeed,TRUE
+Deem,USA,San Francisco,E-Commerce,HGGC,USA,Palo Alto,09/24/2013 00:00,2013-09,2013,69985435,deem,TRUE
+VMTurbo,USA,Burlington,Enterprise Software,Highland Capital Partners,GBR,London,11/29/2011 00:00,2011-11,2011,10000000,vmturbo,TRUE
+Tujia,,,Travel,HomeAway,USA,Austin,05/16/2012 00:00,2012-05,2012,15000000,tujia,TRUE
+Spotify,SWE,Stockholm,Entertainment,Horizons Ventures,HKG,Hong Kong,10/01/2008 00:00,2008-10,2008,21640000,spotify,TRUE
+Facebook,USA,Menlo Park,Communities,Horizons Ventures,HKG,Hong Kong,03/27/2008 00:00,2008-03,2008,60000000,facebook,TRUE
+Spotify,SWE,Stockholm,Entertainment,Horizons Ventures,HKG,Hong Kong,08/04/2009 00:00,2009-08,2009,50000000,spotify,TRUE
+Facebook,USA,Menlo Park,Communities,Horizons Ventures,HKG,Hong Kong,11/30/2007 00:00,2007-11,2007,60000000,facebook,TRUE
+VANCL,CHN,Beijing,E-Commerce,Hotung Venture Group,TWN,Taipei,07/01/2011 00:00,2011-07,2011,230000000,vancl,TRUE
+Better Place,USA,Palo Alto,Clean Technology,HSBC,,,11/11/2011 00:00,2011-11,2011,200000000,betterplace,TRUE
+InsideSales.com,USA,Provo,Lead Management,Hummer Winblad Venture Partners,USA,San Francisco,01/08/2013 00:00,2013-01,2013,35000000,insidesales.com,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Hummer Winblad Venture Partners,USA,San Francisco,03/30/2010 00:00,2010-03,2010,12000000,mulesoft,TRUE
+InsideSales.com,USA,Provo,Lead Management,Hummer Winblad Venture Partners,USA,San Francisco,08/10/2012 00:00,2012-08,2012,4000000,insidesales.com,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Hummer Winblad Venture Partners,USA,San Francisco,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+Domo,USA,American Fork,Web Development,Hummer Winblad Venture Partners,USA,San Francisco,05/19/2011 00:00,2011-05,2011,10000000,domo,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Hummer Winblad Venture Partners,USA,San Francisco,05/18/2012 00:00,2012-05,2012,15000000,mulesoft,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Hummer Winblad Venture Partners,USA,San Francisco,05/22/2007 00:00,2007-05,2007,12500000,mulesoft,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Hummer Winblad Venture Partners,USA,San Francisco,10/01/2006 00:00,2006-10,2006,4000000,mulesoft,TRUE
+HelloFresh,USA,New York,Hospitality,HV Holtzbrinck Ventures,DEU,Munich,09/30/2013 00:00,2013-09,2013,7500000,hellofresh,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,HV Holtzbrinck Ventures,DEU,Munich,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+HelloFresh,USA,New York,Hospitality,HV Holtzbrinck Ventures,DEU,Munich,12/12/2012 00:00,2012-12,2012,10000000,hellofresh,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,HV Holtzbrinck Ventures,DEU,Munich,06/19/2013 00:00,2013-06,2013,100000000,lazadagroup,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,HV Holtzbrinck Ventures,DEU,Munich,04/03/2007 00:00,2007-04,2007,18000000,ozon.ru,TRUE
+TransferWise,GBR,London,Virtualization,IA Ventures,USA,New York,05/13/2013 00:00,2013-05,2013,6000000,transferwise,TRUE
+TransferWise,GBR,London,Virtualization,IA Ventures,USA,New York,04/17/2012 00:00,2012-04,2012,1300000,transferwise,TRUE
+Apttus,USA,San Mateo,Software,Iconiq Capital,USA,San Francisco,09/17/2013 00:00,2013-09,2013,37000000,apttus,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Iconiq Capital,USA,San Francisco,08/24/2012 00:00,2012-08,2012,150000000,flipkart,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Iconiq Capital,USA,San Francisco,07/10/2013 00:00,2013-07,2013,200000000,flipkart,TRUE
+SurveyMonkey,USA,Palo Alto,Software,Iconiq Capital,USA,San Francisco,01/16/2013 00:00,2013-01,2013,450000000,surveymonkey,TRUE
+Automattic,USA,San Francisco,Web CMS,Iconiq Capital,USA,San Francisco,09/17/2013 00:00,2013-09,2013,75000000,automattic,TRUE
+Razer,USA,San Diego,Games,IDG Capital Partners,CHN,Beijing,12/20/2011 00:00,2011-12,2011,50000000,razer,TRUE
+VANCL,CHN,Beijing,E-Commerce,IDG Capital Partners,CHN,Beijing,12/01/2010 00:00,2010-12,2010,100000000,vancl,TRUE
+VANCL,CHN,Beijing,E-Commerce,IDG Capital Partners,CHN,Beijing,07/01/2011 00:00,2011-07,2011,230000000,vancl,TRUE
+DocuSign,USA,San Francisco,Software,Ignition Partners,USA,Bellevue,12/08/2010 00:00,2010-12,2010,27000000,docusign,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Ignition Partners,USA,Bellevue,12/07/2012 00:00,2012-12,2012,65000000,cloudera,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Ignition Partners,USA,Bellevue,11/07/2011 00:00,2011-11,2011,40000000,cloudera,TRUE
+DocuSign,USA,San Francisco,Software,Ignition Partners,USA,Bellevue,05/08/2009 00:00,2009-05,2009,5000000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Ignition Partners,USA,Bellevue,09/01/2007 00:00,2007-09,2007,12400000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Ignition Partners,USA,Bellevue,04/01/2006 00:00,2006-04,2006,10000000,docusign,TRUE
+Pure Storage,USA,Mountain View,Storage,In-Q-Tel,USA,Arlington,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,In-Q-Tel,USA,Arlington,12/07/2012 00:00,2012-12,2012,65000000,cloudera,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,In-Q-Tel,USA,Arlington,11/07/2011 00:00,2011-11,2011,40000000,cloudera,TRUE
+Delphix,USA,Menlo Park,Software,In-Q-Tel,USA,Arlington,06/06/2012 00:00,2012-06,2012,25000000,delphix,TRUE
+MongoDB,USA,New York,Cloud Computing,In-Q-Tel,USA,Arlington,01/01/2012 00:00,2012-01,2012,7700000,mongodb,TRUE
+TransferWise,GBR,London,Virtualization,Index Ventures,CHE,Geneva,05/13/2013 00:00,2013-05,2013,6000000,transferwise,TRUE
+Pure Storage,USA,Mountain View,Storage,Index Ventures,CHE,Geneva,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Funding Circle,GBR,London,Financial Services,Index Ventures,CHE,Geneva,10/23/2013 00:00,2013-10,2013,37000000,fundingcircle,TRUE
+Flipboard,USA,Palo Alto,News,Index Ventures,CHE,Geneva,12/09/2013 00:00,2013-12,2013,50000000,flipboard,TRUE
+Flipboard,USA,Palo Alto,News,Index Ventures,CHE,Geneva,07/20/2010 00:00,2010-07,2010,10500000,flipboard,TRUE
+Wealthfront,USA,Palo Alto,Personal Finance,Index Ventures,CHE,Geneva,03/20/2013 00:00,2013-03,2013,20000000,wealthfront,TRUE
+Funding Circle,GBR,London,Financial Services,Index Ventures,CHE,Geneva,04/02/2012 00:00,2012-04,2012,16000000,fundingcircle,TRUE
+Lookout,USA,San Francisco,Security,Index Ventures,CHE,Geneva,09/21/2011 00:00,2011-09,2011,40000000,lookout,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,Index Ventures,CHE,Geneva,09/08/2011 00:00,2011-09,2011,100000000,ozon.ru,TRUE
+Farfetch,USA,Cerritos,Fashion,Index Ventures,CHE,Geneva,01/15/2012 00:00,2012-01,2012,18000000,farfetch,TRUE
+Farfetch,USA,Cerritos,Fashion,Index Ventures,CHE,Geneva,03/03/2013 00:00,2013-03,2013,20000000,farfetch,TRUE
+Zuora,USA,Foster City,Facebook Applications,Index Ventures,CHE,Geneva,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Lookout,USA,San Francisco,Security,Index Ventures,CHE,Geneva,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Pure Storage,USA,Mountain View,Storage,Index Ventures,CHE,Geneva,08/15/2012 00:00,2012-08,2012,40000000,purestorage,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,Index Ventures,CHE,Geneva,04/03/2007 00:00,2007-04,2007,18000000,ozon.ru,TRUE
+Dropbox,USA,San Francisco,Storage,Index Ventures,CHE,Geneva,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Zuora,USA,Foster City,Facebook Applications,Index Ventures,CHE,Geneva,11/16/2011 00:00,2011-11,2011,36000000,zuora,TRUE
+Funding Circle,GBR,London,Financial Services,Index Ventures,CHE,Geneva,04/21/2011 00:00,2011-04,2011,4137070,fundingcircle,TRUE
+Flipboard,USA,Palo Alto,News,Index Ventures,CHE,Geneva,04/14/2011 00:00,2011-04,2011,50000000,flipboard,TRUE
+SoundCloud,,,Music,Index Ventures,CHE,Geneva,01/01/2011 00:00,2011-01,2011,10000000,soundcloud,TRUE
+Lookout,USA,San Francisco,Security,Index Ventures,CHE,Geneva,12/23/2010 00:00,2010-12,2010,19500000,lookout,TRUE
+TransferWise,GBR,London,Virtualization,Index Ventures,CHE,Geneva,04/17/2012 00:00,2012-04,2012,1300000,transferwise,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,IndoUS Venture Partners,IND,Bangalore,01/01/2011 00:00,2011-01,2011,12000000,snapdeal,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,IndoUS Venture Partners,IND,Bangalore,09/01/2011 00:00,2011-09,2011,40000000,snapdeal,TRUE
+Jasper,IND,New Delhi,E-Commerce,IndoUS Venture Partners,IND,Bangalore,07/28/2011 00:00,2011-07,2011,40000000,jasper,TRUE
+Jasper,IND,New Delhi,E-Commerce,IndoUS Venture Partners,IND,Bangalore,01/25/2011 00:00,2011-01,2011,12000000,jasper,TRUE
+Zomato,IND,Gurgaon,Restaurants,Info Edge,IND,New Delhi,11/06/2013 00:00,2013-11,2013,37000000,zomato,TRUE
+Zomato,IND,Gurgaon,Restaurants,Info Edge,IND,New Delhi,09/01/2011 00:00,2011-09,2011,3500000,zomato,TRUE
+Zomato,IND,Gurgaon,Restaurants,Info Edge,IND,New Delhi,08/01/2010 00:00,2010-08,2010,1000000,zomato,TRUE
+Zomato,IND,Gurgaon,Restaurants,Info Edge,IND,New Delhi,09/01/2012 00:00,2012-09,2012,2300000,zomato,TRUE
+Zomato,IND,Gurgaon,Restaurants,Info Edge,IND,New Delhi,02/21/2013 00:00,2013-02,2013,10000000,zomato,TRUE
+Quixey,USA,Mountain View,Search,Innovation Endeavors,USA,Palo Alto,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+Quixey,USA,Mountain View,Search,Innovation Endeavors,USA,Palo Alto,08/29/2011 00:00,2011-08,2011,3800000,quixey,TRUE
+Quixey,USA,Mountain View,Search,Innovation Endeavors,USA,Palo Alto,06/07/2012 00:00,2012-06,2012,20000000,quixey,TRUE
+Quixey,USA,Mountain View,Search,Innovation Endeavors,USA,Palo Alto,04/07/2011 00:00,2011-04,2011,400000,quixey,TRUE
+SoFi,USA,San Francisco,Social Media,Innovation Endeavors,USA,Palo Alto,09/19/2011 00:00,2011-09,2011,4000000,sofi,TRUE
+Uber,USA,San Francisco,Transportation,Innovation Endeavors,USA,Palo Alto,02/14/2011 00:00,2011-02,2011,11000000,uber,TRUE
+Wandoujia,CHN,Beijing,Mobile,Innovation Works (China),CHN,Beijing,01/01/2011 00:00,2011-01,2011,8000000,wandoujia,TRUE
+AppDirect,USA,San Francisco,PaaS,iNovia Capital,CAN,Montrí©al,04/28/2011 00:00,2011-04,2011,3250000,appdirect,TRUE
+AppDirect,USA,San Francisco,PaaS,iNovia Capital,CAN,Montrí©al,07/18/2012 00:00,2012-07,2012,8500000,appdirect,TRUE
+AppDirect,USA,San Francisco,PaaS,iNovia Capital,CAN,Montrí©al,09/10/2013 00:00,2013-09,2013,9000000,appdirect,TRUE
+Flipboard,USA,Palo Alto,News,Insight Venture Partners,USA,New York,12/09/2013 00:00,2013-12,2013,50000000,flipboard,TRUE
+Shopify,CAN,Ottawa,Online Shopping,Insight Venture Partners,USA,New York,12/11/2013 00:00,2013-12,2013,100000000,shopify,TRUE
+Hootsuite,CAN,Vancouver,Software,Insight Venture Partners,USA,New York,08/01/2013 00:00,2013-08,2013,165000000,hootsuite,TRUE
+AirWatch,USA,Atlanta,Mobile,Insight Venture Partners,USA,New York,02/24/2013 00:00,2013-02,2013,200000000,airwatch,TRUE
+Fanatics,USA,Jacksonville,E-Commerce,Insight Venture Partners,USA,New York,06/07/2012 00:00,2012-06,2012,225000000,fanatics,TRUE
+Flipboard,USA,Palo Alto,News,Insight Venture Partners,USA,New York,04/14/2011 00:00,2011-04,2011,50000000,flipboard,TRUE
+Flipboard,USA,Palo Alto,News,Insight Venture Partners,USA,New York,09/23/2013 00:00,2013-09,2013,50000000,flipboard,TRUE
+Twitter,USA,San Francisco,Software,Insight Venture Partners,USA,New York,09/25/2009 00:00,2009-09,2009,100000000,twitter,TRUE
+Pluralsight,USA,Cedar Valley,Education,Insight Venture Partners,USA,New York,01/03/2013 00:00,2013-01,2013,27500000,pluralsight,TRUE
+Dataminr,USA,New York,Analytics,Institutional Venture Partners (IVP),USA,Menlo Park,06/12/2013 00:00,2013-06,2013,30000000,dataminr,TRUE
+Pure Storage,USA,Mountain View,Storage,Institutional Venture Partners (IVP),USA,Menlo Park,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Institutional Venture Partners (IVP),USA,Menlo Park,12/12/2012 00:00,2012-12,2012,50000000,onekingslane,TRUE
+Zynga,USA,San Francisco,Technology,Institutional Venture Partners (IVP),USA,Menlo Park,11/04/2009 00:00,2009-11,2009,15187000,zynga,TRUE
+Yext,USA,New York,SaaS,Institutional Venture Partners (IVP),USA,Menlo Park,06/12/2012 00:00,2012-06,2012,27000000,yext,TRUE
+Twitter,USA,San Francisco,Software,Institutional Venture Partners (IVP),USA,Menlo Park,02/13/2009 00:00,2009-02,2009,35000000,twitter,TRUE
+Zynga,USA,San Francisco,Technology,Institutional Venture Partners (IVP),USA,Menlo Park,07/18/2008 00:00,2008-07,2008,25000000,zynga,TRUE
+Dropbox,USA,San Francisco,Storage,Institutional Venture Partners (IVP),USA,Menlo Park,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Yext,USA,New York,SaaS,Institutional Venture Partners (IVP),USA,Menlo Park,07/28/2011 00:00,2011-07,2011,10000000,yext,TRUE
+LegalZoom,USA,Glendale,Legal,Institutional Venture Partners (IVP),USA,Menlo Park,07/24/2011 00:00,2011-07,2011,66000000,legalzoom,TRUE
+Domo,USA,American Fork,Web Development,Institutional Venture Partners (IVP),USA,Menlo Park,01/31/2012 00:00,2012-01,2012,20000000,domo,TRUE
+AppDynamics,USA,San Francisco,Software,Institutional Venture Partners (IVP),USA,Menlo Park,01/23/2013 00:00,2013-01,2013,50000000,appdynamics,TRUE
+Twitter,USA,San Francisco,Software,Institutional Venture Partners (IVP),USA,Menlo Park,09/25/2009 00:00,2009-09,2009,100000000,twitter,TRUE
+Yext,USA,New York,SaaS,Institutional Venture Partners (IVP),USA,Menlo Park,10/01/2009 00:00,2009-10,2009,25000000,yext,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Institutional Venture Partners (IVP),USA,Menlo Park,06/22/2013 00:00,2013-06,2013,80000000,snapchat,TRUE
+MongoDB,USA,New York,Cloud Computing,Intel Capital,USA,Santa Clara,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+Sprinklr,USA,New York,Social CRM,Intel Capital,USA,Santa Clara,11/04/2013 00:00,2013-11,2013,17500000,sprinklr,TRUE
+Kabam,USA,San Francisco,Games,Intel Capital,USA,Santa Clara,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,Intel Capital,USA,Santa Clara,04/01/2013 00:00,2013-04,2013,75000000,snapdeal,TRUE
+Sprinklr,USA,New York,Social CRM,Intel Capital,USA,Santa Clara,02/05/2013 00:00,2013-02,2013,15000000,sprinklr,TRUE
+Kabam,USA,San Francisco,Games,Intel Capital,USA,Santa Clara,01/20/2011 00:00,2011-01,2011,30000000,kabam,TRUE
+MongoDB,USA,New York,Cloud Computing,Intel Capital,USA,Santa Clara,01/01/2012 00:00,2012-01,2012,7700000,mongodb,TRUE
+JustFab,USA,El Segundo,Fashion,Intelligent Beauty,USA,El Segundo,09/26/2013 00:00,2013-09,2013,40000000,justfab,TRUE
+JustFab,USA,El Segundo,Fashion,Intelligent Beauty,USA,El Segundo,07/26/2012 00:00,2012-07,2012,76000000,justfab,TRUE
+Klarna,SWE,Stockholm,Freelancers,Investment AB íÄäÛÒresund,SWE,Stockholm,12/01/2007 00:00,2007-12,2007,2200000,klarna,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Investment AB Kinnevik,SWE,Stockholm,12/09/2013 00:00,2013-12,2013,250000000,lazadagroup,TRUE
+HelloFresh,USA,New York,Hospitality,Investment AB Kinnevik,SWE,Stockholm,12/12/2012 00:00,2012-12,2012,10000000,hellofresh,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Investment AB Kinnevik,SWE,Stockholm,06/19/2013 00:00,2013-06,2013,100000000,lazadagroup,TRUE
+Avito.ru,ROM,Rus,Advertising,Investment AB Kinnevik,SWE,Stockholm,05/01/2012 00:00,2012-05,2012,75000000,avito.ru,TRUE
+BlaBlaCar,,,Peer-to-Peer,Isai,FRA,Paris,01/16/2012 00:00,2012-01,2012,10000000,blablacar,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Israel Corp,ISR,Tel Aviv,11/02/2012 00:00,2012-11,2012,100000000,betterplace,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Israel Corp,ISR,Tel Aviv,11/11/2011 00:00,2011-11,2011,200000000,betterplace,TRUE
+Fab,USA,New York,Design,ITOCHU Corporation,JPN,Tokyo,08/12/2013 00:00,2013-08,2013,5000000,fab,TRUE
+ForeScout Technologies,USA,Campbell,Security,ITOCHU Corporation,JPN,Tokyo,10/20/2005 00:00,2005-10,2005,10000000,forescouttechnologies,TRUE
+Fab,USA,New York,Design,Itochu Technology Ventures,JPN,Tokyo,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Box,USA,Los Altos,File Sharing,Itochu Technology Ventures,JPN,Tokyo,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,J.P. Morgan,,,09/12/2013 00:00,2013-09,2013,93000000,jawbone,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,J.P. Morgan,,,07/12/2011 00:00,2011-07,2011,70000000,jawbone,TRUE
+LivingSocial,USA,Washington,E-Commerce,J.P. Morgan Securities Inc.,,,11/18/2011 00:00,2011-11,2011,176000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,J.P. Morgan Securities Inc.,,,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+Delphix,USA,Menlo Park,Software,Jafco Ventures,USA,Palo Alto,06/06/2012 00:00,2012-06,2012,25000000,delphix,TRUE
+Thumbtack,,,Curated Web,Javelin Venture Partners,USA,San Francisco,01/09/2012 00:00,2012-01,2012,4500000,thumbtack,TRUE
+Adknowledge,USA,Kansas City,Mobile Games,JMI Equity,USA,Baltimore,01/12/2011 00:00,2011-01,2011,200000000,adknowledge,TRUE
+Deem,USA,San Francisco,E-Commerce,JPMorgan Chase & Co,USA,New York,09/21/2011 00:00,2011-09,2011,133000000,deem,TRUE
+SurveyMonkey,USA,Palo Alto,Software,JPMorgan Chase & Co,USA,New York,01/16/2013 00:00,2013-01,2013,350000000,surveymonkey,TRUE
+Apttus,USA,San Mateo,Software,"K1 Capital Advisors, LLC",USA,El Segundo,09/17/2013 00:00,2013-09,2013,37000000,apttus,TRUE
+Lyft,USA,San Francisco,Transportation,K9 Ventures,USA,Palo Alto,09/21/2011 00:00,2011-09,2011,6000000,lyft,TRUE
+Twilio,USA,San Francisco,Enterprise Software,K9 Ventures,USA,Palo Alto,11/09/2010 00:00,2010-11,2010,12000000,twilio,TRUE
+Lyft,USA,San Francisco,Transportation,K9 Ventures,USA,Palo Alto,08/23/2010 00:00,2010-08,2010,1200000,lyft,TRUE
+Twilio,USA,San Francisco,Enterprise Software,K9 Ventures,USA,Palo Alto,01/01/2009 00:00,2009-01,2009,1000000,twilio,TRUE
+Lyft,USA,San Francisco,Transportation,K9 Ventures,USA,Palo Alto,01/30/2013 00:00,2013-01,2013,15000000,lyft,TRUE
+Twilio,USA,San Francisco,Enterprise Software,K9 Ventures,USA,Palo Alto,12/30/2009 00:00,2009-12,2009,3700000,twilio,TRUE
+Zalando,DEU,Berlin,E-Commerce,KfW Bankengruppe,DEU,Deutsch,10/02/2012 00:00,2012-10,2012,52625100,zalando,TRUE
+Oscar,USA,New York,Insurance,Khosla Ventures,USA,Menlo Park,07/19/2013 00:00,2013-07,2013,40000000,oscar,TRUE
+Okta,USA,San Francisco,Enterprise Software,Khosla Ventures,USA,Menlo Park,09/13/2013 00:00,2013-09,2013,27000000,okta,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Khosla Ventures,USA,Menlo Park,09/12/2013 00:00,2013-09,2013,20000000,jawbone,TRUE
+DoorDash,USA,Palo Alto,Small and Medium Businesses,Khosla Ventures,USA,Menlo Park,09/30/2013 00:00,2013-09,2013,2400000,doordash,TRUE
+ZocDoc,USA,New York,Heathcare,Khosla Ventures,USA,Menlo Park,07/14/2010 00:00,2010-07,2010,15000000,zocdoc,TRUE
+AppNexus,USA,New York,Technology,Khosla Ventures,USA,Menlo Park,09/16/2008 00:00,2008-09,2008,8000000,appnexus,TRUE
+Okta,USA,San Francisco,Enterprise Software,Khosla Ventures,USA,Menlo Park,12/04/2012 00:00,2012-12,2012,25000000,okta,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Khosla Ventures,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,30000000,jawbone,TRUE
+ZocDoc,USA,New York,Heathcare,Khosla Ventures,USA,Menlo Park,08/18/2008 00:00,2008-08,2008,5000000,zocdoc,TRUE
+Square,USA,San Francisco,Mobile Payments,Khosla Ventures,USA,Menlo Park,11/01/2009 00:00,2009-11,2009,10000000,square,TRUE
+Lookout,USA,San Francisco,Security,Khosla Ventures,USA,Menlo Park,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Vox Media,USA,Washington,Sports,Khosla Ventures,USA,Menlo Park,11/08/2010 00:00,2010-11,2010,10500000,voxmedia,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Khosla Ventures,USA,Menlo Park,08/22/2012 00:00,2012-08,2012,33000000,nutanix,TRUE
+AppNexus,USA,New York,Technology,Khosla Ventures,USA,Menlo Park,12/27/2007 00:00,2007-12,2007,2500000,appnexus,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Khosla Ventures,USA,Menlo Park,07/01/2007 00:00,2007-07,2007,5000000,jawbone,TRUE
+Okta,USA,San Francisco,Enterprise Software,Khosla Ventures,USA,Menlo Park,08/01/2011 00:00,2011-08,2011,16500000,okta,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Khosla Ventures,USA,Menlo Park,10/25/2011 00:00,2011-10,2011,25000000,nutanix,TRUE
+Instacart,USA,San Francisco,Groceries,Khosla Ventures,USA,Menlo Park,10/15/2012 00:00,2012-10,2012,2300000,instacart,TRUE
+Lookout,USA,San Francisco,Security,Khosla Ventures,USA,Menlo Park,12/23/2010 00:00,2010-12,2010,19500000,lookout,TRUE
+Lookout,USA,San Francisco,Security,Khosla Ventures,USA,Menlo Park,05/18/2010 00:00,2010-05,2010,11000000,lookout,TRUE
+Lookout,USA,San Francisco,Security,Khosla Ventures,USA,Menlo Park,12/22/2009 00:00,2009-12,2009,5500000,lookout,TRUE
+TransferWise,GBR,London,Virtualization,Kima Ventures,FRA,Paris,05/13/2013 00:00,2013-05,2013,6000000,transferwise,TRUE
+TransferWise,GBR,London,Virtualization,Kima Ventures,FRA,Paris,04/17/2012 00:00,2012-04,2012,1300000,transferwise,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kite Ventures,RUS,Moscow,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kite Ventures,RUS,Moscow,10/01/2011 00:00,2011-10,2011,14853300,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kite Ventures,RUS,Moscow,03/01/2012 00:00,2012-03,2012,33280000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kite Ventures,RUS,Moscow,08/27/2012 00:00,2012-08,2012,50000000,deliveryhero,TRUE
+Twitter,USA,San Francisco,Software,Kleiner Perkins Caufield & Byers,USA,Menlo Park,12/15/2010 00:00,2010-12,2010,200000000,twitter,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Kleiner Perkins Caufield & Byers,USA,Menlo Park,09/12/2013 00:00,2013-09,2013,20000000,jawbone,TRUE
+Flipboard,USA,Palo Alto,News,Kleiner Perkins Caufield & Byers,USA,Menlo Park,12/09/2013 00:00,2013-12,2013,50000000,flipboard,TRUE
+Spotify,SWE,Stockholm,Entertainment,Kleiner Perkins Caufield & Byers,USA,Menlo Park,06/17/2011 00:00,2011-06,2011,100000000,spotify,TRUE
+Flipboard,USA,Palo Alto,News,Kleiner Perkins Caufield & Byers,USA,Menlo Park,07/20/2010 00:00,2010-07,2010,10500000,flipboard,TRUE
+InMobi,USA,San Francisco,Mobile,Kleiner Perkins Caufield & Byers,USA,Menlo Park,07/13/2010 00:00,2010-07,2010,8000000,inmobi,TRUE
+Zynga,USA,San Francisco,Technology,Kleiner Perkins Caufield & Byers,USA,Menlo Park,02/18/2011 00:00,2011-02,2011,490000000,zynga,TRUE
+Square,USA,San Francisco,Mobile Payments,Kleiner Perkins Caufield & Byers,USA,Menlo Park,06/28/2011 00:00,2011-06,2011,100000000,square,TRUE
+AppDynamics,USA,San Francisco,Software,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/17/2012 00:00,2012-01,2012,20000000,appdynamics,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Kleiner Perkins Caufield & Byers,USA,Menlo Park,12/12/2012 00:00,2012-12,2012,50000000,onekingslane,TRUE
+SimpliVity,USA,Westborough,Storage,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/01/2012 00:00,2012-01,2012,18000000,simplivity,TRUE
+SimpliVity,USA,Westborough,Storage,Kleiner Perkins Caufield & Byers,USA,Menlo Park,09/24/2012 00:00,2012-09,2012,25000000,simplivity,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Kleiner Perkins Caufield & Byers,USA,Menlo Park,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Kleiner Perkins Caufield & Byers,USA,Menlo Park,09/18/2011 00:00,2011-09,2011,40000000,onekingslane,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Kleiner Perkins Caufield & Byers,USA,Menlo Park,12/21/2011 00:00,2011-12,2011,40000000,jawbone,TRUE
+SoundCloud,,,Music,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/03/2012 00:00,2012-01,2012,50000000,soundcloud,TRUE
+Zynga,USA,San Francisco,Technology,Kleiner Perkins Caufield & Byers,USA,Menlo Park,07/18/2008 00:00,2008-07,2008,25000000,zynga,TRUE
+SimpliVity,USA,Westborough,Storage,Kleiner Perkins Caufield & Byers,USA,Menlo Park,11/18/2013 00:00,2013-11,2013,58000000,simplivity,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Kleiner Perkins Caufield & Byers,USA,Menlo Park,02/11/2011 00:00,2011-02,2011,23000000,onekingslane,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Kleiner Perkins Caufield & Byers,USA,Menlo Park,03/15/2005 00:00,2005-03,2005,95000000,goodtechnology,TRUE
+InMobi,USA,San Francisco,Mobile,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,7100000,inmobi,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Kleiner Perkins Caufield & Byers,USA,Menlo Park,06/08/2012 00:00,2012-06,2012,150000000,bloomenergy,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Kleiner Perkins Caufield & Byers,USA,Menlo Park,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Flipboard,USA,Palo Alto,News,Kleiner Perkins Caufield & Byers,USA,Menlo Park,04/14/2011 00:00,2011-04,2011,50000000,flipboard,TRUE
+Nextdoor,USA,San Francisco,Privacy,Kleiner Perkins Caufield & Byers,USA,Menlo Park,10/29/2013 00:00,2013-10,2013,60000000,nextdoor,TRUE
+Flipboard,USA,Palo Alto,News,Kleiner Perkins Caufield & Byers,USA,Menlo Park,09/23/2013 00:00,2013-09,2013,50000000,flipboard,TRUE
+LegalZoom,USA,Glendale,Legal,Kleiner Perkins Caufield & Byers,USA,Menlo Park,07/24/2011 00:00,2011-07,2011,66000000,legalzoom,TRUE
+DocuSign,USA,San Francisco,Software,Kleiner Perkins Caufield & Byers,USA,Menlo Park,07/12/2012 00:00,2012-07,2012,55700000,docusign,TRUE
+Houzz,USA,Palo Alto,Curated Web,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/29/2013 00:00,2013-01,2013,35000000,houzz,TRUE
+AppDynamics,USA,San Francisco,Software,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/23/2013 00:00,2013-01,2013,50000000,appdynamics,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,450000000,bloomenergy,TRUE
+Groupon,USA,Chicago,Advertising,Kleiner Perkins Caufield & Byers,USA,Menlo Park,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Kleiner Perkins Caufield & Byers,USA,Menlo Park,06/06/2012 00:00,2012-06,2012,17500000,lendingclub,TRUE
+AppNexus,USA,New York,Technology,Kodiak Venture Partners,USA,Wellesley,09/16/2008 00:00,2008-09,2008,8000000,appnexus,TRUE
+AppNexus,USA,New York,Technology,Kodiak Venture Partners,USA,Wellesley,11/10/2009 00:00,2009-11,2009,5000000,appnexus,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kreos,,,08/27/2012 00:00,2012-08,2012,50000000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kreos Capital,GBR,London,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Kreos Capital,GBR,London,08/27/2012 00:00,2012-08,2012,50000000,deliveryhero,TRUE
+Spotify,SWE,Stockholm,Entertainment,Lakestar,,,11/15/2012 00:00,2012-11,2012,100000000,spotify,TRUE
+SurveyMonkey,USA,Palo Alto,Software,Laurel Crown Partners,,,01/16/2013 00:00,2013-01,2013,450000000,surveymonkey,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Lehman Brothers,USA,New York,07/16/2007 00:00,2007-07,2007,15000000,marklogic,TRUE
+Zuora,USA,Foster City,Facebook Applications,Lehman Brothers,USA,New York,10/28/2008 00:00,2008-10,2008,15000000,zuora,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Lend Lease Ventures,,,12/09/2008 00:00,2008-12,2008,25000000,betterplace,TRUE
+BuzzFeed,USA,New York,Entertainment,Lerer Ventures,USA,New York,01/03/2013 00:00,2013-01,2013,19300000,buzzfeed,TRUE
+Warby Parker,USA,New York,Retail,Lerer Ventures,USA,New York,09/22/2011 00:00,2011-09,2011,12000000,warbyparker,TRUE
+BuzzFeed,USA,New York,Entertainment,Lerer Ventures,USA,New York,01/09/2012 00:00,2012-01,2012,15500000,buzzfeed,TRUE
+Warby Parker,USA,New York,Retail,Lerer Ventures,USA,New York,07/06/2011 00:00,2011-07,2011,1500000,warbyparker,TRUE
+Tujia,,,Travel,Lightspeed China Partners,CHN,Shanghai,02/16/2013 00:00,2013-02,2013,40000000,tujia,TRUE
+Tujia,,,Travel,Lightspeed China Partners,CHN,Shanghai,05/16/2012 00:00,2012-05,2012,15000000,tujia,TRUE
+LivingSocial,USA,Washington,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,04/04/2011 00:00,2011-04,2011,400000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,12/02/2010 00:00,2010-12,2010,183000000,livingsocial,TRUE
+Tintri,USA,Mountain View,Virtualization,Lightspeed Venture Partners,USA,Menlo Park,06/15/2011 00:00,2011-06,2011,18000000,tintri,TRUE
+Tintri,USA,Mountain View,Virtualization,Lightspeed Venture Partners,USA,Menlo Park,03/24/2011 00:00,2011-03,2011,17000000,tintri,TRUE
+Delphix,USA,Menlo Park,Software,Lightspeed Venture Partners,USA,Menlo Park,04/01/2010 00:00,2010-04,2010,11000000,delphix,TRUE
+LivingSocial,USA,Washington,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,04/29/2010 00:00,2010-04,2010,14000000,livingsocial,TRUE
+AppDynamics,USA,San Francisco,Software,Lightspeed Venture Partners,USA,Menlo Park,05/03/2010 00:00,2010-05,2010,11000000,appdynamics,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Lightspeed Venture Partners,USA,Menlo Park,03/30/2010 00:00,2010-03,2010,12000000,mulesoft,TRUE
+AppDynamics,USA,San Francisco,Software,Lightspeed Venture Partners,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,5500000,appdynamics,TRUE
+AppDynamics,USA,San Francisco,Software,Lightspeed Venture Partners,USA,Menlo Park,01/17/2012 00:00,2012-01,2012,20000000,appdynamics,TRUE
+Delphix,USA,Menlo Park,Software,Lightspeed Venture Partners,USA,Menlo Park,02/04/2009 00:00,2009-02,2009,8500000,delphix,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Lightspeed Venture Partners,USA,Menlo Park,05/01/2012 00:00,2012-05,2012,485000,snapchat,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Lightspeed Venture Partners,USA,Menlo Park,08/22/2012 00:00,2012-08,2012,33000000,nutanix,TRUE
+Zscaler,USA,San Jose,Data Security,Lightspeed Venture Partners,USA,Menlo Park,08/30/2012 00:00,2012-08,2012,38000000,zscaler,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Lightspeed Venture Partners,USA,Menlo Park,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Lightspeed Venture Partners,USA,Menlo Park,12/01/2012 00:00,2012-12,2012,12500000,snapchat,TRUE
+LivingSocial,USA,Washington,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,11/18/2011 00:00,2011-11,2011,176000000,livingsocial,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Lightspeed Venture Partners,USA,Menlo Park,05/18/2012 00:00,2012-05,2012,15000000,mulesoft,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Lightspeed Venture Partners,USA,Menlo Park,04/19/2011 00:00,2011-04,2011,13200000,nutanix,TRUE
+Dianping,CHN,Shanghai,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,08/01/2012 00:00,2012-08,2012,32330000,dianping,TRUE
+Dianping,CHN,Shanghai,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,04/01/2011 00:00,2011-04,2011,3000000,dianping,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Lightspeed Venture Partners,USA,Menlo Park,05/22/2007 00:00,2007-05,2007,12500000,mulesoft,TRUE
+Tintri,USA,Mountain View,Virtualization,Lightspeed Venture Partners,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,25000000,tintri,TRUE
+AppDynamics,USA,San Francisco,Software,Lightspeed Venture Partners,USA,Menlo Park,01/23/2013 00:00,2013-01,2013,50000000,appdynamics,TRUE
+Nutanix,USA,San Jose,Enterprise Software,Lightspeed Venture Partners,USA,Menlo Park,10/25/2011 00:00,2011-10,2011,25000000,nutanix,TRUE
+LivingSocial,USA,Washington,E-Commerce,Lightspeed Venture Partners,USA,Menlo Park,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+Delphix,USA,Menlo Park,Software,Lightspeed Venture Partners,USA,Menlo Park,06/06/2012 00:00,2012-06,2012,25000000,delphix,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Lightspeed Venture Partners,USA,Menlo Park,06/22/2013 00:00,2013-06,2013,80000000,snapchat,TRUE
+Raise Marketplace,USA,Chicago,Curated Web,Listen,USA,San Francisco,11/01/2011 00:00,2011-11,2011,600000,raisemarketplace,TRUE
+Uber,USA,San Francisco,Transportation,Lowercase Capital,USA,Truckee,10/15/2010 00:00,2010-10,2010,1250000,uber,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Lowercase Capital,USA,Truckee,12/30/2009 00:00,2009-12,2009,3700000,twilio,TRUE
+Uber,USA,San Francisco,Transportation,Lowercase Capital,USA,Truckee,02/14/2011 00:00,2011-02,2011,11000000,uber,TRUE
+Evernote,USA,Redwood City,Software,m8 Capital,GBR,London,11/30/2012 00:00,2012-11,2012,21250000,evernote,TRUE
+Evernote,USA,Redwood City,Software,m8 Capital,GBR,London,11/30/2012 00:00,2012-11,2012,63750000,evernote,TRUE
+Box,USA,Los Altos,File Sharing,Macnica Networks Corp.,JPN,Yokohama,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Zeta Interactive,USA,New York,Advertising,Madison Capital Funding,USA,Chicago,06/27/2012 00:00,2012-06,2012,80000000,zetainteractive,TRUE
+Sunrun,USA,San Francisco,Solar,Madrone Capital Partners,USA,Menlo Park,05/23/2012 00:00,2012-05,2012,60000000,sunrun,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Maniv Energy Capital,JPN,Usa,11/11/2011 00:00,2011-11,2011,200000000,betterplace,TRUE
+Taboola,USA,New York,Content Discovery,Marker,USA,New York,06/26/2012 00:00,2012-06,2012,10000000,taboola,TRUE
+Yext,USA,New York,SaaS,Marker,USA,New York,06/12/2012 00:00,2012-06,2012,27000000,yext,TRUE
+Taboola,USA,New York,Content Discovery,Marker,USA,New York,08/25/2011 00:00,2011-08,2011,9000000,taboola,TRUE
+Taboola,USA,New York,Content Discovery,Marker,USA,New York,02/19/2013 00:00,2013-02,2013,15000000,taboola,TRUE
+Postmates,USA,San Francisco,E-Commerce,Matrix Partners,USA,Palo Alto,05/01/2011 00:00,2011-05,2011,750000,postmates,TRUE
+Gilt Groupe,USA,New York,Shopping,Matrix Partners,USA,Palo Alto,11/01/2007 00:00,2007-11,2007,5000000,giltgroupe,TRUE
+JustFab,USA,El Segundo,Fashion,Matrix Partners,USA,Palo Alto,09/26/2013 00:00,2013-09,2013,40000000,justfab,TRUE
+Gilt Groupe,USA,New York,Shopping,Matrix Partners,USA,Palo Alto,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Ele.me,CHN,Shanghai,E-Commerce,Matrix Partners,USA,Palo Alto,11/27/2013 00:00,2013-11,2013,25000000,ele.me,TRUE
+JustFab,USA,El Segundo,Fashion,Matrix Partners,USA,Palo Alto,07/26/2012 00:00,2012-07,2012,76000000,justfab,TRUE
+Quora,USA,Mountain View,Semantic Search,Matrix Partners,USA,Palo Alto,05/14/2012 00:00,2012-05,2012,50000000,quora,TRUE
+Postmates,USA,San Francisco,E-Commerce,Matrix Partners,USA,Palo Alto,04/15/2012 00:00,2012-04,2012,1200000,postmates,TRUE
+Gilt Groupe,USA,New York,Shopping,Matrix Partners,USA,Palo Alto,05/14/2010 00:00,2010-05,2010,35000000,giltgroupe,TRUE
+Gilt Groupe,USA,New York,Shopping,Matrix Partners,USA,Palo Alto,08/11/2009 00:00,2009-08,2009,43000000,giltgroupe,TRUE
+JustFab,USA,El Segundo,Fashion,Matrix Partners,USA,Palo Alto,09/21/2011 00:00,2011-09,2011,33000000,justfab,TRUE
+Koudai,CHN,Beijing,E-Commerce,Matrix Partners China,CHN,Beijing,04/01/2012 00:00,2012-04,2012,6000000,koudai,TRUE
+Groupon,USA,Chicago,Advertising,Maverick Capital,USA,Dallas,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Zenefits,USA,San Francisco,Human Resources,Maverick Capital,USA,Dallas,07/26/2013 00:00,2013-07,2013,2100000,zenefits,TRUE
+Groupon,USA,Chicago,Advertising,Maveron,USA,San Francisco,02/25/2011 00:00,2011-02,2011,16200000,groupon,TRUE
+zulily,USA,Seattle,E-Commerce,Maveron,USA,San Francisco,08/04/2010 00:00,2010-08,2010,6000000,zulily,TRUE
+zulily,USA,Seattle,E-Commerce,Maveron,USA,San Francisco,12/17/2009 00:00,2009-12,2009,4600000,zulily,TRUE
+Lyft,USA,San Francisco,Transportation,Mayfield Fund,USA,Menlo Park,09/21/2011 00:00,2011-09,2011,6000000,lyft,TRUE
+Fab,USA,New York,Design,Mayfield Fund,USA,Menlo Park,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Lyft,USA,San Francisco,Transportation,Mayfield Fund,USA,Menlo Park,01/30/2013 00:00,2013-01,2013,15000000,lyft,TRUE
+LinkedIn,USA,Mountain View,Software,McGraw-Hill Companies,USA,New York,10/22/2008 00:00,2008-10,2008,22700000,linkedin,TRUE
+Warby Parker,USA,New York,Retail,Menlo Ventures,USA,Menlo Park,09/22/2011 00:00,2011-09,2011,12000000,warbyparker,TRUE
+Fab,USA,New York,Design,Menlo Ventures,USA,Menlo Park,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Fab,USA,New York,Design,Menlo Ventures,USA,Menlo Park,12/07/2011 00:00,2011-12,2011,40000000,fab,TRUE
+Fab,USA,New York,Design,Menlo Ventures,USA,Menlo Park,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Tintri,USA,Mountain View,Virtualization,Menlo Ventures,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,25000000,tintri,TRUE
+Fab,USA,New York,Design,Menlo Ventures,USA,Menlo Park,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Betterment,USA,New York,Finance,Menlo Ventures,USA,Menlo Park,10/03/2012 00:00,2012-10,2012,10000000,betterment,TRUE
+Uber,USA,San Francisco,Transportation,Menlo Ventures,USA,Menlo Park,12/07/2011 00:00,2011-12,2011,37000000,uber,TRUE
+Warby Parker,USA,New York,Retail,MentorTech Ventures,USA,Philadelphia,01/01/2013 00:00,2013-01,2013,41500000,warbyparker,TRUE
+Warby Parker,USA,New York,Retail,MentorTech Ventures,USA,Philadelphia,07/06/2011 00:00,2011-07,2011,1500000,warbyparker,TRUE
+Domo,USA,American Fork,Web Development,Mercato Partners,USA,Salt Lake City,03/11/2013 00:00,2013-03,2013,60000000,domo,TRUE
+Evernote,USA,Redwood City,Software,Meritech Capital Partners,USA,Palo Alto,05/03/2012 00:00,2012-05,2012,70000000,evernote,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Meritech Capital Partners,USA,Palo Alto,12/07/2012 00:00,2012-12,2012,65000000,cloudera,TRUE
+Anaplan,USA,San Francisco,Enterprise Software,Meritech Capital Partners,USA,Palo Alto,03/05/2013 00:00,2013-03,2013,33000000,anaplan,TRUE
+SimpliVity,USA,Westborough,Storage,Meritech Capital Partners,USA,Palo Alto,11/18/2013 00:00,2013-11,2013,58000000,simplivity,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Meritech Capital Partners,USA,Palo Alto,10/26/2010 00:00,2010-10,2010,25000000,cloudera,TRUE
+Box,USA,Los Altos,File Sharing,Meritech Capital Partners,USA,Palo Alto,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,Meritech Capital Partners,USA,Palo Alto,11/07/2011 00:00,2011-11,2011,40000000,cloudera,TRUE
+Box,USA,Los Altos,File Sharing,Meritech Capital Partners,USA,Palo Alto,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+zulily,USA,Seattle,E-Commerce,Meritech Capital Partners,USA,Palo Alto,08/11/2011 00:00,2011-08,2011,43000000,zulily,TRUE
+ForeScout Technologies,USA,Campbell,Security,Meritech Capital Partners,USA,Palo Alto,10/20/2005 00:00,2005-10,2005,10000000,forescouttechnologies,TRUE
+ForeScout Technologies,USA,Campbell,Security,Meritech Capital Partners,USA,Palo Alto,11/19/2007 00:00,2007-11,2007,4380000,forescouttechnologies,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Meritech Capital Partners,USA,Palo Alto,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Prosper,USA,San Francisco,Personal Finance,Meritech Capital Partners,USA,Palo Alto,06/01/2007 00:00,2007-06,2007,20000000,prosper,TRUE
+Facebook,USA,Menlo Park,Communities,Meritech Capital Partners,USA,Palo Alto,04/01/2006 00:00,2006-04,2006,27500000,facebook,TRUE
+lynda.com,USA,Carpinteria,Education,Meritech Capital Partners,USA,Palo Alto,01/16/2013 00:00,2013-01,2013,103000000,lynda.com,TRUE
+Prosper,USA,San Francisco,Personal Finance,Meritech Capital Partners,USA,Palo Alto,02/03/2010 00:00,2010-02,2010,2000000,prosper,TRUE
+Thumbtack,,,Curated Web,MHS Capital,USA,San Francisco,01/09/2012 00:00,2012-01,2012,4500000,thumbtack,TRUE
+AppNexus,USA,New York,Technology,Microsoft,USA,Redmond,10/05/2010 00:00,2010-10,2010,50000000,appnexus,TRUE
+Facebook,USA,Menlo Park,Communities,Microsoft,USA,Redmond,10/24/2007 00:00,2007-10,2007,240000000,facebook,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Milestone Partners,USA,Radnor,03/01/2011 00:00,2011-03,2011,110000000,lashou.com,TRUE
+Hootsuite,CAN,Vancouver,Software,Millennium Technology Value Partners,USA,New York,09/15/2011 00:00,2011-09,2011,3000000,hootsuite,TRUE
+Jumia,,,E-Commerce,Millicom International Cellular,,,06/17/2013 00:00,2013-06,2013,35000000,jumia,TRUE
+Lookout,USA,San Francisco,Security,Mithril Capital Management,USA,San Francisco,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Box,USA,Los Altos,File Sharing,Mitsui & Co,JPN,Tokyo,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Mobius Venture Capital,USA,Boulder,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Kabbage,USA,Atlanta,Finance,Mohr Davidow Ventures,USA,Menlo Park,09/17/2012 00:00,2012-09,2012,30000000,kabbage,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Mohr Davidow Ventures,USA,Menlo Park,02/15/2011 00:00,2011-02,2011,12000000,coupasoftware,TRUE
+Kabbage,USA,Atlanta,Finance,Mohr Davidow Ventures,USA,Menlo Park,08/17/2011 00:00,2011-08,2011,17000000,kabbage,TRUE
+Coupa Software,USA,San Mateo,Enterprise Software,Mohr Davidow Ventures,USA,Menlo Park,05/10/2012 00:00,2012-05,2012,22000000,coupasoftware,TRUE
+Zynga,USA,San Francisco,Technology,Morgan Stanley,USA,New York,02/18/2011 00:00,2011-02,2011,490000000,zynga,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Morgan Stanley,USA,New York,01/01/2010 00:00,2010-01,2010,350000000,betterplace,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Morgan Stanley,USA,New York,10/08/2013 00:00,2013-10,2013,160000000,flipkart,TRUE
+Twitter,USA,San Francisco,Software,Morgan Stanley,USA,New York,09/25/2009 00:00,2009-09,2009,100000000,twitter,TRUE
+Groupon,USA,Chicago,Advertising,Morgan Stanley Venture Partners,USA,New York,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Morgenthaler Ventures,USA,Menlo Park,03/30/2010 00:00,2010-03,2010,12000000,mulesoft,TRUE
+Evernote,USA,Redwood City,Software,Morgenthaler Ventures,USA,Menlo Park,11/15/2009 00:00,2009-11,2009,10000000,evernote,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Morgenthaler Ventures,USA,Menlo Park,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Morgenthaler Ventures,USA,Menlo Park,05/18/2012 00:00,2012-05,2012,15000000,mulesoft,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Morgenthaler Ventures,USA,Menlo Park,03/19/2009 00:00,2009-03,2009,12000000,lendingclub,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Morgenthaler Ventures,USA,Menlo Park,08/03/2011 00:00,2011-08,2011,25000000,lendingclub,TRUE
+Evernote,USA,Redwood City,Software,Morgenthaler Ventures,USA,Menlo Park,07/13/2011 00:00,2011-07,2011,50000000,evernote,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Morgenthaler Ventures,USA,Menlo Park,05/22/2007 00:00,2007-05,2007,12500000,mulesoft,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Morgenthaler Ventures,USA,Menlo Park,10/01/2006 00:00,2006-10,2006,4000000,mulesoft,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Morgenthaler Ventures,USA,Menlo Park,04/14/2010 00:00,2010-04,2010,24500000,lendingclub,TRUE
+Xiaomi,CHN,Beijing,Mobile,Morningside Group,CHN,Shanghai,12/01/2010 00:00,2010-12,2010,41000000,xiaomi,TRUE
+InMobi,USA,San Francisco,Mobile,Mumbai Angels,IND,Mumbai,01/01/2007 00:00,2007-01,2007,500000,inmobi,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Musket Research Associates,USA,Cambridge,11/08/2010 00:00,2010-11,2010,50000000,spaceexplorationtechnologies,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Naspers,,Cape Town,08/24/2012 00:00,2012-08,2012,150000000,flipkart,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Naspers,,Cape Town,07/10/2013 00:00,2013-07,2013,200000000,flipkart,TRUE
+Avito.ru,ROM,Rus,Advertising,Naspers,,Cape Town,03/11/2013 00:00,2013-03,2013,50000000,avito.ru,TRUE
+MongoDB,USA,New York,Cloud Computing,New Enterprise Associates,USA,Menlo Park,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+CloudFlare,USA,San Francisco,Security,New Enterprise Associates,USA,Menlo Park,07/12/2011 00:00,2011-07,2011,20000000,cloudflare,TRUE
+Tintri,USA,Mountain View,Virtualization,New Enterprise Associates,USA,Menlo Park,06/15/2011 00:00,2011-06,2011,18000000,tintri,TRUE
+Tintri,USA,Mountain View,Virtualization,New Enterprise Associates,USA,Menlo Park,03/24/2011 00:00,2011-03,2011,17000000,tintri,TRUE
+BuzzFeed,USA,New York,Entertainment,New Enterprise Associates,USA,Menlo Park,01/03/2013 00:00,2013-01,2013,19300000,buzzfeed,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,New Enterprise Associates,USA,Menlo Park,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+BuzzFeed,USA,New York,Entertainment,New Enterprise Associates,USA,Menlo Park,01/09/2012 00:00,2012-01,2012,15500000,buzzfeed,TRUE
+Groupon,USA,Chicago,Advertising,New Enterprise Associates,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,4800000,groupon,TRUE
+Groupon,USA,Chicago,Advertising,New Enterprise Associates,USA,Menlo Park,12/01/2009 00:00,2009-12,2009,30000000,groupon,TRUE
+CloudFlare,USA,San Francisco,Security,New Enterprise Associates,USA,Menlo Park,12/17/2013 00:00,2013-12,2013,50000000,cloudflare,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,New Enterprise Associates,USA,Menlo Park,09/08/2010 00:00,2010-09,2010,5000000,intarciatherapeutics,TRUE
+Groupon,USA,Chicago,Advertising,New Enterprise Associates,USA,Menlo Park,04/18/2010 00:00,2010-04,2010,135000000,groupon,TRUE
+MuleSoft,USA,San Francisco,Data Integration,New Enterprise Associates,USA,Menlo Park,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+Box,USA,Los Altos,File Sharing,New Enterprise Associates,USA,Menlo Park,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,New Enterprise Associates,USA,Menlo Park,06/08/2012 00:00,2012-06,2012,150000000,bloomenergy,TRUE
+MongoDB,USA,New York,Cloud Computing,New Enterprise Associates,USA,Menlo Park,05/29/2012 00:00,2012-05,2012,42000000,mongodb,TRUE
+Gilt Groupe,USA,New York,Shopping,New Enterprise Associates,USA,Menlo Park,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,New Enterprise Associates,USA,Menlo Park,11/15/2012 00:00,2012-11,2012,50000000,intarciatherapeutics,TRUE
+Box,USA,Los Altos,File Sharing,New Enterprise Associates,USA,Menlo Park,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+Tintri,USA,Mountain View,Virtualization,New Enterprise Associates,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,25000000,tintri,TRUE
+Houzz,USA,Palo Alto,Curated Web,New Enterprise Associates,USA,Menlo Park,01/29/2013 00:00,2013-01,2013,35000000,houzz,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,New Enterprise Associates,USA,Menlo Park,03/20/2007 00:00,2007-03,2007,50000000,intarciatherapeutics,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,New Leaf Venture Partners,USA,New York,09/08/2010 00:00,2010-09,2010,5000000,intarciatherapeutics,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,New Leaf Venture Partners,USA,New York,11/15/2012 00:00,2012-11,2012,50000000,intarciatherapeutics,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,New Leaf Venture Partners,USA,New York,03/20/2007 00:00,2007-03,2007,50000000,intarciatherapeutics,TRUE
+Pinterest,USA,San Francisco,Curated Web,New York Angels,USA,New York,01/01/2010 00:00,2010-01,2010,500000,pinterest,TRUE
+VANCL,CHN,Beijing,E-Commerce,NewMargin Ventures,CHN,Shanghai,12/01/2010 00:00,2010-12,2010,100000000,vancl,TRUE
+Zuora,USA,Foster City,Facebook Applications,Next World Capital,USA,San Francisco,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,Nexus Venture Partners,IND,Mumbai,01/01/2011 00:00,2011-01,2011,12000000,snapdeal,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,Nexus Venture Partners,IND,Mumbai,09/01/2011 00:00,2011-09,2011,40000000,snapdeal,TRUE
+Jasper,IND,New Delhi,E-Commerce,Nexus Venture Partners,IND,Mumbai,07/28/2011 00:00,2011-07,2011,40000000,jasper,TRUE
+Jasper,IND,New Delhi,E-Commerce,Nexus Venture Partners,IND,Mumbai,01/25/2011 00:00,2011-01,2011,12000000,jasper,TRUE
+Adknowledge,USA,Kansas City,Mobile Games,Nokia Growth Partners,USA,Sunnyvale,01/12/2011 00:00,2011-01,2011,200000000,adknowledge,TRUE
+Actifio,USA,Waltham,Enterprise Software,North Bridge Venture Partners,USA,Waltham,07/21/2010 00:00,2010-07,2010,8000000,actifio,TRUE
+Actifio,USA,Waltham,Enterprise Software,North Bridge Venture Partners,USA,Waltham,09/22/2010 00:00,2010-09,2010,16000000,actifio,TRUE
+Actifio,USA,Waltham,Enterprise Software,North Bridge Venture Partners,USA,Waltham,03/06/2013 00:00,2013-03,2013,50000000,actifio,TRUE
+Actifio,USA,Waltham,Enterprise Software,North Bridge Venture Partners,USA,Waltham,12/05/2011 00:00,2011-12,2011,33500000,actifio,TRUE
+Quora,USA,Mountain View,Semantic Search,North Bridge Venture Partners,USA,Waltham,05/14/2012 00:00,2012-05,2012,50000000,quora,TRUE
+Zuora,USA,Foster City,Facebook Applications,Northgate Capital,USA,Danville,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Northgate Capital,USA,Danville,04/10/2013 00:00,2013-04,2013,25725481,marklogic,TRUE
+Spotify,SWE,Stockholm,Entertainment,Northzone,SWE,Stockholm,10/01/2008 00:00,2008-10,2008,21640000,spotify,TRUE
+Avito.ru,ROM,Rus,Advertising,Northzone,SWE,Stockholm,05/01/2012 00:00,2012-05,2012,75000000,avito.ru,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Norwest Venture Partners,USA,Palo Alto,12/01/2010 00:00,2010-12,2010,50000000,lashou.com,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Norwest Venture Partners,USA,Palo Alto,03/01/2011 00:00,2011-03,2011,110000000,lashou.com,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Norwest Venture Partners,USA,Palo Alto,03/19/2009 00:00,2009-03,2009,12000000,lendingclub,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Norwest Venture Partners,USA,Palo Alto,08/03/2011 00:00,2011-08,2011,25000000,lendingclub,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Norwest Venture Partners,USA,Palo Alto,08/23/2007 00:00,2007-08,2007,10260000,lendingclub,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Norwest Venture Partners,USA,Palo Alto,04/14/2010 00:00,2010-04,2010,24500000,lendingclub,TRUE
+Proteus Digital Health,USA,Redwood City,Health Care,Novartis,CHE,Basel,05/01/2013 00:00,2013-05,2013,62500000,proteusdigitalhealth,TRUE
+Foursquare,USA,New York,Location Based Services,O'Reilly AlphaTech Ventures,USA,San Francisco,06/24/2011 00:00,2011-06,2011,50000000,foursquare,TRUE
+Foursquare,USA,New York,Location Based Services,O'Reilly AlphaTech Ventures,USA,San Francisco,09/04/2009 00:00,2009-09,2009,1350000,foursquare,TRUE
+Foursquare,USA,New York,Location Based Services,O'Reilly AlphaTech Ventures,USA,San Francisco,06/29/2010 00:00,2010-06,2010,20000000,foursquare,TRUE
+Foursquare,USA,New York,Location Based Services,O'Reilly AlphaTech Ventures,USA,San Francisco,04/11/2013 00:00,2013-04,2013,41000000,foursquare,TRUE
+Deem,USA,San Francisco,E-Commerce,Oak Investment Partners,USA,Greenwich,09/09/2009 00:00,2009-09,2009,40000000,deem,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Oak Investment Partners,USA,Greenwich,10/01/2006 00:00,2006-10,2006,51300000,goodtechnology,TRUE
+Deem,USA,San Francisco,E-Commerce,Oak Investment Partners,USA,Greenwich,09/24/2013 00:00,2013-09,2013,69985435,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,Oak Investment Partners,USA,Greenwich,09/01/2005 00:00,2005-09,2005,25000000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,Oak Investment Partners,USA,Greenwich,07/23/2013 00:00,2013-07,2013,12500000,deem,TRUE
+Deem,USA,San Francisco,E-Commerce,Oak Investment Partners,USA,Greenwich,09/19/2013 00:00,2013-09,2013,2620000,deem,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Oak Investment Partners,USA,Greenwich,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Deem,USA,San Francisco,E-Commerce,Oak Investment Partners,USA,Greenwich,04/01/2008 00:00,2008-04,2008,100000000,deem,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Ofer Hi-Tech,ISR,Tel Aviv,01/01/2010 00:00,2010-01,2010,350000000,betterplace,TRUE
+Better Place,USA,Palo Alto,Clean Technology,Ofer Hi-Tech,ISR,Tel Aviv,11/11/2011 00:00,2011-11,2011,200000000,betterplace,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,Omega Funds,,,03/20/2007 00:00,2007-03,2007,50000000,intarciatherapeutics,TRUE
+Shopify,CAN,Ottawa,Online Shopping,OMERS Ventures,CAN,Toronto,12/11/2013 00:00,2013-12,2013,100000000,shopify,TRUE
+Hootsuite,CAN,Vancouver,Software,OMERS Ventures,CAN,Toronto,03/29/2012 00:00,2012-03,2012,20000000,hootsuite,TRUE
+Hootsuite,CAN,Vancouver,Software,OMERS Ventures,CAN,Toronto,08/01/2013 00:00,2013-08,2013,165000000,hootsuite,TRUE
+Prosper,USA,San Francisco,Personal Finance,Omidyar Network,USA,Redwood City,06/01/2007 00:00,2007-06,2007,20000000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Omidyar Network,USA,Redwood City,02/01/2006 00:00,2006-02,2006,12500000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Omidyar Network,USA,Redwood City,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,Omidyar Network,USA,Redwood City,02/03/2010 00:00,2010-02,2010,2000000,prosper,TRUE
+Deem,USA,San Francisco,E-Commerce,One Equity Partners,USA,New York,09/24/2013 00:00,2013-09,2013,69985435,deem,TRUE
+Zalando,DEU,Berlin,E-Commerce,Ontario Teachers' Pension Plan,CAN,Toronto,11/01/2013 00:00,2013-11,2013,190798947,zalando,TRUE
+Lyft,USA,San Francisco,Transportation,Ooga Labs,USA,Palo Alto,01/30/2013 00:00,2013-01,2013,15000000,lyft,TRUE
+Proteus Digital Health,USA,Redwood City,Health Care,Oracle Corporation,USA,Redwood City,05/01/2013 00:00,2013-05,2013,62500000,proteusdigitalhealth,TRUE
+Deem,USA,San Francisco,E-Commerce,Palo Alto Investors,USA,Palo Alto,01/01/2004 00:00,2004-01,2004,42000000,deem,TRUE
+DoorDash,USA,Palo Alto,Small and Medium Businesses,Pejman Mar Ventures,USA,Palo Alto,09/30/2013 00:00,2013-09,2013,2400000,doordash,TRUE
+CloudFlare,USA,San Francisco,Security,Pelion Venture Partners,USA,Salt Lake City,07/12/2011 00:00,2011-07,2011,20000000,cloudflare,TRUE
+CloudFlare,USA,San Francisco,Security,Pelion Venture Partners,USA,Salt Lake City,11/25/2009 00:00,2009-11,2009,2050000,cloudflare,TRUE
+CloudFlare,USA,San Francisco,Security,Pelion Venture Partners,USA,Salt Lake City,12/17/2013 00:00,2013-12,2013,50000000,cloudflare,TRUE
+Domo,USA,American Fork,Web Development,Pelion Venture Partners,USA,Salt Lake City,05/19/2011 00:00,2011-05,2011,10000000,domo,TRUE
+FanDuel,USA,New York,Fantasy Sports,Pentech Ventures,GBR,Edinburgh,01/14/2009 00:00,2009-01,2009,1200000,fanduel,TRUE
+FanDuel,USA,New York,Fantasy Sports,Pentech Ventures,GBR,Edinburgh,09/07/2011 00:00,2011-09,2011,4000000,fanduel,TRUE
+FanDuel,USA,New York,Fantasy Sports,Pentech Ventures,GBR,Edinburgh,01/30/2013 00:00,2013-01,2013,11000000,fanduel,TRUE
+Kabam,USA,San Francisco,Games,Performance Equity Management,USA,Greenwich,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+HelloFresh,USA,New York,Hospitality,Phenomen Ventures,,,09/30/2013 00:00,2013-09,2013,7500000,hellofresh,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Phenomen Ventures,,,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Fab,USA,New York,Design,Phenomen Ventures,,,11/01/2012 00:00,2012-11,2012,15000000,fab,TRUE
+Fab,USA,New York,Design,Phenomen Ventures,,,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Zynga,USA,San Francisco,Technology,Pilot Group,USA,New York,01/01/2008 00:00,2008-01,2008,10000000,zynga,TRUE
+Kabam,USA,San Francisco,Games,Pinnacle Ventures,USA,Menlo Park,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+Fab,USA,New York,Design,Pinnacle Ventures,USA,Menlo Park,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Nextdoor,USA,San Francisco,Privacy,Pinnacle Ventures,USA,Menlo Park,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+Gilt Groupe,USA,New York,Shopping,Pinnacle Ventures,USA,Menlo Park,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Nextdoor,USA,San Francisco,Privacy,Pinnacle Ventures,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+Fab,USA,New York,Design,Pinnacle Ventures,USA,Menlo Park,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Taboola,USA,New York,Content Discovery,Pitango Venture Capital,ISR,Herzliya,02/19/2013 00:00,2013-02,2013,15000000,taboola,TRUE
+ForeScout Technologies,USA,Campbell,Security,Pitango Venture Capital,ISR,Herzliya,10/20/2005 00:00,2005-10,2005,10000000,forescouttechnologies,TRUE
+ForeScout Technologies,USA,Campbell,Security,Pitango Venture Capital,ISR,Herzliya,11/19/2007 00:00,2007-11,2007,4380000,forescouttechnologies,TRUE
+FanDuel,USA,New York,Fantasy Sports,Piton Capital,GBR,London,01/30/2013 00:00,2013-01,2013,11000000,fanduel,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Point Nine,GBR,London,03/01/2011 00:00,2011-03,2011,5530000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Point Nine Capital,DEU,Berlin,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Automattic,USA,San Francisco,Web CMS,Polaris Partners,USA,Waltham,01/01/2008 00:00,2008-01,2008,29500000,automattic,TRUE
+Automattic,USA,San Francisco,Web CMS,Polaris Partners,USA,Waltham,10/01/2005 00:00,2005-10,2005,1100000,automattic,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Pritzker Group Venture Capital,USA,Chicago,10/08/2013 00:00,2013-10,2013,12000000,dollarshaveclub,TRUE
+MediaMath,USA,New York,Advertising,QED Investors,,,03/09/2011 00:00,2011-03,2011,14000000,mediamath,TRUE
+Credit Karma,USA,San Francisco,Finance,QED Investors,,,11/04/2009 00:00,2009-11,2009,2500000,creditkarma,TRUE
+Prosper,USA,San Francisco,Personal Finance,QED Investors,,,11/01/2009 00:00,2009-11,2009,1000000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,QED Investors,,,02/03/2010 00:00,2010-02,2010,2000000,prosper,TRUE
+Xiaomi,CHN,Beijing,Mobile,QiMing Venture Partners,CHN,Shanghai,12/01/2010 00:00,2010-12,2010,41000000,xiaomi,TRUE
+Mogujie,CHN,Hangzhou,Social Media,QiMing Venture Partners,CHN,Shanghai,01/01/2012 00:00,2012-01,2012,10000000,mogujie,TRUE
+Tujia,,,Travel,QiMing Venture Partners,CHN,Shanghai,02/16/2013 00:00,2013-02,2013,40000000,tujia,TRUE
+Dianping,CHN,Shanghai,E-Commerce,QiMing Venture Partners,CHN,Shanghai,08/01/2012 00:00,2012-08,2012,32330000,dianping,TRUE
+Dianping,CHN,Shanghai,E-Commerce,QiMing Venture Partners,CHN,Shanghai,07/01/2010 00:00,2010-07,2010,100000000,dianping,TRUE
+Tango,USA,Mountain View,Messaging,Qualcomm Ventures,USA,San Diego,04/19/2012 00:00,2012-04,2012,38097364,tango,TRUE
+Lookout,USA,San Francisco,Security,Qualcomm Ventures,USA,San Diego,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,Quilvest Ventures,USA,New York,03/20/2007 00:00,2007-03,2007,50000000,intarciatherapeutics,TRUE
+Automattic,USA,San Francisco,Web CMS,Radar Partners,USA,Palo Alto,01/01/2008 00:00,2008-01,2008,29500000,automattic,TRUE
+Automattic,USA,San Francisco,Web CMS,Radar Partners,USA,Palo Alto,10/01/2005 00:00,2005-10,2005,1100000,automattic,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,Rakuten,JPN,Tokyo,09/08/2011 00:00,2011-09,2011,100000000,ozon.ru,TRUE
+Pinterest,USA,San Francisco,Curated Web,Rakuten,JPN,Tokyo,05/17/2012 00:00,2012-05,2012,100000000,pinterest,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Rebate Networks,DEU,Berlin,12/01/2010 00:00,2010-12,2010,50000000,lashou.com,TRUE
+MongoDB,USA,New York,Cloud Computing,Red Hat,DEU,Munich,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+MongoDB,USA,New York,Cloud Computing,Red Hat,DEU,Munich,01/01/2012 00:00,2012-01,2012,7700000,mongodb,TRUE
+Oscar,USA,New York,Insurance,Red Swan Ventures,USA,New York,07/19/2013 00:00,2013-07,2013,40000000,oscar,TRUE
+Warby Parker,USA,New York,Retail,Red Swan Ventures,USA,New York,01/01/2013 00:00,2013-01,2013,41500000,warbyparker,TRUE
+Harry's,USA,New York,Fashion,Red Swan Ventures,USA,New York,08/15/2012 00:00,2012-08,2012,4000000,harry's,TRUE
+DraftKings,USA,Boston,Games,Redpoint Ventures,USA,Menlo Park,11/26/2013 00:00,2013-11,2013,24000000,draftkings,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Redpoint Ventures,USA,Menlo Park,06/07/2013 00:00,2013-06,2013,70000000,twilio,TRUE
+Pure Storage,USA,Mountain View,Storage,Redpoint Ventures,USA,Menlo Park,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Pure Storage,USA,Mountain View,Storage,Redpoint Ventures,USA,Menlo Park,08/23/2011 00:00,2011-08,2011,30000000,purestorage,TRUE
+Stripe,USA,San Francisco,Credit Cards,Redpoint Ventures,USA,Menlo Park,07/09/2012 00:00,2012-07,2012,20000000,stripe,TRUE
+Zuora,USA,Foster City,Facebook Applications,Redpoint Ventures,USA,Menlo Park,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Zuora,USA,Foster City,Facebook Applications,Redpoint Ventures,USA,Menlo Park,11/09/2010 00:00,2010-11,2010,20000000,zuora,TRUE
+Kabam,USA,San Francisco,Games,Redpoint Ventures,USA,Menlo Park,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+Pure Storage,USA,Mountain View,Storage,Redpoint Ventures,USA,Menlo Park,08/15/2012 00:00,2012-08,2012,40000000,purestorage,TRUE
+Zuora,USA,Foster City,Facebook Applications,Redpoint Ventures,USA,Menlo Park,11/16/2011 00:00,2011-11,2011,36000000,zuora,TRUE
+Kabam,USA,San Francisco,Games,Redpoint Ventures,USA,Menlo Park,01/20/2011 00:00,2011-01,2011,30000000,kabam,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Reinet Investments S.C.A.,LUX,Luxemburg,03/01/2011 00:00,2011-03,2011,110000000,lashou.com,TRUE
+Betterment,USA,New York,Finance,reinmkr capital,USA,Marina Del Rey,12/01/2010 00:00,2010-12,2010,3000000,betterment,TRUE
+Betterment,USA,New York,Finance,reinmkr capital,USA,Marina Del Rey,10/03/2012 00:00,2012-10,2012,10000000,betterment,TRUE
+SoFi,USA,San Francisco,Social Media,Renren Inc.,CHN,Chaoyang,09/12/2012 00:00,2012-09,2012,77199900,sofi,TRUE
+LivingSocial,USA,Washington,E-Commerce,Revolution LLC,USA,Washington,04/29/2010 00:00,2010-04,2010,14000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Revolution LLC,USA,Washington,07/21/2008 00:00,2008-07,2008,5000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Revolution LLC,USA,Washington,03/11/2010 00:00,2010-03,2010,25000000,livingsocial,TRUE
+LivingSocial,USA,Washington,E-Commerce,Revolution LLC,USA,Washington,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+JustFab,USA,El Segundo,Fashion,Rho Capital Partners,USA,New York,07/26/2012 00:00,2012-07,2012,76000000,justfab,TRUE
+JustFab,USA,El Segundo,Fashion,Rho Ventures,USA,New York,09/26/2013 00:00,2013-09,2013,40000000,justfab,TRUE
+Funding Circle,GBR,London,Financial Services,Ribbit Capital,USA,Palo Alto,10/23/2013 00:00,2013-10,2013,37000000,fundingcircle,TRUE
+Credit Karma,USA,San Francisco,Finance,Ribbit Capital,USA,Palo Alto,04/02/2013 00:00,2013-04,2013,30000000,creditkarma,TRUE
+Dropbox,USA,San Francisco,Storage,RIT Capital Partners,GBR,London,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+GoPro,USA,San Mateo,Hardware + Software,Riverwood Capital,USA,Menlo Park,05/05/2011 00:00,2011-05,2011,88000000,gopro,TRUE
+Flipboard,USA,Palo Alto,News,Rizvi Traverse Management,USA,Birmingham,12/09/2013 00:00,2013-12,2013,50000000,flipboard,TRUE
+Square,USA,San Francisco,Mobile Payments,Rizvi Traverse Management,USA,Birmingham,09/17/2012 00:00,2012-09,2012,200000000,square,TRUE
+HelloFresh,USA,New York,Hospitality,Rocket Internet AG,DEU,Berlin,12/12/2012 00:00,2012-12,2012,10000000,hellofresh,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Rocket Internet AG,DEU,Berlin,11/11/2012 00:00,2012-11,2012,40000000,lazadagroup,TRUE
+Space Exploration Technologies,USA,Hawthorne,Public Transportation,Rothenberg Ventures,USA,San Francisco,12/21/2012 00:00,2012-12,2012,30000000,spaceexplorationtechnologies,TRUE
+Kik,CAN,Waterloo,Messaging,RRE Ventures,USA,New York,03/07/2011 00:00,2011-03,2011,8000000,kik,TRUE
+BuzzFeed,USA,New York,Entertainment,RRE Ventures,USA,New York,01/03/2013 00:00,2013-01,2013,19300000,buzzfeed,TRUE
+BuzzFeed,USA,New York,Entertainment,RRE Ventures,USA,New York,01/09/2012 00:00,2012-01,2012,15500000,buzzfeed,TRUE
+Kik,CAN,Waterloo,Messaging,RRE Ventures,USA,New York,04/21/2013 00:00,2013-04,2013,19500000,kik,TRUE
+BuzzFeed,USA,New York,Entertainment,RRE Ventures,USA,New York,05/12/2010 00:00,2010-05,2010,8000000,buzzfeed,TRUE
+Fab,USA,New York,Design,RTP Ventures,USA,New York,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Fab,USA,New York,Design,RTP Ventures,USA,New York,07/18/2012 00:00,2012-07,2012,105000000,fab,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Ru-net,,,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,Ru-net,,,04/01/2013 00:00,2013-04,2013,75000000,snapdeal,TRUE
+OZON.ru,RUS,Moscow,E-Commerce,ru-Net Holdings,RUS,Moscow,09/08/2011 00:00,2011-09,2011,100000000,ozon.ru,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Rustic Canyon Partners,USA,Santa Monica,10/01/2006 00:00,2006-10,2006,51300000,goodtechnology,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Rustic Canyon Partners,USA,Santa Monica,11/01/2012 00:00,2012-11,2012,9800000,dollarshaveclub,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Rustic Canyon Partners,USA,Santa Monica,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Rustic Canyon Partners,USA,Santa Monica,10/08/2013 00:00,2013-10,2013,12000000,dollarshaveclub,TRUE
+Good Technology,USA,Sunnyvale,Data Security,Rustic Canyon Partners,USA,Santa Monica,12/20/2013 00:00,2013-12,2013,64997000,goodtechnology,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,Saama Capital,MUS,EbíÂne,04/01/2013 00:00,2013-04,2013,75000000,snapdeal,TRUE
+GoPro,USA,San Mateo,Hardware + Software,Sageview Capital,USA,Palo Alto,05/05/2011 00:00,2011-05,2011,88000000,gopro,TRUE
+VANCL,CHN,Beijing,E-Commerce,SAIF Partners,HKG,Hong Kong,12/01/2010 00:00,2010-12,2010,100000000,vancl,TRUE
+One97 Communications,IND,New Delhi,Mobile,SAIF Partners,HKG,Hong Kong,10/23/2008 00:00,2008-10,2008,25000000,one97communications,TRUE
+MongoDB,USA,New York,Cloud Computing,Salesforce,USA,San Francisco,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+Apttus,USA,San Mateo,Software,Salesforce,USA,San Francisco,09/17/2013 00:00,2013-09,2013,37000000,apttus,TRUE
+DocuSign,USA,San Francisco,Software,Salesforce,USA,San Francisco,12/08/2010 00:00,2010-12,2010,27000000,docusign,TRUE
+Anaplan,USA,San Francisco,Enterprise Software,Salesforce,USA,San Francisco,03/05/2013 00:00,2013-03,2013,33000000,anaplan,TRUE
+MuleSoft,USA,San Francisco,Data Integration,Salesforce,USA,San Francisco,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+Box,USA,Los Altos,File Sharing,Salesforce,USA,San Francisco,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Pure Storage,USA,Mountain View,Storage,Samsung Ventures,KOR,Seoul,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+MuleSoft,USA,San Francisco,Data Integration,SAP Ventures,USA,Palo Alto,03/30/2010 00:00,2010-03,2010,12000000,mulesoft,TRUE
+One97 Communications,IND,New Delhi,Mobile,SAP Ventures,USA,Palo Alto,10/10/2011 00:00,2011-10,2011,10000000,one97communications,TRUE
+MuleSoft,USA,San Francisco,Data Integration,SAP Ventures,USA,Palo Alto,04/03/2013 00:00,2013-04,2013,37000000,mulesoft,TRUE
+LinkedIn,USA,Mountain View,Software,SAP Ventures,USA,Palo Alto,10/22/2008 00:00,2008-10,2008,22700000,linkedin,TRUE
+Box,USA,Los Altos,File Sharing,SAP Ventures,USA,Palo Alto,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+DocuSign,USA,San Francisco,Software,SAP Ventures,USA,Palo Alto,07/12/2012 00:00,2012-07,2012,55700000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Scale Venture Partners,USA,Foster City,12/08/2010 00:00,2010-12,2010,27000000,docusign,TRUE
+Box,USA,Los Altos,File Sharing,Scale Venture Partners,USA,Foster City,01/29/2013 00:00,2013-01,2013,25000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Scale Venture Partners,USA,Foster City,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Scale Venture Partners,USA,Foster City,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Scale Venture Partners,USA,Foster City,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Scale Venture Partners,USA,Foster City,04/07/2010 00:00,2010-04,2010,15000000,box,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Science,USA,Santa Monica,11/01/2012 00:00,2012-11,2012,9800000,dollarshaveclub,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Science,USA,Santa Monica,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Skyscanner,GBR,Edinburgh,Search,Scottish Equity Partners,GBR,Glasgow,11/01/2007 00:00,2007-11,2007,5207611,skyscanner,TRUE
+FanDuel,USA,New York,Fantasy Sports,Scottish Investment Bank,GBR,Glasgow,01/14/2009 00:00,2009-01,2009,1200000,fanduel,TRUE
+FanDuel,USA,New York,Fantasy Sports,Scottish Investment Bank,GBR,Glasgow,01/30/2013 00:00,2013-01,2013,11000000,fanduel,TRUE
+DocuSign,USA,San Francisco,Software,Second Century Ventures,USA,Chicago,11/18/2009 00:00,2009-11,2009,2999999,docusign,TRUE
+TransferWise,GBR,London,Virtualization,Seedcamp,GBR,London,08/01/2011 00:00,2011-08,2011,72075,transferwise,TRUE
+MongoDB,USA,New York,Cloud Computing,Sequoia Capital,USA,Menlo Park,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+Thumbtack,,,Curated Web,Sequoia Capital,USA,Menlo Park,06/13/2013 00:00,2013-06,2013,12500000,thumbtack,TRUE
+Okta,USA,San Francisco,Enterprise Software,Sequoia Capital,USA,Menlo Park,09/13/2013 00:00,2013-09,2013,27000000,okta,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Sequoia Capital,USA,Menlo Park,09/12/2013 00:00,2013-09,2013,20000000,jawbone,TRUE
+Zomato,IND,Gurgaon,Restaurants,Sequoia Capital,USA,Menlo Park,11/06/2013 00:00,2013-11,2013,37000000,zomato,TRUE
+WhatsApp,USA,Santa Clara,Messaging,Sequoia Capital,USA,Menlo Park,07/01/2013 00:00,2013-07,2013,50000000,whatsapp,TRUE
+MongoDB,USA,New York,Cloud Computing,Sequoia Capital,USA,Menlo Park,12/02/2010 00:00,2010-12,2010,6500000,mongodb,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Sequoia Capital,USA,Menlo Park,11/10/2010 00:00,2010-11,2010,7200000,airbnb,TRUE
+Eventbrite,USA,San Francisco,Events,Sequoia Capital,USA,Menlo Park,10/06/2010 00:00,2010-10,2010,20000000,eventbrite,TRUE
+Stripe,USA,San Francisco,Credit Cards,Sequoia Capital,USA,Menlo Park,07/09/2012 00:00,2012-07,2012,20000000,stripe,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Sequoia Capital,USA,Menlo Park,04/01/2009 00:00,2009-04,2009,600000,airbnb,TRUE
+Okta,USA,San Francisco,Enterprise Software,Sequoia Capital,USA,Menlo Park,12/04/2012 00:00,2012-12,2012,25000000,okta,TRUE
+Jasper,USA,Mountain View,Internet of Things,Sequoia Capital,USA,Menlo Park,06/01/2007 00:00,2007-06,2007,31600000,jasper,TRUE
+MongoDB,USA,New York,Cloud Computing,Sequoia Capital,USA,Menlo Park,09/12/2011 00:00,2011-09,2011,20000000,mongodb,TRUE
+Houzz,USA,Palo Alto,Curated Web,Sequoia Capital,USA,Menlo Park,12/19/2011 00:00,2011-12,2011,11600000,houzz,TRUE
+Stripe,USA,San Francisco,Credit Cards,Sequoia Capital,USA,Menlo Park,09/30/2011 00:00,2011-09,2011,2000000,stripe,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Sequoia Capital,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,30000000,jawbone,TRUE
+Dropbox,USA,San Francisco,Storage,Sequoia Capital,USA,Menlo Park,11/24/2009 00:00,2009-11,2009,6000000,dropbox,TRUE
+Prosper,USA,San Francisco,Personal Finance,Sequoia Capital,USA,Menlo Park,09/24/2013 00:00,2013-09,2013,25000000,prosper,TRUE
+Mixpanel,USA,San Francisco,Analytics,Sequoia Capital,USA,Menlo Park,05/27/2011 00:00,2011-05,2011,1250000,mixpanel,TRUE
+Mu Sigma,USA,Northbrook,Analytics,Sequoia Capital,USA,Menlo Park,06/06/2011 00:00,2011-06,2011,25000000,musigma,TRUE
+Sunrun,USA,San Francisco,Solar,Sequoia Capital,USA,Menlo Park,06/29/2010 00:00,2010-06,2010,55000000,sunrun,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Sequoia Capital,USA,Menlo Park,05/26/2009 00:00,2009-05,2009,12500000,marklogic,TRUE
+Instacart,USA,San Francisco,Groceries,Sequoia Capital,USA,Menlo Park,07/10/2013 00:00,2013-07,2013,8500000,instacart,TRUE
+Eventbrite,USA,San Francisco,Events,Sequoia Capital,USA,Menlo Park,11/04/2009 00:00,2009-11,2009,6500000,eventbrite,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Sequoia Capital,USA,Menlo Park,04/10/2013 00:00,2013-04,2013,25725481,marklogic,TRUE
+Dropbox,USA,San Francisco,Storage,Sequoia Capital,USA,Menlo Park,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Sequoia Capital,USA,Menlo Park,07/16/2007 00:00,2007-07,2007,15000000,marklogic,TRUE
+LinkedIn,USA,Mountain View,Software,Sequoia Capital,USA,Menlo Park,06/17/2008 00:00,2008-06,2008,53000000,linkedin,TRUE
+Jasper,USA,Mountain View,Internet of Things,Sequoia Capital,USA,Menlo Park,07/01/2008 00:00,2008-07,2008,25000000,jasper,TRUE
+MongoDB,USA,New York,Cloud Computing,Sequoia Capital,USA,Menlo Park,05/29/2012 00:00,2012-05,2012,42000000,mongodb,TRUE
+Sunrun,USA,San Francisco,Solar,Sequoia Capital,USA,Menlo Park,05/23/2012 00:00,2012-05,2012,60000000,sunrun,TRUE
+WhatsApp,USA,Santa Clara,Messaging,Sequoia Capital,USA,Menlo Park,04/08/2011 00:00,2011-04,2011,8000000,whatsapp,TRUE
+Evernote,USA,Redwood City,Software,Sequoia Capital,USA,Menlo Park,10/19/2010 00:00,2010-10,2010,20000000,evernote,TRUE
+Ele.me,CHN,Shanghai,E-Commerce,Sequoia Capital,USA,Menlo Park,11/27/2013 00:00,2013-11,2013,25000000,ele.me,TRUE
+Dianping,CHN,Shanghai,E-Commerce,Sequoia Capital,USA,Menlo Park,04/01/2006 00:00,2006-04,2006,2000000,dianping,TRUE
+Meituan.com,CHN,Beijing,Photography,Sequoia Capital,USA,Menlo Park,08/01/2010 00:00,2010-08,2010,20000000,meituan.com,TRUE
+Evernote,USA,Redwood City,Software,Sequoia Capital,USA,Menlo Park,07/13/2011 00:00,2011-07,2011,50000000,evernote,TRUE
+Houzz,USA,Palo Alto,Curated Web,Sequoia Capital,USA,Menlo Park,01/29/2013 00:00,2013-01,2013,35000000,houzz,TRUE
+Prosper,USA,San Francisco,Personal Finance,Sequoia Capital,USA,Menlo Park,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+Stripe,USA,San Francisco,Credit Cards,Sequoia Capital,USA,Menlo Park,02/09/2012 00:00,2012-02,2012,18000000,stripe,TRUE
+Qualtrics,USA,Provo,Software,Sequoia Capital,USA,Menlo Park,05/15/2012 00:00,2012-05,2012,70000000,qualtrics,TRUE
+Square,USA,San Francisco,Mobile Payments,Sequoia Capital,USA,Menlo Park,01/10/2011 00:00,2011-01,2011,27500000,square,TRUE
+Jasper,USA,Mountain View,Internet of Things,Sequoia Capital,USA,Menlo Park,02/01/2012 00:00,2012-02,2012,61200000,jasper,TRUE
+Klarna,SWE,Stockholm,Freelancers,Sequoia Capital,USA,Menlo Park,05/04/2010 00:00,2010-05,2010,9000000,klarna,TRUE
+Jasper,USA,Mountain View,Internet of Things,Sequoia Capital,USA,Menlo Park,06/01/2005 00:00,2005-06,2005,7500000,jasper,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Sequoia Capital,USA,Menlo Park,10/28/2013 00:00,2013-10,2013,200000000,airbnb,TRUE
+Medallia,USA,Palo Alto,Customer Service,Sequoia Capital,USA,Menlo Park,09/27/2012 00:00,2012-09,2012,35000000,medallia,TRUE
+Dropbox,USA,San Francisco,Storage,Sequoia Capital,USA,Menlo Park,09/04/2008 00:00,2008-09,2008,1200000,dropbox,TRUE
+Dianping,CHN,Shanghai,E-Commerce,Sequoia Capital,USA,Menlo Park,09/01/2007 00:00,2007-09,2007,25000000,dianping,TRUE
+Anaplan,USA,San Francisco,Enterprise Software,Shasta Ventures,USA,Menlo Park,03/05/2013 00:00,2013-03,2013,33000000,anaplan,TRUE
+Zuora,USA,Foster City,Facebook Applications,Shasta Ventures,USA,Menlo Park,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Zuora,USA,Foster City,Facebook Applications,Shasta Ventures,USA,Menlo Park,11/09/2010 00:00,2010-11,2010,20000000,zuora,TRUE
+Nextdoor,USA,San Francisco,Privacy,Shasta Ventures,USA,Menlo Park,02/12/2013 00:00,2013-02,2013,21600000,nextdoor,TRUE
+Zuora,USA,Foster City,Facebook Applications,Shasta Ventures,USA,Menlo Park,11/16/2011 00:00,2011-11,2011,36000000,zuora,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Shasta Ventures,USA,Menlo Park,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Nextdoor,USA,San Francisco,Privacy,Shasta Ventures,USA,Menlo Park,10/29/2013 00:00,2013-10,2013,60000000,nextdoor,TRUE
+Zuora,USA,Foster City,Facebook Applications,Shasta Ventures,USA,Menlo Park,10/28/2008 00:00,2008-10,2008,15000000,zuora,TRUE
+Anaplan,USA,San Francisco,Enterprise Software,Shasta Ventures,USA,Menlo Park,01/19/2012 00:00,2012-01,2012,11400000,anaplan,TRUE
+Nextdoor,USA,San Francisco,Privacy,Shasta Ventures,USA,Menlo Park,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+InMobi,USA,San Francisco,Mobile,Sherpalo Ventures,USA,Menlo Park,07/13/2010 00:00,2010-07,2010,8000000,inmobi,TRUE
+InMobi,USA,San Francisco,Mobile,Sherpalo Ventures,USA,Menlo Park,01/01/2008 00:00,2008-01,2008,7100000,inmobi,TRUE
+JustFab,USA,El Segundo,Fashion,Shining Capital,HKG,,09/26/2013 00:00,2013-09,2013,40000000,justfab,TRUE
+JustFab,USA,El Segundo,Fashion,Shining Capital,HKG,,12/19/2013 00:00,2013-12,2013,15000000,justfab,TRUE
+DocuSign,USA,San Francisco,Software,Sigma Partners,USA,Boston,12/08/2010 00:00,2010-12,2010,27000000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Sigma Partners,USA,Boston,05/08/2009 00:00,2009-05,2009,5000000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Sigma Partners,USA,Boston,09/01/2007 00:00,2007-09,2007,12400000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,Sigma Partners,USA,Boston,04/01/2006 00:00,2006-04,2006,10000000,docusign,TRUE
+MediaMath,USA,New York,Advertising,Silicon Valley Bank,USA,Santa Clara,08/05/2009 00:00,2009-08,2009,2500000,mediamath,TRUE
+One97 Communications,IND,New Delhi,Mobile,Silicon Valley Bank,USA,Santa Clara,10/23/2008 00:00,2008-10,2008,25000000,one97communications,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Silicon Valley Bank,USA,Santa Clara,05/18/2009 00:00,2009-05,2009,3970000,lendingclub,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Silver Lake Partners,USA,Menlo Park,09/12/2013 00:00,2013-09,2013,93000000,jawbone,TRUE
+Foursquare,USA,New York,Location Based Services,Silver Lake Partners,USA,Menlo Park,04/11/2013 00:00,2013-04,2013,41000000,foursquare,TRUE
+Groupon,USA,Chicago,Advertising,Silver Lake Partners,USA,Menlo Park,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+Fab,USA,New York,Design,SingTel Innov8,SGP,Singapore,07/31/2013 00:00,2013-07,2013,10000000,fab,TRUE
+Quixey,USA,Mountain View,Search,SK Planet,KOR,Seoul,06/07/2012 00:00,2012-06,2012,20000000,quixey,TRUE
+Kabam,USA,San Francisco,Games,SK Telecom Ventures,USA,Sunnyvale,05/26/2011 00:00,2011-05,2011,85000000,kabam,TRUE
+Pinterest,USA,San Francisco,Curated Web,Slow Ventures,USA,San Francisco,05/17/2012 00:00,2012-05,2012,100000000,pinterest,TRUE
+Foursquare,USA,New York,Location Based Services,Smallcap World Fund,USA,Los Angeles,12/19/2013 00:00,2013-12,2013,35000000,foursquare,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Sofina,BEL,Bruxelles,10/08/2013 00:00,2013-10,2013,160000000,flipkart,TRUE
+Snapdeal,IND,New Delhi,E-Commerce,SoftBank,JPN,Tokyo,08/13/2013 00:00,2013-08,2013,75000000,snapdeal,TRUE
+InMobi,USA,San Francisco,Mobile,SoftBank,JPN,Tokyo,09/15/2011 00:00,2011-09,2011,200000000,inmobi,TRUE
+BuzzFeed,USA,New York,Entertainment,SoftBank Capital,USA,New York,01/03/2013 00:00,2013-01,2013,19300000,buzzfeed,TRUE
+BuzzFeed,USA,New York,Entertainment,SoftBank Capital,USA,New York,01/09/2012 00:00,2012-01,2012,15500000,buzzfeed,TRUE
+BuzzFeed,USA,New York,Entertainment,SoftBank Capital,USA,New York,07/09/2008 00:00,2008-07,2008,3500000,buzzfeed,TRUE
+Zynga,USA,San Francisco,Technology,SoftBank Capital,USA,New York,06/14/2010 00:00,2010-06,2010,300000000,zynga,TRUE
+Gilt Groupe,USA,New York,Shopping,SoftBank Capital,USA,New York,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Alibaba,CHN,Hangzhou,E-Commerce,SoftBank Capital,USA,New York,02/01/2004 00:00,2004-02,2004,82000000,alibaba,TRUE
+BuzzFeed,USA,New York,Entertainment,SoftBank Capital,USA,New York,05/12/2010 00:00,2010-05,2010,8000000,buzzfeed,TRUE
+Fab,USA,New York,Design,SoftTech VC,USA,Palo Alto,07/11/2011 00:00,2011-07,2011,1000000,fab,TRUE
+Fab,USA,New York,Design,SoftTech VC,USA,Palo Alto,12/13/2010 00:00,2010-12,2010,1750000,fab,TRUE
+Postmates,USA,San Francisco,E-Commerce,SoftTech VC,USA,Palo Alto,05/01/2011 00:00,2011-05,2011,750000,postmates,TRUE
+Eventbrite,USA,San Francisco,Events,SoftTech VC,USA,Palo Alto,12/01/2008 00:00,2008-12,2008,1500000,eventbrite,TRUE
+Fab,USA,New York,Design,SoftTech VC,USA,Palo Alto,12/07/2011 00:00,2011-12,2011,40000000,fab,TRUE
+Fab,USA,New York,Design,SoftTech VC,USA,Palo Alto,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Postmates,USA,San Francisco,E-Commerce,SoftTech VC,USA,Palo Alto,04/15/2012 00:00,2012-04,2012,1200000,postmates,TRUE
+Kik,CAN,Waterloo,Messaging,Spark Capital,USA,Boston,03/07/2011 00:00,2011-03,2011,8000000,kik,TRUE
+Foursquare,USA,New York,Location Based Services,Spark Capital,USA,Boston,06/24/2011 00:00,2011-06,2011,50000000,foursquare,TRUE
+Warby Parker,USA,New York,Retail,Spark Capital,USA,Boston,01/01/2013 00:00,2013-01,2013,41500000,warbyparker,TRUE
+Twitter,USA,San Francisco,Software,Spark Capital,USA,Boston,02/13/2009 00:00,2009-02,2009,35000000,twitter,TRUE
+Kik,CAN,Waterloo,Messaging,Spark Capital,USA,Boston,04/21/2013 00:00,2013-04,2013,19500000,kik,TRUE
+Warby Parker,USA,New York,Retail,Spark Capital,USA,Boston,12/20/2013 00:00,2013-12,2013,60000000,warbyparker,TRUE
+Foursquare,USA,New York,Location Based Services,Spark Capital,USA,Boston,04/11/2013 00:00,2013-04,2013,41000000,foursquare,TRUE
+Twitter,USA,San Francisco,Software,Spark Capital,USA,Boston,09/25/2009 00:00,2009-09,2009,100000000,twitter,TRUE
+Twitter,USA,San Francisco,Software,Spark Capital,USA,Boston,05/01/2008 00:00,2008-05,2008,15000000,twitter,TRUE
+lynda.com,USA,Carpinteria,Education,Spectrum Equity,USA,Boston,01/16/2013 00:00,2013-01,2013,103000000,lynda.com,TRUE
+Square,USA,San Francisco,Mobile Payments,Starbucks,USA,Seattle,09/17/2012 00:00,2012-09,2012,200000000,square,TRUE
+AppDirect,USA,San Francisco,PaaS,StarVest Partners,USA,New York,09/10/2013 00:00,2013-09,2013,9000000,appdirect,TRUE
+GoPro,USA,San Mateo,Hardware + Software,Steamboat Ventures,USA,Burbank,05/05/2011 00:00,2011-05,2011,88000000,gopro,TRUE
+AppDirect,USA,San Francisco,PaaS,Stingray Digital,CAN,Montrí©al,04/28/2011 00:00,2011-04,2011,3250000,appdirect,TRUE
+AppDirect,USA,San Francisco,PaaS,Stingray Digital,CAN,Montrí©al,07/18/2012 00:00,2012-07,2012,8500000,appdirect,TRUE
+Auction.com,USA,Irvine,Real Estate,Stone Point Capital,USA,Greenwich,01/09/2013 00:00,2013-01,2013,91700000,auction.com,TRUE
+Uber,USA,San Francisco,Transportation,Summit Action Fund,USA,Eden,12/07/2011 00:00,2011-12,2011,37000000,uber,TRUE
+Warby Parker,USA,New York,Retail,Summit Action Fund,USA,Eden,10/27/2010 00:00,2010-10,2010,500000,warbyparker,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Summit Partners,USA,Boston,12/06/2012 00:00,2012-12,2012,26000000,lazadagroup,TRUE
+Jumia,,,E-Commerce,Summit Partners,USA,Boston,03/06/2013 00:00,2013-03,2013,26000000,jumia,TRUE
+AVAST Software,CZE,Prague,Security,Summit Partners,USA,Boston,08/23/2010 00:00,2010-08,2010,100000000,avastsoftware,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Summit Partners,USA,Boston,06/19/2013 00:00,2013-06,2013,100000000,lazadagroup,TRUE
+Delphix,USA,Menlo Park,Software,Summit Partners,USA,Boston,06/06/2012 00:00,2012-06,2012,25000000,delphix,TRUE
+Bloom Energy,USA,Sunnyvale,Clean Technology,Sunbridge Partners,USA,Beachwood,09/15/2011 00:00,2011-09,2011,150000000,bloomenergy,TRUE
+Sunrun,USA,San Francisco,Solar,SunShot Initiative fund,,,10/24/2013 00:00,2013-10,2013,1600000,sunrun,TRUE
+SurveyMonkey,USA,Palo Alto,Software,SunTrust Robinson Humphreys,,,11/03/2010 00:00,2010-11,2010,100000000,surveymonkey,TRUE
+Credit Karma,USA,San Francisco,Finance,Susquehanna Growth Equity,USA,Bala Cynwyd,04/02/2013 00:00,2013-04,2013,30000000,creditkarma,TRUE
+Pure Storage,USA,Mountain View,Storage,Sutter Hill Ventures,USA,Palo Alto,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Pure Storage,USA,Mountain View,Storage,Sutter Hill Ventures,USA,Palo Alto,08/23/2011 00:00,2011-08,2011,30000000,purestorage,TRUE
+Yext,USA,New York,SaaS,Sutter Hill Ventures,USA,Palo Alto,06/12/2012 00:00,2012-06,2012,27000000,yext,TRUE
+Glassdoor,USA,Sausalito,Career Management,Sutter Hill Ventures,USA,Palo Alto,12/05/2013 00:00,2013-12,2013,50000000,glassdoor,TRUE
+Glassdoor,USA,Sausalito,Career Management,Sutter Hill Ventures,USA,Palo Alto,02/10/2011 00:00,2011-02,2011,12000000,glassdoor,TRUE
+Pure Storage,USA,Mountain View,Storage,Sutter Hill Ventures,USA,Palo Alto,08/15/2012 00:00,2012-08,2012,40000000,purestorage,TRUE
+Pure Storage,USA,Mountain View,Storage,Sutter Hill Ventures,USA,Palo Alto,01/01/2009 00:00,2009-01,2009,5000000,purestorage,TRUE
+Glassdoor,USA,Sausalito,Career Management,Sutter Hill Ventures,USA,Palo Alto,10/28/2008 00:00,2008-10,2008,6500000,glassdoor,TRUE
+Yext,USA,New York,SaaS,Sutter Hill Ventures,USA,Palo Alto,09/01/2008 00:00,2008-09,2008,3500000,yext,TRUE
+Yext,USA,New York,SaaS,Sutter Hill Ventures,USA,Palo Alto,07/28/2011 00:00,2011-07,2011,10000000,yext,TRUE
+Glassdoor,USA,Sausalito,Career Management,Sutter Hill Ventures,USA,Palo Alto,10/31/2012 00:00,2012-10,2012,20000000,glassdoor,TRUE
+Yext,USA,New York,SaaS,Sutter Hill Ventures,USA,Palo Alto,10/01/2009 00:00,2009-10,2009,25000000,yext,TRUE
+TransferWise,GBR,London,Virtualization,SV Angel,USA,San Francisco,05/13/2013 00:00,2013-05,2013,6000000,transferwise,TRUE
+Fab,USA,New York,Design,SV Angel,USA,San Francisco,07/11/2011 00:00,2011-07,2011,1000000,fab,TRUE
+DoorDash,USA,Palo Alto,Small and Medium Businesses,SV Angel,USA,San Francisco,09/30/2013 00:00,2013-09,2013,2400000,doordash,TRUE
+Flipboard,USA,Palo Alto,News,SV Angel,USA,San Francisco,07/20/2010 00:00,2010-07,2010,10500000,flipboard,TRUE
+Okta,USA,San Francisco,Enterprise Software,SV Angel,USA,San Francisco,02/12/2010 00:00,2010-02,2010,10000000,okta,TRUE
+ZocDoc,USA,New York,Heathcare,SV Angel,USA,San Francisco,07/14/2010 00:00,2010-07,2010,15000000,zocdoc,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,SV Angel,USA,San Francisco,11/10/2010 00:00,2010-11,2010,7200000,airbnb,TRUE
+GitHub,USA,San Francisco,Software,SV Angel,USA,San Francisco,07/09/2012 00:00,2012-07,2012,100000000,github,TRUE
+Quora,USA,Mountain View,Semantic Search,SV Angel,USA,San Francisco,03/28/2010 00:00,2010-03,2010,11000000,quora,TRUE
+Kabbage,USA,Atlanta,Finance,SV Angel,USA,San Francisco,09/17/2012 00:00,2012-09,2012,30000000,kabbage,TRUE
+Lookout,USA,San Francisco,Security,SV Angel,USA,San Francisco,09/21/2011 00:00,2011-09,2011,40000000,lookout,TRUE
+Stripe,USA,San Francisco,Credit Cards,SV Angel,USA,San Francisco,09/30/2011 00:00,2011-09,2011,2000000,stripe,TRUE
+Groupon,USA,Chicago,Advertising,SV Angel,USA,San Francisco,12/01/2009 00:00,2009-12,2009,30000000,groupon,TRUE
+Zynga,USA,San Francisco,Technology,SV Angel,USA,San Francisco,01/01/2008 00:00,2008-01,2008,10000000,zynga,TRUE
+Foursquare,USA,New York,Location Based Services,SV Angel,USA,San Francisco,09/04/2009 00:00,2009-09,2009,1350000,foursquare,TRUE
+Twilio,USA,San Francisco,Enterprise Software,SV Angel,USA,San Francisco,11/09/2010 00:00,2010-11,2010,12000000,twilio,TRUE
+Foursquare,USA,New York,Location Based Services,SV Angel,USA,San Francisco,06/29/2010 00:00,2010-06,2010,20000000,foursquare,TRUE
+AppNexus,USA,New York,Technology,SV Angel,USA,San Francisco,12/27/2007 00:00,2007-12,2007,2500000,appnexus,TRUE
+Eventbrite,USA,San Francisco,Events,SV Angel,USA,San Francisco,12/01/2008 00:00,2008-12,2008,1500000,eventbrite,TRUE
+Credit Karma,USA,San Francisco,Finance,SV Angel,USA,San Francisco,11/04/2009 00:00,2009-11,2009,2500000,creditkarma,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,SV Angel,USA,San Francisco,07/01/2007 00:00,2007-07,2007,5000000,jawbone,TRUE
+Dropbox,USA,San Francisco,Storage,SV Angel,USA,San Francisco,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,SV Angel,USA,San Francisco,12/01/2012 00:00,2012-12,2012,12500000,snapchat,TRUE
+Cloudera,USA,Palo Alto,Enterprise Software,SV Angel,USA,San Francisco,03/16/2009 00:00,2009-03,2009,5000000,cloudera,TRUE
+Facebook,USA,Menlo Park,Communities,SV Angel,USA,San Francisco,04/01/2006 00:00,2006-04,2006,27500000,facebook,TRUE
+Twitter,USA,San Francisco,Software,SV Angel,USA,San Francisco,07/01/2007 00:00,2007-07,2007,5000000,twitter,TRUE
+Warby Parker,USA,New York,Retail,SV Angel,USA,San Francisco,07/06/2011 00:00,2011-07,2011,1500000,warbyparker,TRUE
+Domo,USA,American Fork,Web Development,SV Angel,USA,San Francisco,07/13/2011 00:00,2011-07,2011,33000000,domo,TRUE
+Yext,USA,New York,SaaS,SV Angel,USA,San Francisco,07/28/2011 00:00,2011-07,2011,10000000,yext,TRUE
+Fab,USA,New York,Design,SV Angel,USA,San Francisco,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Nextdoor,USA,San Francisco,Privacy,SV Angel,USA,San Francisco,07/24/2012 00:00,2012-07,2012,18600000,nextdoor,TRUE
+BuzzFeed,USA,New York,Entertainment,SV Angel,USA,San Francisco,05/12/2010 00:00,2010-05,2010,8000000,buzzfeed,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,SV Angel,USA,San Francisco,06/22/2013 00:00,2013-06,2013,80000000,snapchat,TRUE
+Porch,,,Networking,SV Angel,USA,San Francisco,06/05/2013 00:00,2013-06,2013,6250000,porch,TRUE
+SimpliVity,USA,Westborough,Storage,Swisscom Ventures,CHE,Bern,11/18/2013 00:00,2013-11,2013,58000000,simplivity,TRUE
+Lookout,USA,San Francisco,Security,T-Venture,DEU,Bonn-lengsdorf,10/10/2013 00:00,2013-10,2013,55000000,lookout,TRUE
+MongoDB,USA,New York,Cloud Computing,T. Rowe Price,USA,Baltimore,10/04/2013 00:00,2013-10,2013,150000000,mongodb,TRUE
+LivingSocial,USA,Washington,E-Commerce,T. Rowe Price,USA,Baltimore,04/04/2011 00:00,2011-04,2011,400000000,livingsocial,TRUE
+Pure Storage,USA,Mountain View,Storage,T. Rowe Price,USA,Baltimore,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Zynga,USA,San Francisco,Technology,T. Rowe Price,USA,Baltimore,02/18/2011 00:00,2011-02,2011,490000000,zynga,TRUE
+Evernote,USA,Redwood City,Software,T. Rowe Price,USA,Baltimore,05/03/2012 00:00,2012-05,2012,70000000,evernote,TRUE
+Evernote,USA,Redwood City,Software,T. Rowe Price,USA,Baltimore,11/30/2012 00:00,2012-11,2012,21250000,evernote,TRUE
+Evernote,USA,Redwood City,Software,T. Rowe Price,USA,Baltimore,11/30/2012 00:00,2012-11,2012,63750000,evernote,TRUE
+Twitter,USA,San Francisco,Software,T. Rowe Price,USA,Baltimore,09/25/2009 00:00,2009-09,2009,100000000,twitter,TRUE
+Twitter,USA,San Francisco,Software,T. Rowe Price,USA,Baltimore,08/02/2011 00:00,2011-08,2011,400000000,twitter,TRUE
+LivingSocial,USA,Washington,E-Commerce,T. Rowe Price,USA,Baltimore,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+Eventbrite,USA,San Francisco,Events,T. Rowe Price,USA,Baltimore,01/01/2013 00:00,2013-01,2013,60000000,eventbrite,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Taishan Invest AG,CHN,Beijing,04/01/2010 00:00,2010-04,2010,5000000,lashou.com,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Team Europe,DEU,Berlin,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Team Europe,DEU,Berlin,03/01/2011 00:00,2011-03,2011,5530000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Team Europe,DEU,Berlin,10/01/2011 00:00,2011-10,2011,14853300,deliveryhero,TRUE
+Spotify,SWE,Stockholm,Entertainment,Technology Crossover Ventures,USA,Palo Alto,11/21/2013 00:00,2013-11,2013,250000000,spotify,TRUE
+Actifio,USA,Waltham,Enterprise Software,Technology Crossover Ventures,USA,Palo Alto,03/06/2013 00:00,2013-03,2013,50000000,actifio,TRUE
+JustFab,USA,El Segundo,Fashion,Technology Crossover Ventures,USA,Palo Alto,09/26/2013 00:00,2013-09,2013,40000000,justfab,TRUE
+Adknowledge,USA,Kansas City,Mobile Games,Technology Crossover Ventures,USA,Palo Alto,03/01/2006 00:00,2006-03,2006,48000000,adknowledge,TRUE
+JustFab,USA,El Segundo,Fashion,Technology Crossover Ventures,USA,Palo Alto,07/26/2012 00:00,2012-07,2012,76000000,justfab,TRUE
+Groupon,USA,Chicago,Advertising,Technology Crossover Ventures,USA,Palo Alto,01/11/2011 00:00,2011-01,2011,950000000,groupon,TRUE
+AppNexus,USA,New York,Technology,Technology Crossover Ventures,USA,Palo Alto,01/24/2013 00:00,2013-01,2013,75000000,appnexus,TRUE
+JustFab,USA,El Segundo,Fashion,Technology Crossover Ventures,USA,Palo Alto,09/21/2011 00:00,2011-09,2011,33000000,justfab,TRUE
+Box,USA,Los Altos,File Sharing,Telefí_nica Digital,GBR,London,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Telstra,AUS,Melbourne,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Box,USA,Los Altos,File Sharing,Telstra Ventures (AVG),AUS,Sydney,12/05/2013 00:00,2013-12,2013,100000000,box,TRUE
+Jasper,USA,Mountain View,Internet of Things,Temasek Holdings,SGP,Singapore,12/01/2012 00:00,2012-12,2012,30000000,jasper,TRUE
+VANCL,CHN,Beijing,E-Commerce,Temasek Holdings,SGP,Singapore,07/01/2011 00:00,2011-07,2011,230000000,vancl,TRUE
+Eventbrite,USA,San Francisco,Events,Tenaya Capital,USA,Portola Valley,10/06/2010 00:00,2010-10,2010,20000000,eventbrite,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Tenaya Capital,USA,Portola Valley,12/01/2010 00:00,2010-12,2010,50000000,lashou.com,TRUE
+Zuora,USA,Foster City,Facebook Applications,Tenaya Capital,USA,Portola Valley,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Zuora,USA,Foster City,Facebook Applications,Tenaya Capital,USA,Portola Valley,11/09/2010 00:00,2010-11,2010,20000000,zuora,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Tenaya Capital,USA,Portola Valley,05/26/2009 00:00,2009-05,2009,12500000,marklogic,TRUE
+MarkLogic,USA,San Carlos,Enterprise Software,Tenaya Capital,USA,Portola Valley,04/10/2013 00:00,2013-04,2013,25725481,marklogic,TRUE
+Zuora,USA,Foster City,Facebook Applications,Tenaya Capital,USA,Portola Valley,11/16/2011 00:00,2011-11,2011,36000000,zuora,TRUE
+Lashou.com,CHN,Beijing,E-Commerce,Tenaya Capital,USA,Portola Valley,03/01/2011 00:00,2011-03,2011,110000000,lashou.com,TRUE
+Sogou,CHN,Beijing,Search,Tencent,CHN,Shenzhen,09/10/2013 00:00,2013-09,2013,448000000,sogou,TRUE
+Fab,USA,New York,Design,Tencent,CHN,Shenzhen,06/19/2013 00:00,2013-06,2013,150000000,fab,TRUE
+Snapchat,USA,Pacific Palisades,File Sharing,Tencent,CHN,Shenzhen,06/22/2013 00:00,2013-06,2013,80000000,snapchat,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Tengelmann Ventures,,,07/01/2013 00:00,2013-07,2013,30000000,deliveryhero,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,Tengelmann Ventures,,,03/01/2011 00:00,2011-03,2011,5530000,deliveryhero,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Tengelmann Ventures,,,06/19/2013 00:00,2013-06,2013,100000000,lazadagroup,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Tengelmann Ventures,,,01/22/2013 00:00,2013-01,2013,20000000,lazadagroup,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Tesco,GBR,Cheshunt,12/09/2013 00:00,2013-12,2013,250000000,lazadagroup,TRUE
+Zalando,DEU,Berlin,E-Commerce,TH Lee Putnam Ventures,USA,New York,11/01/2013 00:00,2013-11,2013,190798947,zalando,TRUE
+Flipboard,USA,Palo Alto,News,The Chernin Group,USA,Los Angeles,07/20/2010 00:00,2010-07,2010,10500000,flipboard,TRUE
+Spotify,SWE,Stockholm,Entertainment,The Coca-Cola Company,USA,Atlanta,11/15/2012 00:00,2012-11,2012,100000000,spotify,TRUE
+Automattic,USA,San Francisco,Web CMS,The New York Times,USA,New York,01/01/2008 00:00,2008-01,2008,29500000,automattic,TRUE
+Wealthfront,USA,Palo Alto,Personal Finance,The Social+Capital Partnership,USA,Palo Alto,03/20/2013 00:00,2013-03,2013,20000000,wealthfront,TRUE
+Box,USA,Los Altos,File Sharing,The Social+Capital Partnership,USA,Palo Alto,07/31/2012 00:00,2012-07,2012,125000000,box,TRUE
+SurveyMonkey,USA,Palo Alto,Software,The Social+Capital Partnership,USA,Palo Alto,01/16/2013 00:00,2013-01,2013,450000000,surveymonkey,TRUE
+Fab,USA,New York,Design,The Washington Post Company,USA,Washington,12/13/2010 00:00,2010-12,2010,1750000,fab,TRUE
+Fab,USA,New York,Design,The Washington Post Company,USA,Washington,01/28/2010 00:00,2010-01,2010,625000,fab,TRUE
+Fab,USA,New York,Design,The Washington Post Company,USA,Washington,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Kabbage,USA,Atlanta,Finance,Thomvest Ventures,USA,Redwood City,09/17/2012 00:00,2012-09,2012,30000000,kabbage,TRUE
+Kabbage,USA,Atlanta,Finance,Thomvest Ventures,USA,Redwood City,04/03/2013 00:00,2013-04,2013,75000000,kabbage,TRUE
+Oscar,USA,New York,Insurance,Thrive Capital,USA,New York,07/19/2013 00:00,2013-07,2013,40000000,oscar,TRUE
+Warby Parker,USA,New York,Retail,Thrive Capital,USA,New York,09/22/2011 00:00,2011-09,2011,12000000,warbyparker,TRUE
+Warby Parker,USA,New York,Retail,Thrive Capital,USA,New York,12/20/2013 00:00,2013-12,2013,60000000,warbyparker,TRUE
+Fab,USA,New York,Design,Thrive Capital,USA,New York,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
+Pure Storage,USA,Mountain View,Storage,Tiger Global Management,USA,New York,08/29/2013 00:00,2013-08,2013,150000000,purestorage,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Tiger Global Management,USA,New York,06/16/2011 00:00,2011-06,2011,20000000,flipkart,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Tiger Global Management,USA,New York,12/12/2012 00:00,2012-12,2012,50000000,onekingslane,TRUE
+Zynga,USA,San Francisco,Technology,Tiger Global Management,USA,New York,11/04/2009 00:00,2009-11,2009,15187000,zynga,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,Tiger Global Management,USA,New York,09/18/2011 00:00,2011-09,2011,40000000,onekingslane,TRUE
+Warby Parker,USA,New York,Retail,Tiger Global Management,USA,New York,09/22/2011 00:00,2011-09,2011,12000000,warbyparker,TRUE
+Warby Parker,USA,New York,Retail,Tiger Global Management,USA,New York,12/20/2013 00:00,2013-12,2013,60000000,warbyparker,TRUE
+Glassdoor,USA,Sausalito,Career Management,Tiger Global Management,USA,New York,12/05/2013 00:00,2013-12,2013,50000000,glassdoor,TRUE
+Eventbrite,USA,San Francisco,Events,Tiger Global Management,USA,New York,05/18/2011 00:00,2011-05,2011,50000000,eventbrite,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Tiger Global Management,USA,New York,08/24/2012 00:00,2012-08,2012,150000000,flipkart,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Tiger Global Management,USA,New York,07/10/2013 00:00,2013-07,2013,200000000,flipkart,TRUE
+Nextdoor,USA,San Francisco,Privacy,Tiger Global Management,USA,New York,10/29/2013 00:00,2013-10,2013,60000000,nextdoor,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Tiger Global Management,USA,New York,10/08/2013 00:00,2013-10,2013,160000000,flipkart,TRUE
+VANCL,CHN,Beijing,E-Commerce,Tiger Global Management,USA,New York,12/01/2010 00:00,2010-12,2010,100000000,vancl,TRUE
+VANCL,CHN,Beijing,E-Commerce,Tiger Global Management,USA,New York,07/01/2011 00:00,2011-07,2011,230000000,vancl,TRUE
+SurveyMonkey,USA,Palo Alto,Software,Tiger Global Management,USA,New York,01/16/2013 00:00,2013-01,2013,450000000,surveymonkey,TRUE
+Automattic,USA,San Francisco,Web CMS,Tiger Global Management,USA,New York,09/17/2013 00:00,2013-09,2013,75000000,automattic,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Tiger Global Management,USA,New York,06/16/2010 00:00,2010-06,2010,10000000,flipkart,TRUE
+Eventbrite,USA,San Francisco,Events,Tiger Global Management,USA,New York,01/01/2013 00:00,2013-01,2013,60000000,eventbrite,TRUE
+Square,USA,San Francisco,Mobile Payments,Tiger Technology Global Management,,,06/28/2011 00:00,2011-06,2011,100000000,square,TRUE
+Legendary Entertainment,USA,Burbank,Games,TomorrowVentures,USA,Palo Alto,04/04/2012 00:00,2012-04,2012,275000000,legendaryentertainment,TRUE
+Prosper,USA,San Francisco,Personal Finance,TomorrowVentures,USA,Palo Alto,04/16/2010 00:00,2010-04,2010,14700000,prosper,TRUE
+Prosper,USA,San Francisco,Personal Finance,TomorrowVentures,USA,Palo Alto,01/22/2013 00:00,2013-01,2013,20000000,prosper,TRUE
+Uber,USA,San Francisco,Transportation,TPG Growth,USA,San Francisco,08/23/2013 00:00,2013-08,2013,258000000,uber,TRUE
+Quixey,USA,Mountain View,Search,Translink Capital,USA,Palo Alto,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+Quixey,USA,Mountain View,Search,Translink Capital,USA,Palo Alto,06/07/2012 00:00,2012-06,2012,20000000,quixey,TRUE
+Tango,USA,Mountain View,Messaging,Translink Capital,USA,Palo Alto,07/20/2011 00:00,2011-07,2011,42000000,tango,TRUE
+Domo,USA,American Fork,Web Development,Transmedia Capital,USA,San Francisco,07/13/2011 00:00,2011-07,2011,33000000,domo,TRUE
+Wish,USA,San Francisco,Curated Web,Transmedia Capital,USA,San Francisco,10/21/2010 00:00,2010-10,2010,1700000,wish,TRUE
+AppNexus,USA,New York,Technology,Tribeca Venture Partners,USA,New York,01/24/2013 00:00,2013-01,2013,75000000,appnexus,TRUE
+Nixon,USA,Encinitas,Fashion,Trilantic Capital Partners,USA,New York,02/19/2012 00:00,2012-02,2012,139000000,nixon,TRUE
+Lookout,USA,San Francisco,Security,Trilogy Equity Partnership,USA,Bellevue,05/18/2010 00:00,2010-05,2010,11000000,lookout,TRUE
+Lookout,USA,San Francisco,Security,Trilogy Equity Partnership,USA,Bellevue,12/22/2009 00:00,2009-12,2009,5500000,lookout,TRUE
+zulily,USA,Seattle,E-Commerce,Trinity Ventures,USA,Menlo Park,08/04/2010 00:00,2010-08,2010,6000000,zulily,TRUE
+One Kings Lane,USA,San Francisco,Home & Garden,TriplePoint Capital,USA,Menlo Park,02/11/2011 00:00,2011-02,2011,23000000,onekingslane,TRUE
+Gilt Groupe,USA,New York,Shopping,TriplePoint Capital,USA,Menlo Park,05/08/2011 00:00,2011-05,2011,138000000,giltgroupe,TRUE
+Gilt Groupe,USA,New York,Shopping,TriplePoint Capital,USA,Menlo Park,12/15/2010 00:00,2010-12,2010,15000000,giltgroupe,TRUE
+Facebook,USA,Menlo Park,Communities,TriplePoint Capital,USA,Menlo Park,05/01/2008 00:00,2008-05,2008,100000000,facebook,TRUE
+Evernote,USA,Redwood City,Software,Troika Dialog,,,11/15/2009 00:00,2009-11,2009,10000000,evernote,TRUE
+Evernote,USA,Redwood City,Software,Troika Dialog,,,09/09/2009 00:00,2009-09,2009,6500000,evernote,TRUE
+Automattic,USA,San Francisco,Web CMS,True Ventures,USA,Palo Alto,01/01/2008 00:00,2008-01,2008,29500000,automattic,TRUE
+Mogujie,CHN,Hangzhou,Social Media,TrustBridge Partners,CHN,Shanghai,02/01/2011 00:00,2011-02,2011,1000000,mogujie,TRUE
+Mogujie,CHN,Hangzhou,Social Media,TrustBridge Partners,CHN,Shanghai,05/01/2011 00:00,2011-05,2011,1000000,mogujie,TRUE
+Sunrun,USA,San Francisco,Solar,U.S. Bancorp,USA,Minneapolis,12/15/2009 00:00,2009-12,2009,90000000,sunrun,TRUE
+Quixey,USA,Mountain View,Search,U.S. Venture Partners,USA,Menlo Park,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+InsideSales.com,USA,Provo,Lead Management,U.S. Venture Partners,USA,Menlo Park,01/08/2013 00:00,2013-01,2013,35000000,insidesales.com,TRUE
+LivingSocial,USA,Washington,E-Commerce,U.S. Venture Partners,USA,Menlo Park,04/29/2010 00:00,2010-04,2010,14000000,livingsocial,TRUE
+Box,USA,Los Altos,File Sharing,U.S. Venture Partners,USA,Menlo Park,01/29/2013 00:00,2013-01,2013,25000000,box,TRUE
+Box,USA,Los Altos,File Sharing,U.S. Venture Partners,USA,Menlo Park,02/24/2011 00:00,2011-02,2011,48000000,box,TRUE
+LivingSocial,USA,Washington,E-Commerce,U.S. Venture Partners,USA,Menlo Park,03/11/2010 00:00,2010-03,2010,25000000,livingsocial,TRUE
+Quixey,USA,Mountain View,Search,U.S. Venture Partners,USA,Menlo Park,08/29/2011 00:00,2011-08,2011,3800000,quixey,TRUE
+Box,USA,Los Altos,File Sharing,U.S. Venture Partners,USA,Menlo Park,10/28/2011 00:00,2011-10,2011,81000000,box,TRUE
+Quixey,USA,Mountain View,Search,U.S. Venture Partners,USA,Menlo Park,06/07/2012 00:00,2012-06,2012,20000000,quixey,TRUE
+Box,USA,Los Altos,File Sharing,U.S. Venture Partners,USA,Menlo Park,04/07/2010 00:00,2010-04,2010,15000000,box,TRUE
+Box,USA,Los Altos,File Sharing,U.S. Venture Partners,USA,Menlo Park,10/15/2009 00:00,2009-10,2009,7100000,box,TRUE
+Box,USA,Los Altos,File Sharing,U.S. Venture Partners,USA,Menlo Park,01/23/2008 00:00,2008-01,2008,6000000,box,TRUE
+LivingSocial,USA,Washington,E-Commerce,U.S. Venture Partners,USA,Menlo Park,02/20/2013 00:00,2013-02,2013,110000000,livingsocial,TRUE
+GoPro,USA,San Mateo,Hardware + Software,U.S. Venture Partners,USA,Menlo Park,05/05/2011 00:00,2011-05,2011,88000000,gopro,TRUE
+Palantir Technologies,USA,Palo Alto,Analytics,Ulu Ventures,USA,Palo Alto,06/25/2010 00:00,2010-06,2010,90000000,palantirtechnologies,TRUE
+Funding Circle,GBR,London,Financial Services,Union Square Ventures,USA,New York,10/23/2013 00:00,2013-10,2013,37000000,fundingcircle,TRUE
+MongoDB,USA,New York,Cloud Computing,Union Square Ventures,USA,New York,12/02/2010 00:00,2010-12,2010,6500000,mongodb,TRUE
+Kik,CAN,Waterloo,Messaging,Union Square Ventures,USA,New York,03/07/2011 00:00,2011-03,2011,8000000,kik,TRUE
+Foursquare,USA,New York,Location Based Services,Union Square Ventures,USA,New York,06/24/2011 00:00,2011-06,2011,50000000,foursquare,TRUE
+Funding Circle,GBR,London,Financial Services,Union Square Ventures,USA,New York,04/02/2012 00:00,2012-04,2012,16000000,fundingcircle,TRUE
+MongoDB,USA,New York,Cloud Computing,Union Square Ventures,USA,New York,09/12/2011 00:00,2011-09,2011,20000000,mongodb,TRUE
+Zynga,USA,San Francisco,Technology,Union Square Ventures,USA,New York,02/12/2008 00:00,2008-02,2008,5026000,zynga,TRUE
+Twitter,USA,San Francisco,Software,Union Square Ventures,USA,New York,02/13/2009 00:00,2009-02,2009,35000000,twitter,TRUE
+MongoDB,USA,New York,Cloud Computing,Union Square Ventures,USA,New York,07/21/2008 00:00,2008-07,2008,1500000,mongodb,TRUE
+Zynga,USA,San Francisco,Technology,Union Square Ventures,USA,New York,07/18/2008 00:00,2008-07,2008,25000000,zynga,TRUE
+Kik,CAN,Waterloo,Messaging,Union Square Ventures,USA,New York,04/21/2013 00:00,2013-04,2013,19500000,kik,TRUE
+Zynga,USA,San Francisco,Technology,Union Square Ventures,USA,New York,01/01/2008 00:00,2008-01,2008,10000000,zynga,TRUE
+Foursquare,USA,New York,Location Based Services,Union Square Ventures,USA,New York,09/04/2009 00:00,2009-09,2009,1350000,foursquare,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Union Square Ventures,USA,New York,11/09/2010 00:00,2010-11,2010,12000000,twilio,TRUE
+CloudFlare,USA,San Francisco,Security,Union Square Ventures,USA,New York,12/17/2013 00:00,2013-12,2013,50000000,cloudflare,TRUE
+Foursquare,USA,New York,Location Based Services,Union Square Ventures,USA,New York,06/29/2010 00:00,2010-06,2010,20000000,foursquare,TRUE
+MongoDB,USA,New York,Cloud Computing,Union Square Ventures,USA,New York,11/04/2009 00:00,2009-11,2009,3400000,mongodb,TRUE
+Foursquare,USA,New York,Location Based Services,Union Square Ventures,USA,New York,04/11/2013 00:00,2013-04,2013,41000000,foursquare,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Union Square Ventures,USA,New York,12/07/2011 00:00,2011-12,2011,17000000,twilio,TRUE
+MongoDB,USA,New York,Cloud Computing,Union Square Ventures,USA,New York,05/29/2012 00:00,2012-05,2012,42000000,mongodb,TRUE
+Lending Club,USA,San Francisco,Finance Technology,Union Square Ventures,USA,New York,08/03/2011 00:00,2011-08,2011,25000000,lendingclub,TRUE
+Twitter,USA,San Francisco,Software,Union Square Ventures,USA,New York,07/01/2007 00:00,2007-07,2007,5000000,twitter,TRUE
+SoundCloud,,,Music,Union Square Ventures,USA,New York,01/01/2011 00:00,2011-01,2011,10000000,soundcloud,TRUE
+Twilio,USA,San Francisco,Enterprise Software,Union Square Ventures,USA,New York,12/30/2009 00:00,2009-12,2009,3700000,twilio,TRUE
+Twitter,USA,San Francisco,Software,Union Square Ventures,USA,New York,05/01/2008 00:00,2008-05,2008,15000000,twitter,TRUE
+Mercari,JPN,Tokyo,Mobile Commerce,"UNITED, Inc.",,,08/13/2013 00:00,2013-08,2013,3091083,mercari,TRUE
+Kabbage,USA,Atlanta,Finance,UPS Strategic Enterprise Fund,USA,Atlanta,09/17/2012 00:00,2012-09,2012,30000000,kabbage,TRUE
+Kabbage,USA,Atlanta,Finance,UPS Strategic Enterprise Fund,USA,Atlanta,08/17/2011 00:00,2011-08,2011,17000000,kabbage,TRUE
+Kabbage,USA,Atlanta,Finance,UPS Strategic Enterprise Fund,USA,Atlanta,01/12/2011 00:00,2011-01,2011,6650000,kabbage,TRUE
+TransferWise,GBR,London,Virtualization,Valar Ventures,USA,San Francisco,05/13/2013 00:00,2013-05,2013,6000000,transferwise,TRUE
+Evernote,USA,Redwood City,Software,Valiant Capital Partners,USA,San Francisco,11/30/2012 00:00,2012-11,2012,21250000,evernote,TRUE
+Evernote,USA,Redwood City,Software,Valiant Capital Partners,USA,San Francisco,11/30/2012 00:00,2012-11,2012,63750000,evernote,TRUE
+Dropbox,USA,San Francisco,Storage,Valiant Capital Partners,USA,San Francisco,10/18/2011 00:00,2011-10,2011,250000000,dropbox,TRUE
+Pinterest,USA,San Francisco,Curated Web,Valiant Capital Partners,USA,San Francisco,02/20/2013 00:00,2013-02,2013,200000000,pinterest,TRUE
+Pinterest,USA,San Francisco,Curated Web,Valiant Capital Partners,USA,San Francisco,10/23/2013 00:00,2013-10,2013,225000000,pinterest,TRUE
+Better Place,USA,Palo Alto,Clean Technology,VantagePoint Capital Partners,USA,San Bruno,01/01/2010 00:00,2010-01,2010,350000000,betterplace,TRUE
+Good Technology,USA,Sunnyvale,Data Security,VantagePoint Capital Partners,USA,San Bruno,10/01/2006 00:00,2006-10,2006,51300000,goodtechnology,TRUE
+Dataminr,USA,New York,Analytics,Venrock,USA,Cambridge,06/12/2013 00:00,2013-06,2013,30000000,dataminr,TRUE
+CloudFlare,USA,San Francisco,Security,Venrock,USA,Cambridge,07/12/2011 00:00,2011-07,2011,20000000,cloudflare,TRUE
+AppNexus,USA,New York,Technology,Venrock,USA,Cambridge,10/05/2010 00:00,2010-10,2010,50000000,appnexus,TRUE
+AppNexus,USA,New York,Technology,Venrock,USA,Cambridge,09/16/2008 00:00,2008-09,2008,8000000,appnexus,TRUE
+CloudFlare,USA,San Francisco,Security,Venrock,USA,Cambridge,11/25/2009 00:00,2009-11,2009,2050000,cloudflare,TRUE
+CloudFlare,USA,San Francisco,Security,Venrock,USA,Cambridge,12/17/2013 00:00,2013-12,2013,50000000,cloudflare,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,Venrock,USA,Cambridge,09/08/2010 00:00,2010-09,2010,5000000,intarciatherapeutics,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Venrock,USA,Cambridge,11/01/2012 00:00,2012-11,2012,9800000,dollarshaveclub,TRUE
+AppNexus,USA,New York,Technology,Venrock,USA,Cambridge,11/10/2009 00:00,2009-11,2009,5000000,appnexus,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,Venrock,USA,Cambridge,10/08/2013 00:00,2013-10,2013,12000000,dollarshaveclub,TRUE
+Intarcia Therapeutics,USA,Hayward,Biotechnology,Venrock,USA,Cambridge,11/15/2012 00:00,2012-11,2012,50000000,intarciatherapeutics,TRUE
+Zenefits,USA,San Francisco,Human Resources,Venrock,USA,Cambridge,07/26/2013 00:00,2013-07,2013,2100000,zenefits,TRUE
+AppNexus,USA,New York,Technology,Venrock,USA,Cambridge,01/24/2013 00:00,2013-01,2013,75000000,appnexus,TRUE
+Alibaba,CHN,Hangzhou,E-Commerce,Venture TDF,CHN,Shanghai,02/01/2004 00:00,2004-02,2004,82000000,alibaba,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Verlinvest,BEL,Brussels,12/09/2013 00:00,2013-12,2013,250000000,lazadagroup,TRUE
+Lazada Group,MYS,Kuala Lumpur,E-Commerce,Verlinvest,BEL,Brussels,06/19/2013 00:00,2013-06,2013,100000000,lazadagroup,TRUE
+Kabbage,USA,Atlanta,Finance,Victory Park Capital,USA,Chicago,04/03/2013 00:00,2013-04,2013,75000000,kabbage,TRUE
+Square,USA,San Francisco,Mobile Payments,Visa,USA,San Francisco,01/10/2011 00:00,2011-01,2011,27500000,square,TRUE
+HelloFresh,USA,New York,Hospitality,Vorwerk Direct Selling Ventures,DEU,Wuppertal,09/30/2013 00:00,2013-09,2013,7500000,hellofresh,TRUE
+HelloFresh,USA,New York,Hospitality,Vorwerk Direct Selling Ventures,DEU,Wuppertal,12/12/2012 00:00,2012-12,2012,10000000,hellofresh,TRUE
+Avito.ru,ROM,Rus,Advertising,Vostok Nafta Investment Ltd,,,05/01/2012 00:00,2012-05,2012,75000000,avito.ru,TRUE
+Avito.ru,ROM,Rus,Advertising,Vostok Nafta Investment Ltd,,,03/11/2013 00:00,2013-03,2013,50000000,avito.ru,TRUE
+Fab,USA,New York,Design,VTB Capital Investment Management,RUS,Moscow,11/01/2012 00:00,2012-11,2012,15000000,fab,TRUE
+Zuora,USA,Foster City,Facebook Applications,Vulcan Capital,USA,Seattle,09/05/2013 00:00,2013-09,2013,50000000,zuora,TRUE
+Flipkart,IND,Bangalore,Online Shopping,Vulcan Capital,USA,Seattle,10/08/2013 00:00,2013-10,2013,160000000,flipkart,TRUE
+GoPro,USA,San Mateo,Hardware + Software,Walden International,USA,San Francisco,05/05/2011 00:00,2011-05,2011,88000000,gopro,TRUE
+Zuora,USA,Foster City,Facebook Applications,Webb Investment Network,,,11/09/2010 00:00,2010-11,2010,20000000,zuora,TRUE
+Quixey,USA,Mountain View,Search,Webb Investment Network,,,08/29/2011 00:00,2011-08,2011,3800000,quixey,TRUE
+Okta,USA,San Francisco,Enterprise Software,Webb Investment Network,,,08/01/2011 00:00,2011-08,2011,16500000,okta,TRUE
+Zenefits,USA,San Francisco,Human Resources,Wefunder,,,07/26/2013 00:00,2013-07,2013,2100000,zenefits,TRUE
+Spotify,SWE,Stockholm,Entertainment,Wellington Partners,DEU,Munich,08/04/2009 00:00,2009-08,2009,50000000,spotify,TRUE
+Jawbone,USA,San Francisco,Consumer Electronics,Wells Fargo & Company,USA,San Francisco,09/12/2013 00:00,2013-09,2013,93000000,jawbone,TRUE
+Kabbage,USA,Atlanta,Finance,Western Technology Investment,USA,Portola Valley,12/13/2011 00:00,2011-12,2011,12000000,kabbage,TRUE
+DocuSign,USA,San Francisco,Software,WestRiver Capital,USA,Kirkland,05/08/2009 00:00,2009-05,2009,5000000,docusign,TRUE
+DocuSign,USA,San Francisco,Software,WestRiver Capital,USA,Kirkland,09/01/2007 00:00,2007-09,2007,12400000,docusign,TRUE
+Delivery Hero,DEU,Berlin,Hospitality,WestTech Ventures,DEU,Berlin,10/01/2011 00:00,2011-10,2011,14853300,deliveryhero,TRUE
+Yext,USA,New York,SaaS,WGI Group,,,06/12/2012 00:00,2012-06,2012,27000000,yext,TRUE
+Taboola,USA,New York,Content Discovery,WGI Group,,,02/19/2013 00:00,2013-02,2013,15000000,taboola,TRUE
+Dollar Shave Club,USA,Los Angeles,E-Commerce,White Star Capital,GBR,London,03/06/2012 00:00,2012-03,2012,1000000,dollarshaveclub,TRUE
+Quixey,USA,Mountain View,Search,WI Harper Group,USA,San Francisco,10/03/2013 00:00,2013-10,2013,50000000,quixey,TRUE
+Quixey,USA,Mountain View,Search,WI Harper Group,USA,San Francisco,08/29/2011 00:00,2011-08,2011,3800000,quixey,TRUE
+Quixey,USA,Mountain View,Search,WI Harper Group,USA,San Francisco,06/07/2012 00:00,2012-06,2012,20000000,quixey,TRUE
+Domo,USA,American Fork,Web Development,WPP,GBR,London,05/19/2011 00:00,2011-05,2011,10000000,domo,TRUE
+Wish,USA,San Francisco,Curated Web,XG Ventures,USA,Menlo Park,10/21/2010 00:00,2010-10,2010,1700000,wish,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Y Combinator,USA,Mountain View,01/01/2009 00:00,2009-01,2009,20000,airbnb,TRUE
+Zenefits,USA,San Francisco,Human Resources,Y Combinator,USA,Mountain View,07/26/2013 00:00,2013-07,2013,2100000,zenefits,TRUE
+Dropbox,USA,San Francisco,Storage,Y Combinator,USA,Mountain View,06/01/2007 00:00,2007-06,2007,15000,dropbox,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Y Ventures,USA,Palo Alto,11/10/2010 00:00,2010-11,2010,7200000,airbnb,TRUE
+Airbnb,USA,San Francisco,Peer-to-Peer,Y Ventures,USA,Palo Alto,04/01/2009 00:00,2009-04,2009,600000,airbnb,TRUE
+Alibaba,CHN,Hangzhou,E-Commerce,Yahoo!,USA,Sunnyvale,08/11/2005 00:00,2005-08,2005,1000000000,alibaba,TRUE
+Fab,USA,New York,Design,Zelkova Ventures,USA,New York,12/13/2010 00:00,2010-12,2010,1750000,fab,TRUE
+Fab,USA,New York,Design,Zelkova Ventures,USA,New York,08/11/2011 00:00,2011-08,2011,7700000,fab,TRUE
