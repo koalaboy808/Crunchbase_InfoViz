@@ -8,7 +8,7 @@ var x = d3.scale.ordinal()
 var y = d3.scale.linear()
     .rangeRound([height, 0]);
  
-var color = d3.scale.ordinal()
+var color = d3.scale.ordinal().range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
  
 var xAxis = d3.svg.axis()
     .scale(x)
@@ -34,7 +34,7 @@ d3.csv("static/files/stack_bar.txt", function(error, data) {
     var categories_shift = categories;
     console.log(categories);
     color.domain(categories);
-    color.range(colorbrewer.Spectral[categories.length]);
+    // color.range(colorbrewer.Spectral[categories.length]);
  
     data.forEach(function(d) {
   var y0 = 0;
@@ -132,3 +132,8 @@ d3.csv("static/files/stack_bar.txt", function(error, data) {
   
   
 });
+
+
+
+
+
