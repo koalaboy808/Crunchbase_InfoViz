@@ -18,6 +18,8 @@
   
 <!-- Custom styles for this template -->
 <link href="static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
 
 
 </head>
@@ -28,31 +30,40 @@
       <ul class="right hide-on-med-and-down">
         <li><a href="#">ABOUT</a></li>
       </ul>
-    </div>
+    </div>`
   </nav>
 
+    <div class="row flex-container">
+        <div class="row col s12 flex-container">
+          <div class="col s1 blue">
+          timeline
+          </div>
 
-  <div class="section no-pad-bot" id="index-banner">
-    <div class="container">
-      <br><br>
+          <div class="col s10">
+            <!-- map -->
+            <div class="col s9 box offset-s2 center" id="map_contain">
+              <img src="/static/files/Map_filler.png">
+            </div>
+            <!-- stacked bar -->
+            <div class = "col s10 box" id="stacked_bar_contain">
+                <ul class="tabs">
+                  <li class="tab col s2"><a class="active" href="#total_stack">Total Numbers</a></li>
+                  <li class="tab col s2"><a href="#percentage_stack_cont">Percentage</a></li>
+                </ul>
 
-      <div class="row">
-        Investors & Startups
-        <div class= "box">
-          heyyyyy
-        </div>
+                <div id="total_stack" class="total_stack col s12">
+                  hiii
+                </div>
+                <div id="percentage_stack_cont" class="percentage_stack col s9">
+                  Click on any color to move it to the bottom of the chart
+                </div>
+             </div>
 
-        <div class= "col s6 offset-s6 box">
-          twooooo
+            </div>
         </div>
       </div>
-
-
-<div class="row">
-       
-</div>
-</div>
-
+     </div>
+<div class= "row">
   <footer class="page-footer orange darken-3">
     <div class="container">
       <div class="footer-copyright">
@@ -66,5 +77,15 @@
 
 <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="js/stacked_bar_total.js"></script>
+<script type="text/javascript" src="js/stacked_bar_percent.js"></script>
+<script src="js/colorbrewer.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('ul.tabs').tabs();
+  });
+       
+ </script>
 </body>
 </html>

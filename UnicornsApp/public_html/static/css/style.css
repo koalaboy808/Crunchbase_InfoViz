@@ -17,5 +17,59 @@ nav ul a {
 }
 
 .box {
-  border: solid #acebae 2px;
+  border: solid #acebae 4px;
 }
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-item {
+    height: 100%;
+}
+
+#map_contain {
+	margin-top: 20px;
+
+}
+
+#stacked_bar_contain {
+	margin-top: -40px;
+	padding-top: 30px;
+}
+
+
+
+body {
+  font: 10px sans-serif;
+}
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.bar {
+  fill: steelblue;
+}
+.x.axis path {
+  display: none;
+}
+.y.axis path {
+  display: none;
+}
+.legend line {
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.tabs {
+	background-color: rgba(0,0,0,0);
+	font-size: 1em;
+	width: 70%;;
+}
+
+.tabs a{
+	font-size: 2em;
+}
+
