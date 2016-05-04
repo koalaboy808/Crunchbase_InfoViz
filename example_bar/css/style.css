@@ -1,7 +1,7 @@
 body {
   font-family: "Exo 2", sans-serif;
-  background: #DDD;
-  color: #333;
+/*  background: #DDD;
+  color: #333;*/
 }
 
 h1 {
@@ -9,18 +9,18 @@ h1 {
   padding: 0.1rem 0.4rem;
   font-size: 1rem;
   font-weight: 500;
-  text-align: right;
+  text-align: left;
 }
 
-.widget {
+/*.widget {
   display: inline-block;
   border: 1px solid #AAA;
   background: white;
-}
+}*/
 
-#chart {
-  height: 400px;
-  width: 500px;
+#chart, #chart2 {
+  height: 1000px;
+  width: 300px;
 }
 
 svg {
@@ -32,13 +32,13 @@ svg {
 }
 
 .value {
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 300;
   fill: #333;
 }
 
 .label {
-  font-size: 18px;
+  font-size: 12px;
   fill: #333;
 }
 

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style> /* set the CSS */
+
+body { font: 12px Arial; background-color: grey}
+
+path { 
+    /*stroke: green;*/
+    stroke-width: 1.5;
+    fill: none;
+}
+
+circle {
+	stroke: steelblue;
+	stroke-width: 3;
+	fill: steelblue;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+</style>
+<body>
+
+<div id="_buttons"> </div>
+<div id="chart1"></div>
+
+<!-- load the d3.js library -->    
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.js"></script>
+
+<script>
+
+var top25 = ["E-Commerce","Advertising","Software","Storage","Clean Technology","Communities","File Sharing","Technology","Online Shopping","Curated Web","Enterprise Software","Design","Games","Cloud Computing","Shopping","Entertainment","Transportation","Security","Data Security","Peer-to-Peer","Mobile Payments","Search","Fashion","Facebook Applications","Finance Technology","Consumer Electronics","Analytics","Privacy","Mobile Games","News","Hardware + Software","Retail","Mobile","Location Based Services","Biotechnology"]
+
+trimmedArray = []
+for (i = 0; i < top25.length; i++) {
+	trimmedArray.push(top25[i].replace(/ /g,''));
+}
+    
+console.log(trimmedArray)
+
+for (i = 0; i < trimmedArray.length; i++) {
+	$("#_buttons").append('<button onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
+}
+
+// Set the dimensions of the canvas / graph
+var margin = {top: 30, right: 20, bottom: 30, left: 90},
+    width = 500 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
+
+var color = d3.scale.ordinal()
+    .range(["#a50026","#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850","#006837","#d53e4f","#f46d43","#fdae61","#fee08b","#ffffbf","#e6f598","#abdda4","#66c2a5","#3288bd"]);
+
+// Parse the date / time
+var parseDate = d3.time.format("%Y-%m").parse; 
+
+// Set the ranges
+var x = d3.time.scale().range([0, width]);
+var y = d3.scale.linear().range([height, 0]);
+
+// Define the axes
+var xAxis = d3.svg.axis().scale(x)
+    .orient("bottom").ticks(5);
+
+var yAxis = d3.svg.axis().scale(y)
+    .orient("left").ticks(5);
+
+// Define the line
+var priceline = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.price); });
+
+
+    
+// Adds the svg canvas
+var svg = d3.select("#chart1")
+    .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+        .attr("transform", 
+              "translate(" + margin.left + "," + margin.top + ")");
+
+// Get the data
+d3.csv("/data/investments-unicorns-cumsum.csv", function(error, data) {
+	console.log(data)
+    data.forEach(function(d) {
+    		d.company_name = d.company_name;
+			d.price = +d.no_cumulative;
+			d.raised_amount_usd = +d.raised_amount_usd;
+			d.company_market = d.company_market;
+            d.date = parseDate(d.funded_month);
+            d.unicorn_flag = d.unicorn_flag;
+    });
+
+    data = data.filter(function(row) {
+    	// return row['unicorn_flag'] == 'TRUE' && row['company_market'] == 'E-Commerce';
+    	// return row['unicorn_flag'] == 'True' && row['company_market'] == 'E-Commerce';
+    	return row['unicorn_flag'] == 'True';
+    })
+    console.log(data.length)
+
+    // Scale the range of the data
+    x.domain(d3.extent(data, function(d) { return d.date; }));
+    // y.domain([0, d3.max(data, function(d) { return d.price; })]);
+    // z.domain([0, d3.max(data, function(d) { return d.raised_amount_usd; })]); 
+    y.domain([0,5000000000])
+
+    // Add the scatterplot
+    svg.selectAll("dot")
+        .data(data)
+      .enter().append("circle")
+        .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
+        .attr("cx", function(d) { return x(d.date); })
+        .attr("cy", function(d) { return y(d.price); });
+        
+        // .attr("r", function(d) {return d.number_downloaded*1.5; })
+
+    // Nest the entries by symbol
+    var dataNest = d3.nest()
+        .key(function(d) {return d.company_name;})
+        .sortKeys(d3.ascending)
+        .entries(data);
+
+    // Loop through each symbol / key
+    dataNest.forEach(function(d) {
+    	console.log("dataNest: ")
+    	console.log(d)
+    	var color_market = d.values[0].company_market.replace(/ /g,'')
+        svg.append("path")
+            .attr("class", color_market + " line")
+            // .attr("class", )
+            .attr("stroke", color(color_market) )
+            .attr("d", priceline(d.values))
+
+    });
+
+    // Add the X Axis
+    svg.append("svg:g")
+        // .attr("class", "x axis")
+        .classed("x axis", true)
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+    // Add the Y Axis
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+
+});
+
+function updateData(_value) {
+	var _path = "path.line"
+	to_remove = d3.selectAll(_path)
+	// console.log("to remove")
+	// console.log(_path)
+	to_remove.remove()
+	d3.selectAll("circle").remove()
+
+	d3.csv("/data/investments-unicorns-cumsum.csv", function(error, data) {
+	console.log(data)
+    data.forEach(function(d) {
+    		// d.company_name = d.company_name;
+			d.price = +d.no_cumulative;
+			d.raised_amount_usd = +d.raised_amount_usd;
+			d.company_market = d.company_market;
+            d.date = parseDate(d.funded_month);
+            d.unicorn_flag = d.unicorn_flag;
+    });
+
+    data = data.filter(function(row) {
+    	return row['unicorn_flag'] == 'True' && row['company_market'].replace(/ /g,'') == _value;
+    })
+    console.log("viltereddata: ")
+    console.log(data)
+
+    // Scale the range of the data
+    // x.domain(d3.extent(data, function(d) { return d.date; }));
+    // y.domain([0, d3.max(data, function(d) { return d.price; })]); 
+    // y.domain([0,10000000000])
+
+        svg.selectAll("dot")
+        .data(data)
+      .enter().append("circle")
+        .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
+        .attr("cx", function(d) { return x(d.date); })
+        .attr("cy", function(d) { return y(d.price); });
+
+    // Nest the entries by symbol
+    var dataNest = d3.nest()
+        .key(function(d) {return d.company_name;})
+        .entries(data);
+
+    // Loop through each symbol / key
+
+
+    dataNest.forEach(function(d) {
+    	// console.log("dataNest: ")
+    	// console.log(d)
+    	var color_market = d.values[0].company_market.replace(/ /g,'')
+        svg.append("path")
+            .attr("class", color_market + " line")
+            // .attr("stroke", "green")
+            .attr("stroke", color(color_market) )
+            // .attr("stroke", function (d) { return color(d.values[0].company_market.replace(/ /g,'')); })
+            // .attr("stroke", function (d) { return color(d.company_market.replace(/ /g,'')); })
+            .attr("d", priceline(d.values)); 
+
+
+    });
+
+ //        // Add the X Axis
+ //    svg.append("svg:g")
+ //        // .attr("class", "x axis")
+ //        .classed("x axis", true)
+ //        .attr("transform", "translate(0," + height + ")")
+ //        .call(xAxis);
+
+ //    // Add the Y Axis
+ //    svg.append("g")
+ //        .attr("class", "y axis")
+ //        .call(yAxis);
+
+	});
+}
+
+</script>
+</body>
