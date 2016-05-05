@@ -1,0 +1,143 @@
+body {
+  background-color: #2f3939;
+  color: white;
+}
+
+#headerr {
+  color: #2f3939;
+  font-family:'Buenard', serif;
+}
+
+nav .brand-logo {
+  color: #2f3939;
+}
+
+nav ul a {
+  color: #2f3939;
+}
+
+.box {
+  border: solid #acebae 4px;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-item {
+    height: 100%;
+}
+
+#map_contain {
+	margin-top: 20px;
+  z-index: 0;
+
+}
+
+#map_contain img{
+  margin-top: 20px;
+  z-index: -10;
+
+}
+
+#stacked_bar_contain {
+	margin-top: -40px;
+	padding-top: 30px;
+}
+
+
+
+body {
+  font: 14px sans-serif;
+}
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.bar {
+  fill: steelblue;
+}
+.x.axis path {
+  display: none;
+}
+.y.axis path {
+  display: none;
+}
+.legend line {
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.tabs {
+	background-color: rgba(0,0,0,0);
+	font-size: 1em;
+	width: 70%;;
+}
+
+.tabs a{
+	font-size: 2em;
+}
+
+#page_title {
+  font-family:'Buenard', serif;
+  line-height: 90%;
+  font-size: 7em;
+  color: #acebae;
+  margin-left: 60px;
+}
+
+#map_title{
+  margin-bottom: -150px;
+  
+  position: relative;
+
+}
+
+.sectionTitle {
+
+  font-family: 'Fira Sans', sans-serif;
+  z-index: 900 important!;
+  font-size: 5em;
+  position: relative;
+  line-height: 90%;
+
+}
+
+#markets_nada_cont {
+  text-align: right;
+  margin-bottom: -130px;
+
+}
+
+#markets_nada {
+
+}
+
+
+
+
+#sections {
+  position: relative;
+  display: inline-block;
+  width: 250px;
+  top: 0px;
+  z-index: 90;
+}
+
+.step {
+  margin-bottom: 200px;
+}
+
+#vis {
+  display: inline-block;
+  position: fixed;
+  top: 60px;
+  z-index: 1;
+  margin-left: 0;
+
+  height: 600px;
+  width: 600px;
+  background-color: #ddd;
+}

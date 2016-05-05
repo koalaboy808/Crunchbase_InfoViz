@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+
+  <title>InfoViz Spring 2016</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href='https://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
+  
+
+  
+<!-- Custom styles for this template -->
+<link href="static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+
+
+</head>
+
+<body>
+<!-- <nav id="headerr" role="navigation" class="light-green lighten-5">
+    <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">InfoViz Spring 2016</a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="#">ABOUT</a></li>
+      </ul>
+    </div>`
+  </nav> -->
+<div id="page_title" class="col s5">INVESTORS </br> & STARTUPS </div>
+
+    <div class="row flex-container">
+
+        <div class="row col s12 flex-container">
+<!--           <div class="col s1 box">
+          timeline
+          </div> -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Scrolling Sections</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+  <link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div class="container">
+  <div id='graphic'>
+    <div id='sections'>
+      <section class="step">
+        <div class="title">OpenVis Conf 2013</div>
+        I did what no presenter should ever do: I watched my own talk.<br/><br/>My first visit to OpenVis Conf in 2013.
+      </section>
+      <section class="step">
+        <div class="title">Filler Words</div>
+        As expected, I could only focus on the flaws: the rushed speech, the odd phrases, and, most especially, all the filler words. In fact, I found 180 filler words in my 30 minute talk.
+      </section>
+      <section class="step">
+        <div class="title">My Talk</div>
+        Here are all 5,040 words of my talk.
+      </section>
+      <section class="step">
+        <div class="title">My Stumbles</div>
+        And here are all the fillers I used in those 30 minutes.
+      </section>
+      <section class="step">
+        <div class="title">Um's, Ah's &amp; Uh's</div>
+        I almost exclusively used these three fillers. Um's and Ah's made up over 80%, with Uh's trailing behind.
+      </section>
+      <section class="step">
+        <div class="title">Fillers Over Time</div>
+        I hoped that all these blunders were toward the beginning of my talk. And the data suggests that fewer fillers are used as I get into it. Perhaps the talk started out rough and improved as I found my groove.
+      </section>
+      <section class="step">
+        <div class="title">Ramping Back Up</div>
+        Unfortunately, the trend does not continue. Midway into the talk my Um's and Ah's spike. I continue to use them pretty consistently throughout the rest of the talk.
+      </section>
+      <section class="step">
+        <div class="title">The Cough Effect</div>
+        My theory is that at this critical halfway point in my talk, I heard a dry cough indicative of the audience's waning interest. This caused self-confidence to collapse and forced me out of my groove.<br/><br/>A competing theory is that I just hadn't practiced the last half of my speech as much.
+      </section>
+      <section class="step">
+        <div class="title">Best of Luck to Me in 2015</div>
+        The world may never know, or care, but hopefully these insights improve my speaking in 2015. Though preliminary results aren't looking so good.
+      </section>
+    </div>
+    <div id='vis'>
+    </div>
+    <div id="extra-space">
+    </div>
+  </div>
+</div>
+
+
+<script src="js/d3.js"></script>
+<script src="js/queue.js"></script>
+<script src="js/scroller.js"></script>
+<script src="js/sections.js"></script>
+<script type="text/javascript">
+
+/**
+ * scroller - handles the details
+ * of figuring out which section
+ * the user is currently scrolled
+ * to.
+ *
+ */
+function scroller() {
+  var windowHeight;
+  var container = d3.select('body');
+  // event dispatcher
+  var dispatch = d3.dispatch("active", "progress");
+
+  // d3 selection of all the
+  // text sections that will
+  // be scrolled through
+  var sections = null;
+
+  // array that will hold the
+  // y coordinate of each section
+  // that is scrolled through
+  var sectionPositions = [];
+  var currentIndex = -1;
+  // y coordinate of
+  var containerStart = 0;
+
+  /**
+   * scroll - constructor function.
+   * Sets up scroller to monitor
+   * scrolling of els selection.
+   *
+   * @param els - d3 selection of
+   *  elements that will be scrolled
+   *  through by user.
+   */
+  function scroll(els) {
+    sections = els;
+
+    // when window is scrolled call
+    // position. When it is resized
+    // call resize.
+    d3.select(window)
+      .on("scroll.scroller", position)
+      .on("resize.scroller", resize);
+
+    // manually call resize
+    // initially to setup
+    // scroller.
+    resize();
+
+    // hack to get position
+    // to be called once for
+    // the scroll position on
+    // load.
+    d3.timer(function() {
+      position();
+      return true;
+    });
+  }
+
+  /**
+   * resize - called initially and
+   * also when page is resized.
+   * Resets the sectionPositions
+   *
+   */
+  function resize() {
+    // sectionPositions will be each sections
+    // starting position relative to the top
+    // of the first section.
+    sectionPositions = [];
+    var startPos;
+    sections.each(function(d,i) {
+      var top = this.getBoundingClientRect().top;
+      if(i === 0) {
+        startPos = top;
+      }
+      sectionPositions.push(top - startPos);
+    });
+    containerStart = container.node().getBoundingClientRect().top + window.pageYOffset;
+  }
+
+  /**
+   * position - get current users position.
+   * if user has scrolled to new section,
+   * dispatch active event with new section
+   * index.
+   *
+   */
+  function position() {
+    var pos = window.pageYOffset - 10 - containerStart;
+    var sectionIndex = d3.bisect(sectionPositions, pos);
+    sectionIndex = Math.min(sections.size() - 1, sectionIndex);
+
+    if (currentIndex !== sectionIndex) {
+      dispatch.active(sectionIndex);
+      currentIndex = sectionIndex;
+    }
+
+    var prevIndex = Math.max(sectionIndex - 1, 0);
+    var prevTop = sectionPositions[prevIndex];
+    var progress = (pos - prevTop) / (sectionPositions[sectionIndex] - prevTop);
+    dispatch.progress(currentIndex, progress);
+  }
+
+  /**
+   * container - get/set the parent element
+   * of the sections. Useful for if the
+   * scrolling doesn't start at the very top
+   * of the page.
+   *
+   * @param value - the new container value
+   */
+  scroll.container = function(value) {
+    if (arguments.length === 0) {
+      return container;
+    }
+    container = value;
+    return scroll;
+  };
+
+  // allows us to bind to scroller events
+  // which will interally be handled by
+  // the dispatcher.
+  d3.rebind(scroll, dispatch, "on");
+
+  return scroll;
+}
+
+</script>
+
+</body>
+</html>

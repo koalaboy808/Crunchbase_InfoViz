@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+
+  <title>InfoViz Spring 2016</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href='https://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,700' rel='stylesheet' type='text/css'>
+  
+
+  
+<!-- Custom styles for this template -->
+<link href="static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+
+
+</head>
+
+<body>
+<!-- <nav id="headerr" role="navigation" class="light-green lighten-5">
+    <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">InfoViz Spring 2016</a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="#">ABOUT</a></li>
+      </ul>
+    </div>`
+  </nav> -->
+<div id="page_title" class="col s5">INVESTORS </br> & STARTUPS </div>
+
+    <div class="row flex-container">
+
+        <div class="row col s12 flex-container">
+<!--           <div class="col s1 box">
+          timeline
+          </div> -->
+
+          <div class="col s11">
+          <div id="map_title" class="col s6 offset-s1 sectionTitle">WHERE ARE STARTUPS BEING FUNDED?</div>
+            <!-- map -->
+            <div class="col s9 box offset-s2 center" id="map_contain">
+              <img src="/static/files/Map_filler.png">
+            </div>
+            <!-- stacked bar -->
+            <div class = "col s9 box" id="stacked_bar_contain">
+                <ul class="tabs">
+                  <li class="tab col s2"><a class="active" href="#total_stack">Total Numbers</a></li>
+                  <li class="tab col s2"><a href="#percentage_stack_cont">Percentage</a></li>
+                </ul>
+
+                <div id="total_stack" class="total_stack col s12">
+                 <form>
+                  <label><input type="checkbox">Sort values</label>
+                 </form>
+                </div>
+                <div id="percentage_stack_cont" class="percentage_stack col s9">
+                  Click on any color to move it to the bottom of the chart
+                </div>
+             </div>
+             <div class="col s2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae nisl efficitur, congue arcu nec, iaculis nulla. Donec a justo ac purus mollis elementum eget eget metus. Donec eleifend at diam eu euismod. Ut eget velit nunc. Etiam metus sapien, tempus eget eros nec, dictum ornare lacus. Praesent convallis eu purus auctor aliquet. Donec sagittis, dolor vel molestie consectetur, dui justo varius enim, sit amet tincidunt sem ante bibendum leo. Sed ante nunc, accumsan sed nisi ac, ullamcorper iaculis dui.</div>
+
+           <div class="row col s5 offset-s6 sectionTitle" id="markets_nada_cont"> WHAT MARKETS ARE BEING FUNDED
+          </div>
+          <div class="row col s10 box"> <img src="/static/files/vag_filler.png"></div>
+
+         </div>
+        </div>
+
+
+     </div>
+           </div>
+      
+
+
+
+<div class= "row">
+  <footer class="page-footer orange darken-3">
+    <div class="container">
+      <div class="footer-copyright">
+        <div id = "copyright">
+        </div>
+       </div>
+
+    </div>
+  </footer>
+
+
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="js/stacked_bar_total.js"></script>
+<script type="text/javascript" src="js/stacked_bar_percent.js"></script>
+<script src="js/colorbrewer.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('ul.tabs').tabs();
+  });
+  
+   $(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+  });
+       
+ </script>
+</body>
+</html>
