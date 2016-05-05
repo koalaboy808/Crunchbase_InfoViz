@@ -9,17 +9,18 @@ console.log(trimmedArray);
 
 
 for (i = 0; i < trimmedArray.length; i++) {
-  //$("#_buttons").append('<button onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
-  $("#_dropdown").append('<a onClick="updateData(\'' + trimmedArray[i] + '\')" href="#">'+trimmedArray[i]+'</a>')
+  $("#_buttons").append('<button class="areaButon" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
+  // $("#_dropdown").append('<a onClick="updateData(\'' + trimmedArray[i] + '\')" >'+trimmedArray[i]+'</a>')
+  console.log(trimmedArray[i]);
 }
 
-var margin = {top: 0, right: 20, bottom: 20, left: 100},
-    width = 870 - margin.left - margin.right,
-    height = 230 - margin.top - margin.bottom;
+var areaMargin = {top: 0, right: 20, bottom: 20, left: 100},
+    width = 870 - areaMargin.left - areaMargin.right,
+    height = 230 - areaMargin.top - areaMargin.bottom;
 
 var parseDate = d3.time.format("%Y-%m").parse;
 
-var x = d3.time.scale()
+var areaX = d3.time.scale()
     .range([0, width]);
 
 var y1 = d3.scale.linear()
@@ -35,8 +36,8 @@ var y2small = d3.scale.linear()
     .range([0,height]);
 
 
-var xAxis = d3.svg.axis()
-    .scale(x)
+var areaXaxis = d3.svg.axis()
+    .scale(areaX)
     .orient("bottom");
 
 var yAxis1 = d3.svg.axis()
@@ -49,42 +50,42 @@ var yAxis2 = d3.svg.axis()
 
 var area1 = d3.svg.area()
     .interpolate("basis")
-    .x(function(d) { return x(d.date); })
+    .x(function(d) { return areaX(d.date); })
     .y0(height)
     .y1(function(d) { return y1(d.startup); });
 
 var area1Small = d3.svg.area()
     .interpolate("basis")
-    .x(function(d) { return x(d.date); })
+    .x(function(d) { return areaX(d.date); })
     .y0(height)
     .y1(function(d) { return y1small(d.startup); });
 
 var area2 = d3.svg.area()
     .interpolate("basis")
-    .x(function(d) { return x(d.date); })
+    .x(function(d) { return areaX(d.date); })
     .y0(0)
     .y1(function(d) { return y2(d.funding); });
 
 var area2Small = d3.svg.area()
     .interpolate("basis")
-    .x(function(d) { return x(d.date); })
+    .x(function(d) { return areaX(d.date); })
     .y0(0)
     .y1(function(d) { return y2small(d.funding); });
 
 var svg1 = d3.select("#areachart1").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr("width", width + areaMargin.left + areaMargin.right)
+    .attr("height", height + areaMargin.top + areaMargin.bottom)
     .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", "translate(" + areaMargin.left + "," + areaMargin.top + ")");
 
 var svg2 = d3.select("#areachart2").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr("width", width + areaMargin.left + areaMargin.right)
+    .attr("height", height + areaMargin.top + areaMargin.bottom)
     .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", "translate(" + areaMargin.left + "," + areaMargin.top + ")");
 
-var color = d3.scale.ordinal()
-                    .range(["#007b75","#00a48d","#00c9bb","#00ffd5","#89d1c5","#6eccdc","#a8b1c0","#9fd8ef","#b7d2ee","#a4eeda","#99ebae","#bcebae","#9aff84","#00db97","#69e275"])
+var areaColor = d3.scale.ordinal()
+                    .range(["#DE4000","#00c9bb","#89d1c5","#00ffd5","#007b75","#fa5300","#6eccdc","#99ebae","#00a48d","#c55a3b","#a8b1c0","#9aff84","#b7d2ee","#a4eeda","#b9ff53"])
                     .domain(top15);
 
 var vertical = d3.select("#areaMain")
@@ -96,8 +97,8 @@ var vertical = d3.select("#areaMain")
         .style("height", height*2)
         .style("top", "50px")
         .style("bottom", "30px")
-        .style("left", margin.left)
-        .style("right", margin.right)
+        .style("left", areaMargin.left)
+        .style("right", areaMargin.right)
         .style("background", "#fff");
 
     //Create tooltip
@@ -156,7 +157,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
   var maxStartup = [d3.max(allData, function(d) { return d.startup; }), d3.max(subData, function(d) {return d.startup; })];
   var maxFunding = [d3.max(allData, function(d) { return d.funding; }), d3.max(subData, function(d) {return d.funding; })];
     
-  x.domain(d3.extent(allData, function(d) { return d.date; }));
+  areaX.domain(d3.extent(allData, function(d) { return d.date; }));
 /*  y1.domain([0, d3.max(maxStartup)]);
   y2.domain([0, d3.max(maxFunding)]);
   y1small.domain([0, d3.max(maxStartup)]);
@@ -173,7 +174,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .attr("d", area1)
       /*.call(d3.helper.tooltip()
                // .attr({class: function(d, i) { return d + ' ' +  i + ' A'; }})
-                .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
+                .style({areaColor: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
                 .text(function(d, i){ return 'value: '+d[i].funding; })
             )*/;
 
@@ -182,12 +183,12 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .datum(subData)
       .attr("class", "areaY1Small")
       .attr("d", area1Small)
-      .style("fill", function(d) { return color("E-Commerce");});
+      .style("fill", function(d) { return areaColor("E-Commerce");});
 
 /*  svg1.append("g")
-      .attr("class", "xAxis")
+      .attr("class", "areaXaxis")
       .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
+      .call(areaXaxis)
       .attr("stroke-width",0);*/
 
   svg1.append("g")
@@ -210,12 +211,12 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .datum(subData)
       .attr("class", "areaY2Small")
       .attr("d", area2Small)
-      .style("fill", function(d) { return color("E-Commerce");});;
+      .style("fill", function(d) { return areaColor("E-Commerce");});;
 
   svg2.append("g")
-      .attr("class", "xAxis")
+      .attr("class", "areaXaxis")
       .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
+      .call(areaXaxis)
       .attr("stroke-width",1);
 
   svg2.append("g")
@@ -236,7 +237,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
        mousey = mousepos[1];
        vertical.style("left", mousex + "px" )
 
-       var invertedx = x.invert(mousex);
+       var invertedx = areaX.invert(mousex);
       invertedx = invertedx.getMonth() + invertedx.getDate();
       var selected = (d.values);
       for (var k = 0; k < selected.length; k++) {
@@ -306,7 +307,7 @@ function updateData(market) {
 /*    var maxStartup = [d3.max(allData, function(d) { return d.startup; }), d3.max(subData, function(d) {return d.startup; })];
   var maxFunding = [d3.max(allData, function(d) { return d.funding; }), d3.max(subData, function(d) {return d.funding; })];*/
     
-    x.domain(d3.extent(allData, function(d) { return d.date; }));
+    areaX.domain(d3.extent(allData, function(d) { return d.date; }));
 /*  y1.domain([0, d3.max(maxStartup)]);
   y2.domain([0, d3.max(maxFunding)]);
   y1small.domain([0, d3.max(maxStartup)]);
@@ -333,9 +334,9 @@ function updateData(market) {
       
       .transition()
       .duration(500)
-      .style("fill", function(d) {return color(market);})
+      .style("fill", function(d) {return areaColor(market);})
       .attr("d", area1Small);
-      //.attr("fill", function(d) { return color(d[market])});
+      //.attr("fill", function(d) { return areaColor(d[market])});
 
 
 /*  svg1.append("g")
@@ -361,13 +362,13 @@ function updateData(market) {
       .datum(subData)
       .transition()
       .duration(500)
-      .style("fill", function(d) {return color(market);})
+      .style("fill", function(d) {return areaColor(market);})
       .attr("d", area2Small);
 
 /*  svg2.append("g")
-      .attr("class", "xAxis")
+      .attr("class", "areaXaxis")
       .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
+      .call(areaXaxis)
       .attr("stroke-width",1);*/
 
 /*  svg2.append("g")
