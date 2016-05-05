@@ -13,6 +13,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href='https://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,700' rel='stylesheet' type='text/css'>
   
 
   
@@ -25,30 +26,42 @@
 </head>
 
 <body>
-<nav id="headerr" role="navigation" class="light-green lighten-5">
+<!-- <nav id="headerr" role="navigation" class="light-green lighten-5">
     <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">InfoViz Spring 2016</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#">ABOUT</a></li>
       </ul>
     </div>`
-  </nav>
+  </nav> -->
+
+<div>
+
+</div> 
 <div id="page_title" class="col s5">INVESTORS </br> & STARTUPS </div>
 
+
+<div class="col s1" id="side_nav_cont">
+  <ul class="section table-of-contents">
+    <li><a href="#map_title">Where is the money going?</a></li>
+    <li><a href="#stacked_bar_contain">Where is it coming from?</a></li>
+    <li><a href="#imarkets_nada_cont">What markets are being funded?</a></li>
+  </ul>
+</div>
     <div class="row flex-container">
 
         <div class="row col s12 flex-container">
-          <div class="col s1 box">
+<!--           <div class="col s1 box">
           timeline
-          </div>
+          </div> -->
 
           <div class="col s11">
-          <div id="map_title" class="col s6 offset-s1">WHERE ARE STARTUPS BEING FUNDED?</div>
+          <div id="map_title" class="col s6 offset-s1 sectionTitle section scrollspy">WHERE ARE STARTUPS BEING FUNDED?</div>
             <!-- map -->
             <div class="col s9 box offset-s2 center" id="map_contain">
               <img src="/static/files/Map_filler.png">
             </div>
             <!-- stacked bar -->
-            <div class = "col s9 box" id="stacked_bar_contain">
+            <div class = "col s9 offset-s1 box section scrollspy" id="stacked_bar_contain">
                 <ul class="tabs">
                   <li class="tab col s2"><a class="active" href="#total_stack">Total Numbers</a></li>
                   <li class="tab col s2"><a href="#percentage_stack_cont">Percentage</a></li>
@@ -63,11 +76,32 @@
                   Click on any color to move it to the bottom of the chart
                 </div>
              </div>
+             <div class="col s2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae nisl efficitur, congue arcu nec, iaculis nulla. Donec a justo ac purus mollis elementum eget eget metus. Donec eleifend at diam eu euismod. Ut eget velit nunc. Etiam metus sapien, tempus eget eros nec, dictum ornare lacus. Praesent convallis eu purus auctor aliquet. Donec sagittis, dolor vel molestie consectetur, dui justo varius enim, sit amet tincidunt sem ante bibendum leo. Sed ante nunc, accumsan sed nisi ac, ullamcorper iaculis dui.</div>
 
-            </div>
+           <div class="row col s5 offset-s6 sectionTitle section scrollspy" id="markets_nada_cont"> WHAT MARKETS ARE BEING FUNDED
+          </div>
+          <div class="row col s10 offset-s1 box" id="areaMain"> 
+          <div class="dropdown">
+            <button class="dropbtn">Dropdown</button>
+            <div class="dropdown-content" id="_dropdown">
+             </div>
+          </div>
+              <div class="container chart" id="areachart1">
+              </div>
+              <div class="container chart" id="areachart2">
+              </div>
+         </div>
         </div>
-      </div>
+
+
      </div>
+           </div>
+      
+
+
+
+
+
 <div class= "row">
   <footer class="page-footer orange darken-3">
     <div class="container">
@@ -86,11 +120,18 @@
 <script type="text/javascript" src="js/stacked_bar_percent.js"></script>
 <script src="js/colorbrewer.js"></script>
 <script type="text/javascript" src="js/materialize.js"></script>
+
+<script type="text/javascript" src="js/areachart.js"></script>
+
 <script type="text/javascript">
   $(document).ready(function(){
     $('ul.tabs').tabs();
   });
-       
+  
+   $(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+  });
+
  </script>
 </body>
 </html>
