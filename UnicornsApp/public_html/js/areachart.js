@@ -1,5 +1,9 @@
 var top15 = ["Biotechnology", "Software", "Clean Technology", "Health Care", "E-Commerce", "Mobile", "Semiconductors", "Enterprise Software", "Advertising", "Hardware + Software", "Web Hosting", "Games", "Finance", "Curated Web", "Security"];
 
+var areaColor = d3.scale.ordinal()
+                    .range(["#DE4000","#00c9bb","#89d1c5","#00ffd5","#007b75","#fa5300","#6eccdc","#99ebae","#00a48d","#c55a3b","#a8b1c0","#9aff84","#b7d2ee","#a4eeda","#b9ff53"])
+                    .domain(top15);
+
 trimmedArray = [];
 for (i = 0; i < top15.length; i++) {
   trimmedArray.push(top15[i].replace(/ /g,''));
@@ -9,13 +13,13 @@ console.log(trimmedArray);
 
 
 for (i = 0; i < trimmedArray.length; i++) {
-  $("#_buttons").append('<button class="areaButon" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
+  $("#_buttons").append('<button class="areaButon" style="background-color:'+ areaColor(trimmedArray[i]) +'" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
   // $("#_dropdown").append('<a onClick="updateData(\'' + trimmedArray[i] + '\')" >'+trimmedArray[i]+'</a>')
   console.log(trimmedArray[i]);
 }
 
-var areaMargin = {top: 0, right: 20, bottom: 20, left: 100},
-    width = 870 - areaMargin.left - areaMargin.right,
+var areaMargin = {top: 30, right: 20, bottom: 30, left: 100},
+    width = 850 - areaMargin.left - areaMargin.right,
     height = 230 - areaMargin.top - areaMargin.bottom;
 
 var parseDate = d3.time.format("%Y-%m").parse;
@@ -84,13 +88,11 @@ var svg2 = d3.select("#areachart2").append("svg")
     .append("g")
     .attr("transform", "translate(" + areaMargin.left + "," + areaMargin.top + ")");
 
-var areaColor = d3.scale.ordinal()
-                    .range(["#DE4000","#00c9bb","#89d1c5","#00ffd5","#007b75","#fa5300","#6eccdc","#99ebae","#00a48d","#c55a3b","#a8b1c0","#9aff84","#b7d2ee","#a4eeda","#b9ff53"])
-                    .domain(top15);
+
 
 var vertical = d3.select("#areaMain")
         .append("div")
-        .attr("class", "remove")
+        // .attr("class", "remove")
         .style("position", "absolute")
         .style("z-index", "19")
         .style("width", "3px")
@@ -99,7 +101,9 @@ var vertical = d3.select("#areaMain")
         .style("bottom", "30px")
         .style("left", areaMargin.left)
         .style("right", areaMargin.right)
-        .style("background", "#fff");
+        .style("background", "#fff")
+        .style("opacity",0);
+
 
     //Create tooltip
 /*var areaTooltip = d3.select("#areaMain").append("div")
@@ -233,7 +237,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
   d3.selectAll("#areachart1")
     .on("mousemove", function(){  
        mousepos = d3.mouse(this);
-       mousex = mousepos[0] + 5;
+       mousex = mousepos[0] + 100;
        mousey = mousepos[1];
        vertical.style("left", mousex + "px" )
 
@@ -251,21 +255,21 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
      })
     .on("mouseover", function(){  
        mousex = d3.mouse(this);
-       mousex = mousex[0] + 5;
+       mousex = mousex[0] +100;
        vertical.transition()
               .style("opacity",1)
               .style("left", mousex + "px")
-        areaTooltip.transition()
-                  .style("opacity",1);
-        areaTooltip.html("<p>Helllooo"+pro+"</p")
-                  .style("left", mousex + "px")
-              .style("top", mousey + "px");
+        // areaTooltip.transition()
+        //           .style("opacity",1);
+        // areaTooltip.html("<p>Helllooo"+pro+"</p")
+        //           .style("left", mousex + "px")
+        //       .style("top", mousey + "px");
         })
     .on("mouseout", function() {
           vertical.transition()
               .style("opacity", 0);
-          areaTooltip.transition()
-                    .style("opacity",0);
+          // areaTooltip.transition()
+          //           .style("opacity",0);
       });
 });
 

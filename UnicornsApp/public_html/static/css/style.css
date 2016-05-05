@@ -189,7 +189,7 @@ body {
 }
 
 .area {
-  fill: #DE4000;
+  fill: white;
   stroke-width: 0;
   opacity: 0.3;
 }
@@ -220,8 +220,22 @@ div.tooltip {
   pointer-events: none;
 }
 
+/*#_buttons{
+  margin-top: 40px;
+}*/
 .areaButon {
   background-color: blue;
   color: black;
+  border: none;
+  margin-top: 5px;
+
 }
 
+button:focus {
+    border: 2px solid white;
+
+}
+
+#areachart2 {
+  margin-top: -50px;
+}
