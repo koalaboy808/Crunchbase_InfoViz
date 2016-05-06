@@ -218,6 +218,26 @@ button:focus {
 }
 
 
+.line {
+  fill: none;
+  stroke: white;
+  stroke-width: 1.5px;
+}
+
+.focus circle {
+  fill: none;
+  stroke: white;
+}
+.focus text {
+  fill: white;
+  stroke: none;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
 /*CARLO CSS*/
 
 h1 {
@@ -228,12 +248,6 @@ h1 {
   text-align: left;
   color: white;
 }
-
-/*.widget {
-  display: inline-block;
-  border: 1px solid #AAA;
-  background: white;
-}*/
 
 #chart {
   height: 550px;
@@ -281,15 +295,12 @@ svg {
 }
 
 path { 
-    /*stroke: green;*/
     stroke-width: 1.5;
     fill: none;
 }
 
 circle {
-  /*stroke: steelblue;*/
   stroke-width: 3;
-  /*fill: #00db97;*/
   opacity: 0.75;
 }
 
@@ -311,22 +322,3 @@ circle {
 }
 
 
-.line {
-  fill: none;
-  stroke: black;
-  stroke-width: 1.5px;
-}
-
-.focus circle {
-  fill: none;
-  stroke: white;
-}
-.focus text {
-  fill: white;
-  stroke: none;
-}
-
-.overlay {
-  fill: none;
-  pointer-events: all;
-}
