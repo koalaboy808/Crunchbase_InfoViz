@@ -13,7 +13,7 @@ console.log(trimmedArray);
 
 
 for (i = 0; i < trimmedArray.length; i++) {
-  $("#_buttons").append('<button class="areaButon" style="background-color:'+ areaColor(trimmedArray[i]) +'" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
+  $("#_buttons").append('<button class="areaButton" style="background-color:'+ areaColor(trimmedArray[i]) +'" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
   // $("#_dropdown").append('<a onClick="updateData(\'' + trimmedArray[i] + '\')" >'+trimmedArray[i]+'</a>')
   console.log(trimmedArray[i]);
 }
@@ -22,7 +22,8 @@ var areaMargin = {top: 30, right: 20, bottom: 30, left: 100},
     width = 850 - areaMargin.left - areaMargin.right,
     height = 230 - areaMargin.top - areaMargin.bottom;
 
-var parseDate = d3.time.format("%Y-%m").parse;
+var parseDate = d3.time.format("%Y-%m").parse,
+	bisectDate = d3.bisector(function(d) { return d.date; }).left;
 
 var areaX = d3.time.scale()
     .range([0, width]);
@@ -58,6 +59,11 @@ var area1 = d3.svg.area()
     .y0(height)
     .y1(function(d) { return y1(d.startup); });
 
+var area1line = d3.svg.line()
+	.interpolate("basis")
+    .x(function(d) { return areaX(d.date); })
+    .y(function(d) { return y1(d.startup); });
+
 var area1Small = d3.svg.area()
     .interpolate("basis")
     .x(function(d) { return areaX(d.date); })
@@ -90,18 +96,18 @@ var svg2 = d3.select("#areachart2").append("svg")
 
 
 
-var vertical = d3.select("#areaMain")
+var vertical = d3.select("#areachart1")
         .append("div")
         // .attr("class", "remove")
         .style("position", "absolute")
-        .style("z-index", "19")
+        //.style("z-index", "19")
         .style("width", "3px")
-        .style("height", height*2)
-        .style("top", "50px")
+        .style("height", "400px")
+        .style("top", "1300px")
         .style("bottom", "30px")
-        .style("left", areaMargin.left)
-        .style("right", areaMargin.right)
-        .style("background", "#fff")
+        //.style("left", "100px")
+        //.style("right", areaMargin.right)
+        .style("background", "#fff") //#2f3939
         .style("opacity",0);
 
 
@@ -206,10 +212,45 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .style("text-anchor", "end")
       .text("No. of Startups Funded");
 
+   svg1.append("path")
+      .datum(allData)
+      .attr("class", "line")
+      .attr("d", area1line);
+
+     var focus = svg.append("g")
+      .attr("class", "focus")
+      .style("display", "none");
+
+  focus.append("circle")
+      .attr("r", 4.5);
+
+  focus.append("text")
+      .attr("x", 9)
+      .attr("dy", ".35em");
+
   svg2.append("path")
       .datum(allData)
       .attr("class", "area")
       .attr("d", area2);
+
+  svg1.append("rect")
+      .attr("class", "overlay")
+      .attr("width", width)
+      .attr("height", height)
+      .on("mouseover", function() { focus.style("display", null); })
+      .on("mouseout", function() { focus.style("display", "none"); })
+      .on("mousemove", mousemove);
+
+  function mousemove() {
+    var x0 = areaX.invert(d3.mouse(this)[0]),
+        i = bisectDate(allData, x0, 1),
+        d0 = allData[i - 1],
+        d1 = allData[i],
+        d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+        console.log(d);
+    focus.attr("transform", "translate(" + areaX(d.date) + "," + y1(d.startup) + ")");
+    focus.select("text").text("Hello");
+  }
 
   svg2.append("path")
       .datum(subData)
@@ -236,35 +277,14 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
 
   d3.selectAll("#areachart1")
     .on("mousemove", function(){  
-       mousepos = d3.mouse(this);
-       mousex = mousepos[0] + 100;
-       mousey = mousepos[1];
-       vertical.style("left", mousex + "px" )
-
-       var invertedx = areaX.invert(mousex);
-      invertedx = invertedx.getMonth() + invertedx.getDate();
-      var selected = (d.values);
-      for (var k = 0; k < selected.length; k++) {
-        datearray[k] = selected[k].date
-        datearray[k] = datearray[k].getMonth() + datearray[k].getDate();
-      }
-
-      // mousedate = datearray.indexOf(invertedx);
-      // pro = d.values[mousedate].value;
-      
-     })
-    .on("mouseover", function(){  
-       mousex = d3.mouse(this);
-       mousex = mousex[0] +100;
-       vertical.transition()
-              .style("opacity",1)
-              .style("left", mousex + "px")
-        // areaTooltip.transition()
-        //           .style("opacity",1);
-        // areaTooltip.html("<p>Helllooo"+pro+"</p")
-        //           .style("left", mousex + "px")
-        //       .style("top", mousey + "px");
-        })
+         mousex = d3.mouse(this);
+         mousex = mousex[0] + 5;
+         vertical.style("left", mousex + "px" )
+    				.style("opacity",1)})
+      .on("mouseover", function(){  
+         mousex = d3.mouse(this);
+         mousex = mousex[0] + 5;
+         vertical.style("left", mousex + "px")})
     .on("mouseout", function() {
           vertical.transition()
               .style("opacity", 0);

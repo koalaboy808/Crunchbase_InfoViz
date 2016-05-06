@@ -223,7 +223,7 @@ div.tooltip {
 /*#_buttons{
   margin-top: 40px;
 }*/
-.areaButon {
+.areaButton {
   background-color: blue;
   color: black;
   border: none;
@@ -238,4 +238,20 @@ button:focus {
 
 #areachart2 {
   margin-top: -50px;
+}
+
+.line {
+  fill: none;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+.focus circle {
+  fill: none;
+  stroke: black;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
 }
