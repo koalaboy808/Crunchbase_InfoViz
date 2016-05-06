@@ -25,6 +25,25 @@ nav .brand-logo {
   padding: 20px;
 }
 
+#unicorn_text{
+  font-family:'Buenard', serif;
+  font-size: 2em;
+  margin: 50px;
+  margin-left: 80px;
+  padding: 20px;
+}
+
+.side-barz {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.nummmmm {
+  font-size: 3em;
+  color: #acebae
+
+}
+
 nav ul a {
   color: #2f3939;
 }
@@ -358,6 +377,10 @@ circle {
   padding-top: 30px;
 }
 
+#year {
+  margin-top: -100px;
+  font-size: 3em;
+}
 
 
 

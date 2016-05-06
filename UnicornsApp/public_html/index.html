@@ -14,7 +14,15 @@
   <link href="static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href='https://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,700' rel='stylesheet' type='text/css'>
-  
+
+   <!-- topo json and geo projection -->
+  <script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
+  <script src="//d3js.org/topojson.v1.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v2.min.js"></script>
+
+
+  <!-- map css -->
+  <link rel="stylesheet" href="bomb_map.css"/>
 
   
 <!-- Custom styles for this template -->
@@ -66,8 +74,13 @@
           <div class="col s11 section scrollspy" id="map_title_1">
           <div id="map_title" class="col s6 offset-s1 sectionTitle section scrollspy">WHERE ARE STARTUPS BEING FUNDED?</div>
             <!-- map -->
-            <div class="col s9 box offset-s2 center" id="map_contain">
-              <img src="/static/files/Map_filler.png">
+            <div class="col s8 box offset-s3 center" id="map_contain" >
+
+              <div id = "map">
+                <div id="subtitle"></div>
+              </div>
+              <div class ="col s3" id = "year"></div>
+
             </div>
             <!-- stacked bar -->
             <div class = "col s9 offset-s1 box section scrollspy" id="stacked_bar_contain">
@@ -85,7 +98,7 @@
                   Click on any color to move it to the bottom of the chart
                 </div>
              </div>
-             <div class="col s2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae nisl efficitur, congue arcu nec, iaculis nulla. Donec a justo ac purus mollis elementum eget eget metus. Donec eleifend at diam eu euismod. Ut eget velit nunc. Etiam metus sapien, tempus eget eros nec, dictum ornare lacus. Praesent convallis eu purus auctor aliquet. Donec sagittis, dolor vel molestie consectetur, dui justo varius enim, sit amet tincidunt sem ante bibendum leo. Sed ante nunc, accumsan sed nisi ac, ullamcorper iaculis dui.</div>
+             <div class="col s2 side-barz">Venture Capitalists are from countries all over the world. And they fund startups that are located in other countries. But 78% of all VCs funded invested in startups located in their own country. These graphs show the amount of funding given from each country to other countries.</div>
 
            <div class="row col s5 offset-s7 sectionTitle section scrollspy" id="markets_nada_cont"> WHAT MARKETS ARE BEING FUNDED?
           </div>
@@ -102,19 +115,17 @@
                 <div class="container chart" id="areachart2">
                 </div>
          </div>
+         <div class="row col s10" id="unicorn_text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae nisl efficitur, congue arcu nec, iaculis nulla. Donec a justo ac purus mollis elementum eget eget metus. Donec eleifend at diam eu euismod. Ut eget velit nunc.
+</div>
 
           <div class="row col s5 offset-s1 sectionTitle section scrollspy" id="markets_carlo_cont"> WHAT MARKETS ARE BEING FUNDED
           </div>
 
           <div class="col s5 offset-s6 box"> hiii
           </div>
-
-
         </div>
-
-
      </div>
-           </div>
+   </div>
       
 
 
@@ -138,6 +149,7 @@
 <script src="js/colorbrewer.js"></script>
 <script type="text/javascript" src="js/materialize.js"></script>
 <script type="text/javascript" src="js/areachart.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
 <!-- <script src="js/index.js"></script>
 <script type="text/javascript" src="js/tooltip.js"></script>
  -->
