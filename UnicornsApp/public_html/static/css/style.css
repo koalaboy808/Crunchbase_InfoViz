@@ -174,12 +174,6 @@ body {
 /* MARKET AREA CHART */
 
 
-/*<<<<<<< HEAD
-.yAxis path,
-.yAxis line {
-  fill: none;
-  stroke: #fff;
-=======*/
 /* Dropdown Button */
 .dropbtn {
     background-color: #4CAF50;
@@ -233,21 +227,16 @@ body {
 .yAxis line {
   fill: none;
   stroke: white;
-/*>>>>>>> Master*/
   shape-rendering: crispEdges;
 }
-.yAxis {
-  fill:white;
-}
+
 .areaXaxis path,
 .areaXaxis line {
   fill: none;
   stroke: white;
   shape-rendering: crispEdges;
 }
-.areaXaxis {
-  fill: white;
-}
+
 .area {
   fill: white;
   stroke-width: 0;
@@ -280,7 +269,8 @@ div.tooltip {
   pointer-events: none;
 }
 
-.areaButton {
+
+.areaButon {
   background-color: blue;
   color: black;
   border: none;
@@ -299,25 +289,7 @@ button:focus {
 }
 
 
-.line {
-  fill: none;
-  stroke: white;
-  stroke-width: 1.5px;
-}
 
-.focus circle {
-  fill: none;
-  stroke: white;
-}
-.focus text {
-  fill: white;
-  stroke: none;
-}
-
-.overlay {
-  fill: none;
-  pointer-events: all;
-}
 
 /*CARLO CSS*/
 
@@ -329,6 +301,12 @@ h1 {
   text-align: left;
   color: white;
 }
+
+/*.widget {
+  display: inline-block;
+  border: 1px solid #AAA;
+  background: white;
+}*/
 
 #chart {
   height: 550px;
@@ -375,14 +353,16 @@ svg {
   stroke: white;
 }
 
-
 path {
+    /*stroke: green;*/
     stroke-width: 1.5;
     fill: none;
 }
 
 circle {
+  /*stroke: steelblue;*/
   stroke-width: 3;
+  /*fill: #00db97;*/
   opacity: 0.75;
 }
 
@@ -410,7 +390,6 @@ circle {
 }
 
 #investor {
-  margin-top: -100px;
   font-size: 4em;
   margin-bottom: 0px;
 }
