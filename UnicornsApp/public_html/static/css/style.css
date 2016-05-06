@@ -12,12 +12,25 @@ nav .brand-logo {
   color: #2f3939;
 }
 
+#intro {
+  font-family:'Buenard', serif;
+  font-size: 2em;
+  margin: 50px;
+  margin-left: 250px;
+  padding: 20px;
+}
+
 nav ul a {
   color: #2f3939;
 }
 
 .box {
   border: solid #acebae 4px;
+  padding: 20px;
+}
+
+.box-pink {
+  border: solid #ea4a4f 4px;
 }
 
 .flex-container {
@@ -86,10 +99,15 @@ body {
 
 .table-of-contents {
   font-family: 'Fira Sans', sans-serif;
+  color: white;
   z-index: 900 important!;
   font-size: 1em;
   position: fixed;
   line-height: 90%;
+ }
+
+ .table-of-contents a{
+   color: pink;
  }
 
 #page_title {
@@ -118,6 +136,7 @@ body {
 
 #markets_nada_cont {
   text-align: right;
+  margin-top: 30px;
   margin-bottom: -130px;
 
 }
@@ -220,14 +239,13 @@ div.tooltip {
   pointer-events: none;
 }
 
-/*#_buttons{
-  margin-top: 40px;
-}*/
+
 .areaButon {
   background-color: blue;
   color: black;
   border: none;
-  margin-top: 5px;
+  margin: 5px;
+  width: 135px;
 
 }
 
@@ -239,3 +257,103 @@ button:focus {
 #areachart2 {
   margin-top: -50px;
 }
+
+
+
+
+/*CARLO CSS*/
+
+h1 {
+  margin: 0;
+  padding: 1rem 0.4rem 2rem 0.4rem;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: left;
+  color: white;
+}
+
+/*.widget {
+  display: inline-block;
+  border: 1px solid #AAA;
+  background: white;
+}*/
+
+#chart {
+  height: 550px;
+  width: 300px;
+}
+
+#chart2 {
+  height: 550px;
+  width: 200px;
+}
+
+svg {
+  shape-rendering: round;
+}
+
+.bar {
+  fill: slateblue;
+}
+
+.value {
+  font-size: 12px;
+  font-weight: 300;
+  fill: white;
+}
+
+.label {
+  font-size: 12px;
+  fill: white;
+}
+
+.axis {
+  font-size: 12px;
+  fill: lightgrey;
+  font-family: "Exo 2", sans-serif;
+}
+.axis path {
+  fill: none;
+
+
+}
+.axis .tick line {
+  stroke-width: 1;
+  stroke: rgba(0, 0, 0, 0.1);
+  stroke: white;
+}
+
+path { 
+    /*stroke: green;*/
+    stroke-width: 1.5;
+    fill: none;
+}
+
+circle {
+  /*stroke: steelblue;*/
+  stroke-width: 3;
+  /*fill: #00db97;*/
+  opacity: 0.75;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.herlper_toolip {
+  font-size: 20px;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
