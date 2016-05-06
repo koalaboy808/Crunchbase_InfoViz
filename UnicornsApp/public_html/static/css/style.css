@@ -244,8 +244,7 @@ div.tooltip {
   pointer-events: none;
 }
 
-
-.areaButon {
+.areaButton {
   background-color: blue;
   color: black;
   border: none;
@@ -262,8 +261,6 @@ button:focus {
 #areachart2 {
   margin-top: -50px;
 }
-
-
 
 
 /*CARLO CSS*/
@@ -359,8 +356,18 @@ circle {
 }
 
 
+.line {
+  fill: none;
+  stroke: black;
+  stroke-width: 1.5px;
+}
 
+.focus circle {
+  fill: none;
+  stroke: black;
+}
 
-
-
-
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
