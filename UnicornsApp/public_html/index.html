@@ -86,12 +86,16 @@
             </div>
             <!-- stacked bar -->
             <div class = "col s9 offset-s1 box section scrollspy" id="stacked_bar_contain">
+              <!--<div id="stacked_bar">
+                </div>-->
                 <ul class="tabs">
-                  <li class="tab col s2"><a class="active" href="#total_stack">Total Numbers</a></li>
+                  <!--<li class="tab col s2"><a class="active" href="#total_stack">Total Numbers</a></li>-->
+                  <li class="tab col s2"><a class="active" href="#stacked_bar">Total Numbers</a></li>
+
                   <li class="tab col s2"><a href="#percentage_stack_cont">Percentage</a></li>
                 </ul>
 
-                <div id="total_stack" class="total_stack col s12">
+                <div id="stacked_bar" class="total_stack col s12">
                  <form>
                   <label><input type="checkbox">Sort values</label>
                  </form>
@@ -163,14 +167,17 @@
 
 <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script type="text/javascript" src="js/stacked_bar_total.js"></script>
+<!--<script type="text/javascript" src="js/stacked_bar_total.js"></script>-->
 <script type="text/javascript" src="js/stacked_bar_percent.js"></script>
 <script src="js/colorbrewer.js"></script>
 <script type="text/javascript" src="js/materialize.js"></script>
 <script src="js/index.js"></script>
 <script type="text/javascript" src="js/areachart.js"></script>
+
 <script type="text/javascript" src="/js/map.js"></script>
+<script type="text/javascript" src="js/stacked.js"></script>
 <script type="text/javascript" src="js/tooltip.js"></script>
+
 
 <script type="text/javascript">
   $(document).ready(function(){
