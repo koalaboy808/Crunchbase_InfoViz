@@ -13,8 +13,13 @@ console.log(trimmedArray);
 
 
 for (i = 0; i < trimmedArray.length; i++) {
-  $("#_buttons").append('<button class="areaButton" style="background-color:'+ areaColor(trimmedArray[i]) +'" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
+	if (i == 0) {
+		$("#_buttons").append('<button class="areaButton" autofocus style="background-color:'+ areaColor(trimmedArray[i]) +'" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>");
+	}
+	else {
+  	$("#_buttons").append('<button class="areaButton" style="background-color:'+ areaColor(trimmedArray[i]) +'" onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>");
   // $("#_dropdown").append('<a onClick="updateData(\'' + trimmedArray[i] + '\')" >'+trimmedArray[i]+'</a>')
+  }
   console.log(trimmedArray[i]);
 }
 
@@ -54,30 +59,30 @@ var yAxis2 = d3.svg.axis()
     .orient("left");
 
 var area1 = d3.svg.area()
-    .interpolate("basis")
+    .interpolate("linear")
     .x(function(d) { return areaX(d.date); })
     .y0(height)
     .y1(function(d) { return y1(d.startup); });
 
-var area1line = d3.svg.line()
-	.interpolate("basis")
+/*var area1line = d3.svg.line()
+	.interpolate("linear")
     .x(function(d) { return areaX(d.date); })
-    .y(function(d) { return y1(d.startup); });
+    .y(function(d) { return y1(d.startup); });*/
 
 var area1Small = d3.svg.area()
-    .interpolate("basis")
+    .interpolate("linear")
     .x(function(d) { return areaX(d.date); })
     .y0(height)
     .y1(function(d) { return y1small(d.startup); });
 
 var area2 = d3.svg.area()
-    .interpolate("basis")
+    .interpolate("linear")
     .x(function(d) { return areaX(d.date); })
     .y0(0)
     .y1(function(d) { return y2(d.funding); });
 
 var area2Small = d3.svg.area()
-    .interpolate("basis")
+    .interpolate("linear")
     .x(function(d) { return areaX(d.date); })
     .y0(0)
     .y1(function(d) { return y2small(d.funding); });
@@ -116,23 +121,19 @@ var vertical = d3.select("#areachart1")
   .attr("class", "tooltip")
   .style("opacity", 0);*/
 
-var areaTooltip = d3.select("body")
+/*var areaTooltip = d3.select("body")
     .append("div")
     .attr("class", "tooltip")
     .style("position", "absolute")
     .style("z-index", "20")
     .style("visibility", "hidden")
     .style("top", "30px")
-    .style("left", "55px");
+    .style("left", "55px");*/
 
 d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
   if (error) throw error;
 
-/*x.domain(d3.extent(data, function(d) { return d.date; }));
-  y1.domain([0, d3.max(data, function(d) { return d.startup; })]);
-  y2.domain([0, d3.max(data, function(d) { return d.funding; })]);
-  y1small.domain([0, d3.max(data, function(d) { return d.startup; })]);
-  y2small.domain([0, d3.max(data, function(d) { return d.funding; })]);*/
+
 
   data.forEach(function(d) {
     //console.log(d.date+" "+d.startup)
@@ -146,7 +147,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
     d.funding = +d.funding;  
 
     subData = data.filter(function(row) {
-      return row['market'] == 'E-Commerce';
+      return row['market'] == 'Biotechnology';
     })
     d.startup = +d.startup;
     d.funding = +d.funding;
@@ -173,10 +174,10 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
   y1small.domain([0, d3.max(maxStartup)]);
   y2small.domain([0, d3.max(maxFunding)]);*/
 
-  y1.domain([0, 1900]);
-  y1small.domain([0, 1900]);
-  y2.domain([0, 45000000]);
-  y2small.domain([0, 45000000]);
+  y1.domain([0, 1800]);
+  y1small.domain([0, 1800]);
+  y2.domain([0, 53000000]);
+  y2small.domain([0, 53000000]);
 
   svg1.append("path")
       .datum(allData)
@@ -193,7 +194,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .datum(subData)
       .attr("class", "areaY1Small")
       .attr("d", area1Small)
-      .style("fill", function(d) { return areaColor("E-Commerce");});
+      .style("fill", function(d) { return areaColor("Biotechnology");});
 
 /*  svg1.append("g")
       .attr("class", "areaXaxis")
@@ -212,19 +213,30 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .style("text-anchor", "end")
       .text("No. of Startups Funded");
 
-   svg1.append("path")
+/*   svg1.append("path")
       .datum(allData)
       .attr("class", "line")
-      .attr("d", area1line);
+      .attr("d", area1line);*/
 
-     var focus = svg.append("g")
+     var focus1 = svg1.append("g")
+      .attr("class", "focus")
+      .style("display", "none");
+     
+  focus1.append("circle")
+      .attr("r", 4.5);
+
+  focus1.append("text")
+      .attr("x", 9)
+      .attr("dy", ".35em");
+
+   var focus1small = svg1.append("g")
       .attr("class", "focus")
       .style("display", "none");
 
-  focus.append("circle")
+  focus1small.append("circle")
       .attr("r", 4.5);
 
-  focus.append("text")
+  focus1small.append("text")
       .attr("x", 9)
       .attr("dy", ".35em");
 
@@ -237,26 +249,37 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .attr("class", "overlay")
       .attr("width", width)
       .attr("height", height)
-      .on("mouseover", function() { focus.style("display", null); })
-      .on("mouseout", function() { focus.style("display", "none"); })
-      .on("mousemove", mousemove);
+      .on("mouseover", function() { focus1.style("display", null);
+      			focus1small.style("display", null); })
+      .on("mouseout", function() { focus1.style("display", "none");
+      								focus1small.style("display", "none"); })
+      .on("mousemove", mousemove1);
 
-  function mousemove() {
+  function mousemove1() {
     var x0 = areaX.invert(d3.mouse(this)[0]),
         i = bisectDate(allData, x0, 1),
         d0 = allData[i - 1],
         d1 = allData[i],
         d = x0 - d0.date > d1.date - x0 ? d1 : d0;
-        console.log(d);
-    focus.attr("transform", "translate(" + areaX(d.date) + "," + y1(d.startup) + ")");
-    focus.select("text").text("Hello");
+        console.log(y1(d.startup));
+    focus1.attr("transform", "translate(" + areaX(d.date) + "," + y1(d.startup) + ")");
+    focus1.select("text").text(d.startup);
+
+   	i = bisectDate(subData, x0, 1);
+   	d0 = subData[i-1];
+   	d1 = subData[i];
+    d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+    focus1small.attr("transform", "translate(" + areaX(d.date) + "," + y1small(d.startup) + ")");
+    focus1small.select("text").text(d.startup);
+
   }
+
 
   svg2.append("path")
       .datum(subData)
       .attr("class", "areaY2Small")
       .attr("d", area2Small)
-      .style("fill", function(d) { return areaColor("E-Commerce");});;
+      .style("fill", function(d) { return areaColor("Biotechnology");});;
 
   svg2.append("g")
       .attr("class", "areaXaxis")
@@ -270,42 +293,68 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .append("text")
       .attr("transform", "rotate(-90)")
       .attr("y", 6)
-      .attr("x", -120)
+      .attr("x", -20)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
       .text("Median Amount Funded");
 
-  d3.selectAll("#areachart1")
-    .on("mousemove", function(){  
-         mousex = d3.mouse(this);
-         mousex = mousex[0] + 5;
-         vertical.style("left", mousex + "px" )
-    				.style("opacity",1)})
-      .on("mouseover", function(){  
-         mousex = d3.mouse(this);
-         mousex = mousex[0] + 5;
-         vertical.style("left", mousex + "px")})
-    .on("mouseout", function() {
-          vertical.transition()
-              .style("opacity", 0);
-          // areaTooltip.transition()
-          //           .style("opacity",0);
-      });
+     var focus2 = svg2.append("g")
+      .attr("class", "focus")
+      .style("display", "none");
+     
+  focus2.append("circle")
+      .attr("r", 4.5);
+
+  focus2.append("text")
+      .attr("x", 9)
+      .attr("dy", ".35em");
+
+   var focus2small = svg2.append("g")
+      .attr("class", "focus")
+      .style("display", "none");
+
+  focus2small.append("circle")
+      .attr("r", 4.5);
+
+  focus2small.append("text")
+      .attr("x", 9)
+      .attr("dy", ".35em");
+
+  svg2.append("rect")
+      .attr("class", "overlay")
+      .attr("width", width)
+      .attr("height", height)
+      .on("mouseover", function() { focus2.style("display", null);
+      			focus2small.style("display", null); })
+      .on("mouseout", function() { focus2.style("display", "none");
+      								focus2small.style("display", "none"); })
+      .on("mousemove", mousemove2);
+
+  function mousemove2() {
+    var x0 = areaX.invert(d3.mouse(this)[0]),
+        i = bisectDate(allData, x0, 1),
+        d0 = allData[i - 1],
+        d1 = allData[i],
+        d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+        console.log(y2(d.funding));
+    focus2.attr("transform", "translate(" + areaX(d.date) + "," + y2(d.funding) + ")");
+    focus2.select("text").text(d.funding);
+
+   	i = bisectDate(subData, x0, 1);
+   	d0 = subData[i-1];
+   	d1 = subData[i];
+    d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+    focus2small.attr("transform", "translate(" + areaX(d.date) + "," + y2small(d.funding) + ")");
+    focus2small.select("text").text(d.funding);
+
+  }
+
 });
 
 
 function updateData(market) {
   console.log(market);
 
-/*  d3.selectAll("path.areaY1Small")
-                    .remove();
-  d3.selectAll("path.areaY2Small")
-                    .remove();  */                  
-/*  d3.selectAll("g.yAxis")
-      .remove();
-  d3.selectAll("path.area")
-      .remove();
-*/
   d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
     if (error) throw error;
 
@@ -328,34 +377,18 @@ function updateData(market) {
       d.funding = +d.funding;
       //console.log(subData)
     });
-/*    var maxStartup = [d3.max(allData, function(d) { return d.startup; }), d3.max(subData, function(d) {return d.startup; })];
-  var maxFunding = [d3.max(allData, function(d) { return d.funding; }), d3.max(subData, function(d) {return d.funding; })];*/
-    
+  
     areaX.domain(d3.extent(allData, function(d) { return d.date; }));
-/*  y1.domain([0, d3.max(maxStartup)]);
-  y2.domain([0, d3.max(maxFunding)]);
-  y1small.domain([0, d3.max(maxStartup)]);
-  y2small.domain([0, d3.max(maxFunding)]);
-*/
 
-  y1.domain([0, 1900]);
-  y1small.domain([0, 1900]);
-  y2.domain([0, 45000000]);
-  y2small.domain([0, 45000000]);
 
-/*  svg1.append("path")
-      .datum(allData)
-      .attr("class", "area")
-      .attr("d", area1);*/
+  y1.domain([0, 1800]);
+  y1small.domain([0, 1800]);
+  y2.domain([0, 53000000]);
+  y2small.domain([0, 53000000]);
 
-/*  svg1.append("path")
-      .datum(subData)
-      .attr("class", "areaY1Small")
-      .attr("d", area1Small)*/
 
   d3.selectAll("path.areaY1Small")
       .datum(subData)
-      
       .transition()
       .duration(500)
       .style("fill", function(d) {return areaColor(market);})
@@ -363,25 +396,6 @@ function updateData(market) {
       //.attr("fill", function(d) { return areaColor(d[market])});
 
 
-/*  svg1.append("g")
-      .attr("class", "yAxis")
-      .call(yAxis1)
-      .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("No. of Startups Funded");*/
-
-/*  svg2.append("path")
-      .datum(allData)
-      .attr("class", "area")
-      .attr("d", area2);*/
-
-/*  svg2.append("path")
-      .datum(subData)
-      .attr("class", "areaY2Small")
-      .attr("d", area2Small);*/
   d3.selectAll("path.areaY2Small")
       .datum(subData)
       .transition()
@@ -389,22 +403,6 @@ function updateData(market) {
       .style("fill", function(d) {return areaColor(market);})
       .attr("d", area2Small);
 
-/*  svg2.append("g")
-      .attr("class", "areaXaxis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(areaXaxis)
-      .attr("stroke-width",1);*/
-
-/*  svg2.append("g")
-      .attr("class", "yAxis")
-      .call(yAxis2)
-      .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("x", -170)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Amount Funded");  */
 
     });
 }

@@ -18,11 +18,7 @@ d3.csv("/static/files/aggregated-market-scatterline.csv", function(error, data) 
     for (var i = 0; i < data.length; i++) {
       data_all.push([data[i]['company_market'], data[i]['all_amount_usd']]);
     }
-    // console.log(data_combined)
 
-    // data = data.filter(function(row) {
-    //       return row['unicorn_flag'] == 'True';
-    // })
 
     myDataIsReady()
 });
@@ -161,25 +157,6 @@ function myDataIsReady() {
               .attr("r", 5)
         });
 
-    // bar.append("text")
-    //   .attr("class", "value")
-    //   .attr("y", barHeight / 2)
-    //   .attr("dx", -valueMargin + labelWidth) //margin right
-    //   .attr("dy", ".35em") //vertical align middle
-    //   .attr("text-anchor", "end")
-    //   .text(function(d){
-    //     return d[1];
-    //   })
-    //  .attr("x", function(d){
-    //     var width = this.getBBox().width;
-    //     return Math.max(width + valueMargin, scale(d[1]));
-    //   });
-    
-    // svg.insert("g",":first-child")
-    //  .attr("class", "axis")
-    //  .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-    //  .call(uniXaxis);
-
 
 
     svg2 = d3.select(chart2)
@@ -199,15 +176,7 @@ function myDataIsReady() {
          return "translate(" + margin + "," + (i * (barHeight + barPadding) + barPadding) + ")";
       });
 
-    // bar2.append("text")
-    //   .attr("class", "label")
-    //   .attr("y", barHeight / 2)
-    //   .attr("dy", ".35em") //vertical align middle
-    //   .text(function(d){
-    //     return d[0];
-    //   }).each(function() {
-    //     labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
-    //   });
+
 
     scale = d3.scale.linear()
       .domain([0, max2])
@@ -256,39 +225,9 @@ function myDataIsReady() {
         });
 
 
-
-    // bar2.append("text")
-    //   .attr("class", "value")
-    //   .attr("y", barHeight / 2)
-    //   .attr("dx", -valueMargin + labelWidth) //margin right
-    //   .attr("dy", ".35em") //vertical align middle
-    //   .attr("text-anchor", "end")
-    //   .text(function(d){
-    //     return d[1];
-    //   })
-    //  .attr("x", function(d){
-    //     var width = this.getBBox().width;
-    //     return Math.max(width + valueMargin, scale(d[1]));
-    //   });
-
-    // svg.insert("g",":first-child")
-    //  .attr("class", "axis")
-    //  .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-    //  .call(uniXaxis);
 }
 
-// var top25 = ["E-Commerce","Advertising","Software","Storage","Clean Technology","Communities","File Sharing","Technology","Online Shopping","Curated Web","Enterprise Software","Design","Games","Cloud Computing","Shopping","Entertainment","Transportation","Security","Data Security","Peer-to-Peer","Mobile Payments","Search","Fashion","Facebook Applications","Finance Technology","Consumer Electronics","Analytics","Privacy","Mobile Games","News","Hardware + Software","Retail","Mobile","Location Based Services","Biotechnology"]
 
-// trimmedArray = []
-// for (i = 0; i < top25.length; i++) {
-//   trimmedArray.push(top25[i].replace(/ /g,''));
-// }
-    
-// console.log(trimmedArray)
-
-// for (i = 0; i < trimmedArray.length; i++) {
-//   $("#_buttons").append('<button onClick="updateData(\'' + trimmedArray[i] + '\')">'+trimmedArray[i]+"</button>")
-// }
 
 // Set the dimensions of the canvas / graph
 var margin = {top: 15, right: 20, bottom: 20, left: 90},
@@ -431,10 +370,7 @@ function updateData(_value) {
     console.log("viltereddata: ")
     console.log(data)
 
-    // Scale the range of the data
-    // x.domain(d3.extent(data, function(d) { return d.date; }));
-    // y.domain([0, d3.max(data, function(d) { return d.price; })]); 
-    // y.domain([0,10000000000])
+
 
         svg.selectAll("dot")
         .data(data)
@@ -474,28 +410,11 @@ function updateData(_value) {
 
     });
 
- //        // Add the X Axis
- //    svg.append("svg:g")
- //        // .attr("class", "x axis")
- //        .classed("x axis", true)
- //        .attr("transform", "translate(0," + height + ")")
- //        .call(uniXaxis);
-
- //    // Add the Y Axis
- //    svg.append("g")
- //        .attr("class", "y axis")
- //        .call(yAxis);
 
   });
 }
 
-// $( "#outer" ).mouseover(function() {
-//   alert( "<div>Handler for .mouseover() called.</div>" );
-// });
 
-// $("text.barclick").click(function() {
-//   alert( "Handler for .click() called." );
-// });
 
 function updateline(_value) {
   var _path = "path.line"
@@ -522,10 +441,7 @@ function updateline(_value) {
     console.log("viltereddata: ")
     console.log(data)
 
-    // Scale the range of the data
-    // x.domain(d3.extent(data, function(d) { return d.date; }));
-    // y.domain([0, d3.max(data, function(d) { return d.price; })]); 
-    // y.domain([0,10000000000])
+
 
         svg.selectAll("dot")
         .data(data)
@@ -561,21 +477,7 @@ function updateline(_value) {
             // .attr("stroke", function (d) { return uniColor(d.values[0].company_market.replace(/ /g,'')); })
             // .attr("stroke", function (d) { return uniColor(d.company_market.replace(/ /g,'')); })
             .attr("d", priceline(d.values)); 
-
-
     });
-
- //        // Add the X Axis
- //    svg.append("svg:g")
- //        // .attr("class", "x axis")
- //        .classed("x axis", true)
- //        .attr("transform", "translate(0," + height + ")")
- //        .call(uniXaxis);
-
- //    // Add the Y Axis
- //    svg.append("g")
- //        .attr("class", "y axis")
- //        .call(yAxis);
 
   });
 }
