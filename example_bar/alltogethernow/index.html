@@ -7,6 +7,7 @@
     <link href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.css' rel='stylesheet' type='text/css'>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
+
   </head>
 
   <body>
@@ -14,12 +15,18 @@
   <div class="widget">
     
     <div class="row">
-      <h1>My chart</h1>
-      <div class="col l4 m5 s5" id="chart"></div>
-      <div class="col l4 m5 s5" id="chart2"></div>
-      <div class="col l4 m5 s5"> 
-        <div id="_buttons"> </div>
-        <div id="chart3"></div>
+
+      <div class="col l4 m5 s5" id="chart"> 
+          <h1> Unicorn Startups </h1> 
+      </div>
+      <div class="col l4 m4 s4" id="chart2"> 
+          <h1> All Startups </h1> 
+      </div>
+      <div class="col l4 m4 s4"> 
+        <!--<div id="_buttons"> </div>-->
+      <div id="chart3">
+          <h1> View by Unicorn </h1> 
+      </div>
       </div>
     </div>  
   </div>
@@ -27,6 +34,7 @@
   <script src='http://cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js'></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.js"></script>
   <script src="js/index.js"></script>
+  <script type="text/javascript" src="js/tooltip.js"></script>
 
   </body>
 </html>

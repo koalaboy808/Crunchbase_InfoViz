@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js">
+     </script>  
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
+
+</style>
+<body>
+
+  <!--<button id="fakebutton" onclick="update_stack('2004-01')"> update </button>-->
+  <div id="placeholder_buttons"></div>
+
+  <div id="stacked_bar"></div>
+
+  <script type="text/javascript" src="stacked.js"></script>
+  <script type="text/javascript" src="tooltip.js"></script>
+
+</body>

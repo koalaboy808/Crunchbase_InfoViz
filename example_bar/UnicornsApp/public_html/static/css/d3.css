@@ -1,0 +1,78 @@
+.inline_img {
+
+	width: 100%;
+	border: solid 1px #CECECE;
+
+}
+
+figcaption {
+	font-family: 'Roboto Slab', serif;
+}
+
+h5 {
+	font-size: 1.7rem;
+}
+.title {
+	border-bottom: solid 1px #CECECE;
+}
+
+h6 {
+  font-size: 2rem;
+  line-height: 110%;
+  margin: 0.5rem 0 0.4rem 0;
+}
+
+h7 {
+	font-size: 1.6rem;
+	display: block;
+	padding-bottom: .5em;
+
+}
+
+h7.subtitle {
+	font-style: italic;
+	font-size: 1rem;
+
+}
+
+a {
+	color: #263238;
+}
+
+
+
+.outline {
+	text-align: center;
+	border: solid 1px #CECECE;
+	background-color: #cfd8dc;
+}
+
+#copyright {
+	text-align: right;
+	font-size: .8rem;
+}
+
+
+.logo {
+	height: 6em;
+}
+
+.feature {
+	color: #607d8b;
+}
+
+.feature_text {
+	font-size: .9rem;
+	text-align: left;	
+}
+
+a.feature_text_link {
+	color: #607d8b;
+	text-decoration: underline;
+
+}
+img#logo {
+	height: 30px;
+}
+
+

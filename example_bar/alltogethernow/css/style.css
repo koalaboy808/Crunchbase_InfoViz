@@ -1,15 +1,16 @@
 body {
   font-family: "Exo 2", sans-serif;
-/*  background: #DDD;
-  color: #333;*/
+  background: #2f3939;
+  /*color: #333;*/
 }
 
 h1 {
   margin: 0;
-  padding: 0.1rem 0.4rem;
-  font-size: 1rem;
-  font-weight: 500;
+  padding: 1rem 0.4rem 2rem 0.4rem;
+  font-size: 2rem;
+  font-weight: bold;
   text-align: left;
+  color: white;
 }
 
 /*.widget {
@@ -18,9 +19,14 @@ h1 {
   background: white;
 }*/
 
-#chart, #chart2 {
-  height: 600px;
+#chart {
+  height: 550px;
   width: 300px;
+}
+
+#chart2 {
+  height: 550px;
+  width: 200px;
 }
 
 svg {
@@ -34,23 +40,28 @@ svg {
 .value {
   font-size: 12px;
   font-weight: 300;
-  fill: #333;
+  fill: white;
 }
 
 .label {
   font-size: 12px;
-  fill: #333;
+  fill: white;
 }
 
 .axis {
   font-size: 12px;
+  fill: lightgrey;
+  font-family: "Exo 2", sans-serif;
 }
 .axis path {
   fill: none;
+
+
 }
 .axis .tick line {
   stroke-width: 1;
   stroke: rgba(0, 0, 0, 0.1);
+  stroke: white;
 }
 
 path { 
@@ -60,9 +71,10 @@ path {
 }
 
 circle {
-  stroke: steelblue;
+  /*stroke: steelblue;*/
   stroke-width: 3;
-  fill: steelblue;
+  /*fill: #00db97;*/
+  opacity: 0.75;
 }
 
 .axis path,
@@ -71,4 +83,9 @@ circle {
     stroke: black;
     stroke-width: 1;
     shape-rendering: crispEdges;
+}
+
+.herlper_toolip {
+  font-size: 20px;
+  color: black;
 }

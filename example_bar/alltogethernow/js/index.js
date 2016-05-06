@@ -60,22 +60,22 @@ function myDataIsReady() {
     });
     console.log(data);// will trace the data that was loaded
     // Here you can draw your visualization
-    color = d3.scale.ordinal()
-    .range(["#a50026","#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850","#006837","#d53e4f","#f46d43","#fdae61","#fee08b","#ffffbf","#e6f598","#abdda4","#66c2a5","#3288bd"]);
+    var color = d3.scale.ordinal()
+    // .range(['#ffff53','#ffffad','#ffff84','#deff84','#9aff84','#bcebae','#99ebae','#00db97','#69e275','#34ed5c','#6da16e','#c3a16e','#ffa16e','#00c9bb','#00ffd5','#89d1c5','#6eccdc','#a8b1c0','#9fd8ef','#b7d2ee','#a4eeda','#b9ff53','#daf741','#d25d00','#ff5a3b','#c55a3b','#ffd1c5 ','#ffb762','#ff8400','#ff804f','#ffb486','#ffbdac','#ff6b02','#007b75','#00a48d'])
+    .range(["#007b75","#00a48d","#00c9bb","#00ffd5","#89d1c5","#6eccdc","#a8b1c0","#9fd8ef","#b7d2ee","#a4eeda","#99ebae","#bcebae","#9aff84","#00db97","#69e275","#6da16e","#34ed5c","#b9ff53","#daf741","#ffff53","#deff84","#ffff84","#ffb762","#ffffad","#c7a169","#ffb8a8","#ffcec3","#ffaf7f","#ff804f","#d25d00","#c55a3b","#ff5a3b","#fa5300","#fa7600","#DE4000"])
     // .domain(["apples","oranges","blueberries","limes","mangoes","strawberries"]);
 
     var c20_1 = d3.scale.category20()
     var c20_2 = d3.scale.category20()
 
 
-    var chart = document.getElementById("chart"),
-        axisMargin = 20,
+    var axisMargin = 20,
         margin = 20,
         valueMargin = 4,
         width = chart.offsetWidth,
         height = chart.offsetHeight,
-        barHeight = (height-axisMargin-margin*2)* 0.4/data.length,
-        barPadding = (height-axisMargin-margin*2)*0.6/data.length,
+        barHeight = (height-axisMargin-margin*2)* 0.6/data.length,
+        barPadding = (height-axisMargin-margin*2)*0.4/data.length,
         data, bar, svg, scale, xAxis, labelWidth = 0;
 
     max = d3.max(data.map(function(i){ 
@@ -113,12 +113,13 @@ function myDataIsReady() {
         labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
       });
 
-    scale = d3.scale.linear()
+    scale2 = d3.scale.linear()
       .domain([0, max])
       .range([0, width - margin*2 - labelWidth]);
 
     xAxis = d3.svg.axis()
-      .scale(scale)
+      .scale(scale2)
+      .outerTickSize(0)
       // .tickSize(-height + 2*margin + axisMargin)
       .orient("bottom");
 
@@ -126,24 +127,39 @@ function myDataIsReady() {
       .attr("transform", "translate("+labelWidth+", 0)")
       .attr("height", barHeight)
       .attr("width", function(d){
-        return scale(d[1]);
+        return scale2(d[1]);
       })
       .attr("class", function(d,i) { return "barclick pt" + d[0].replace(/ /g,''); })
       .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
       // .style("fill", function (d) {
       //     return color(d[0]);
       // });
+      .call(d3.helper.tooltip()
+                .attr("class", "tooltip_css")
+                .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
+                .text(function(d, i){ return 'value: '+ scale2(d[1]); })
+            )
       .on("mouseover", function(d, i) {
-          updateline(d[0].replace(/ /g,''))
-          d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
-            .attr("fill", "Orchid")
-            .attr("r", 10)
-      })
-      .on("mouseout", function(d, i) {
-          d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
-            .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
-            .attr("r", 5)
-      });
+            // console.log(i)
+            updateline(d[0].replace(/ /g,''))
+            d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
+              .attr("fill", "Orchid")
+              .attr("r", 10)
+            d3.selectAll("rect.bar2pt" + d[0].replace(/ /g,'')) 
+              .attr("fill", "Orchid")
+              .transition().duration(500).attr("width", function(d){return scale(d[1])+60;})
+              .transition().duration(500).attr("width", function(d){return scale(d[1]);})
+              .attr("r", 10)
+        })
+        .on("mouseout", function(d, i) {
+            d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
+              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("r", 10)
+            d3.selectAll("rect.bar2pt" + d[0].replace(/ /g,''))
+              .transition().duration(500).attr("width", function(d){return scale(d[1]);})
+              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("r", 5)
+        });
 
     // bar.append("text")
     //   .attr("class", "value")
@@ -158,11 +174,11 @@ function myDataIsReady() {
     //     var width = this.getBBox().width;
     //     return Math.max(width + valueMargin, scale(d[1]));
     //   });
-
-    svg.insert("g",":first-child")
-     .attr("class", "axis")
-     .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-     .call(xAxis);
+    
+    // svg.insert("g",":first-child")
+    //  .attr("class", "axis")
+    //  .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
+    //  .call(xAxis);
 
 
 
@@ -183,15 +199,15 @@ function myDataIsReady() {
          return "translate(" + margin + "," + (i * (barHeight + barPadding) + barPadding) + ")";
       });
 
-    bar2.append("text")
-      .attr("class", "label")
-      .attr("y", barHeight / 2)
-      .attr("dy", ".35em") //vertical align middle
-      .text(function(d){
-        return d[0];
-      }).each(function() {
-        labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
-      });
+    // bar2.append("text")
+    //   .attr("class", "label")
+    //   .attr("y", barHeight / 2)
+    //   .attr("dy", ".35em") //vertical align middle
+    //   .text(function(d){
+    //     return d[0];
+    //   }).each(function() {
+    //     labelWidth = Math.ceil(Math.max(labelWidth, this.getBBox().width));
+    //   });
 
     scale = d3.scale.linear()
       .domain([0, max2])
@@ -200,26 +216,41 @@ function myDataIsReady() {
     xAxis = d3.svg.axis()
       .scale(scale)
       .tickSize(-height + 2*margin + axisMargin)
+      .outerTickSize(0)
       .orient("bottom");
 
     bar2.append("rect")
-      .attr("transform", "translate("+(labelWidth)+", 0)")
+      // .attr("transform", "translate("+(labelWidth)+", 0)")
       .attr("height", barHeight)
       .attr("width", function(d){
         console.log("scale: " + scale(d[1]))
         console.log("invertscale: " + scale.invert(d[1]))
         return scale(d[1]);
       })
-      .attr("class", function(d,i) { return "pt" + d[0].replace(/ /g,''); })
+      .attr("class", function(d,i) { return "bar2pt" + d[0].replace(/ /g,''); })
       .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+      .call(d3.helper.tooltip()
+                .attr("class", "tooltip_css")
+                .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
+                .text(function(d, i){ return 'value: '+ scale(d[1]); })
+            )
       .on("mouseover", function(d, i) {
             console.log(i)
-            d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
+            d3.selectAll("rect.bar2pt" + d[0].replace(/ /g,''))
               .attr("fill", "Orchid")
+              .attr("r", 10)
+            d3.selectAll("rect.pt" + d[0].replace(/ /g,'')) 
+              .attr("fill", "Orchid")
+              .transition().duration(500).attr("width", function(d){return scale2(d[1])+60;})
+              .transition().duration(500).attr("width", function(d){return scale2(d[1]);})
               .attr("r", 10)
         })
         .on("mouseout", function(d, i) {
+            d3.selectAll("rect.bar2pt" + d[0].replace(/ /g,''))
+              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("r", 10)
             d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
+              .transition().duration(500).attr("width", function(d){return scale2(d[1]);})
               .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
               .attr("r", 5)
         });
@@ -240,10 +271,10 @@ function myDataIsReady() {
     //     return Math.max(width + valueMargin, scale(d[1]));
     //   });
 
-    svg.insert("g",":first-child")
-     .attr("class", "axis")
-     .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-     .call(xAxis);
+    // svg.insert("g",":first-child")
+    //  .attr("class", "axis")
+    //  .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
+    //  .call(xAxis);
 }
 
 // var top25 = ["E-Commerce","Advertising","Software","Storage","Clean Technology","Communities","File Sharing","Technology","Online Shopping","Curated Web","Enterprise Software","Design","Games","Cloud Computing","Shopping","Entertainment","Transportation","Security","Data Security","Peer-to-Peer","Mobile Payments","Search","Fashion","Facebook Applications","Finance Technology","Consumer Electronics","Analytics","Privacy","Mobile Games","News","Hardware + Software","Retail","Mobile","Location Based Services","Biotechnology"]
@@ -260,12 +291,13 @@ function myDataIsReady() {
 // }
 
 // Set the dimensions of the canvas / graph
-var margin = {top: 30, right: 20, bottom: 30, left: 90},
-    width = 500 - margin.left - margin.right,
-    height = 600 - margin.top - margin.bottom;
+var margin = {top: 15, right: 20, bottom: 20, left: 90},
+    width = 700 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
 var color = d3.scale.ordinal()
-    .range(["#a50026","#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850","#006837","#d53e4f","#f46d43","#fdae61","#fee08b","#ffffbf","#e6f598","#abdda4","#66c2a5","#3288bd"]);
+    .range(["#007b75","#00a48d","#00c9bb","#00ffd5","#89d1c5","#6eccdc","#a8b1c0","#9fd8ef","#b7d2ee","#a4eeda","#99ebae","#bcebae","#9aff84","#00db97","#69e275","#6da16e","#34ed5c","#b9ff53","#daf741","#ffff53","#deff84","#ffff84","#ffb762","#ffffad","#c7a169","#ffb8a8","#ffcec3","#ffaf7f","#ff804f","#d25d00","#c55a3b","#ff5a3b","#fa5300","#fa7600","#DE4000"])
+    // .range(["#a50026","#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850","#006837","#d53e4f","#f46d43","#fdae61","#fee08b","#ffffbf","#e6f598","#abdda4","#66c2a5","#3288bd"]);
 
 // Parse the date / time
 var parseDate = d3.time.format("%Y-%m").parse; 
@@ -302,17 +334,17 @@ d3.csv("/data/investments-unicorns-cumsum.csv", function(error, data) {
   console.log(data)
     data.forEach(function(d) {
         d.company_name = d.company_name;
-      d.price = +d.no_cumulative;
-      d.raised_amount_usd = +d.raised_amount_usd;
-      d.company_market = d.company_market;
-            d.date = parseDate(d.funded_month);
-            d.unicorn_flag = d.unicorn_flag;
+        d.price = +d.no_cumulative;
+        d.raised_amount_usd = +d.raised_amount_usd;
+        d.company_market = d.company_market;
+        d.date = parseDate(d.funded_month);
+        d.unicorn_flag = d.unicorn_flag;
     });
 
     data = data.filter(function(row) {
       // return row['unicorn_flag'] == 'TRUE' && row['company_market'] == 'E-Commerce';
-      // return row['unicorn_flag'] == 'True' && row['company_market'] == 'E-Commerce';
-      return row['unicorn_flag'] == 'True';
+      return row['unicorn_flag'] == 'True' && row['company_market'] == 'E-Commerce';
+      // return row['unicorn_flag'] == 'True';
     })
     console.log(data.length)
 
@@ -328,7 +360,15 @@ d3.csv("/data/investments-unicorns-cumsum.csv", function(error, data) {
       .enter().append("circle")
         .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
         .attr("cx", function(d) { return x(d.date); })
-        .attr("cy", function(d) { return y(d.price); });
+        .attr("cy", function(d) { return y(d.price); })
+        .attr('fill', function(d) { return color(d.company_market.replace(/ /g,'')); })
+        .call(d3.helper.tooltip()
+                .attr("class", "tooltip_css")
+                .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
+                .text(function(d, i){ return 'Company Name: ' + d.company_name + '<br>Round: $'+ d.price; })
+            )
+        .on('mouseover', function(d, i){ d3.select(this).style({fill: 'skyblue'}); })
+        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return color(d.company_market.replace(/ /g,'')); }})})
         
         // .attr("r", function(d) {return d.number_downloaded*1.5; })
 
@@ -400,7 +440,15 @@ function updateData(_value) {
       .enter().append("circle")
         .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
         .attr("cx", function(d) { return x(d.date); })
-        .attr("cy", function(d) { return y(d.price); });
+        .attr("cy", function(d) { return y(d.price); })
+        .attr('fill', function(d) { return color(d.company_market.replace(/ /g,'')); })
+        .call(d3.helper.tooltip()
+                .attr("class", "tooltip_css")
+                .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
+                .text(function(d, i){ return 'Company Name: ' + d.company_name + '<br>Round: $'+ d.price; })
+            )
+        .on('mouseover', function(d, i){ d3.select(this).style({fill: 'skyblue'}); })
+        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return color(d.company_market.replace(/ /g,'')); }})})
 
     // Nest the entries by symbol
     var dataNest = d3.nest()
@@ -483,7 +531,15 @@ function updateline(_value) {
       .enter().append("circle")
         .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
         .attr("cx", function(d) { return x(d.date); })
-        .attr("cy", function(d) { return y(d.price); });
+        .attr("cy", function(d) { return y(d.price); })
+        .attr('fill', function(d) { return color(d.company_market.replace(/ /g,'')); })
+        .call(d3.helper.tooltip()
+                .attr("class", "tooltip_css")
+                .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
+                .text(function(d, i){ return 'Company Name: ' + d.company_name + '<br>Round: $'+ d.price; })
+            )
+        .on('mouseover', function(d, i){ d3.select(this).style({fill: 'skyblue'}); })
+        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return color(d.company_market.replace(/ /g,'')); }})})
 
     // Nest the entries by symbol
     var dataNest = d3.nest()
