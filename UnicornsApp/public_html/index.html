@@ -24,7 +24,7 @@
   <!-- map css -->
   <link rel="stylesheet" href="bomb_map.css"/>
 
-  
+
 <!-- Custom styles for this template -->
 <link href="static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
@@ -44,7 +44,7 @@
 
 <div>
 
-</div> 
+</div>
 <div id="page_title" class="col s5 section scrollspy"><img src="/static/files/infoviz_mockup.png"></div>
 
 
@@ -58,7 +58,7 @@
   </br>
     <li><a href="#markets_nada_cont">WHAT MARKETS ARE THEY </br>GOING INTO</a></li>
   </br>
-    <li><a href="#markets_carlo_cont">WHAT MARKETS ARE UNICORNS </br>GETTING FUNDING FOR?</a></li>    
+    <li><a href="#markets_carlo_cont">WHAT MARKETS ARE UNICORNS </br>GETTING FUNDING FOR?</a></li>
   </ul>
 </div>
 <div class="row box-pink col s10 offset-s1" id="intro"> A startup is a new business venture in the form of a company or organization designed to search for a repeatable and scalable business model. These companies are innovative in a process of development, validation and research for target markets. Funds to start these businesses are provided by investors such as venture capitalists through various rounds. TechCrunch has created a platform, called Crunchbase, which is basically a Wikipedia for startups and investors. With the help of this crowd sourced data, our visualization aims to extract information about funding by venture capitalists, and the progress of startups through their stages of funding.
@@ -80,6 +80,8 @@
                 <div id="subtitle"></div>
               </div>
               <div class ="col s3" id = "year"></div>
+              <div class ="col s3" id = "investor"></div>
+              <div class ="col s3" id = "rounds"></div>
 
             </div>
             <!-- stacked bar -->
@@ -98,13 +100,13 @@
                   Click on any color to move it to the bottom of the chart
                 </div>
              </div>
-             <div class="col s2 side-barz">Venture Capitalists are from countries all over the world. And they fund startups that are located in other countries. But 
-             <P class= "nummmmm">78%</p> 
+             <div class="col s2 side-barz">Venture Capitalists are from countries all over the world. And they fund startups that are located in other countries. But
+             <P class= "nummmmm">78%</p>
                of all VCs funded invested in startups located in their own country. These graphs show the amount of funding given from each country to other countries.</div>
 
            <div class="row col s5 offset-s7 sectionTitle section scrollspy" id="markets_nada_cont"> WHAT MARKETS ARE BEING FUNDED?
           </div>
-         <div class="row col s10 offset-s1 box" id="areaMain"> 
+         <div class="row col s10 offset-s1 box" id="areaMain">
 <!--           <div class="dropdown"> -->
             <div class="buttons col s1" id="_buttons">Markets</div>
                 <div class="container chart" id="areachart1">
@@ -123,7 +125,7 @@
         </div>
      </div>
    </div>
-      
+
 
 
 <div class= "row">
@@ -153,7 +155,7 @@
   $(document).ready(function(){
     $('ul.tabs').tabs();
   });
-  
+
    $(document).ready(function(){
     $('.scrollspy').scrollSpy();
   });

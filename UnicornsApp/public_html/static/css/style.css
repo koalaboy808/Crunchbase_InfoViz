@@ -353,7 +353,7 @@ svg {
   stroke: white;
 }
 
-path { 
+path {
     /*stroke: green;*/
     stroke-width: 1.5;
     fill: none;
@@ -389,8 +389,8 @@ circle {
   margin-bottom: 0px;
 }
 
-
-
-
-
-
+#investor {
+  margin-top: -100px;
+  font-size: 4em;
+  margin-bottom: 0px;
+}
