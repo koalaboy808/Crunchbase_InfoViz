@@ -25,6 +25,31 @@ nav .brand-logo {
   padding: 20px;
 }
 
+#market_text{
+  font-family:'Buenard', serif;
+  font-size: 2em;
+  margin-left: 80px;
+  margin-top: 0px;
+  padding: 20px;
+}
+
+.side-barz {
+  margin-top: 20px;
+  font-size: 1.4em;
+  font-family:'Buenard', serif;
+}
+
+.nummmmm {
+  font-size: 6em;
+  font-style: bold;
+  text-align: center;
+  color: #acebae;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  font-family: 'Fira Sans', sans-serif;
+
+}
+
 nav ul a {
   color: #2f3939;
 }
@@ -149,10 +174,66 @@ body {
 /* MARKET AREA CHART */
 
 
+/*<<<<<<< HEAD
 .yAxis path,
 .yAxis line {
   fill: none;
   stroke: #fff;
+=======*/
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 100;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.yAxis path,
+.yAxis line {
+  fill: none;
+  stroke: white;
+/*>>>>>>> Master*/
   shape-rendering: crispEdges;
 }
 .yAxis {
@@ -161,7 +242,7 @@ body {
 .areaXaxis path,
 .areaXaxis line {
   fill: none;
-  stroke: #fff;
+  stroke: white;
   shape-rendering: crispEdges;
 }
 .areaXaxis {
@@ -321,4 +402,9 @@ circle {
   padding-top: 30px;
 }
 
+#year {
+  margin-top: -100px;
+  font-size: 4em;
+  margin-bottom: 0px;
+}
 
