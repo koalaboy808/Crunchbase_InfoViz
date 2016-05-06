@@ -139,8 +139,8 @@
                   //             return i * 300;  // Dynamic delay (i.e. each item delays a little longer)
                   //         })
                   .attr("r", function(d) {
-                    scale = d3.scale.log().domain([1, 10]).range([0, 10]);
-                     return scale(d.count*100)
+                    //scale = d3.scale.log().domain([1, 10]).range([0, 10]);
+                     return (d.count*4);
                   })
                   .style('fill-opacity',0)
                   .ease('sine')

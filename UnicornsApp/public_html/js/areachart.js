@@ -226,7 +226,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .attr("r", 4.5);
 
   focus1.append("text")
-      .attr("x", 9)
+      .attr("x", 16)
       .attr("dy", ".35em");
 
    var focus1small = svg1.append("g")
@@ -237,7 +237,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .attr("r", 4.5);
 
   focus1small.append("text")
-      .attr("x", 9)
+      .attr("x", 16)
       .attr("dy", ".35em");
 
   svg2.append("path")
@@ -306,7 +306,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .attr("r", 4.5);
 
   focus2.append("text")
-      .attr("x", 9)
+      .attr("x", 30)
       .attr("dy", ".35em");
 
    var focus2small = svg2.append("g")
@@ -317,7 +317,7 @@ d3.tsv("../static/files/unicorns-time.tsv", function(error, data) {
       .attr("r", 4.5);
 
   focus2small.append("text")
-      .attr("x", 9)
+      .attr("x", 30)
       .attr("dy", ".35em");
 
   svg2.append("rect")
