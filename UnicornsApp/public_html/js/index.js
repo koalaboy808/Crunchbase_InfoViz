@@ -60,7 +60,7 @@ function myDataIsReady() {
     });
     console.log(data);// will trace the data that was loaded
     // Here you can draw your visualization
-    var color = d3.scale.ordinal()
+    var uniColor = d3.scale.ordinal()
     // .range(['#ffff53','#ffffad','#ffff84','#deff84','#9aff84','#bcebae','#99ebae','#00db97','#69e275','#34ed5c','#6da16e','#c3a16e','#ffa16e','#00c9bb','#00ffd5','#89d1c5','#6eccdc','#a8b1c0','#9fd8ef','#b7d2ee','#a4eeda','#b9ff53','#daf741','#d25d00','#ff5a3b','#c55a3b','#ffd1c5 ','#ffb762','#ff8400','#ff804f','#ffb486','#ffbdac','#ff6b02','#007b75','#00a48d'])
     .range(["#007b75","#00a48d","#00c9bb","#00ffd5","#89d1c5","#6eccdc","#a8b1c0","#9fd8ef","#b7d2ee","#a4eeda","#99ebae","#bcebae","#9aff84","#00db97","#69e275","#6da16e","#34ed5c","#b9ff53","#daf741","#ffff53","#deff84","#ffff84","#ffb762","#ffffad","#c7a169","#ffb8a8","#ffcec3","#ffaf7f","#ff804f","#d25d00","#c55a3b","#ff5a3b","#fa5300","#fa7600","#DE4000"])
     .domain(["E-Commerce","Advertising","Software","Storage","Clean Technology","Communities","File Sharing","Technology","Online Shopping","Curated Web","Enterprise Software","Design","Games","Cloud Computing","Shopping","Entertainment","Transportation","Security","Data Security","Peer-to-Peer","Mobile Payments","Search","Fashion","Facebook Applications","Finance Technology","Consumer Electronics","Analytics","Privacy","Mobile Games","News","Hardware + Software","Retail","Mobile","Location Based Services","Biotechnology"]);
@@ -76,7 +76,7 @@ function myDataIsReady() {
         height = chart.offsetHeight,
         barHeight = (height-axisMargin-margin*2)* 0.6/data.length,
         barPadding = (height-axisMargin-margin*2)*0.4/data.length,
-        data, bar, svg, scale, xAxis, labelWidth = 0;
+        data, bar, svg, scale, uniXaxis, labelWidth = 0;
 
     max = d3.max(data.map(function(i){ 
       return i[1];
@@ -117,7 +117,7 @@ function myDataIsReady() {
       .domain([0, max])
       .range([0, width - margin*2 - labelWidth]);
 
-    xAxis = d3.svg.axis()
+    uniXaxis = d3.svg.axis()
       .scale(scale2)
       .outerTickSize(0)
       // .tickSize(-height + 2*margin + axisMargin)
@@ -130,9 +130,9 @@ function myDataIsReady() {
         return scale2(d[1]);
       })
       .attr("class", function(d,i) { return "barclick pt" + d[0].replace(/ /g,''); })
-      .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+      .attr("fill", function(d) { return uniColor(d[0].replace(/ /g,'')); })
       // .style("fill", function (d) {
-      //     return color(d[0]);
+      //     return uniColor(d[0]);
       // });
       .call(d3.helper.tooltip()
                 .attr("class", "tooltip_css")
@@ -153,11 +153,11 @@ function myDataIsReady() {
         })
         .on("mouseout", function(d, i) {
             d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
-              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("fill", function(d) { return uniColor(d[0].replace(/ /g,'')); })
               .attr("r", 10)
             d3.selectAll("rect.bar2pt" + d[0].replace(/ /g,''))
               .transition().duration(500).attr("width", function(d){return scale(d[1]);})
-              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("fill", function(d) { return uniColor(d[0].replace(/ /g,'')); })
               .attr("r", 5)
         });
 
@@ -178,7 +178,7 @@ function myDataIsReady() {
     // svg.insert("g",":first-child")
     //  .attr("class", "axis")
     //  .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-    //  .call(xAxis);
+    //  .call(uniXaxis);
 
 
 
@@ -213,7 +213,7 @@ function myDataIsReady() {
       .domain([0, max2])
       .range([0, width - margin*2 - labelWidth]);
 
-    xAxis = d3.svg.axis()
+    uniXaxis = d3.svg.axis()
       .scale(scale)
       .tickSize(-height + 2*margin + axisMargin)
       .outerTickSize(0)
@@ -228,7 +228,7 @@ function myDataIsReady() {
         return scale(d[1]);
       })
       .attr("class", function(d,i) { return "bar2pt" + d[0].replace(/ /g,''); })
-      .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+      .attr("fill", function(d) { return uniColor(d[0].replace(/ /g,'')); })
       .call(d3.helper.tooltip()
                 .attr("class", "tooltip_css")
                 .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
@@ -247,11 +247,11 @@ function myDataIsReady() {
         })
         .on("mouseout", function(d, i) {
             d3.selectAll("rect.bar2pt" + d[0].replace(/ /g,''))
-              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("fill", function(d) { return uniColor(d[0].replace(/ /g,'')); })
               .attr("r", 10)
             d3.selectAll("rect.pt" + d[0].replace(/ /g,''))
               .transition().duration(500).attr("width", function(d){return scale2(d[1]);})
-              .attr("fill", function(d) { return color(d[0].replace(/ /g,'')); })
+              .attr("fill", function(d) { return uniColor(d[0].replace(/ /g,'')); })
               .attr("r", 5)
         });
 
@@ -274,7 +274,7 @@ function myDataIsReady() {
     // svg.insert("g",":first-child")
     //  .attr("class", "axis")
     //  .attr("transform", "translate(" + (margin + labelWidth) + ","+ (height - axisMargin - margin)+")")
-    //  .call(xAxis);
+    //  .call(uniXaxis);
 }
 
 // var top25 = ["E-Commerce","Advertising","Software","Storage","Clean Technology","Communities","File Sharing","Technology","Online Shopping","Curated Web","Enterprise Software","Design","Games","Cloud Computing","Shopping","Entertainment","Transportation","Security","Data Security","Peer-to-Peer","Mobile Payments","Search","Fashion","Facebook Applications","Finance Technology","Consumer Electronics","Analytics","Privacy","Mobile Games","News","Hardware + Software","Retail","Mobile","Location Based Services","Biotechnology"]
@@ -295,7 +295,7 @@ var margin = {top: 15, right: 20, bottom: 20, left: 90},
     width = 700 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-var color = d3.scale.ordinal()
+var uniColor = d3.scale.ordinal()
     .range(["#007b75","#00a48d","#00c9bb","#00ffd5","#89d1c5","#6eccdc","#a8b1c0","#9fd8ef","#b7d2ee","#a4eeda","#99ebae","#bcebae","#9aff84","#00db97","#69e275","#6da16e","#34ed5c","#b9ff53","#daf741","#ffff53","#deff84","#ffff84","#ffb762","#ffffad","#c7a169","#ffb8a8","#ffcec3","#ffaf7f","#ff804f","#d25d00","#c55a3b","#ff5a3b","#fa5300","#fa7600","#DE4000"])
     .domain(["E-Commerce","Advertising","Software","Storage","Clean Technology","Communities","File Sharing","Technology","Online Shopping","Curated Web","Enterprise Software","Design","Games","Cloud Computing","Shopping","Entertainment","Transportation","Security","Data Security","Peer-to-Peer","Mobile Payments","Search","Fashion","Facebook Applications","Finance Technology","Consumer Electronics","Analytics","Privacy","Mobile Games","News","Hardware + Software","Retail","Mobile","Location Based Services","Biotechnology"]);
     // .range(["#a50026","#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850","#006837","#d53e4f","#f46d43","#fdae61","#fee08b","#ffffbf","#e6f598","#abdda4","#66c2a5","#3288bd"]);
@@ -308,7 +308,7 @@ var x = d3.time.scale().range([0, width]);
 var y = d3.scale.linear().range([height, 0]);
 
 // Define the axes
-var xAxis = d3.svg.axis().scale(x)
+var uniXaxis = d3.svg.axis().scale(x)
     .orient("bottom").ticks(5);
 
 var yAxis = d3.svg.axis().scale(y)
@@ -362,14 +362,14 @@ d3.csv("/static/files/investments-unicorns-cumsum.csv", function(error, data) {
         .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
         .attr("cx", function(d) { return x(d.date); })
         .attr("cy", function(d) { return y(d.price); })
-        .attr('fill', function(d) { return color(d.company_market.replace(/ /g,'')); })
+        .attr('fill', function(d) { return uniColor(d.company_market.replace(/ /g,'')); })
         .call(d3.helper.tooltip()
                 .attr("class", "tooltip_css")
                 .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
                 .text(function(d, i){ return 'Company Name: ' + d.company_name + '<br>Round: $'+ d.price; })
             )
         .on('mouseover', function(d, i){ d3.select(this).style({fill: 'skyblue'}); })
-        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return color(d.company_market.replace(/ /g,'')); }})})
+        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return uniColor(d.company_market.replace(/ /g,'')); }})})
         
         // .attr("r", function(d) {return d.number_downloaded*1.5; })
 
@@ -387,7 +387,7 @@ d3.csv("/static/files/investments-unicorns-cumsum.csv", function(error, data) {
         svg.append("path")
             .attr("class", color_market + " line")
             // .attr("class", )
-            .attr("stroke", color(color_market) )
+            .attr("stroke", uniColor(color_market) )
             .attr("d", priceline(d.values))
 
     });
@@ -397,7 +397,7 @@ d3.csv("/static/files/investments-unicorns-cumsum.csv", function(error, data) {
         // .attr("class", "x axis")
         .classed("x axis", true)
         .attr("transform", "translate(0," + height + ")")
-        .call(xAxis);
+        .call(uniXaxis);
 
     // Add the Y Axis
     svg.append("g")
@@ -442,14 +442,14 @@ function updateData(_value) {
         .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
         .attr("cx", function(d) { return x(d.date); })
         .attr("cy", function(d) { return y(d.price); })
-        .attr('fill', function(d) { return color(d.company_market.replace(/ /g,'')); })
+        .attr('fill', function(d) { return uniColor(d.company_market.replace(/ /g,'')); })
         .call(d3.helper.tooltip()
                 .attr("class", "tooltip_css")
                 .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
                 .text(function(d, i){ return 'Company Name: ' + d.company_name + '<br>Round: $'+ d.price; })
             )
         .on('mouseover', function(d, i){ d3.select(this).style({fill: 'skyblue'}); })
-        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return color(d.company_market.replace(/ /g,'')); }})})
+        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return uniColor(d.company_market.replace(/ /g,'')); }})})
 
     // Nest the entries by symbol
     var dataNest = d3.nest()
@@ -466,9 +466,9 @@ function updateData(_value) {
         svg.append("path")
             .attr("class", color_market + " line")
             // .attr("stroke", "green")
-            .attr("stroke", color(color_market) )
-            // .attr("stroke", function (d) { return color(d.values[0].company_market.replace(/ /g,'')); })
-            // .attr("stroke", function (d) { return color(d.company_market.replace(/ /g,'')); })
+            .attr("stroke", uniColor(color_market) )
+            // .attr("stroke", function (d) { return uniColor(d.values[0].company_market.replace(/ /g,'')); })
+            // .attr("stroke", function (d) { return uniColor(d.company_market.replace(/ /g,'')); })
             .attr("d", priceline(d.values)); 
 
 
@@ -479,7 +479,7 @@ function updateData(_value) {
  //        // .attr("class", "x axis")
  //        .classed("x axis", true)
  //        .attr("transform", "translate(0," + height + ")")
- //        .call(xAxis);
+ //        .call(uniXaxis);
 
  //    // Add the Y Axis
  //    svg.append("g")
@@ -533,14 +533,14 @@ function updateline(_value) {
         .attr("r", function(d) { return d.raised_amount_usd*.00000002 })
         .attr("cx", function(d) { return x(d.date); })
         .attr("cy", function(d) { return y(d.price); })
-        .attr('fill', function(d) { return color(d.company_market.replace(/ /g,'')); })
+        .attr('fill', function(d) { return uniColor(d.company_market.replace(/ /g,'')); })
         .call(d3.helper.tooltip()
                 .attr("class", "tooltip_css")
                 .style({color: 'black', background: 'rgba(183, 210, 238, 0.75)', padding: '0.5em', borderradius: '2px'})
                 .text(function(d, i){ return 'Company Name: ' + d.company_name + '<br>Round: $'+ d.price; })
             )
         .on('mouseover', function(d, i){ d3.select(this).style({fill: 'skyblue'}); })
-        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return color(d.company_market.replace(/ /g,'')); }})})
+        .on('mouseout', function(d, i){ d3.select(this).style({fill: function(d) { return uniColor(d.company_market.replace(/ /g,'')); }})})
 
     // Nest the entries by symbol
     var dataNest = d3.nest()
@@ -557,9 +557,9 @@ function updateline(_value) {
         svg.append("path")
             .attr("class", color_market + " line")
             // .attr("stroke", "green")
-            .attr("stroke", color(color_market) )
-            // .attr("stroke", function (d) { return color(d.values[0].company_market.replace(/ /g,'')); })
-            // .attr("stroke", function (d) { return color(d.company_market.replace(/ /g,'')); })
+            .attr("stroke", uniColor(color_market) )
+            // .attr("stroke", function (d) { return uniColor(d.values[0].company_market.replace(/ /g,'')); })
+            // .attr("stroke", function (d) { return uniColor(d.company_market.replace(/ /g,'')); })
             .attr("d", priceline(d.values)); 
 
 
@@ -570,7 +570,7 @@ function updateline(_value) {
  //        // .attr("class", "x axis")
  //        .classed("x axis", true)
  //        .attr("transform", "translate(0," + height + ")")
- //        .call(xAxis);
+ //        .call(uniXaxis);
 
  //    // Add the Y Axis
  //    svg.append("g")

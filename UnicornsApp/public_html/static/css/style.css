@@ -8,6 +8,11 @@ body {
   font-family:'Buenard', serif;
 }
 
+#page_title img{
+  width: 50%;
+
+}
+
 nav .brand-logo {
   color: #2f3939;
 }
@@ -349,7 +354,9 @@ circle {
   color: black;
 }
 
-
+#markets_carlo_cont {
+  padding-top: 30px;
+}
 
 
 

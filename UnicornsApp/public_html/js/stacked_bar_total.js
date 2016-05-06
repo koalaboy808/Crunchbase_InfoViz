@@ -11,11 +11,11 @@ var x = d3.scale.ordinal().rangeRoundBands([0, width], .1);
 
 var y = d3.scale.linear().rangeRound([height, 0]);
 
-var color = d3.scale.ordinal().range(['#ffff53','#ffffad','#ffff84','#deff84','#9aff84','#bcebae','#99ebae','#00db97','#69e275','#34ed5c','#6da16e','#c3a16e','#ffa16e','#00c9bb','#00ffd5','#89d1c5','#6eccdc','#a8b1c0','#9fd8ef','#b7d2ee','#a4eeda','#b9ff53','#daf741','#d25d00','#ff5a3b','#c55a3b','#ffd1c5','#ffb762','#ff8400','#ff804f','#ffb486','#ffbdac','#ff6b02','#007b75','#00a48d']);
+var totbarcolor = d3.scale.ordinal().range(['#ffff53','#ffffad','#ffff84','#deff84','#9aff84','#bcebae','#99ebae','#00db97','#69e275','#34ed5c','#6da16e','#c3a16e','#ffa16e','#00c9bb','#00ffd5','#89d1c5','#6eccdc','#a8b1c0','#9fd8ef','#b7d2ee','#a4eeda','#b9ff53','#daf741','#d25d00','#ff5a3b','#c55a3b','#ffd1c5','#ffb762','#ff8400','#ff804f','#ffb486','#ffbdac','#ff6b02','#007b75','#00a48d']);
 
-var xAxis = d3.svg.axis().scale(x).orient("bottom");
+var totbarXaxis = d3.svg.axis().scale(x).orient("bottom");
 
-var yAxis = d3.svg.axis().scale(y).orient("left").tickFormat(d3.format(".2s"));
+var totbarYaxis = d3.svg.axis().scale(y).orient("left").tickFormat(d3.format(".2s"));
 
 var svg = d3.select("body #total_stack").append("svg").attr("width", width + margin.left + margin.right).attr("height", height + margin.top + margin.bottom).append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -479,14 +479,14 @@ data = [{
         "45 to 64 Years": "147279",
         "65 Years and Over": "65614"
 }]
-color.domain(d3.keys(data[0]).filter(function (key) {
+totbarcolor.domain(d3.keys(data[0]).filter(function (key) {
     return key !== "State";
 }));
 
 data.forEach(function (d) {
     var s0 = 0;
     //also storing state with the ages array
-    d.ages = color.domain().map(function (name) {
+    d.ages = totbarcolor.domain().map(function (name) {
         d.height = 0;
         return {
             name: name,
@@ -507,9 +507,9 @@ y.domain([0, d3.max(data, function (d) {
     return d.total;
 })]);
 
-svg.append("g").attr("class", "x axis").attr("transform", "translate(0," + height + ")").call(xAxis);
+svg.append("g").attr("class", "x axis").attr("transform", "translate(0," + height + ")").call(totbarXaxis);
 
-svg.append("g").attr("class", "y axis").call(yAxis).append("text").attr("transform", "rotate(-90)").attr("y", 6).attr("dy", ".71em").style("text-anchor", "end").text("Population");
+svg.append("g").attr("class", "y axis").call(totbarYaxis).append("text").attr("transform", "rotate(-90)").attr("y", 6).attr("dy", ".71em").style("text-anchor", "end").text("Population");
 
 //Now each g which holds a stack has a class for selection.
 var state = svg.selectAll(".state").data(data).enter().append("g").attr("class", "g").attr("transform", function (d) {
@@ -528,14 +528,14 @@ state.selectAll("rect").data(function (d) {
     d.parent.height += y(d.s0) - y(d.s1);
     return y(d.s0) - y(d.s1);
 }).style("fill", function (d) {
-    return color(d.name);
+    return totbarcolor(d.name);
 });
 
-var legend = svg.selectAll(".legend").data(color.domain().slice().reverse()).enter().append("g").attr("class", "legend").attr("transform", function (d, i) {
+var legend = svg.selectAll(".legend").data(totbarcolor.domain().slice().reverse()).enter().append("g").attr("class", "legend").attr("transform", function (d, i) {
     return "translate(0," + i * 20 + ")";
 });
 
-legend.append("rect").attr("x", width - 18).attr("width", 18).attr("height", 18).style("fill", color);
+legend.append("rect").attr("x", width - 18).attr("width", 18).attr("height", 18).style("fill", totbarcolor);
 
 legend.append("text").attr("x", width - 24).attr("y", 9).attr("dy", ".35em").style("text-anchor", "end").text(function (d) {
     return d;
@@ -574,7 +574,7 @@ function change() {
     });
 
     transition.select(".x.axis")
-        .call(xAxis)
+        .call(totbarXaxis)
         .selectAll("g")
         .delay(delay);
 }
